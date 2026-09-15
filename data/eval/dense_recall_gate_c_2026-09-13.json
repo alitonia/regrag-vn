@@ -1,0 +1,307 @@
+{
+  "timestamp_utc": "2026-09-13T06:41:05+00:00",
+  "gate": "C",
+  "metric": "dense_recall",
+  "retriever_backend": "BAAI/bge-m3",
+  "corpus_source": "tier2_full",
+  "model_id": "BAAI/bge-m3",
+  "corpus_path": "/workspace/rag_eval/data/processed_chunks/corpus_chunks.json",
+  "corpus_chunk_count": 3703,
+  "instrument_count": 22,
+  "gold_path": "/workspace/rag_eval/data/gold/questions_canonical.json",
+  "n_canonical_questions": 88,
+  "n_answerable_scored": 64,
+  "n_probes_excluded": 24,
+  "article_level": {
+    "n_scored": 63,
+    "excluded_ids": [
+      "Q036"
+    ]
+  },
+  "doc_level": {
+    "hits@1": 46,
+    "hits@3": 57,
+    "n": 64,
+    "recall@1": 0.71875,
+    "recall@3": 0.890625
+  },
+  "article_level_hits": {
+    "hits@1": 23,
+    "hits@3": 33,
+    "recall@1": 0.36507936507936506,
+    "recall@3": 0.5238095238095238
+  },
+  "doc_misses_at_k3": [
+    {
+      "question_id": "Q006",
+      "question": "Sau khi ký và công chứng Hợp đồng thế chấp QSDĐ, Chi nhánh ngân hàng tôi phát hiện thông tin ngày cấp GCN trong hợp đồng không trùng với GCN gốc. Với sai sót này, Chi nhánh cần làm việc với Văn phòng công chứng theo hướng xử lý nào?",
+      "gold_doc_ids": [
+        "46/2024/QH15"
+      ],
+      "gold_article_id": "52",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "23/2015/NĐ-CP",
+          "article_id": "39",
+          "doc_title": "Nghị định về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký",
+          "article_title": "Sửa lỗi sai sót trong hợp đồng, giao dịch đã được chứng thực",
+          "score": 0.6003
+        },
+        {
+          "rank": 2,
+          "doc_id": "61/2025/TT-NHNN",
+          "article_id": "19",
+          "doc_title": "Thông tư quy định về mạng lưới hoạt động của ngân hàng thương mại",
+          "article_title": "Thay đổi địa điểm đặt trụ sở chỉ nhánh ở trong nước, phòng",
+          "score": 0.5882
+        },
+        {
+          "rank": 3,
+          "doc_id": "32/2024/QH15",
+          "article_id": "210",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 2 of 2)",
+          "article_title": "Quy định chuyển tiếp",
+          "score": 0.5872
+        }
+      ]
+    },
+    {
+      "question_id": "Q008",
+      "question": "Theo quy định quản lý ngoại hối, có bắt buộc người nước ngoài phải sở hữu đồng thời cả thẻ tạm trú và giấy phép lao động thì mới được phép chuyển các khoản thu nhập hợp pháp tại Việt Nam ra nước ngoài hay không?",
+      "gold_doc_ids": [
+        "47/2014/QH13"
+      ],
+      "gold_article_id": "3",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "70/2014/NĐ-CP",
+          "article_id": "5",
+          "doc_title": "Nghị định quy định chi tiết thi hành một số điều của Pháp lệnh Ngoại hối",
+          "article_title": "Thanh toán và chuyến tiền liên quan đến xuất khẩu, nhập",
+          "score": 0.7009
+        },
+        {
+          "rank": 2,
+          "doc_id": "06/2013/UBTVQH13",
+          "article_id": "1",
+          "doc_title": "Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Ngoại hối",
+          "article_title": "Sửa đôi, bô sung một sô điêu của Pháp lệnh ngoại hôi:",
+          "score": 0.6987
+        },
+        {
+          "rank": 3,
+          "doc_id": "06/2013/UBTVQH13",
+          "article_id": "1",
+          "doc_title": "Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Ngoại hối",
+          "article_title": "Sửa đôi, bô sung một sô điêu của Pháp lệnh ngoại hôi:",
+          "score": 0.6887
+        }
+      ]
+    },
+    {
+      "question_id": "Q011",
+      "question": "Vốn pháp định tối thiểu của ngân hàng thương mại theo Luật TCTD 2024 là bao nhiêu?",
+      "gold_doc_ids": [
+        "32/2024/QH15"
+      ],
+      "gold_article_id": "20",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "61/2025/TT-NHNN",
+          "article_id": "35",
+          "doc_title": "Thông tư quy định về mạng lưới hoạt động của ngân hàng thương mại",
+          "article_title": "Trách nhiệm của ngân hàng thương mại",
+          "score": 0.6618
+        },
+        {
+          "rank": 2,
+          "doc_id": "61/2025/TT-NHNN",
+          "article_id": "14",
+          "doc_title": "Thông tư quy định về mạng lưới hoạt động của ngân hàng thương mại",
+          "article_title": ", Điều 30 Thông tư này ‹ đối với các trường hợp thuộc thấm quyên của Cục",
+          "score": 0.6594
+        },
+        {
+          "rank": 3,
+          "doc_id": "61/2025/TT-NHNN",
+          "article_id": "7",
+          "doc_title": "Thông tư quy định về mạng lưới hoạt động của ngân hàng thương mại",
+          "article_title": "Công thức xác định tông số lượng chỉ nhánh, phòng giao dịch",
+          "score": 0.6504
+        }
+      ]
+    },
+    {
+      "question_id": "Q036",
+      "question": "Vốn cấp 2 tối đa bằng bao nhiêu % vốn cấp 1?",
+      "gold_doc_ids": [
+        "41/2016/TT-NHNN"
+      ],
+      "gold_article_id": null,
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "32/2024/QH15",
+          "article_id": "136",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 2 of 2)",
+          "article_title": "Giới hạn cấp tín dụng",
+          "score": 0.6348
+        },
+        {
+          "rank": 2,
+          "doc_id": "32/2024/QH15",
+          "article_id": "135",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 2 of 2)",
+          "article_title": "Hạn chế cấp tín dụng",
+          "score": 0.6268
+        },
+        {
+          "rank": 3,
+          "doc_id": "22/2023/TT-NHNN",
+          "article_id": "4",
+          "doc_title": "Thông tư sửa đổi, bổ sung một số điều của Thông tư 41/2016/TT-NHNN",
+          "article_title": "Hiệu lực thi hành",
+          "score": 0.6247
+        }
+      ]
+    },
+    {
+      "question_id": "Q046",
+      "question": "Ngân hàng được phép có trách nhiệm gì khi quản lý TKĐTTT?",
+      "gold_doc_ids": [
+        "06/2019/TT-NHNN"
+      ],
+      "gold_article_id": "11",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "61/2025/TT-NHNN",
+          "article_id": "37",
+          "doc_title": "Thông tư quy định về mạng lưới hoạt động của ngân hàng thương mại",
+          "article_title": "Trách nhiệm của Cục Quản lý, giám sát tô chức tín dụng",
+          "score": 0.6633
+        },
+        {
+          "rank": 2,
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "9",
+          "doc_title": "Thông tư quy định việc mở và sử dụng tài khoản thanh toán tại tổ chức cung ứng dịch vụ thanh toán",
+          "article_title": "Sử dụng tài khoản thanh toán mở tại Ngân hàng Nhà nước",
+          "score": 0.6473
+        },
+        {
+          "rank": 3,
+          "doc_id": "61/2025/TT-NHNN",
+          "article_id": "35",
+          "doc_title": "Thông tư quy định về mạng lưới hoạt động của ngân hàng thương mại",
+          "article_title": "Trách nhiệm của ngân hàng thương mại",
+          "score": 0.6408
+        }
+      ]
+    },
+    {
+      "question_id": "Q047",
+      "question": "Ngoại tệ trên TKĐTTT có được bán cho ngân hàng không?",
+      "gold_doc_ids": [
+        "06/2019/TT-NHNN"
+      ],
+      "gold_article_id": "6",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "32/2024/QH15",
+          "article_id": "109",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 1 of 2)",
+          "article_title": "Mở tài khoản của ngân hàng thương mại",
+          "score": 0.6913
+        },
+        {
+          "rank": 2,
+          "doc_id": "32/2024/QH15",
+          "article_id": "112",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 1 of 2)",
+          "article_title": "Kinh doanh ngoại hối, cung ứng dịch vụ ngoại hối và sản phẩm",
+          "score": 0.6847
+        },
+        {
+          "rank": 3,
+          "doc_id": "21/2017/TT-NHNN",
+          "article_id": "7",
+          "doc_title": "Thông tư quy định về phương thức giải ngân vốn cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng",
+          "article_title": "Việc áp dụng phương thức giải ngân vốn cho vay đối với một số",
+          "score": 0.6825
+        }
+      ]
+    },
+    {
+      "question_id": "Q061",
+      "question": "Để phối hợp chặt chẽ với các Đối tác (chủ đầu tư bất động sản, showroom ô tô, ...) trong hoạt động cho vay đối với KH mua sản phẩm của Đối tác, Đơn vị mong muốn ký hợp đồng thuê một diện tích mặt bằng nhỏ tại Đối tác, cán bộ của TPBank sẽ đến địa điểm này để tư vấn, giới thiệu sản phẩm cho vay của TPBank, thu thập, xử lý hồ sơ vay vốn cho Khách hàng. Đơn vị muốn hỏi, dự định triển khai như của Đơn vị nêu trên có vướng mắc gì về pháp lý hay không?",
+      "gold_doc_ids": [
+        "61/2025/TT-NHNN",
+        "276/2017/NHNN-TTGSNH"
+      ],
+      "gold_article_id": "3",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "32/2024/QH15",
+          "article_id": "120",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 1 of 2)",
+          "article_title": "Hoạt động ngân hàng của công ty tài chính chuyên ngành",
+          "score": 0.6294
+        },
+        {
+          "rank": 2,
+          "doc_id": "32/2024/QH15",
+          "article_id": "130",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 1 of 2)",
+          "article_title": "Hoạt động kinh doanh khác của tổ chức tài chính vi mô",
+          "score": 0.6256
+        },
+        {
+          "rank": 3,
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "23",
+          "doc_title": "Thông tư quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+          "article_title": "Thỏa thuận cho vay",
+          "score": 0.6114
+        }
+      ]
+    }
+  ],
+  "article_miss_ids_at_k3": [
+    "Q006",
+    "Q007",
+    "Q008",
+    "Q010",
+    "Q011",
+    "Q014",
+    "Q021",
+    "Q023",
+    "Q025",
+    "Q026",
+    "Q027",
+    "Q028",
+    "Q033",
+    "Q039",
+    "Q042",
+    "Q043",
+    "Q044",
+    "Q045",
+    "Q046",
+    "Q047",
+    "Q048",
+    "Q049",
+    "Q050",
+    "Q058",
+    "Q059",
+    "Q060",
+    "Q061",
+    "Q062",
+    "Q063",
+    "Q065"
+  ]
+}

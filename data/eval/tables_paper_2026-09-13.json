@@ -1,0 +1,541 @@
+{
+  "scorer": "regrag-lexical-v1",
+  "metric_status": "unvalidated (aggregated strict=False)",
+  "corpus_source": "tier1_passages",
+  "generated_utc": "2026-09-13T05:54:41.301217+00:00",
+  "gold": {
+    "questions": 88,
+    "answerable": 64,
+    "probes": 24,
+    "clause_gold": 40
+  },
+  "models": [
+    "qwen-3b",
+    "qwen-7b",
+    "vistral-7b"
+  ],
+  "table1_by_model_mode": {
+    "qwen-3b::closed_book": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.75,
+      "groundedness_mean": null,
+      "groundedness_assessable_rows": 0,
+      "probe_abstention_rate": 0.0,
+      "probe_abstained": 0,
+      "probe_answered": 24,
+      "false_abstention_rate": 0.0156,
+      "false_abstentions": 1,
+      "hedged_then_answered": 48,
+      "citation_precision": 0.0,
+      "citation_recall": 0.0,
+      "citation_f1": 0.0,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.0,
+      "citation_unfaithfulness_rows": 48,
+      "hallucination_types_answerable": {
+        "NON_COVERING_PROVISION": 46,
+        "WRONG_INSTRUMENT": 35,
+        "UNSUPPORTED_BY_GOLD": 17,
+        "NUMERIC_THRESHOLD_MISMATCH": 10,
+        "UNCITED_ASSERTION": 2
+      }
+    },
+    "qwen-3b::rag_bm25": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.4688,
+      "groundedness_mean": 0.9499,
+      "groundedness_assessable_rows": 78,
+      "probe_abstention_rate": 0.0,
+      "probe_abstained": 0,
+      "probe_answered": 24,
+      "false_abstention_rate": 0.1562,
+      "false_abstentions": 10,
+      "hedged_then_answered": 47,
+      "citation_precision": 0.2857,
+      "citation_recall": 0.3492,
+      "citation_f1": 0.3143,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.375,
+      "citation_unfaithfulness_rows": 29,
+      "hallucination_types_answerable": {
+        "UNSUPPORTED_BY_GOLD": 9,
+        "NUMERIC_THRESHOLD_MISMATCH": 1,
+        "UNCITED_ASSERTION": 4,
+        "NON_COVERING_PROVISION": 24,
+        "WRONG_INSTRUMENT": 8,
+        "UNSUPPORTED_CLAIM": 1,
+        "CONTRADICTS_CONTEXT": 1
+      }
+    },
+    "qwen-3b::rag_dense": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.4219,
+      "groundedness_mean": 0.9158,
+      "groundedness_assessable_rows": 81,
+      "probe_abstention_rate": 0.125,
+      "probe_abstained": 3,
+      "probe_answered": 21,
+      "false_abstention_rate": 0.0625,
+      "false_abstentions": 4,
+      "hedged_then_answered": 45,
+      "citation_precision": 0.3836,
+      "citation_recall": 0.4603,
+      "citation_f1": 0.4185,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.35,
+      "citation_unfaithfulness_rows": 25,
+      "hallucination_types_answerable": {
+        "NON_COVERING_PROVISION": 21,
+        "CONTRADICTS_CONTEXT": 3,
+        "NUMERIC_THRESHOLD_MISMATCH": 4,
+        "UNSUPPORTED_BY_GOLD": 9,
+        "WRONG_INSTRUMENT": 7,
+        "UNCITED_ASSERTION": 2,
+        "UNSUPPORTED_CLAIM": 2
+      }
+    },
+    "qwen-7b::closed_book": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.4375,
+      "groundedness_mean": null,
+      "groundedness_assessable_rows": 0,
+      "probe_abstention_rate": 0.0417,
+      "probe_abstained": 1,
+      "probe_answered": 23,
+      "false_abstention_rate": 0.0,
+      "false_abstentions": 0,
+      "hedged_then_answered": 65,
+      "citation_precision": 0.0159,
+      "citation_recall": 0.0159,
+      "citation_f1": 0.0159,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.025,
+      "citation_unfaithfulness_rows": 28,
+      "hallucination_types_answerable": {
+        "UNSUPPORTED_BY_GOLD": 8,
+        "NUMERIC_THRESHOLD_MISMATCH": 2,
+        "UNCITED_ASSERTION": 7,
+        "NON_COVERING_PROVISION": 21,
+        "WRONG_INSTRUMENT": 20
+      }
+    },
+    "qwen-7b::rag_bm25": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.3438,
+      "groundedness_mean": 0.9848,
+      "groundedness_assessable_rows": 60,
+      "probe_abstention_rate": 0.5,
+      "probe_abstained": 12,
+      "probe_answered": 12,
+      "false_abstention_rate": 0.25,
+      "false_abstentions": 16,
+      "hedged_then_answered": 33,
+      "citation_precision": 0.3175,
+      "citation_recall": 0.3492,
+      "citation_f1": 0.3326,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.325,
+      "citation_unfaithfulness_rows": 22,
+      "hallucination_types_answerable": {
+        "NUMERIC_THRESHOLD_MISMATCH": 6,
+        "UNSUPPORTED_BY_GOLD": 9,
+        "UNSUPPORTED_CLAIM": 1,
+        "WRONG_INSTRUMENT": 4,
+        "NON_COVERING_PROVISION": 13,
+        "CONTRADICTS_CONTEXT": 1,
+        "UNCITED_ASSERTION": 2
+      }
+    },
+    "qwen-7b::rag_dense": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.3125,
+      "groundedness_mean": 0.9511,
+      "groundedness_assessable_rows": 64,
+      "probe_abstention_rate": 0.375,
+      "probe_abstained": 9,
+      "probe_answered": 15,
+      "false_abstention_rate": 0.2344,
+      "false_abstentions": 15,
+      "hedged_then_answered": 28,
+      "citation_precision": 0.4308,
+      "citation_recall": 0.4762,
+      "citation_f1": 0.4524,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.35,
+      "citation_unfaithfulness_rows": 20,
+      "hallucination_types_answerable": {
+        "UNSUPPORTED_CLAIM": 2,
+        "UNSUPPORTED_BY_GOLD": 11,
+        "UNCITED_ASSERTION": 3,
+        "NUMERIC_THRESHOLD_MISMATCH": 6,
+        "NON_COVERING_PROVISION": 11,
+        "CONTRADICTS_CONTEXT": 1,
+        "WRONG_INSTRUMENT": 2
+      }
+    },
+    "vistral-7b::closed_book": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.625,
+      "groundedness_mean": null,
+      "groundedness_assessable_rows": 0,
+      "probe_abstention_rate": 0.0,
+      "probe_abstained": 0,
+      "probe_answered": 24,
+      "false_abstention_rate": 0.0,
+      "false_abstentions": 0,
+      "hedged_then_answered": 2,
+      "citation_precision": 0.0,
+      "citation_recall": 0.0,
+      "citation_f1": 0.0,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.0,
+      "citation_unfaithfulness_rows": 40,
+      "hallucination_types_answerable": {
+        "NON_COVERING_PROVISION": 35,
+        "WRONG_INSTRUMENT": 21,
+        "UNSUPPORTED_BY_GOLD": 18,
+        "NUMERIC_THRESHOLD_MISMATCH": 9,
+        "UNCITED_ASSERTION": 5
+      }
+    },
+    "vistral-7b::rag_bm25": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.6719,
+      "groundedness_mean": 0.9116,
+      "groundedness_assessable_rows": 86,
+      "probe_abstention_rate": 0.0,
+      "probe_abstained": 0,
+      "probe_answered": 24,
+      "false_abstention_rate": 0.0312,
+      "false_abstentions": 2,
+      "hedged_then_answered": 17,
+      "citation_precision": 0.2765,
+      "citation_recall": 0.3651,
+      "citation_f1": 0.3147,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.2,
+      "citation_unfaithfulness_rows": 43,
+      "hallucination_types_answerable": {
+        "NON_COVERING_PROVISION": 34,
+        "WRONG_INSTRUMENT": 22,
+        "UNSUPPORTED_BY_GOLD": 13,
+        "NUMERIC_THRESHOLD_MISMATCH": 5,
+        "CONTRADICTS_CONTEXT": 2,
+        "UNCITED_ASSERTION": 2
+      }
+    },
+    "vistral-7b::rag_dense": {
+      "rows": 88,
+      "answerable": 64,
+      "probes": 24,
+      "hallucination_rate_answerable": 0.5938,
+      "groundedness_mean": 0.9393,
+      "groundedness_assessable_rows": 88,
+      "probe_abstention_rate": 0.0,
+      "probe_abstained": 0,
+      "probe_answered": 24,
+      "false_abstention_rate": 0.0,
+      "false_abstentions": 0,
+      "hedged_then_answered": 17,
+      "citation_precision": 0.3823,
+      "citation_recall": 0.4921,
+      "citation_f1": 0.4303,
+      "citation_scorable_rows": 63,
+      "citation_unscorable_rows": 1,
+      "clause_gold_rows": 40,
+      "clause_accuracy": 0.25,
+      "citation_unfaithfulness_rows": 38,
+      "hallucination_types_answerable": {
+        "NON_COVERING_PROVISION": 32,
+        "WRONG_INSTRUMENT": 12,
+        "CONTRADICTS_CONTEXT": 3,
+        "NUMERIC_THRESHOLD_MISMATCH": 7,
+        "UNSUPPORTED_BY_GOLD": 10,
+        "UNCITED_ASSERTION": 1
+      }
+    }
+  },
+  "table2_by_mode_pooled": {
+    "closed_book": {
+      "rows": 264,
+      "answerable": 192,
+      "probes": 72,
+      "hallucination_rate_answerable": 0.6042,
+      "groundedness_mean": null,
+      "groundedness_assessable_rows": 0,
+      "probe_abstention_rate": 0.0139,
+      "probe_abstained": 1,
+      "probe_answered": 71,
+      "false_abstention_rate": 0.0052,
+      "false_abstentions": 1,
+      "hedged_then_answered": 115,
+      "citation_precision": 0.0053,
+      "citation_recall": 0.0053,
+      "citation_f1": 0.0053,
+      "citation_scorable_rows": 189,
+      "citation_unscorable_rows": 3,
+      "clause_gold_rows": 120,
+      "clause_accuracy": 0.0083,
+      "citation_unfaithfulness_rows": 116,
+      "hallucination_types_answerable": {
+        "UNSUPPORTED_BY_GOLD": 43,
+        "NUMERIC_THRESHOLD_MISMATCH": 21,
+        "UNCITED_ASSERTION": 14,
+        "NON_COVERING_PROVISION": 102,
+        "WRONG_INSTRUMENT": 76
+      }
+    },
+    "rag_bm25": {
+      "rows": 264,
+      "answerable": 192,
+      "probes": 72,
+      "hallucination_rate_answerable": 0.4948,
+      "groundedness_mean": 0.9446,
+      "groundedness_assessable_rows": 224,
+      "probe_abstention_rate": 0.1667,
+      "probe_abstained": 12,
+      "probe_answered": 60,
+      "false_abstention_rate": 0.1458,
+      "false_abstentions": 28,
+      "hedged_then_answered": 97,
+      "citation_precision": 0.2932,
+      "citation_recall": 0.3545,
+      "citation_f1": 0.3209,
+      "citation_scorable_rows": 189,
+      "citation_unscorable_rows": 3,
+      "clause_gold_rows": 120,
+      "clause_accuracy": 0.3,
+      "citation_unfaithfulness_rows": 94,
+      "hallucination_types_answerable": {
+        "NUMERIC_THRESHOLD_MISMATCH": 12,
+        "UNSUPPORTED_BY_GOLD": 31,
+        "UNSUPPORTED_CLAIM": 2,
+        "WRONG_INSTRUMENT": 34,
+        "NON_COVERING_PROVISION": 71,
+        "CONTRADICTS_CONTEXT": 4,
+        "UNCITED_ASSERTION": 8
+      }
+    },
+    "rag_dense": {
+      "rows": 264,
+      "answerable": 192,
+      "probes": 72,
+      "hallucination_rate_answerable": 0.4427,
+      "groundedness_mean": 0.9344,
+      "groundedness_assessable_rows": 233,
+      "probe_abstention_rate": 0.1667,
+      "probe_abstained": 12,
+      "probe_answered": 60,
+      "false_abstention_rate": 0.099,
+      "false_abstentions": 19,
+      "hedged_then_answered": 90,
+      "citation_precision": 0.3989,
+      "citation_recall": 0.4762,
+      "citation_f1": 0.4341,
+      "citation_scorable_rows": 189,
+      "citation_unscorable_rows": 3,
+      "clause_gold_rows": 120,
+      "clause_accuracy": 0.3167,
+      "citation_unfaithfulness_rows": 83,
+      "hallucination_types_answerable": {
+        "UNSUPPORTED_CLAIM": 4,
+        "UNSUPPORTED_BY_GOLD": 30,
+        "UNCITED_ASSERTION": 6,
+        "NUMERIC_THRESHOLD_MISMATCH": 17,
+        "NON_COVERING_PROVISION": 64,
+        "CONTRADICTS_CONTEXT": 7,
+        "WRONG_INSTRUMENT": 21
+      }
+    }
+  },
+  "tier1_rag_arm_identical_answers": {
+    "identical": 45,
+    "of": 264
+  },
+  "campaign_provenance": {
+    "gpu_names": [
+      "NVIDIA GeForce RTX 3090"
+    ],
+    "generation_backend": [
+      "transformers-4bit"
+    ],
+    "quant_config": [
+      "bnb-4bit-nf4+float16"
+    ],
+    "hf_model_ids": [
+      "Qwen/Qwen2.5-3B-Instruct",
+      "Qwen/Qwen2.5-7B-Instruct",
+      "Viet-Mistral/Vistral-7B-Chat"
+    ],
+    "finish_reasons": {
+      "stop": 709,
+      "length": 83
+    },
+    "prompt_exact_true": 792,
+    "corpus_paths": [
+      "/workspace/rag_eval/data/processed_chunks/tier1_chunks.json"
+    ],
+    "generated_at": [
+      "2026-09-12T18:55:44+00:00",
+      "2026-09-13T05:05:14+00:00"
+    ],
+    "latency_s_mean_by_model_mode": {
+      "qwen-3b::closed_book": 10.2109,
+      "qwen-3b::rag_bm25": 8.3513,
+      "qwen-3b::rag_dense": 9.3935,
+      "qwen-7b::closed_book": 7.5524,
+      "qwen-7b::rag_bm25": 4.9253,
+      "qwen-7b::rag_dense": 5.4821,
+      "vistral-7b::closed_book": 21.1646,
+      "vistral-7b::rag_bm25": 164.072,
+      "vistral-7b::rag_dense": 175.4115
+    },
+    "rag_context": {
+      "rows_stamped": 528,
+      "truncated_rows": 447,
+      "dropped_rows": 240,
+      "mean_chars": 6629.2614,
+      "max_chars": 7085
+    }
+  },
+  "narrative_examples": [
+    {
+      "types": [
+        "NON_COVERING_PROVISION",
+        "WRONG_INSTRUMENT"
+      ],
+      "question_id": "Q006",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "correctness_score": 1.0,
+      "gold_citation": {
+        "doc_id": "46/2024/QH15",
+        "article_id": "52",
+        "clause_id": "4",
+        "confidence": "passage-header"
+      },
+      "extracted_citations": [
+        {
+          "doc_id": "91/2015/QH13",
+          "article_id": "405",
+          "clause_id": null
+        }
+      ],
+      "answer_text": "Trả lời: Cần làm việc với Văn phòng công chứng để xác minh và điều chỉnh thông tin trong hợp đồng.\n\nCăn cứ pháp lý:\n- Điều 405 Bộ Luật Dân sự năm 2015: \"Hợp đồng phải ghi rõ các nội dung sau đây: ... - Thời hạn hiệu lực của hợp đồng; - Các điều kiện, nghĩa vụ của các bên tham gia hợp đồng; - Các điều kiện, nghĩa vụ của bên thứ ba liên quan đến hợp đồng; - Các điều kiện, nghĩa vụ của người đại diện theo pháp luật, người quản lý doanh nghiệp, người đại diện theo ủy quyền; - Các điều kiện, nghĩa vụ của người bảo lãnh; - Các điều kiện, nghĩa vụ của người bảo hiểm; - Các điều kiện, nghĩa vụ của người bảo hộ; - Các điều kiện, nghĩa vụ của người giám hộ; - Các điều kiện, nghĩa vụ của người thừa kế; - Các điều kiện, nghĩa vụ của người thừa kế hợp pháp; - Các điều kiện, nghĩa vụ của người thừa kế hợp pháp; - Các điều kiện, nghĩa vụ của người thừa kế hợp pháp; - Các điều kiện, nghĩa vụ của người t"
+    },
+    {
+      "types": [
+        "NON_COVERING_PROVISION",
+        "WRONG_INSTRUMENT"
+      ],
+      "question_id": "Q007",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "correctness_score": 1.0,
+      "gold_citation": {
+        "doc_id": "23/2015/NĐ-CP",
+        "article_id": "18",
+        "clause_id": null,
+        "confidence": "passage-header"
+      },
+      "extracted_citations": [
+        {
+          "doc_id": "36/2021/TT-NHNN",
+          "article_id": "79",
+          "clause_id": null
+        },
+        {
+          "doc_id": "UNKNOWN",
+          "article_id": "11",
+          "clause_id": null
+        }
+      ],
+      "answer_text": "Trả lời: Theo quy định hiện hành, trường hợp khách hàng đến ngân hàng VPBank tất toán sổ tiết kiệm đúng hạn nhưng ký không giống chữ ký mẫu đã đăng ký do quên chữ ký cũ hoặc ký bị run tay vì sức khỏe, ngân hàng cần xử lý như sau:\n\n1. Ngân hàng VPBank cần xác minh thông tin của khách hàng để đảm bảo đây là khách hàng chính chủ. Việc xác minh có thể bao gồm việc yêu cầu khách hàng cung cấp thêm thông tin cá nhân, chứng minh thư nhân dân, hoặc các tài liệu khác liên quan.\n\n2. Nếu xác minh được rằng đây là khách hàng chính chủ, ngân hàng cần liên hệ với khách hàng để giải thích về quy định về chữ ký và yêu cầu khách hàng ký lại theo mẫu chữ ký đã đăng ký.\n\n3. Nếu khách hàng đồng ý ký lại, ngân hàng cần lưu giữ hồ sơ giao dịch và chữ ký mới của khách hàng theo quy định.\n\n4. Nếu khách hàng không đồng ý ký lại hoặc không thể ký lại do lý do sức khỏe, ngân hàng cần xem xét các biện pháp khác như"
+    },
+    {
+      "types": [
+        "NON_COVERING_PROVISION",
+        "WRONG_INSTRUMENT"
+      ],
+      "question_id": "Q008",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "correctness_score": 1.0,
+      "gold_citation": {
+        "doc_id": "47/2014/QH13",
+        "article_id": "3",
+        "clause_id": "1",
+        "confidence": "passage-header"
+      },
+      "extracted_citations": [
+        {
+          "doc_id": "02/2021/NĐ-CP",
+          "article_id": "14",
+          "clause_id": null
+        },
+        {
+          "doc_id": "02/2021/NĐ-CP",
+          "article_id": "15",
+          "clause_id": null
+        }
+      ],
+      "answer_text": "THÔNG TIN KHÔNG CÓ TRONG TÀI LIỆU.\n\nGiải thích: Theo quy định hiện hành của Ngân hàng Nhà nước Việt Nam về quản lý ngoại hối, việc chuyển tiền ra nước ngoài của người nước ngoài không phụ thuộc vào việc họ có thẻ tạm trú và giấy phép lao động hay không. Quy định cụ thể về việc chuyển tiền ra nước ngoài của người nước ngoài được quy định trong Nghị định 02/2021/NĐ-CP của Chính phủ về quản lý ngoại hối và thanh toán quốc tế, cụ thể:\n\n- Điều 14: Quy định về việc chuyển tiền ra nước ngoài của cá nhân, tổ chức.\n\n- Điều 15: Quy định về việc chuyển tiền ra nước ngoài của người nước ngoài.\n\nTheo đó, người nước ngoài có thể chuyển tiền ra nước ngoài nếu đáp ứng các điều kiện và thủ tục theo quy định của pháp luật Việt Nam, không cần đồng thời sở hữu cả thẻ tạm trú và giấy phép lao động."
+    },
+    {
+      "types": [
+        "UNCITED_ASSERTION"
+      ],
+      "question_id": "Q036",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_bm25",
+      "correctness_score": 1.0,
+      "gold_citation": null,
+      "extracted_citations": [],
+      "answer_text": "Vốn cấp 2 tối đa bằng 100% vốn cấp 1.\n\nCăn cứ vào thông tin trong tài liệu tham khảo [1], cụ thể là Phụ lục 1, Phần A, mục I, có quy định: \"Giá trị vốn cấp 2 tối đa bằng vốn cấp 1 (VỐN CẤP 2 (B) = B1 - B2 - 20)\". Điều này có nghĩa là VỐN CẤP 2 không được vượt quá giá trị của VỐN CẤP 1."
+    },
+    {
+      "types": [
+        "UNCITED_ASSERTION"
+      ],
+      "question_id": "Q036",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_dense",
+      "correctness_score": 1.0,
+      "gold_citation": null,
+      "extracted_citations": [],
+      "answer_text": "Vốn cấp 2 tối đa bằng 100% vốn cấp 1.\n\nCăn cứ vào thông tin trong tài liệu tham khảo [1], cụ thể là Điều . của Phụ lục 1, Phần A, mục I, có ghi rõ: \"Giá trị vốn cấp 2 tối đa bằng vốn cấp 1 (VỐN CẤP 2 (B) = B1 - B2 - 20)\". Trong đó, B1 đại diện cho vốn cấp 1 và B2 là vốn cấp 2, do đó ta có thể kết luận rằng vốn cấp 2 tối đa bằng vốn cấp 1."
+    }
+  ]
+}

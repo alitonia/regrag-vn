@@ -1,0 +1,31 @@
+[
+  {
+    "id": "Q001",
+    "question": "Hạn mức rút ngoại tệ tiền mặt tại nước ngoài đối với một thẻ ngân hàng được quy định tối đa bao nhiêu trong một ngày?",
+    "is_answerable": true,
+    "category": "factual",
+    "gold_doc_ids": ["18/2024/TT-NHNN"],
+    "gold_citations": [
+      {
+        "doc_id": "18/2024/TT-NHNN",
+        "article_id": "14",
+        "clause_id": "2",
+        "point_id": null
+      }
+    ],
+    "reference_answer": "Hạn mức rút ngoại tệ tiền mặt tại nước ngoài cho một thẻ tối đa tương đương 30 triệu đồng Việt Nam trong một ngày.",
+    "annotator_1_rating": "valid",
+    "annotator_2_rating": "valid"
+  },
+  {
+    "id": "Q002",
+    "question": "Quy định về thời hạn cấp phép cho hoạt động phát hành tiền mã hóa tại Việt Nam theo Thông tư 18/2024/TT-NHNN là bao nhiêu ngày?",
+    "is_answerable": false,
+    "category": "unanswerable",
+    "gold_doc_ids": [],
+    "gold_citations": [],
+    "reference_answer": "THÔNG TIN KHÔNG CÓ TRONG TÀI LIỆU (Pháp luật ngân hàng Việt Nam và Thông tư 18/2024/TT-NHNN hiện không điều chỉnh việc cấp phép phát hành tiền mã hóa).",
+    "annotator_1_rating": "unanswerable",
+    "annotator_2_rating": "unanswerable"
+  }
+]

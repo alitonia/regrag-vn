@@ -1,0 +1,2725 @@
+<!-- provenance: ocr
+     source_file: 22_2023_TT_NHNN.pdf
+     extraction: ocr:tesseract-5.3.4-vie:300dpi
+     pages: 50
+     prior_text_layer: corrupt-text-layer
+     ocr_viet_ratio: 0.2807
+     ocr_dieu_hits: 39
+     NOTE: OCR output is not a born-digital text layer. Matches against it
+     must be classified 'ocr', never 'strict'. -->
+SAOY
+Ngân hàng Nhà nước Việt Nam
+Thời gian ký: 03/01/2024 13:59:57 +07:00
+
+NGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆT NAM Độc lập - Tự do - Hạnh phúc
+Số: 22 /2023/TT-NHNN Hà Nội, ngày 2 tháng 4Ã năm 2023
+THÔNG TƯ
+
+Sửa đổi, bổ sung một số điều của Thông tư số 41/2016/TT-NHNN ngày 30
+tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định
+tỷ lệ an toàn vốn đối với ngân hàng, chỉ nhánh ngân hàng nước ngoài
+
+Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;
+
+__ Căn cứ Luật Các tồ chức tín dụng ngày ló tháng 6 năm 2010 và Luật sửa đổi,
+bồ sưng một số điều của Luật Các tô chức tín dụng ngày 20 tháng lÌ năm 2017;
+
+Căn cứ Nghị định số 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 của
+Chính phủ quy định chức năng, nhiệm vụ, quyên hạn và cơ cấu tô chức của Ngân
+hàng Nhà nước Việt Nam;
+
+Theo đề nghị của Chánh Thanh tra, giám sát ngân hàng;
+
+Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư sửa đổi, bô
+sung một số điêu của Thông tư số 41/2016/TT-NHNN ngày 30 tháng 12 năm 2016
+của Thống đốc Ngân hàng Nhà nước Việt Nam quy định tỷ lệ an toàn vốn đôi với
+ngân hàng, chỉ nhánh ngân hàng nước ngoài.
+
+Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số 41/2016/TT-
+NHNN
+
+1. Sửa đổi, bỗ sung khoản 1l Điều 2 như sau:
+
+“11. Khoản cho vay thế chấp nhà là khoản cho vay bảo đảm bằng bất động
+sản đối với cá nhân đê mua nhà, bao gôm:
+
+a) Khoản cho vay bảo đảm bằng bất động sản đối với cá nhân đề mua nhà
+đáp ứng các điêu kiện sau:
+
+ï) Nguồn tiền trả nợ không phải là nguồn tiền cho thuê nhà hình thành từ
+khoản cho vay;
+
+ii) Nhà đã được hoàn thành để bàn giao theo hợp đồng mua bán nhà;
+
+1i) Ngân hàng, chỉ nhánh ngân hàng nước ngoài có đầy đủ quyền hợp pháp
+đê xử lý nhà thế châp khi khách hàng không trả được nợ theo quy định của pháp
+luật về giao dịch đảm bảo và pháp luật vê nhà ở;
+
+2
+
+¡v) Nhà hình thành từ khoản cho vay thế chấp này phải được định giá độc lập
+(được bên thứ ba định giá hoặc được bộ phận độc lập với bộ phận phê duyệt tín
+dụng của ngân hàng, chi nhánh ngân hàng nước ngoài định giá) với nguyên tắc thận
+trọng (giá trị không cao hơn giá thị trường tại thời điểm xét duyệt.cho vay) theo
+quy định của ngân hàng, chi nhánh ngân hàng nước ngoài.
+
+b) Khoản cho vay để mua nhà ở xã hội, mua nhà ở theo các chương trình, dự
+
+án hỗ trợ của Chính phủ được xác định theo quy định của pháp luật vê nhà ở đáp
+ứng các điều kiện tại các điểm a(1), a(11), a(v) khoản này.”
+
+2. Sửa đôi, bô sung điểm c khoản 12 Điều 2 như sau:
+
+“e) Ngân hàng, chi nhánh ngân hàng nước ngoài có quyền theo hợp đồng cấp
+tín dụng đề kiểm soát toàn bộ việc thanh toán, giải ngân theo tiến độ của dự án, đầu
+tư máy móc, thiết bị, mua hàng hóa và quản lý thu nhập, dòng tiền của việc kinh
+doanh, khai thác dự án, máy móc, thiết bị và hàng hóa đó để thu hồi nợ theo hợp
+đồng cấp tín dụng:”
+
+3. Sửa đối, bỗ sung khoản 15 Điều 2 như sau:
+
+“15. Giao dịch Reverse Repo là giao dịch trong đó một bên mua và nhận
+chuyên giao quyền sở hữu tài sản tài chính từ một bên khác, đồng thời cam kết sẽ
+bán lại và chuyên giao quyền sở hữu tài sản tài chính đó sau một thời gian xác định
+với một mức giá xác định, bao gồm cả giao dịch mua có kỳ hạn công cụ chuyển
+nhượng, giấy tờ có giá khác theo quy định của Ngân hàng Nhà nước vê hoạt động
+chiết khấu công cụ chuyền nhượng, giấy tờ có giá khác.”
+
+4. Sửa đôi, bỗ sung khoản 3 Điều 8 như sau:
+
+“3. Giá trị số dư của khoản phải đòi (bao gồm cả số dư gốc; lãi phải thu, phí
+phải thu nếu có đang được hạch toán vào thu nhập theo quy định của pháp luật) của
+ngân hàng, chi nhánh ngân hàng nước ngoài được tính theo công thức:
+
+E¡ = Eon;¡ + Eoffi x CCE;
+
+Trong đó:
+
+- Ei: Giá trị số dư xác định theo nguyên giá của khoản phải đòi thứ ï;
+
+- Eoni: Số dư phần nội bảng của khoản phải đòi thứ ¡;
+
+- Eoffi: Số dư phần cam kết ngoại bảng của khoản phải đòi thứ i;
+
+- CCE;: Hệ số chuyền đổi của phần cam kết ngoại bảng của khoản phải đòi
+thứ ¡ theo quy định tại Điều 10 Thông tư này.”
+
+5. Sửa đôi, bổ sung khoản 7 Điều 9 như sau:
+
+“7, Đối với tài sản là khoản phải đòi tô chức tài chính (bao gồm cả tô chức
+tín dụng), hệ số rủi ro tín dụng áp dụng như sau:
+
+a) Đối với tổ chức tài chính nước ngoài (bao gồm cả tổ chức tín dụng nước
+ngoài) không phải là tô chức tài chính quốc tế quy định tại khoản 20 Điều 2 Thông
+tư này, hệ số rủi ro tín dụng áp dụng theo thứ hạng tín nhiệm như sau:
+
+, ¬ TừAAA | TừA+đến | Từ BB+ đến Dưới B- hoặc
+Thứh tín nh £ ¿3
+Vindibioxsoo đên AA- BBB- B- không có xêp hạng
+Hệ số rủi ro tín dụng 20% 50% 100% 150%
+
+b) Đối với chỉ nhánh ngân hàng nước ngoài hoạt động tại Việt Nam, chỉ
+nhánh ngân hàng nước ngoài hoạt động tại quốc gia khác, chi nhánh ngân hàng
+Việt Nam hoạt động tại nước ngoài áp dụng hệ sô rủi ro tín dụng theo thứ hạng
+tín nhiệm của tô chức tín dụng là ngân hàng mẹ.
+
+c) Đối với tài sản là các khoản phải đòi tổ chức tín dụng trong nước, trừ các
+khoản phải đòi dưới hình thức giao dịch reverse repo đã được tính rủi ro tín dụng
+đối tác theo quy định tại khoản 4 Điều § Thông tư này, hệ số rủi ro tín dụng áp
+dụng như sau:
+
+Thứ hạngtín | AAA | Atđến | BB+đến |, sáng Dưới B- và
+nhiệm đến AA- | BBB- BB- T7“ | Mrmngessễiyhang
+Khoản phải đòi có
+thời hạn ban đầu |_ 20% 50% 80% 100% 150%
+từ 3 tháng trở lên
+Khoản phải đòi có
+thời hạn ban đầu | 10% 20% 40% 50% 70%
+dưới 3 tháng
+
+d) Ngân hàng là bên nhận chuyên. giao bắt buộc và các tô chức tín dụng
+khác được áp dụng hệ số rủi ro 0% đôi với các khoản cho vay, bảo lãnh, tiền gửi
+tại bên được chuyên giao bắt buộc theo phương án chuyên giao bắt buộc đã được
+phê duyệt.”
+
+6. Sửa đối, bỗ sung điểm b khoản 9 Điều 9 như sau:
+
+“b) Đối với các doanh nghiệp khác, ngân hàng, chỉ nhánh ngân hàng nước
+ngoài phải xác định chỉ tiêu doanh thu, tỷ lệ đòn bây, vốn chủ sở hữu được xác định
+trên cơ sở số liệu Báo cáo tài chính năm (Báo cáo tài chính hợp nhất) được kiểm
+toán tại thời điểm gần nhất đối với các doanh nghiệp phải kiểm toán độc lập; Báo
+cáo tài chính năm (được kiêm toán, nếu có) hoặc Báo cáo tài chính nộp cho cơ quan
+thuế (có bằng chứng đã nộp cho cơ quan thuế) tại thời điểm gần nhất đối với doanh
+nghiệp không phải kiểm toán độc lập theo quy định của pháp luật như sau:
+
+- Doanh thu lấy số liệu trên Báo cáo kết quả hoạt động kinh doanh;
+- Tỷ lệ đòn bây = Tổng Nợ vay/Tổng tài sản;
+
+Trong đó: Tổng Nợ vay (total debt) được xác định bằng tổng của các khoản
+
+mục vay và nợ thuê tài chính ngăn hạn với khoản mục vay và nợ thuê tài chính dài
+hạn theo quy định hiện hành vê kế toán.
+
+- Vốn chủ sở hữu lấy số liệu trên Bảng cân đối kế toán.
+
+(¡) Hệ số rủi ro tín dụng áp dụng theo chỉ tiêu doanh thu, tỷ lệ đòn bẩy, vốn
+chủ sở hữu của doanh nghiệp như sau:
+
+Doanh thu Doanh thu từ 100 Doanh thu từ 400 | Doanh thu trên
+dưới 100 tỷ tỷ đồng đến dưới | tỷ đồng đến 1500 | 1500 tỷ đông
+đông 400 tỷ đồng tỷ đông |
+
+Tỷ lệ đòn bây dưới
+
+hân l 100% 80% 60% 50%
+
+Tỷ lệ đòn bây từ š : ọ t
+
+25% đến 30% 125% 110% 95% §0%
+
+Tỷ lệ đòn bảy trên 160% 150% 140% 120%
+
+50%
+
+Vốn chủ sở hữu âm n
+
+hoặc bằng 0 Nhi
+
+(1ï) Hệ số rủi ro tín dụng 200% được áp dụng đối với các doanh nghiệp không
+cung cập Báo cáo tài chính cho ngân hàng, chi nhánh ngân hàng nước ngoài để tính
+các chỉ tiêu doanh thu, tỷ lệ đòn bảy, vôn chủ sở hữu;
+
+(11) Đối với các doanh nghiệp thành lập mới (không bao gồm các trường hợp
+thành lập do tổ chức lại, chuyền đổi hình thức pháp lý,...), hoạt động chưa được 0]
+năm, hệ số rủi ro tín dụng là 150%.”
+
+7. Sửa đổi, bổ sung khoản 10 Điều 9 như sau:
+
+“10. Đối với tài sản là khoản cho vay bảo đảm bằng bất động sản, hệ số rủi
+ro tín dụng áp dụng như sau:
+
+a) Ngân hàng, chỉ nhánh ngân hàng nước ngoài phải xác định Tỷ lệ bảo đảm
+(viết tắt là LTV) đối với khoản phải đòi được đảm bảo bằng bất động sản như sau:
+
+(¡) Tỷ lệ bảo đảm (LTV) = Tổng số dư khoản phải đòi/Giá trị của tài sản bảo
+đảm. Trong đó:
+
+- Tông số dư khoản phải đòi (số dư nợ gốc nội bảng và cam kết ngoại bảng)
+bao gồm tổng số dư của khoản phải đòi và số dư của các khoản phải đòi khác được
+bảo đảm bằng bất động sản đó tại ngân hàng, chi nhánh ngân hàng nước ngoài;
+
+- Giá trị của tài sản bảo đảm là giá trị của bất động sản bảo đảm cho các
+khoản phải đòi đó được xác định tại thời điêm xét duyệt cho vay.
+
+(1) Giá trị của tài sản bảo đảm được xác định lại khi ngân hàng, chi nhánh
+ngân hàng nước ngoài có thông tin giá trị tài sản bảo đảm bị suy giảm trên 30% so
+
+với giá trị tại thời điểm xét duyệt cho vay (đối với trường hợp xác định lại được
+thực hiện lần đầu tiên) hoặc so với giá trị tài sản bảo đảm xác định lại gần nhất.
+
+Ö__ b)Hệ số rủi ro tín dụng áp dụng đối với khoản phải đòi được bảo đảm bằng
+bât động sản không kinh doanh theo chỉ tiêu Tỷ lệ bảo đảm (LTYV) như sau:
+
+LTVtừ | LTVtừ LTV từ LTVNE |rmựe
+Lưng LTV dưới | 40%trờ | 60%trở | 80% trở lên | 90% trở lên HƠn
+40% lên đến lên đến đến dưới đến dưới : lên
+dưới 60% | dưới 80% 90% 100% XKG ANH
+Hệ số rủi ro 30% 40% 50% 70% 80% 100% |
+
+
+ở
+
+___©) Đối với khoản phải đòi được đảm bảo bằng bất động sản kinh doanh, hệ
+sỐ rủi ro tín dụng áp dụng theo chỉ tiêu Tỷ lệ bảo đảm (LTV) đôi với khoản phải
+đòi được đảm bảo băng bât động sản kinh doanh như sau:
+
+' LTV từ 60% trở | LTV từ 75% trở
+0 ,
+LTV dưới 60% | lạn đến dưới 75% lên
+Khoản phải đòi được đảm bảo °
+bằng bắt động sản kinh doanh 15% 100% 120%
+
+d) Đối với khoản phải đòi được đảm bảo bằng bất động sản là hỗn hợp bất
+động sản kinh doanh và bất động sản không kinh doanh, hệ sô rủi ro tín dụng được
+xác định riêng cho từng bất động sản kinh doanh và bất động sản không kinh
+doanh tương ứng theo tỷ lệ tông diện tích mặt bằng của bất động sản;
+
+đ) Hệ số rủi ro tín dụng 150% được áp dụng đối với khoản phải đòi được
+đảm bảo băng bât động sản mà ngân hàng, chi nhánh ngân hàng nước ngoài không
+có thông tin về Tỷ lệ bảo đảm (LTV);
+
+e) Hệ số rủi ro tín dụng 200% được áp dụng đối với tài sản là khoản cấp tín
+dụng chuyên biệt dưới hình thức cấp tín dụng tài trợ dự án kinh doanh bất động
+sản. Trường hợp đối với tài sản là khoản cấp tín dụng chuyên biệt dưới hình thức
+cấp tín dụng tài trợ dự án kinh doanh bất động sản khu công nghiệp, hệ SỐ rủi ro
+tín dụng là 160%.”
+
+8. Sửa đổi, bổ sung điểm b khoản 11 Điều 9 như sau:
+
+“b) Hệ số rủi ro áp dụng cho khoản cho vay thế chấp nhà ở theo Tỷ lệ bảo
+đảm (LTV) và Tỷ lệ thu nhập (DSC) như sau:
+
+() Đối với khoản cho vay để mua nhà ở xã hội, mua nhà ở theo các chương
+trình, dự án hồ trợ của Chính phủ:
+
+Efethrdfnpho | ITV | TT 6 | LUYG | ch bm |TIƯUBDW | DDỰtừ
+Ÿ s.. $ kẻ 40% trở 60% trở | 80% trở lên Gö NBế.. vhế :
+vay thê châp nhà | dưới š... XÈ "xà: F - trở lên đên | 100%
+: 40% lên đên lên đên đên dưới dưới 100% | trở lên
+° | dưới60% | dưới 80% | 90% °
+VA£0/ x2
+mÌn. 33/21 | 20 | 25% 30% 35% 40% 45%
+DSC trên 35% 25% 30% 35% 40% 45% 50%
+(ï¡) Đối với khoản cho vay không thuộc quy định tại điểm b() khoản 11 Điều
+này:
+fbrlềhondie | LTV | DU | i1 | co 50t | ETVIWĐDWE | LIEViW
+FT ĐEN “ 40% trở 60%trở | 80% trở lên x To. ,ŠÄ
+vay thê châp nhà | dưới 3. Ế „. SIẾ £ ` trở lên đên | 100%
+: o9 lên đên lên đên đên dưới øi 100% ở lê
+Ở 40% dưới 60% | dưới 80% 90% dưới 100% | trở lên
+xuống. 2-4 KIỜ 25% 30% 40% 50% 60% §0%
+DSC trên 35% 30% 40% 50% 70% §0% 100%
+
+Lài
+
+
+6
+
+9, Bồ sung khoản 12a sau khoản 12 Điều 9 như sau:
+
+“12a. Đối với khoản phải đòi là khoản cho vay cá nhân phục vụ phát triển
+nông nghiệp, nông thôn theo quy định của Chính phủ về chính sách tín dụng phục
+vụ phát triên nông nghiệp, nông thôn, hệ số rủi ro tín dụng là 50%.”
+
+10. Sửa đôi, bỗ sung điểm e khoản 3 Điều 11 như sau:
+
+“e) Trường hợp kết hợp hai hoặc nhiều biện pháp giảm thiêu rủi ro tín dụng
+khác nhau cho một khoản phải đòi, giao dịch thì ngân hàng, chi nhánh ngân hàng
+nước ngoài phải phân tách các phần giao dịch, khoản phải đòi theo từng biện pháp
+giảm thiểu rủi ro tín dụng để tính riêng giá trị số dư của từng phần của khoản phải
+đòi, giao dịch đó theo quy định tại Thông tư này. Trường hợp không phân tách
+được các phần giao dịch, khoản phải đòi theo từng biện pháp giảm thiêu rủi ro tín
+dụng, ngân hàng, chi nhánh ngân hàng nước ngoài áp dụng một biện pháp có giá
+trị giảm thiểu rủi ro nhiều nhất.”
+
+11. Sửa đổi, bỗ sung khoản 4 Điều 11 như sau:
+
+“4, Giá trị số dư của khoản phải đòi, giao dịch có giảm thiểu rủi ro tín dụng
+được tính theo công thức sau:
+
+Ei` = max{0.,[E; - YCj(1-He¡-Hfxej)]} + max{0,[E¿ - }LL'(1-Hfxi,)]} +
+max{0,[E; - >G¡ (1-CRWgtor/CRW))]} + max{0,[E¿ - ))CD› (1- Hfxcdn)]} + E:
+
+Trong đó:
+
+E¡ = Ej + Ey + Eị + Ea + Ex
+
+- Ei: Giá trị số dư của khoản phải đòi, giao dịch thứ ¡ được điều chỉnh giảm
+theo các biện pháp giảm thiêu rủi ro tín dụng;
+
+- E¡: Giá trị số dư của khoản phải đòi, giao dịch thứ ¡ được tính theo quy định
+tại Điêu § Thông tư này;
+
+- Ej: Giá trị số dư của khoản phải đòi, giao dịch thứ ¡ được tính theo quy định
+
+tại Điều 8 Thông tư này được điều chỉnh giảm thiểu rủi ro tín dụng bằng tài sản bảo
+đảm;
+
+- Eu: Giá trị số dư của khoản phải đòi, giao dịch thứ ¡ được tính theo quy định
+tại Điều 8 Thông tư này được điều chỉnh giảm thiểu rủi ro tín dụng bằng bù trừ số
+dư nội bảng;
+
+- Ei: Giá trị số dư của khoản phải đòi, giao dịch thứ ¡ được tính theo quy định
+tại Điều § Thông tư này được điều chỉnh giảm thiêu rủi ro tín dụng bằng bảo lãnh
+của bên thứ ba;
+
+- En: Giá trị số dư của khoản phải đòi, giao dịch thứ ¡ được tính theo quy định
+tại Điều 8 Thông tư này được điều chỉnh giảm thiêu rủi ro tín dụng bằng sản phẩm
+phái sinh tín dụng;
+
+~ E„: Giá trị số dư của khoản phải đòi, giao dịch thứ ¡ được tính theo quy định
+tại Điêu § Thông tư này không được điêu chỉnh giảm thiêu rủi ro tín dụng;
+
+- C¡': Giá trị của tài sản bảo đảm hiệu chỉnh theo độ lệch thời hạn;
+
+7
+- He¡: Hệ số hiệu chỉnh tài sản bảo đảm;
+
+- L¿': Giá trị nợ phải trả nội bảng được hiệu chỉnh theo độ lệch thời hạn;
+- Gì: Giá trị bảo lãnh của bên thứ ba;
+
+- CRWBtori: Hệ số rủi ro tín dụng của bên bảo lãnh;
+
+- CRW: Hệ số rủi ro tín dụng của khách hàng:
+
+- CD›': Giá trị của sản phẩm phái sinh tín dụng được hiệu chỉnh theo độ lệch
+thời hạn;
+
+- Hfxe, Hfxl, Hfxcd: hệ số hiệu chỉnh độ lệch tiền tệ tương ứng giữa khoản
+phải đòi, giao dịch và biện pháp giảm thiêu rủi ro. Hệ sô hiệu chỉnh độ lệch tiên tệ
+băng không (0) khi khoản phải đòi, giao dịch và biện pháp giảm thiêu rủi ro cùng
+một loại tiên tệ.”
+
+12. Sửa đôi, bố sung Điều 12 như sau:
+
+Điều 12. Giảm thiểu rủi ro tín dụng bằng tài sản bảo đảm
+
+1. Việc giảm thiểu rủi ro tín dụng bằng tài sản bảo đảm chỉ áp dụng đối với
+các tài sản bảo đảm sau đây:
+
+a) Tiền mặt, giấy tờ có giá, thẻ tiết kiệm do tổ chức tín dụng, chỉ nhánh ngân
+hàng nước ngoài phát hành;
+
+_b) Vàng (vàng tiêu chuẩn, vàng vật chất, vàng trang sức với giá trị được
+chuyên đôi giá trị sang vàng 99.99);
+
+c) Giấy tờ có giá do Chính phủ Việt Nam, Ngân hàng Nhà nước, Uỷ ban
+nhân dân tỉnh, thành phô trực thuộc trung ương, các ngân hàng chính sách phát
+hành hoặc bảo lãnh thanh toán;
+
+d) Chứng khoán nợ do chính phủ các nước, tô chức công lập của chính phủ
+các nước phát hành được doanh nghiệp xếp hạng tín nhiệm độc lập xếp hạng từ
+BB- trở lên;
+
+đ) Chứng khoán nợ do doanh nghiệp phát hành được doanh nghiệp xếp hạng
+tín nhiệm độc lập xêp hạng từ BBB- trở lên;
+
+e) Cô phiếu được niêm yét trên Sở giao dịch Chứng khoán Việt Nam.
+
+2. Tài sản bảo đảm quy định tại khoản 1 Điều này phải đảm bảo:
+
+a) Tuân thủ đúng quy định pháp luật về giao dịch đảm bảo;
+
+b) Giấy tờ có giá, chứng khoán nợ, cô phiếu không do khách hàng và (hoặc)
+
+công ty mẹ, công ty con, công ty liên kết của khách hàng phát hành hoặc bảo lãnh
+thanh toán.
+
+c) Tài sản bảo đảm quy định tại điểm đ và điểm e khoản 1 Điều này phải có
+giao dịch khớp lệnh trong thời gian 10 ngày làm việc liền kề trước thời điểm tính
+toán và được tính theo giá thị trường tham chiếu hàng ngày (daily mark-to-
+market).
+
+§
+
+3. Hệ số hiệu chỉnh tài sản bảo đảm (H,) tính theo tỷ lệ phân trăm (%) được
+
+xác định như sau:
+a) Tiền mặt, thẻ tiết kiệm và giây tờ có giá do chính ngân hàng, chi nhánh
+ngân hàng nước ngoài phát hành, giây tờ có giá do Chính phủ Việt Nam, Ngân
+
+hàng Nhà nước, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, các ngân
+hàng chính sách phát hành hoặc bảo lãnh thanh toán có hệ sô hiệu chỉnh bằng 0;
+
+b) Thẻ tiết kiệm, giấy tờ có giá, chứng khoán, vàng có hệ số hiệu chỉnh như
+
+Sau:
+Chính phủ (bao
+I3 XE Tp HH lộ hc | Cánh
+.r. nEHỐI p8 : Thời hạn còn lại p ¬ 61% phát hành khác
+giấy tờ có giá, chứng tín dụng tương (%)
+khoán đương chính phủ)
+(%)
+
+<l năm 0.5 |
+AAA đến AA- > l năm, < 5 năm 2 :
+
+> 5 năm 4 hủ
+- A+ đến BBB- < ] năm | 2
+- Thẻ tiết kiệm, giấy | > l năm, < 5 năm 3 6
+tờ có giá của tô chức
+tín dụng, chi nhánh -
+ngân hàng nước > 3 năm 6 12
+ngoài khác
+BB+ đến BB- trừ
+Thẻ tiệt kiệm, giây
+tờ có giá của tô chức | Tât cả các loại thời 15
+tín dụng, chi nhánh | hạn
+ngân hàng nước :
+ngoài khác SE HA
+Cổ phiếu được tính vào chỉ số chứng khoán
+VN30/HNX30 (bao gồm cả trái phiếu chuyển 15
+đổi của các loại cô phiếu này) và Vàng
+Cổ phiếu khác được niêm yết trên Sở giao 25
+dịch chứng khoán Việt Nam
+
+4. Giá trị của tài sản bảo đảm hiệu chỉnh theo độ lệch thời hạn (C*) theo
+công thức sau:
+
+C*=Cx(t-0.25)/(T - 0.25)
+Trong đó:
+- C: giá trị của tài sản bảo đảm;
+- T: được xác định là giá trị tối thiểu của (5 năm, thời hạn còn lại của giao
+dịch, khoản phải đòi tính theo năm);
+
+Đ
+
+- t: được xác định là giá trị tối thiểu của (T tính theo năm, thời hạn còn lại
+của tài sản bảo đảm tính theo năm).
+
+5. Hệ số hiệu chỉnh độ lệch tiền tệ giữa khoản phải đòi, giao dịch và tài sản
+bảo đảm (Hạ) là 8%.”
+
+13. Bố sung điểm d sau điểm c khoản 2 Điều 14 như sau:
+
+“d) Tổ chức tài chính quốc tế.”
+
+14. Sửa đôi, bô sung Điều 17 như sau:
+
+“Điều 17. Quy định, quy trình xác định trạng thái rủi ro thị trường để
+quản lý rủi ro thị trường
+
+1. Đề xác định vốn yêu cầu cho rủi ro thị trường, ngân hàng, chi nhánh ngân
+hàng nước ngoài phải có quy định bằng văn bản về các điều kiện, tiêu chí xác định
+các khoản mục thuộc phạm vi số kinh doanh để tính các trạng thái rủi ro trên số
+
+kinh doanh, đảm bảo tách biệt với sô ngân hàng. Ngân hàng, chi nhánh ngân hàng
+nước ngoài phải:
+
+a) Phân biệt các giao dịch trên số kinh doanh và số ngân hàng. Dữ liệu về
+giao dịch phải được ghi nhận chính xác, đây đủ và kịp thời vào hệ thông cơ sở dữ
+liệu quản lý rủi ro và hệ thông sô sách kê toán của ngân hàng, chi nhánh ngân hàng
+nước ngoài;
+
+b) Xác định được bộ phận kinh doanh trực tiếp thực hiện giao dịch;
+
+c) Giao dịch trên sô kinh doanh và sô ngân hàng phải được phản ánh trên hệ
+thống sô sách kế toán và phải được đối chiếu với số liệu ghi nhận của bộ phận kinh
+doanh (nhật ký giao dịch hoặc hình thức ghi nhận khác);
+
+d) Bộ phận kiểm toán nội bộ phải thường xuyên rà soát, đánh giá các khoản
+mục trên sô kinh doanh và sô ngân hàng.
+
+2. Ngân hàng, chi nhánh ngân hàng nước ngoài chỉ được phép phân loại lại
+và chuyển các khoản mục từ số kinh doanh sang sô ngân hàng khi các khoản mục
+
+đó không còn đáp ứng được điều kiện, tiêu chí theo quy định tại khoản Ì Điều này,
+không được chuyên các công cụ tài chính từ số ngân hàng sang số kinh doanh.
+
+3. Ngân hàng, chi nhánh ngân hàng nước ngoài phải có chính sách, quy trình
+xác định trạng thái rủi ro đề tính vốn yêu câu cho rủi ro thị trường. Các chính sách,
+quy trình tối thiểu gồm:
+
+a) Chiến lược tự doanh đối với từng loại tiền tệ, công cụ tài chính, sản phẩm
+phái sinh, đảm bảo không bị hạn chê vê mua, bán hoặc có khả năng phòng ngừa
+được rủi ro;
+
+b) Các hạn mức rủi ro thị trường theo quy định của Ngân hàng Nhà nước về
+hệ thông kiêm soát nội bộ của ngân hàng thương mại, chi nhánh ngân hàng nước
+ngoài; các hạn mức phải được rà soát, đánh giá tôi thiêu một năm một lân hoặc vào
+thời điêm có thay đôi lớn ảnh hưởng tới trạng thái rủi ro thị trường;
+
+c) Quy trình quản lý trạng thái rủi ro thị trường phải đảm bảo:
+
+10
+
+(¡) Các trạng thái rủi ro thị trường được nhận diện, đo lường, theo dõi, quản
+lý và giám sát chặt chế;
+
+(1i) Có bộ phận riêng để thực hiện các giao dịch tự doanh, trong đó các giao
+dịch viên có quyên tự chủ thực hiện các giao dịch trong phạm vi các hạn mức và
+
+chiến lược tự doanh; có bộ phận quản lý, hạch toán theo dõi các giao dịch tự doanh
+và các khoản mục trên số kinh doanh;
+
+(i1) Các trạng thái rủi ro và kết quả đo lường rủi ro phải được báo cáo cho
+các cấp thẩm quyên theo quy định về quản lý rủi ro của ngân hàng, chỉ nhánh ngân
+hàng nước ngoài;
+
+(iv) Tất cả các trạng thái tài chính trên sô kinh doanh phải được đo lường và
+định giá theo giá thị trường hoặc dữ liệu thị trường Ít nhất một ngày một lần để xác
+định mức lễ, lãi và trạng thái rủi ro thị trường;
+
+(v) Các dữ liệu thị trường đầu vào phải được thu thập tối đa từ nguồn phù
+hợp với thị trường và thường xuyên được soát xét lại tính phù hợp của các dữ liệu
+thị trường đầu vào.
+
+d) Các quy định về điều kiện, tiêu chí ghi nhận các khoản mục trên sô kinh
+doanh và chuyên các khoản mục giữa số kinh doanh và số ngân hàng theo quy định
+của pháp luật;
+
+đ) Các phương pháp đo lường rủi ro thị trường (trong đó mô tả đầy đủ các
+giả định và các tham sô được sử dụng); các phương pháp đo lường rủi ro thị trường
+phải được rà soát, đánh giá hàng năm hoặc khi có thay đổi bất thường ảnh hưởng
+tới trạng thái rủi ro thị trường;
+
+e) Quy trình giám sát các trạng thái rủi ro và việc tuân thủ các hạn mức rủi
+ro thị trường theo chiến lược tự doanh của ngân hàng, chi nhánh ngân hàng nước
+ngoài.
+
+4. Quy định, quy trình quy định tại khoản 1, khoản 3 Điều này phải được các
+cấp có thầm quyền của ngân hàng, chi nhánh ngân hàng nước ngoài phê duyệt, ban
+hành, sửa đổi, bô sung, định kỳ ít nhất một năm một lần và được kiểm toán nội bộ
+
+theo quy định của Ngân hàng Nhà nước về hệ thống kiểm soát nội bộ của tô chức
+tín dụng, chi nhánh ngân hàng nước ngoài.
+
+5. Ngân hàng, chi nhánh ngân hàng nước ngoài gửi các quy định tại khoản
+1, khoản 3 Điều này cho Ngân hàng Nhà nước (Cơ quan Thanh tra, giảm sát ngân
+hàng) để giám sát trước khi thực hiện. Trường hợp cân thiết, Ngân hàng Nhà nước
+(Cơ quan Thanh tra, giám sát ngân hàng) sẽ có ý kiến bằng văn bản gửi ngân HÃNG,
+chi nhánh ngân hàng nước ngoài để sửa đổi, bỗ sung các quy định, quy trình này.”
+
+15. Sửa đổi, bỗổ sung khoản 4 Điều 18 như sau:
+
+“4, Vốn yêu cầu cho rủi ro ngoại hồi (KrxR) chỉ áp dụng đối với trường hợp
+tổng giá trị trạng thái ngoại hồi ròng (bao gôm cả vàng) của ngân hàng, chi nhánh
+ngân hàng nước ngoài lớn hơn 2% vôn tự có của ngân hàng, chi nhánh ngân hàng
+nước ngoài. Vốn yêu cầu cho rủi ro ngoại hối và tông trạng thái ngoại hối ròng bao
+
+II
+
+gồm cả vàng được tính theo hướng dẫn tại Phụ lục 4 ban hành kèm theo Thông tư
+Hãy,”
+
+16. Sửa đôi, bố sung khoản 1 Điều 21 như sau:
+
+“1, Giám sát, kiểm tra, thanh tra đối với ngân hàng, chỉ nhánh ngân hàng
+nước ngoài theo quy định của pháp luật và phân công EÚG Thống đốc Ngân hàng
+Nhà nước trong việc chấp hành quy định tại Thông tư này.”
+
+17. Sửa đổi, bố sung khoản 2 Điều 22 như sau:
+
+k2 Ngân hàng Nhà nước chỉ nhánh tỉnh, thành phố trực thuộc Trung ương
+thực hiện giám sát, kiểm tra, thanh tra đối với các ngân hàng, chi nhánh ngân hàng
+nước ngoài trên địa bàn theo quy định của pháp luật và phân công của Thông đốc
+Ngân hàng Nhà nước trong việc chấp hành quy định tại Thông tư này.”
+
+Điều 2. Thay thế Phụ lục 01, Phụ lục 02, Phụ lục 03, Phụ lục 04 và Phụ lục
+06 của Thông tư sô 41/2016/TT-NHNN băng Phụ lục 01, Phụ lục 02, Phụ lục 03,
+Phụ lục 04 và Phụ lục 06 ban hành kèm theo Thông tư này.
+
+Điều 3. Trách nhiệm tô chức thực hiện
+
+Chánh Văn phòng, Chánh Thanh tra, giám sát ngân hàng, Thủ trưởng các
+đơn vị thuộc Ngân hàng Nhà nước, ngân hàng, chỉ nhánh ngân hàng nước ngoài
+chịu trách nhiệm tô chức thực hiện Thông tư này.
+
+Điều 4. Hiệu lực thi hành
+Thông tư này có hiệu lực thi hành kê từ ngày 01 tháng 7 năm 2024... 4
+
+Nơi nhận: kì THÓNG ĐÓC X
+- Như Điêu 3; PHÓ THỐNG ĐÔC
+- Ban lãnh đạo NHNN: |
+
+- Văn phòng Chính phủ;
+
+- Bộ Tư pháp (để kiểm tra);
+
+- Công báo;
+
+- Lưu: VP, PC, TTGSNH6 (03 bản)g⁄
+
+“Đoàn Thái Sơn
+
+A. Cầu phần và cách xác #itvl để tính vốn tự" tố cố n ngỗn hàng:
+
+I. Vốn tự có:
+
+Mục
+
+Cấu phần
+
+Cách xác định
+
+VÓN CÁP 1 (A)= A1— A2
+
+Cầu phần Vốn cấp 1(AI)=>1z7a
+
+(1)
+
+Vôn điêu lệ (vôn đã được câp, vôn đã góp)
+
+Lấy số liệu tại khoản mục Vốn điều lệ trên
+Bảng cân đối kế toán.
+
+Đối với ngân hàng sử dụng ngoại tệ làm đơn vị
+tiền tệ trong kế toán thì Vốn điều lệ được quy
+đổi ra đồng Việt Nam theo quy định của Ngân
+hàng Nhà nước hướng dẫn về Chế độ báo cáo
+tài chính đối với các tổ chức tín dụng.
+
+(2)
+
+Quỹ dự trữ bỗ sung vốn điều lệ
+
+Lấy số liệu Quỹ dự trữ bố sung vốn điều lệ
+trong khoản mục Quỹ của tô chức tín dụng
+trên Bảng cân đôi kê toán.
+
+(3)
+
+Quỹ đầu tư phát triển
+
+Lấy số liệu Quỹ đầu tư phát triển trong khoản
+
+~ 7 ^ , , ˆ ` ˆ
+mục Quỹ của (tô chức tín dụng trên Bảng cân
+đôi kê toán.
+
+(4)
+
+Quỹ dự phòng tài chính
+
+Lấy số liệu Quỹ dự phòng tài chính trong khoản
+
+~ - r$ Lá , ˆ kí ˆ
+mục Quỹ của (tô chức tín dụng trên Bảng cân
+đôi kê toán.
+
+(5)
+
+Vôn đâu tư xây dựng cơ bản, mua săm tài sản cô định
+
+Lây số liệu Vôn đầu tư xây dựng cơ bản, mua
+săm tài sản cô định trên Bảng cân đối kế toán.
+
+(6)
+
+Lợi nhuận chưa phân phôi
+
+Lấy số liệu Lợi nhuận chưa phân phối trên
+
+
+của pháp luật
+
+Mục Câu phần Cách xác định
+Bảng cân đối kế toán.
+(7) | Thặng dư vốn cỗ -nhỖn Lấy số liệu Thặng dư vốn cô phần trên Bảng
+số cần đối kế toán.
+m Lấy số dư khoản Chênh lệch tỷ giá hồi đoái do
+đánh giá lại vốn chủ sở hữu có gốc ngoại tệ
+Shuấc 1Ä s1 xÐÐt LLÊn sáu se thuộc khoản mục Vốn Chủ sở hữu được ghi
+tá) | CHẾNH lệGH U/BIA HỘI HỤEI nhận trên Bảng cân đối kế toán khi chuyển đồi
+Báo cáo tài chính được lập bằng ngoại tệ ra
+đồng Việt Nam.
+Các khoản phải trừ khỏi Vốn cấp 1 (A2) = Y8+10
+Lấy số liệu chênh lệch lớn hơn giữa số tiền mua
+một tài sản tài chính và giá trị sô sách kế toán
+(8) | Lợi thế thương mại của tài sản tài chính đó mà ngân hàng phải trả
+phát sinh từ giao dịch có tính chất mua lại do
+ngân hàng thực hiện.
+(9)_ | Lỗ lũy kế Lây số liệu Lỗ lũy kế tại thời điểm tính tỷ lệ an
+toàn vốn. : :
+.-.- ~ Lây sô liệu tại khoản mục Cô phiêu quỹ trên
+GD) [Gỗ phiếu Quỹ Bảng cả cân đối kế toán. l '
+VÓN CÁP 2 (B) = BI — B2 - (20) Giá trị vốn cấp 2 tối đa bằng vốn cấp Ì
+Cấu phần của Vốn cấp 2 (BI) = >11+16
+Các quỹ khác được trích từ lợi nhuận sau thuê thu nhập doanh nghiệp Lầy số liệu Quỹ khác trong khoản mục Quỹ của
+(11) | theo quy định của pháp luật (không bao gồm quỹ khen thưởng, phúc
+tổ chức tín dụng trên Bảng cân đối kế toán.
+lợi, quỹ thưởng ban điều hành)
+q2) 50% phân chênh lệch tăng. do đánh giá lại tài sản cô định theo quy định | 50% tông số dư có của tài khoản chênh lệch
+
+đánh giá lại tài sản cô định.
+
+45% phân chênh lệch tăng do đánh giá lại các khoản góp vốn đầu tư
+dài hạn theo quy định của pháp luật ' `
+
+45% tổng số dư có của tài khoản chênh lệch
+đánh giá lại tài sản đối với các khoản góp vốn
+
+
+(v) Trong trường hợp thanh lý ngân hàng, người sở hữu khoản nợ thứ
+cấp chỉ được thanh toán sau khi ngân hàng đã thanh toán cho tất cả các
+chủ nợ khác;
+
+(v1) Lãi suất cô định hoặc công thức tính lãi suất được xác định trước
+và ghi rõ trong hợp đồng, tài liệu phát hành.
+
+- Đối với lãi suất cố định, việc điều chỉnh tăng lãi suất chỉ được thực
+hiện sau 5Š năm kế từ ngày phát hành, ký kết hợp đồng và chỉ được thay
+đổi 1 lần trong suốt thời hạn của nợ thứ cấp.
+
+- Đối với lãi suất tính theo công thức, công thức không được thay đỗi
+và chỉ được thay đổi biên độ trong công thức (nếu có) l lần sau 5 năm
+
+Mục Cấu phần Cách xác định
+đầu tư dài hạn.
+80% dự phòng chung theo quy định của Ngân hàng Nhà nước về phân
+(14) loại tài sản có, mức trích, phương pháp trích dự phòng rủi ro và sử Lấy 80% tông các khoản mục Dự phòng chung
+dụng dự phòng rủi ro đối với tô chức tín dụng, chi nhánh ngân hàng | trên Bảng cần đối kế toán.
+nước ngoài
+Lây giá trị các công cụ vốn chủ sở hữu có tính
+(15) | Công cụ vốn chủ sở hữu có tính chất nợ do ngân hàng phát hành _ th, lên cuy dì KT: HH, 7
+Thông tư này.
+Nợ thứ cấp do ngân hàng phát hành, ký kết đáp ứng đây đủ các điều | - Tại thời điểm xác định giá trị, nêu thời hạn còn
+kiện sau: lại của trái phiếu chuyên đổi, công cụ nợ khác
+(1) Có kỳ hạn ban đầu từ năm (05) năm trở lên; trên 5 năm, toàn bộ giá trị nợ thứ cấp được tính
+(1ñ) Không được đảm bảo bằng tài sản của chính ngân hàng; vào vốn cấp t
+(¡) Ngân hàng được trả nợ trước thời gian đáo hạn với điều kiện sau | - Bắt đầu từ năm thứ năm trước khi đến hạn
+khi thực hiện vẫn đảm bảo các tỷ lệ, giới hạn bảo đảm an toàn theo quy | thanh toán, mỗi năm tại ngày đầu tiên của năm
+định và báo cáo Ngân hàng Nhà nước (Cơ quan Thanh tra, giám sát | (tính theo ngày phát hành), giá trị nợ thứ cấp
+ngân hàng) để giám sát; được tính vào vôn câp 2 sẽ phải được khấu trừ
+(iv) Ngân hàng được ngừng trả lãi và chuyền lãi luỹ kế sang năm tiếp | 20% của tông mệnh giá.
+(16) theo nếu việc trả lãi dẫn đến kết quả kinh doanh trong năm bị lỗ;
+
+
+' Mục Câu phần Cách xác định
+kể từ ngày phát hành, ký kết hợp đồng.
+Các khoản phải trừ khỏi Vốn cấp 2 (B2) = (17) + (18) + (19)
+(17) Phân giá trị chênh lệch dương giữa khoản mục (14) và 1,25% của
+'“Vông tài sản tính theo rủi ro tín dụng” quy định tại Thông tư.
+(18) | Phần giá trị chênh lệch dương giữa khoản mục (16) và 50% của A
+Bắt đầu từ năm thứ năm trước khi đến hạn thanh
+Mua, đầu tư nợ thứ cấp của tô chức tín dụng, chi nhánh ngân hàng Phi _— Hi) xi Tờ =mine
+nước ngoài khác phát hành đáp ứng đầy đủ các điều kiện để tính vào .. yPU tả Hi = đ hì siết: ă
+(19) | vốn cấp 2 của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đó bi mg): lậNgg)f siPog . hà nh đi T n đà ni
+(không bao gồm nợ thứ cấp nhận làm tài sản bảo đảm, chiết khấu, tái DEDIE-TƯCE DHDDI THẤM PT. DÍLU LÔ DUEE IÊ-QU
+chiết khẩu của khách hàng). các điều kiện để tính vào vốn cấp 2 của tổ chức
+tín dụng, chỉ nhánh ngân hàng nước ngoài đó sẽ
+được khấu trừ 20% của tổng giá mua.
+Các khoản giảm trừ bỗ sung
+(20)_| Phần giá trị chênh lệch dương giữa (BI1- B2) và A
+Các khoản mục giảm trừ khi tính Vốn tự có
+21) Các khoản cấp tín dụng để góp vốn, mua cô phần tại tổ chức tín dụng | Lấy số dư các khoản cấp tín dụng để Øóp vốn,
+khác mua cô phân tại tô chức tín dụng khác.
+Lây sô liệu các khoản Góp vôn đầu tư dài hạn
+(22) | Các khoản góp vốn, mua cổ phân tại tổ chức tín dụng khác Emde Lễ tre aertin về n ki ' ¬ đc tên
+Bảng cân đối kế toán.
+Các khoản góp vôn, mua cô phần tại các doanh nghiệp hoạt động trong Lấy số liệu các khoản Góp vốn đâu tư dài hạn
+lĩnh vực bảo hiểm, chứng khoán, kiều hối, kinh doanh ngoại hối, vàng, | vào đối tượng là các doanh nghiệp hoạt động
+(23) | bao thanh toán, phát hành thẻ tín dụng, tín dụng tiêu dùng, dịch vụ | trong lĩnh vực bảo hiểm, chứng khoán, kiều hối,
+trung gian thanh toán, thông tin tín dụng kinh doanh ngoại hối, vàng, bao thanh toán,
+phát hành thẻ tín dụng, tín dụng tiêu dùng, dịch
+
+
+Cấu phần
+
+Cách xác định
+
+vụ trung gian thanh toán, thông tin tín dụng
+thuộc khoản mục Góp vốn đầu tư dài hạn trên
+Bảng cân đối kế toán, trừ các khoản đã tính ở
+mục (22).
+
+(24)
+
+Phần góp vốn, mua cô phần của một doanh nghiệp, một quỹ đầu tư sau
+khi đã trừ các khoản phải trừ quy định tại mục (22) và mục (23) vượt
+mức 10% vốn điều lệ và quỹ dự trữ bổ sung vốn điều lệ của ngân hàng
+
+Lấy phân chênh lệch dương giữa: (I1) Số dư
+khoản góp vốn đầu tư dài hạn vào từng doanh
+nghiệp, từng quỹ đầu tư trong khoản mục Góp
+vốn đầu tư dài hạn trên Bảng cân đối kế toán
+sau khi trừ đi các khoản mục (22) và mục (23);
+và 10% của vốn điều lệ và quỹ dự trữ bổ sung
+vốn điều lệ của ngân hàng.
+
+(25)
+
+Tổng các khoản góp vốn, mua cổ phần của các doanh nghiệp, quỹ đầu
+tư sau khi trừ đi các khoản từ mục (22) đến mục (24), vượt mức 40%
+vốn điều lệ và quỹ dự trữ bồ sung vôn điều lệ của ngân hàng
+
+Lấy phần chênh lệch dương giữa: (1) Tổng các
+khoản góp vốn, mua cô phần của doanh nghiệp,
+quỹ đầu tư trong khoản mục Góp vốn, đầu tư
+đài hạn trên Bảng cân đối kế toán, sau khi trừ
+đi các khoản từ mục (22) đến mục (24); và (11)
+40% vốn điều lệ và quỹ dự trữ bổ sung vốn điều
+lệ của ngân hàng
+
+(C)
+
+VÓN TỰ CÓ (C) = (A) + (B) - (21) - (22) - (23) - (24) - (25)
+
+
+II. Vốn tự có hợp nhất
+
+1. Nguyên tắc chung:
+
+a. Vôn tự có hợp nhât được xác định theo các cấu phần quy định tại điểm 2 dưới đây, lấy từ Bảng cân đối kế toán hợp nhất,
+trong đó không hợp nhất công ty con là doanh nghiệp hoạt động theo Luật kinh doanh bảo hiểm.
+
+b. Trường hợp Báo cáo tài chính hợp nhất nêu tại điểm a không có các khoản mục cụ thể đề tính vốn cấp 1 hợp nhất và vốn
+cấp 2 hợp nhất, thì ngân hàng phải xây dựng số liệu thống kê từ các bảng cân đối kế toán riêng lẻ của các đối tượng hợp nhất đề
+
+đảm bảo việc tính toán đầy đủ, chính xác các khoản mục vốn cấp l và vốn cấp 2.
+
+2. Cầu phần và cách xác định vốn tự có hợp nhất:
+
+Mục
+
+Cấu phần
+
+Cách xác định
+
+VÓN CÁP 1 ,HỢP NHÁT (À)= AI-A2
+
+Cấu phần Vốn cấp I hợp nhất (A1) = Y1+8
+
+(1)
+
+Vôn điêu lệ (vôn đã được câp, vôn đã góp)
+
+Lây số liệu tại khoản mục Vốn điều lệ trên
+Bảng cân đối kế toán hợp nhất.
+
+Đối với ngân hàng sử dụng, ngoại tỆ làm đơn vị
+tiền tệ trong kế toán thì Vốn điều lệ được quy
+đổi ra đồng Việt Nam theo quy định của Ngân
+hàng Nhà nước hướng dẫn về Chế độ báo cáo
+tài chính đối với các tô chức tín dụng.
+
+(2)
+
+Quỹ dự trữ bồ sung vốn điều lệ
+
+Lây số liệu Quỹ dự trữ bổ sung vốn điều lệ
+trong khoản mục Quỹ của tô chức tín dụng
+trên Bảng cân đối kế toán hợp nhất.
+
+(3)
+
+Quỹ đầu tư phát triển
+
+Lấy số liệu Quỹ đầu tư phát triên trong khoản
+mục Quỹ của tô chức tín dụng trên Bảng cân
+đối kế toán hợp nhất.
+
+(4)
+
+Quỹ dự phòng tài chính
+
+Lấy số liệu Quỹ dự phòng tài chính trong khoản
+mục Quỹ của tô chức tín dụng trên Bảng cân
+đối kế toán hợp nhất.
+
+(5)
+
+Vôn đâu tư xây dựng cơ bản, mua săm tài sản cô định
+
+Lấy số liệu tại khoản mục Vốn đầu tư xây
+dựng cơ bản, mua sắm tài sản có định trên
+Bảng cân đôi kê toán hợp nhất.
+
+
+Cấu phần
+
+Cách xác định
+
+Lợi nhuận chưa phân phối
+
+Lấy số liệu Lợi nhuận chưa phân phối trên
+Bảng cân đối kế toán hợp I nhất,
+
+Thặng dư vốn cổ phần
+
+Lấy sô liệu Thặng dư vốn cô phân trên Bảng
+cân đối kế toán hợp nhất.
+
+(8)
+
+Chênh lệch tỷ giá hối đoái phát sinh khi hợp nhất báo cáo tài chính
+
+Lây số liệu tại khoản mục Chênh lệch tỷ giá
+hối đoái trên Bảng cân đối kế toán hợp nhất.
+
+Đối với ngân hàng sử dụng ngoại tệ làm ". :
+tiền tệ trong kế toán, Chênh lệch tỷ giá h
+đoái bao gôm cả số liệu chênh lệch tỷ giá hồi
+đoái do đánh giá lại vốn chủ sở hữu có ốc
+ngoại tệ thuộc khoản mục Vốn Chủ sở hữu được
+phi nhận trên Bảng cân đối kế toán khi chuyển
+đổi Báo cáo tài chính được lập bằng ngoại tệ ra
+đồng Việt Nam.
+
+Các khoản phải trừ khỏi Vốn cấp 1 hợp nhất (A2) = 3> 9z11
+
+(9)
+
+Lợi thế thương mại
+
+Lấy số liệu chênh lệch lớn hơn giữa số tiền mua
+một tài sản tài chính và giá trị sô sách kế toán
+của tài sản tài chính đó mà ngân hàng phải trả
+phát sinh từ giao dịch có tính chất mua lại do
+ngân hàng thực hiện.
+
+(10)
+
+Lỗ lũy kế
+
+Lấy số liệu Lỗ lũy kế tại thời điểm tính tỷ lệ an
+toàn vôn.
+
+(1)
+
+Cổ phiếu quỹ
+
+Lấy sô liệu tại khoản mục Cô phiêu quỹ trên
+Bảng cân đối. kế toán hợp nhất.
+
+VÓN CÁP 2 HỢP NHÁT (B) = BI — B2 - (22)
+
+Giá trị vôn cập 2 hợp nhất tôi đa bằng vốn cấp Ì
+hợp nhất.
+
+Cấu phần của Vốn cấp 2 hợp nhất (B1) = 3:12+18
+
+_ (12)
+
+Các quỹ khác được trích từ lợi nhuận sau thuế thu nhập doanh nghiệp
+
+Lấy số liệu Quỹ khác trong khoản mục Quỹ của
+
+
+Câu phần
+
+Cách xác định
+
+theo quy định của pháp luật (không bao gôm quỹ khen thưởng, phúc lợi,
+quỹ thưởng ban điêu hành)
+
+tô chức tín dụng trên Bảng cân đối kê toán hợp
+nhất.
+
+(13)
+
+50% phần chênh lệch tăng do đánh giá lại tài sản cố định theo quy định
+của pháp luật
+
+50% tông số dư có của tài khoản chênh lệch
+đánh giá lại tài sản cố định trên Bảng cân đối kế
+toán hợp nhất.
+
+(14)
+
+45% phần chênh lệch tăng do đánh giá lại các khoản góp vốn đầu tư dài
+hạn theo quy định của pháp luật
+
+45% tổng sô dư có của tài khoản chênh lệch
+đánh giá lại tài sản đối với các khoản mục Góp
+vốn đầu tư dài hạn trên Bảng cân đối kế toán
+hợp nhất.
+
+(15)
+
+80% dự phòng chung theo quy định của Ngân hàng Nhà nước về phân
+loại tài sản có, mức trích, phương pháp trích dự phòng rủi ro và sử dụng
+dự phòng rủi ro đối với tổ chức tín dụng, chi nhánh ngân hàng nước
+ngoài
+
+Lấy 80% tông các khoản mục Dự phòng chung
+trên Bảng cân đối kế toán hợp nhất.
+
+(16)
+
+Công cụ vốn chủ sở hữu có tính chất nợ do ngân hàng, công ty con của
+ngân hàng phát hành
+
+Lây giá trị các công cụ vốn chủ sở hữu có tính
+chất nợ do ngân hàng phát hành đáp ứng đầy đủ
+các điều kiện quy định tại khoản 4 Điều 2
+Thông tư này.
+
+(17)
+
+Nợ thứ cấp do ngân hàng, công ty con của ngân hàng phát hành, ký kết
+đáp ứng đây đủ các điêu kiện sau:
+
+() Có kỳ hạn ban đầu từ năm (05) năm trở lên;
+
+(ii) Không được đảm bảo bằng tài sản của chính ngân hàng, công ty con
+của ngân hàng;
+
+(ii) Ngân hàng, công ty con của ngân hàng được trả nợ trước thời gian
+đáo hạn với điều kiện sau khi thực hiện ngân hàng vẫn đảm bảo các tỷ
+lệ, giới hạn bảo đảm an toàn theo quy định của pháp luật và báo cáo
+Ngân hàng Nhà nước (Cơ quan Thanh tra, giám sát ngân hàng) để giám
+sát;
+
+(v) Ngân hàng được ngừng trả lãi và chuyển lãi luỹ kế sang năm tiếp
+theo nếu việc trả lãi dẫn đến kết quả kinh doanh trong năm bị lỗ;
+
+- Tại thời điểm xác định giá trị, nếu thời hạn của
+nợ thứ cấp trên 5 năm, toàn bộ giá trị trái phiêu
+chuyển đôi, công cụ nợ khác được tính vào vôn
+câp 2.
+
+- Bắt đầu từ năm thứ năm trước khi đến hạn
+thanh toán, mỗi năm tại ngày đầu tiên của năm
+(tính theo ngày phát hành), giá trị nợ thứ cấp
+được tính vào vôn cập 2 sẽ phải được khấu trừ
+20% của tổng mệnh giá.
+
+
+Cấu phần
+
+Cách xác định
+
+(v) Trong trường hợp thanh lý ngân hàng người sở hữu khoản nợ thứ
+cấp chỉ được thanh toán sau khi ngân hàng đã thanh toán cho tất cả các
+chủ nợ khác;
+
+(v1) Lãi suất cô định hoặc công thức tính lãi suất của trái phiếu và các
+công cụ nợ khác được xác định trước và ghi rõ trong hợp đồng, tài liệu
+phát hành.
+
+- Đối với lãi suất cố định, việc điều chỉnh tăng lãi suất chỉ được thực
+hiện sau 5Š năm kế từ ngày phát hành, ký kết hợp đồng và chỉ được thay
+đổi 1 lần trong suốt thời hạn của nợ thứ cấp.
+
+- Đối với lãi suất tính theo công thức, công thức không được thay đổi và
+chỉ được thay đổi biên độ trong công thức (nếu có) I lần sau 5 năm kể
+từ ngày phát hành, ký kết hợp đồng.
+
+(18)
+
+Lợi ích của cỗ đông thiêu số
+
+Các khoản phải trừ khỏi Vốn cấp 2 hợp nhất (B2) = (19) + (20) +
+(21)
+
+(19)
+
+Phần giá trị chênh lệch dương giữa khoản mục (15) và 1,25% của “Tông
+tài sản tính theo rủi ro tín dụng” quy định tại Thông tư này.
+
+__ (20)
+
+Phần giá trị chênh lệch dương giữa khoản mục (17) và 50% của A
+
+1)
+
+Mua, đầu tư nợ thứ cấp của tổ chức tín dụng, chỉ nhánh ngân hàng nước
+ngoài khác phát hành đáp ứng đầy đủ các điều kiện để tính vào vốn cấp
+2 của tổ chức tín dụng, chỉ nhánh ngân hàng nước ngoài đó (không bao
+gồm nợ thứ cấp nhận làm tài sản bảo đảm, chiết khấu, tái chiết khấu của
+
+khách hàng).
+
+Bắt đầu từ năm thứ năm trước khi đến hạn thanh
+toán, mỗi năm tại ngày đầu tiên của năm (tính
+theo ngày phát hành), khoản mua, đầu tư nợ thứ
+cấp của tô chức tín dụng, chỉ nhánh ngân hàng
+nước ngoài khác phát hành đáp ứng đầy đủ các
+điều kiện để tính vào vốn cấp 2 của tổ chức tín
+dụng, chỉ nhánh ngân hàng nước ngoài đó sẽ
+được khấu trừ 20% của tông giá mua.
+
+Các khoản giảm trừ bồ sung
+
+22)
+
+Phần giá trị chênh lệch dương giữa (B1-B2) và A
+
+
+10
+
+Cấu phần
+
+Cách xác định
+
+Các khoản mục giảm trừ khi tính Vốn tự có hợp nhất
+
+Các khoản cấp tín dụng để góp vốn, mua cô phân tại tổ chức tín dụng
+khác
+
+Lây sô dư các khoản câp tín dụng đê góp vôn,
+mua cô phân tại tô chức tín dụng khác
+
+Các khoản góp vôn, mua cô phân tại tô chức tín dụng khác
+
+Lấy số liệu các khoản Góp vốn đâu tư dài hạn
+vào đối tượng là các tổ chức tín dụng khác
+thuộc khoản mục Góp vốn đầu tư dài hạn trên
+Bảng cân đối kế toán hợp nhất.
+
+(25)
+
+Các khoản góp vốn, mua cô phần của công ty con không thuộc đối
+tượng hợp nhât và công ty con là doanh nghiệp hoạt động theo Luật
+kinh doanh bảo hiêm
+
+Lây số liệu các khoản Góp vôn đầu tư dài hạn
+vào đối tượng là công ty con không thuộc đối
+tượng hợp nhất và các khoản góp vốn, mua cổ
+phần của công ty bảo hiểm, trừ đi các khoản đã
+tính ở mục (24) thuộc khoản mục Góp vốn đầu
+tư dài hạn trên Bảng cân đối kế toán hợp nhất.
+
+(26)
+
+Phần góp vốn, mua cổ phần của một doanh nghiệp, một quỹ đầu tư sau
+khi đã trừ các khoản phải trừ quy định tại mục (24) và mục (25) vượt
+mức 10% vốn điều lệ và quỹ dự trữ bổ sung vốn điều lệ của ngân hàng
+
+Lấy phần chênh lệch dương giữa: (¡) Số dư
+khoản góp vốn đầu tư dài hạn vào từng doanh
+nghiệp, từng quỹ đầu tư trong khoản mục Góp
+vốn đầu tư dài hạn trên Bảng cân đối kế toán
+hợp nhất sau khi trừ đi các khoản mục (24) và
+mục (25); và 10% của vốn điều lệ và quỹ dự trữ
+bổ sung vốn điều lệ của ngân hàng.
+
+(27)
+
+Tổng các khoản góp vốn, mua cô phần của các doanh nghiệp, quỹ đầu
+tư sau khi trừ đi các khoản từ mục (24) đến mục (26), vượt mức 40%
+vốn điều lệ và quỹ dự trữ bồ sung vốn điều lệ của ngân hàng
+
+Lấy phân chênh lệch dương giữa: (¡) Tông các
+khoản góp vốn, mua cô phần của doanh nghiệp,
+quỹ đầu tư trong khoản mục Góp vốn, đầu tư
+dài hạn trên Bảng cân đối kế toán hợp nhất, sau
+khi trừ di các khoản từ mục (24) đến mục (26);
+và (1) 40% vốn điều lệ và quỹ dự trữ bổ sung
+vốn điều lệ của ngân hàng
+
+(©)
+
+VÓN TỰ CÓ HỢP NHÁT (C) = (A) + (B) - (23) — (24) — (25) — (26) -
+(27)
+
+
+lãi
+
+B. Câu phần và cách xác định để tính vốn tự có của chỉ nhánh ngân hàng nước ngoài:
+Chi nhánh ngân hàng nước ngoài căn cứ vào các cấu phần quy định dưới đây, quy định của pháp luật về chế độ tài chính đối
+với tô chức tín dụng, chỉ nhánh ngân hàng nước ngoài và khoản mục tài sản của mình để xác định Vốn tự có cho phù hợp.
+
+Mục Cấu phần Cách xác định
+
+Vốn cấp 1 (A) = (A1)— (A2)
+
+Cấu phần Vốn cấp 1 (A1) = Y1+5b
+
+Lấy số liệu tại khoản mục Vốn điều lệ trên
+Bảng cân đối kế toán.
+
+Đối với ngân hàng sử dụng ngoại tệ làm đơn vị
+(1) | Vốn đã được cấp tiền tệ trong kế toán thì Vốn điều lệ được quy
+đổi ra đồng Việt Nam theo quy định của Ngân
+hàng Nhà nước hướng dẫn và Chế độ báo cáo
+tài chính đối với các tô chức tín dụng.
+
+Lây số liệu Quỹ dự trữ bồ sung vốn điêu lệ
+(2) | Quỹ dự trữ bô sung vôn điêu lệ trong khoản mục Quỹ của tổ chức tín dụng
+trên Bảng cân đối kế toán.
+
+Lấy số liệu Quỹ đâu tư phát triển trong khoản
+(3) | Quỹ đâu tư phát triên mục Quỹ của tố chức tín dụng trên Bảng cân
+đôi kê toán.
+
+Lẫy số liệu tại khoản mục Vốn đầu tư xây
+(4) | Vốn đâu tư xây dựng cơ bản, mua săm tài sản cô định dựng cơ bản, mua sắm tài sản có định trên
+Bảng cân đối kế toán.
+
+Lây số liệu Lợi nhuận chưa phân phối trên
+
+(5) | Lợi nhuận chưa phân phôi Bảng cân đối kế toán.
+
+Lấy sô liệu Chênh lệch tỷ giá. hồi đoái do đánh
+giá lại vốn chủ sở hữu có gôc ngoại tệ thuộc
+(Sa) | Chênh lệch tỷ giá hối đoái khoản mục Vốn Chủ sở hữu được ghi nhận trên
+Bảng cân đối kế toán khi chuyển đổi Báo cáo tài
+chính được lập bằng ngoại tệ ra đồng Việt Nam.
+
+
+12
+
+Mục Cấu phần Cách xác định
+Lấy số liệu Quỹ dự phòng tài chính trong khoản
+(Sb) | Quỹ dự phòng tài chính mục Quỹ của tô chức tín dụng trên Bảng cân
+đối kế toán.
+Các khoản phải giảm trừ khỏi Vốn cấp 1 (A2) = (6) + (7)
+(6) |Lỗ My kế Lây số liệu Lỗ lũy kế tại thời điểm tính tỷ lệ an
+toàn vôn.
+(Œ) Các khoản cấp tín dụng đê góp vốn, mua cô phân tại tô chức tín dụng Lây sỐ dư các khoản cho vay để góp vôn, mua
+khác cô phân tại tô chức tín dụng khác.
+VÓN CÁP 2 (B) = BI — B2 -— (13) Giá trị vốn cấp 2 tôi đa băng vốn cấp ].
+Cấu phần Vốn cấp 2 (B1) = Y8+9
+§0% dự phòng chung theo quy định của Ngân hàng Nhà nước về phân
+(8) loại tài sản có, mức trích, phương pháp trích dự phòng rủi ro và sử Lấy 80% tổng các khoản mục Dự phòng chung
+dụng dự phòng rủi ro đối với tổ chức tín dụng, chỉ nhánh ngân hàng | trên Bảng cân đối kê toán.
+nước ngoài
+Khoản vay, nợ thứ cấp do chỉ nhánh ngân hàng nước ngoài ký kết hợp | - Tại thời điểm xác định giá trị, nếu thời hạn của
+đồng, phát hành thỏa mãn các điều kiện sau đây: khoản vay, nợ thứ cấp. trên 5 năm, toàn bộ giá
+(¡) Có kỳ hạn vay tối thiểu là 5 năm; trị khoản vay, nợ thứ cấp được tính vào vốn cấp
+(1) Không được đảm bảo bằng tài sản của chính chi nhánh ngân hàng | 2.
+nước ngoài; - Bắt đầu từ năm thứ năm trước khi đến hạn
+(iii) Chi nhánh ngân hàng nước ngoài chỉ được trả nợ trước thời gian | thanh toán, mỗi năm tại ngày đầu tiên của năm
+(9) đáo hạn với điều kiện sau khi thực hiện vẫn đảm bảo các tỷ lệ, giới hạn | (tính theo ngày phát hành), giá trị khoản vay, nợ
+
+bảo đảm an toàn theo quy định và báo cáo Ngân hàng Nhà nước (Cơ
+quan Thanh tra, giám sát ngân hàng) để giám sát;
+
+(v) Chi nhánh ngân hàng nước ngoài được ngừng trả lãi và chuyền lãi
+luỹ kế sang năm tiếp theo nếu việc trả lãi dẫn đến kết quả kinh doanh
+trong năm bị lỗ;
+
+(v) Trong trường hợp chi nhánh ngân hàng nước ngoài chấm dứt hoạt
+động, bên cho vay chỉ được thanh toán sau khi chi nhánh ngân hàng
+
+thứ cấp được tính vào vôn câp 2 sẽ phải được
+khấu trừ 20% của tổng giá trị khoản vay, nợ thứ
+câp.
+
+
+13
+
+Mục Cấu phần Cách xác định
+nước ngoài đã thanh toán cho tất cả các chủ nợ khác;
+(vi) Lãi suất cô định hoặc công thức tính lãi suất của khoản vay, nợ thứ
+câp được xác định trước và ghi rõ trong hợp đồng, tài liệu phát hành.
+- Đối với lãi suất cố định, việc điều chỉnh tăng lãi suất chỉ được thực
+hiện sau 5 năm kế từ ngày phát hành, ký kết hợp đồng và chỉ được thay
+đổi ] lần trong suốt thời hạn của khoản vay, nợ thứ câp.
+- Đối với lãi suất tính theo công thức, công thức không được thay đỗi
+và chỉ được thay đổi biên độ trong công thức (nếu có) 1 lần sau 5 năm
+kể từ ngày phát hành, ký kết hợp đồng.
+Các khoản phải trừ khỏi Vốn cấp 2 (B2) = (10) + (11) + (12)
+Phần giá trị chênh lệch dương giữa khoản mục (8) và 1,25% của
+1Ì: bBimwl.rriyriam hs TT in
+Tông tài sản có rủi ro” quy định tại Thông tư.
+q1) P SẠO giá trị chênh lệch dương giữa các khoản tại mục (9) và 50% của
+Bắt đầu từ năm thứ năm trước khi đến hạn thanh
+Mua, đầu tư nợ thứ cấp của tô chức tín dụng, chi nhánh ngân hàng, Nhấn »e*đ nứt tại ngày đầu tiên của năm (tính
+nước ngoài khác phát hành đáp ứng đầy đủ các điều kiện để tính vào HHEBIHSSY BH HADUD,-RHUHU THÍ) đầu tư nợ thứ
+(12) | vốn cấp 2 của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đó cấp của tô chức tín dụng, chỉ nhánh DEN NHIẾP
+(không bao gồm nợ thứ cấp nhận làm tài sản bảo đảm, chiết khấu, tái nước ngoài Khác phát hành đáp ứng đây CÚI BẢO
+chiết khôn của khách hãng). điều kiện để tính vào vốn cấp 2 của tổ chức tín
+dụng, chi nhánh ngân hàng nước ngoài đó sẽ
+được khấu trừ 20% của tổng giá mua.
+Các khoản giảm trừ bỗ sung
+(13) | Phân giá trị chênh lệch dương giữa (BI- B2) và A
+(C)_| VÓN TỰ CÓ (C) = (A) + (B)
+
+
+nh kè: tự SQ„22b/2023ÄTT-NHNN ngày 2Ẵtháng 42năm 2023
+của Thông độc Ngân hàng Nhà nước PiệƒÝ Nam sửa đôi, bô sung mội sô điều của
+Thông h8 41/2016/TT-NHNN)
+
+1. Đối với các giao dịch với Trung tâm thanh toán tập trung (Central
+clearing house), Trung tâm lưu ký chứng khoán và các giao dịch ngân hàng, chi
+nhánh ngân hàng nước ngoài bán quyền chọn (short options), rủi ro tín dụng đối
+tác được xác định bằng 0.
+
+2. Đối với các giao dịch có tiền ký quỹ, tài sản bảo đảm đáp ứng điều kiện
+quy định tại Điều 12 Thông tư này, giá trị giao dịch được giảm trừ số tiền ký quỹ
+và giảm thiểu rủi ro theo tài sản bảo đảm quy định tại Điều 12 Thông tư này.
+
+3. Giá trị giao dịch, giá trị tài sản cơ sở phải được lấy theo giá trị thị trường
+(mark to market). Trường hợp không có giá trị thị trường, ngân hàng, chi nhánh
+ngân hàng nước ngoài phải tính toán giá trị theo các dữ liệu thị trường (mark to
+model) và phải chịu trách nhiệm về tính chính xác, hợp lý của phương pháp tính
+toán, đồng thời báo cáo Ngân hàng Nhà nước (Cơ quan Thanh tra, giám sát ngân
+hàng) trước khi thực hiện. Ngân hàng Nhà nước (Cơ quan Thanh tra, giám sát
+ngân hàng) sẽ yêu câu ngân hàng, chỉ nhánh ngân hàng nước ngoài sửa đôi phương
+pháp tính toán trong trường hợp cân thiết.
+
+„ “ẤN Đối với giao dịch sản phẩm phái sinh: Tài sản tính theo rủi ro tín dụng
+đối tác của giao dịch thứ j (RWAccer;) được tính theo công thức:
+RWAccr; = [(RC¡ + PFE;) - C¡ ]x CRW
+
+Trong đó:
+
+a) RC¡: Chi phí thay thế của giao dịch thứ j được xác định theo giá trị thị
+trường của giao dịch thay thế tương ứng với giá trị tài sản cơ sở, giá trị giao dịch
+gôc (chỉ lây giá trị dương);
+
+b) PFEi: Giá trị tương lai trạng thái rủi ro của giao dịch thứ j được xác định
+trên cơ sở tông giá trị vôn danh nghĩa xác định theo quy định pháp luật vê hạch
+toán kế toán nhân với chỉ số tăng thêm (add-on factor) theo từng thời hạn còn lại
+như sau:
+
+Ngoại hỗi Cô phiếu, Kim loại :
+*'x§ '. : .. — Các hàng
+Lãi suật | (gôm Vàng | chứng chỉ quỹ, quý (trừ
+
+cà Ä ⁄ À hóa khác
+tiêu chuân) chứng quyên vàng) _
+“4 XÔM 0,0% 1,0% 6,0% 7,0% 10,0%
+trở xuöng
+ĐNLSẤM | (/ấội 5,0% 8,0% 7.0% 12,0%
+đên Š năm
+Trên Š năm 1,5% 7,5% 10,0% §,0% 15,0%
+
+
+Trong đó:
+
+(¡) Đối với các hợp đồng giao dịch vốn gốc nhiều lần, chỉ số tăng thêm phải
+tính theo từng lần thanh toán còn lại của hợp đồng:
+
+(ii) Trường hợp giá trị vốn danh nghĩa khác nhau theo thỏa thuận của g1aO
+dịch, chỉ số tăng thêm phải tính theo từng giá trị vốn danh nghĩa thỏa thuận theo
+giao dịch;
+
+(1) Đối với hợp đồng có ngày thanh toán hợp đồng cụ thể và ngày cụ thê
+định lại giá trị thị trường của hợp đồng bằng 0 thì thời hạn còn lại được xác định
+bằng thời gian cho đến kỳ định lại giá trị tiếp theo. Trường hợp hợp đồng lãi suất
+có thời hạn còn lại trên một năm mà đáp ứng các điều kiện trên, chỉ số tăng thêm
+là 0,5%;
+
+(iv) “Các hàng hóa khác” bao gồm cả các hợp đồng kỳ hạn, hợp đồng hoán
+đổi, hợp đồng quyền chọn mua và các hợp đồng phái sinh tương tự mà không
+thuộc các cột còn lại;
+
+(v) Đối với sản phâm hoán đổi lãi suất thả nổi/thả nổi một đồng tiền, tài sản
+tính theo rủi ro tín dụng đối tác (RWA.„) tính theo giá trị thị trường của giao dịch,
+không phải tính giá trị tương lai trạng thái rủi ro của giao dịch (PFE;).
+
+(vi) Đối với giao dịch sản phẩm phái sinh tín dụng, chỉ số tăng thêm được
+xác định như sau:
+
+Giao dịch sản phẩm phái sinh tín dụng Chỉ số tăng thêm
+1. Hợp đông hoán đôi lợi nhuận tông:
+- Nghĩa vụ tham chiếu đủ tiêu chuẩn là các nghĩa vụ của các 5%
+
+tổ chức tài chính công lập của chính phủ, ngân hàng phát
+triển hoặc các hợp đồng hoán đổi khác có xếp hạng tín nhiệm
+từ Baa trở lên của Moody hoặc BBB trở lên của Standard &
+Poorˆs, FItch Rating: „
+
+- Nghĩa vụ tham chiều không đủ tiêu chuẩn là các nghĩa vụ
+
+0
+không đáp ứng các điều kiện nêu trên. U50
+2. Hợp đông hoán đôi vỡ nợ tín dụng:
+- Nghĩa vụ tham chiều đủ tiêu chuận,p _ — =—_ >1
+- Nghĩa vụ tham chiếu không đủ tiêu chuẩn. 10%
+
+c) C¡: Giá trị tài sản đảm bảo. C¡ được hiệu chỉnh theo hệ số hiệu chỉnh quy
+định tại Điều 12 Thông tư này. C;= 0 nếu không đáp ứng đủ các điều kiện quy
+định tại Điều 12 Thông tư này:
+
+d) CRW: Hệ số rủi ro tín dụng của đối tác theo quy định tại Điều 9 Thông
+tư này.
+
+5. Đối với các giao dịch Repo và Reverse Repo (trừ giao dịch mua có kỳ
+hạn công cụ chuyển nhượng, giây tờ có giá khác quy định tại Mục 6 Phụ lục này),
+tài sản tính theo rủi ro tín dụng đối tác (RWAccr;) được tính theo công thức sau:
+
+RWAccr; = (Max[(0, Ej~ C¡ x (1-H.-Ha,))])x CRW
+
+Trong đó:
+
+- H,: Hệ số hiệu chỉnh tương ứng của tài sản cơ sở được quy định tại Điều
+12 Thông tư này. C¡ bằng 0 nêu không đáp ứng đủ các điều kiện quy định tại Điều
+12 Thông tư này;
+
+- Hạ: Hệ số hiệu chỉnh độ lệch tiền tệ giữa giao dịch và tài sản bảo đảm, tài
+sản cơ sở và băng 8%;
+
+- CRW: Hệ số rủi ro tín dụng của đối tác theo quy định tại Điều 9 Thông
+tư này.
+
+a) Đối với ngân hàng, chi nhánh ngân hàng nước ngoài mua có kỳ hạn:
+
+(1) E¡: Giá trị mua lại theo thỏa thuận của giao dịch thứ j theo quy định pháp
+luật;
+
+(1ñ) C¡: Giá trị của tài sản cơ sở thứ j.
+
+b) Đối với ngân hàng, chi nhánh ngân hàng nước ngoài bán có kỳ hạn:
+
+(0) E¡: Giá trị của tài sản cơ sở thứ J;
+
+(1ñ) C¡: Giá trị mua lại theo thỏa thuận của giao dịch thứ j theo quy định
+pháp luật.
+
+6. Đối với giao dịch mua có kỳ hạn tài sản tài chính theo quy định của Ngân
+hàng Nhà nước về hoạt động chiết khấu công cụ chuyên nhượng, giấy tờ có giá
+khác, rủi ro tín dụng đối tác được tính như sau:
+
+RWAccr = E¡x CRW
+Trong đó:
+
+- E¡: Giá trị thanh toán khi đến hạn thanh toán, lãi chiết khấu và các chỉ phí
+hợp lý khác liên quan đến hợp đồng chiết khấu theo thỏa thuận giữa ngân hàng,
+chi nhánh ngân hàng nước ngoài và khách hàng (nếu có) của giao dịch thứ j theo
+quy định của pháp luật;
+
+- CRW: Hệ số rủi ro tín dụng của đối tác theo quy định tại Điều 9 Thông
+tư này.
+
+7. Đối với giao dịch có thỏa thuận thanh toán đồng thời mà đối tác không
+thực hiện thanh toán đúng thời gian đã cam kết, ngân hàng, chi nhánh ngân hàng
+nước ngoài phải có quy trình theo dõi, giám sát chặt chẽ và phải tính tài sản tính
+theo rủi ro tín dụng đối tác (RWAccr) khi giao dịch không được thanh toán sau Š
+ngày kể từ ngày thanh toán đã cam kết theo công thức:
+
+RWAccr = 12,5xGDxr
+Trong đó:
+- GD: Số dư giao dịch chưa thanh toán đúng thời hạn cam kết;
+
+- r: Hệ số rủi ro áp dụng theo sỐ ngày chậm trả, được xác định như sau:
+
+Số ngày chậm thanh toán Hệ số rủi ro
+Từ 5 đến 15 ngày §%
+Từ 16 đến 30 ngày 50%
+Từ 31 đến 45 ngày 75%
+Từ 46 ngày trở lên 100%
+
+§. Đối với giao dịch không thỏa thuận thanh toán đồng thời, ngân hàng, chỉ
+nhánh ngân hàng nước ngoài đã thực hiện thanh toán theo cam kết, trong thời gian
+5 ngày làm việc kể từ ngày thỏa thuận thanh toán mà đối tác chưa thực hiện nghĩa
+vụ, ngân hàng, chi nhánh ngân hàng nước ngoài tính tài sản tính theo rủi ro tín
+dụng đối tác (RWAccr) theo công thức sau:
+
+RWAccr = E¡ x CRW
+Trong đó:
+- E¡: Giá trị của giao dịch thứ J;
+
+- CRW: Hệ số rủi ro tín dụng của đối tác theo quy định tại Điều 9 Thông
+tư này.
+
+Sau 5 ngày làm việc kể từ ngày thỏa thuận thanh toán mà đối tác chưa thực
+hiện nghĩa vụ, ngân hàng, chi nhánh ngân hàng nước ngoài phải trừ giá trỊ g1aO
+dịch và chỉ phí thay thế của giao dịch, nếu có vào vốn tự có cho tới khi đối tác
+thực hiện nghĩa vụ.
+
+9. Việc bù trừ hai bên là việc ngân hàng, chi nhánh ngân hàng nước ngoài
+thay thế một nghĩa vụ thanh toán với đối tác cho một đồng tiền nhất định vào thời
+điểm nhất định đối với các nghĩa vụ cùng đồng tiền và cùng thời điểm. Việc bù
+trừ hai bên chỉ được thực hiện khi đáp ứng các điều kiện sau đây:
+
+a) Có thỏa thuận, hợp đồng bù trừ hai bên tạo ra một nghĩa vụ hợp pháp cho
+các giao dịch mà ngân hàng, chi nhánh ngân hàng nước ngoài được nhận hoặc
+phải thực hiện thanh toán theo số dư bù trừ của các giá trị thị trường của các giao
+dịch riêng lẻ khi đối tác không thực hiện nghĩa vụ theo hợp đồng do không có khả
+năng thanh toán, bị phá sản, bị thanh lý hoặc các trường hợp tương tự khác; không
+có điều khoản cho phép đối tác chỉ thực hiện việc thanh toán hạn chế hoặc không
+thanh toán đầy đủ từ tài sản của bên không thanh toán kể cả bên thanh toán là
+người được nhận thanh toán bù trừ;
+
+b) Pháp luật của các nước có liên quan cho phép việc bù trừ hai bên;
+
+c) Có quy trình đảm bảo các yêu cầu pháp lý của thỏa thuận, hợp đồng bù
+trừ hai bên được rà soát phù hợp theo những thay đôi của pháp luật liên quan.
+
+10. Tài sản tính theo rủi ro tín dụng đối tác (RWAce) khi bù trừ hai bên
+được xác định là tông giá trị của các chi phí thay thê bù trừ, (nêu dương) và chỉ
+sô tăng thêm theo giá trị vôn gôc danh nghĩa. Chỉ sô tăng thêm của giao dịch bù
+trừ (Axe) được xác định theo công thức:
+
+ANet= ÁGros (0.4 +0,6 NGR)
+
+Trong đó:
+
+5
+
+- Aross: Chỉ số tăng thêm tổng hợp được xác định bằng tổng giá trị tương
+lai trạng thái rủi ro của giao dịch của các giao dịch thành phân tính theo công thức
+quy định tại Mục 4 Phụ lục này;
+
+- NGR: tỷ lệ chi phí thay thế bù trừ trên tỷ lệ thay thế tổng hợp của các giao
+dịch trong thỏa thuận/hợp đồng bù trừ hai bên.
+
+Ví dụ minh hoa đối với giao dịch mua, bán có kè hạn:
+
+Ngắn hàng A và Ngân hàng B ký kết hợp đông mua bán có kỳ hạn 100 tỷ
+trái phiếu 10 năm của Ngân hàng C (không có xếp hạng tín nhiệm) trong thời hạn
+3 tháng với giá trị mua lại là 98 tỷ đồng. Giá trị thị trường của số trái phiếu này
+tại thời điểm tính là 99 tỷ đồng. Hệ số rủi ro áp dụng cho Ngân hàng A, Ngân
+hàng B đôi với các khoản phải đòi có thời hạn gốc nhỏ hơn 3 tháng lán lượt là:
+30%, 70%.
+
+- Ngân hàng A (bên bán) phải xác định tài sản tính theo rủi ro tín dụng đối
+tác cho giao dịch này như sau:
+RWAccr = [Max(0, (99 — 98 x (1-0,12) ]x 70% = 8,932 tỷ đông.
+- Ngân hàng B (bên mua) phải xác định tài sản tính theo rủi ro tín dụng đối
+tác cho giao dịch này như sau:
+RWAccr = [Max(0, (98— 99 x (1-0,12)Jx 50% = 5,44 tỷ đông.
+
+(Ban hành kèm theo Thô
+của Thông độc Ngân hàn,
+
+ˆˆ ¬..
+s.? P L
+/# / 9...
+
+P4
+
+GIÁ TRỊ CỨA C
+
+tự 3ð 2220/AU 5U
+
+Vhà nước Yiệt/
+
+XÁC ĐỊN
+
+SÓ KINH DOANH
+-NHNN ngày 23tháng 42»ăm 2023
+
+am sửa đổi, bồ sung một số điều của
+
+1. Ngân hàng, chi nhánh ngân hàng xác định giá trị của Chỉ số kinh doanh
+
+như sau:
+Cấu . - Khoản mục trên Báo cáo kết quả
+phần Tương hoạt động kinh doanh
+| Thu nhập lãi và các khoản thu ki BBIDN|HRBIRERIEUEIIDIEHN
+“ „1. na... ập tương tự
+IC | nhập tương tự - Chi phí lãi và các Chỉ phí lãi và các chỉ phí tư
+chỉ phí tương tự | —___ ơng
+Thu diệp firiopEiBnpdidirvu+ CETEHHEP DLöơE Đừng Diếh VỤ
+sc | Chiphí hoạt động dịch vụ + Thu Chỉ phí hoạt động dịch vụ
+nhập từ hoạt động khác + Chi phí | Thu nhập từ hoạt động khác
+từ hoạt động khác Chỉ phí hoạt động khác
+
+FC
+
+ILãi/1ỗ thuần từ hoạt động kinh
+doanh ngoại hối (bao gôm cả vàng
+tiêu chuẩn)| + |Lãi/lỗ thuần từ mua
+
+bán chứng khoán kinh doanh| +
+
+ILã¡/lỗ thuần từ mua bán, chứng
+
+khoán đầu tưi
+
+|Lãi/lỗ thuân từ hoạt động kinh
+doanh ngoại hôi (bao gôm cả
+vàng tiêu chuân)|
+
+ILãi/lỗ thuần từ mua bán chứng
+khoán kinh doanh|
+
+ILãi/lỗ thuần từ mua bán, chứng
+khoán đâu tư|
+
+2. Các khoản mục sau đây không được tính vào bât cứ cấu phần nào của
+
+Chỉ số kinh doanh:
+
+a) Thu nhập và chi phí bảo hiểm và tái bảo hiểm tài sản của ngân hàng,
+chi nhánh ngân hàng nước ngoài (một phần của Tài khoản 79 và Tài khoản 875);
+
+b) Lãi/lỗ thuần do ngừng ghi nhận tài sản tài chính không được đánh giá
+theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh (Tài khoản
+742, Tài khoản 843);
+
+c) Lãi/lỗ thuần do ngừng ghi nhận tài sản phi tài chính, nợ phải trả không
+được đánh giá theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh
+doanh (một phần của Tài khoản 79, Tài khoản 899);
+
+d) Giá trị âm của lợi thế thương mại đã được ghi nhận vào Báo cáo kết
+quả hoạt động kinh doanh (một phần Tài khoản 79 đối với lợi thế thương mại
+được chuyển nhượng khi thực hiện mua tài sản mà chỉ tính một phần hoặc
+không tính đến lợi thế thương mại đi kèm).
+
+Vĩ dụ mình họa:
+
+Cấu phân
+
+Khoản mục trên Báo cáo KQHĐKD
+
+IC=| 8.000 tỷ đồng - 3.500
+tỷ đông |= 4.500 tỷ đông
+
+Thu nhập lãi và các khoản: 8.000 tỷ đồng
+
+Chi phí lãi và các chỉ phí tương tự: 3.500 tỷ đồng
+
+SC= 700 tỷ đồng + 400 tỷ
+đông + 200 tỷ đông + 110
+tỷ đồng = 1.410 tỷ đông
+
+Thu nhập từ hoạt động dịch vụ: 700 tỷ đông
+
+Chi phí hoạt động dịch vụ: 400 tỷ đồng
+
+Thu nhập từ hoạt động khác: 200 tỷ đồng
+
+Chi phí hoạt động khác: 110 tỷ đồng
+
+FC = 450 tỷ đồng + |(100)
+tỷ đông| + 50 tỷ đông =
+600 tỷ đồng
+
+Lã¡/lỗ thuân từ hoạt động kinh doanh ngoại hôi: 450 tỷ
+đồng
+
+Lãi/lỗ thuân từ mua bán chứng khoán kinh doanh: (100)
+tỷ đông
+
+Lã¡/lỗ thuần từ mua bán, chứng khoán đầu tư: 50 tỷ đồng
+
+Ví dụ về xác định vốn yêu cầu cho rủi ro hoạt động tại thời điểm 31/10/2018:
+
+Blaam hứn = BÌ cu m/2014 Ð BÌ gay H2018 Ð BÌ ouy 1201 Ð BÌ Quy 1/2017
+
+Đlrăm tứ n1 = BÌ ow n2017 + BÌ oự "2012 Ð BÌ oăy 2012 + BÌ Quy 1/2016
+
+Đl¬ăm thứ n-2 = BÌ ouy 11/2016 † BÌ o "2016 + BÌ oø 12016 + BĨ oự H⁄2015
+
+
+AØƒ Nam sửa đổi, bỗ sung một số điều của
+016/TT-NHNN)
+
+A. Nguyên tắc tính vốn cho rủi ro thị trường
+
+Giá trị giao dịch, giá trị tài sản cơ sở phải được lấy theo giá trị thị trường
+(mark to market). Trường hợp không có giá trị thị trường, ngân hàng, chỉ nhánh
+ngân hàng nước ngoài phải tính toán giá trị theo các dữ liệu thị trường (mark to
+model) và phải chịu trách nhiệm về tính chính xác và hợp lý của phương pháp
+tính toán, đồng thời báo cáo Ngân hàng Nhà nước (Cơ quan Thanh tra, giám sát
+ngân hàng) trước khi thực hiện. Ngân hàng Nhà nước (Cơ quan Thanh tra, giám
+sát ngân hàng) sẽ yêu cầu ngân hàng, chi nhánh ngân hàng nước ngoài sửa đôi
+phương pháp tính toán trong trường hợp cần thiết.
+
+Lá , Ẩ _Ai ¿ * `
+B. Cách tính vôn cho rủi ro thị trường
+L$ ˆ À 2. ~* L4
+L. Võn yêu câu cho rủi ro lãi suât
+1. Phạm vi tính vốn yêu câu cho rủi ro lãi suât:
+
+Ngân hàng, chi nhánh ngân hàng nước ngoài phải tính vốn yêu cầu cho rủi
+ro lãi suất đối với tất cả các công cụ tài chính trên sô kinh doanh (bao gồm cả
+trạng thái dương hoặc âm) mà giá trị thị trường của các công cụ tài chính này sẽ
+bị ảnh hưởng khi có thay đổi về lãi suất trừ:
+
+a) Trái phiếu chuyên đôi đã được tính vốn yêu cầu cho rủi ro giá cô phiếu
+quy định tại Mục II Phân B Phụ lục này;
+
+b) Công cụ vốn chủ sở hữu, công cụ vốn chủ sở hữu có tính chất nợ của
+đơn vị khác đã trừ khỏi vốn của ngân hàng, chỉ nhánh ngân hàng nước ngoài khi
+tính Vốn tự có quy định tại Phụ lục 1 Thông tư này;
+
+c) Tài sản cơ sở của hợp đồng quyền chọn đã tính vốn yêu cầu cho giao
+dịch quyên chọn;
+
+d) Các công cụ tài chính mua theo hợp đồng mua có kỳ hạn giấy tờ có giá
+giữa các tô chức tín dụng, chi nhánh ngân hàng nước ngoài.
+
+2. Nguyên tắc tính vốn yêu cầu cho rủi ro lãi suất:
+
+a) Ngân hàng, chi nhánh ngân hàng nước ngoài tính vốn yêu cầu cho rủi ro
+lãi suất cụ thể của từng công cụ tài chính có trạng thái dương hoặc âm và rủi ro
+lãi suất chung cho toàn bộ danh mục đảm bảo:
+
+(¡) Vốn yêu cầu cho rủi ro lãi suất cụ thể phát sinh từ các yếu tô liên quan
+đên đơn vị phát hành công cụ tài chính;
+
+(ï) Vốn yêu cầu cho rủi ro lãi suất chung phát sinh từ thay đổi lãi suất trên
+thị trường.
+
+2
+
+b) Sản phẩm phái sinh lãi suất phải quy đôi thành trạng thái danh nghĩa
+tương ứng của các tài sản cơ sở và dùng giá trị thị trường của tài sản cơ sở đề tính
+vôn yêu câu cho rủi ro lãi suất nh sau:
+
+(¡) Tính vốn yêu cầu cho rủi tọ lãi suất idtng theo quy định tại điểm 4 Mục
+này; «
+(1) Tính vốn yêu cầu cho rủi ro lãi suất cụ thể theo quy định tại điểm 3
+Mục này. Các hợp đồng hoán đôi tiền tệ và lãi suất; hợp đồng kỳ hạn lãi suất hoặc
+ngoại tệ; hợp đồng tương lai lãi suất; hợp đồng tương lai dựa trên chỉ số lãi suất;
+hợp đông tương lai ngoại tệ và các công cụ tài chính khác không phải tính rủi ro
+lãi suất cụ thê.
+
+c) Giao dịch mua (bán) hợp đồng kỳ hạn, hợp đồng tương lai mà tài sản cơ
+sở là các chứng khoán nợ phải chuyên đôi thành 02 trạng thái tương ứng của các
+chứng khoán nợ như sau:
+
+(1) Trạng thái dương (âm) của chứng khoán nợ;
+
+(1) Trạng thái âm (dương) của chứng khoán nợ có lãi suất bằng 0 (zero
+coupon) và rủi ro lãi suất cụ thê bằng 0 (ví dụ tương đương trái phiếu Chính phủ
+có lãi suất bằng 0) có thời hạn bằng thời gian đến hạn của hợp đồng kỳ hạn, hợp
+đồng tương lai.
+
+d) Hợp đồng kỳ hạn, hợp đồng tương lai mà tài sản cơ sở là danh mục chứng
+khoán nợ hoặc chỉ sô chứng khoán nợ phải chuyển đổi thành các hợp đồng kỳ
+hạn, hợp đồng tương lai của từng chứng khoán nợ như sau:
+
+(¡) Hợp đồng kỳ hạn, . hợp đồng tương lai mà tài sản cơ sở là danh mục
+chứng khoán nợ hoặc chỉ số chứng khoán nợ là tổng của các hợp đồng kỳ hạn,
+hợp đồng tương lai của từng loại chứng khoán trong danh mục/chỉ sô CÓ giá trị
+bằng tỷ lệ tương ứng giữa giá trị của mỗi chứng khoán nợ với giá trị của tông danh
+mục/chỉ sô;
+
+(ii) Các hợp đồng kỳ hạn, hợp đồng tương lai của từng chứng khoán nợ
+được tính trạng thái theo quy định tại điểm 4b Mục này.
+
+đ) Đối với hợp đồng lãi suất : kỳ hạn, ngân hàng, chi nhánh ngân hàng nước
+ngoài bán (mua) hợp đông lãi suất kỳ hạn phải chuyên đổi thành 02 trạng thái
+tương ứng như sau:
+
+(1) Trạng thái âm (dương) của giá trị danh nghĩa chứng khoán nợ có lãi suất
+bằng 0 (zero coupon) và rủi ro lãi suất cụ thê bằng 0 (ví dụ tương đương trái phiếu
+Chính phủ có lãi suất bằng 0) có thời hạn bằng tông của thời gian đến hạn của hợp
+đồng kỳ hạn và thời hạn của tài sản cơ sở;
+
+(1) Trạng thái dương (âm) của giá trị danh nghĩa chứng khoán nợ có lãi suất
+bằng 0 (zero coupon) và rủi ro lãi suất cụ thê bằng 0 có thời hạn bằng thời gian
+đến hạn của hợp đồng kỳ hạn.
+
+3
+
+e) Đối với giao dịch hoán đổi ngoại tệ, hợp đồng hoán đồi lãi suất, ngân
+hàng, chi nhánh ngân hàng nước ngoài tính theo hai trạng thái danh nghĩa l và 2
+
+như sau:
+
+Trạng thái danh nghĩa 1
+
+Trạng thái danh nghĩa 2
+
+Ngân hàng, chi
+nhánh ngân hàng
+nước ngoài nhận lãi
+suất cô định và trả
+lãi suất thả nổi
+
+Trạng thái âm của chứng
+khoán nợ có rủi ro lãi suất
+cụ thể bằng 0, có lãi suất là
+lãi suất thả nổi, có thời hạn
+là thời hạn định lại lãi suất
+
+Trạng thái dương của
+chứng khoán nợ có rủi ro
+lãi suất cụ thê băng 0, có lãi
+suất, thời hạn tương ứng là
+lãi suất có định, thời hạn
+của hợp đồng hoán đổi
+
+Ngân hàng, chi
+nhánh ngân hàng
+nước ngoài nhận lãi
+suất thả nôi và trả lãi
+
+Trạng thái âm của chứng
+khoán nợ có rủi ro lãi suất
+cụ thê bằng 0, có lãi suất,
+thời hạn tương ứng là lãi
+
+Trạng thái dương của
+chứng khoán nợ có rủi ro
+lãi suất cụ thê bằng 0, có lãi
+suất là lãi suất thả nôi, có
+
+nhánh ngân hàng
+nước ngoài nhận và
+trả lãi suât thả nôi
+
+khoán nợ có rủi ro lãi suất
+cụ thể bằng 0, có lãi suất là
+lãi suất thả nổi, có thời hạn
+
+suất cố định suất có định, thời hạn của | thời hạn là thời hạn định lại
+hợp đông hoán đôi lãi suât
+Ngân hàng, chi | Trạng thái âm của chứng | Trạng thái dương của
+
+chứng khoán nợ có rủi ro
+lãi suất cụ thê bằng 0, có lãi
+suất là lãi suất thả nôi, có
+
+nhánh ngân hàng
+nước ngoài nhận và
+trả lãi suât cô định
+
+khoán nợ có rủi ro lãi suất
+cụ thể bằng 0, có lãi suất là
+lãi suất có định, có thời hạn
+là thời hạn của hợp đồng
+hoán đổi
+
+là thời hạn định lại lãi suất | thời hạn là thời hạn định lại
+lãi suât
+Ngân hàng, chi | Trạng thái âm của chứng |Trạng thái dương của
+
+chứng khoán nợ có rủi ro
+lãi suất cụ thê bằng 0, có lãi
+suất là lãi suất cô định, có
+thời hạn là thời hạn của hợp
+đồng hoán đổi
+
+Đối với giao dịch hoán đôi ngoại tệ, hai trạng thái danh nghĩa của chứng
+khoán nợ có rủi ro lãi suất cụ thể bằng 0 ở bảng trên là hai trạng thái danh nghĩa
+của chứng khoán nợ có đồng tiền phát hành là hai đồng tiền tương ứng trong giao
+dịch hoán đổi tiền tệ.
+
+3. Vốn yêu cầu cho rủi ro lãi suất cụ thê (Ki? a) xác định theo công thức sau:
+
+Kinh = L1(e*SRW)
+
+Trong đó:
+
+- e¡: là giá trị thị trường của công cụ tài chính thứ ï;
+
+- SRW: là hệ số rủi ro lãi suất cụ thê của từng công cụ tài chính.
+Hệ số rủi ro lãi suất cụ thê (SRW) được xác định như sau:
+
+a) Đối với các công cụ tài chính do Chính phủ Việt Nam, Ủy ban nhân dân
+tỉnh, thành phố trực thuộc Trung ương phát hành hoặc bảo lãnh thanh toán, hệ số
+rủi ro lãi suất cụ thê là 0%;
+
+4
+
+b) Đối với các công cụ tài chính khác, hệ số rủi ro lãi suất cụ thê SRW được
+xác định theo bảng dưới đây:
+
+Công cụ Xếp hạng tín
+tài chính |¡_ nhiệm độc lập
+Từ AA- đến AAA | 0%
+
+Từ BBB- đến A+ | 0,25% trường hợp thời hạn còn lại đến ngày
+đáo hạn của công cụ tài chính từ 6 tháng trở
+xuống
+
+1% trường hợp 6 tháng < thời hạn còn lại đến
+Nhóm ] ngày đáo hạn của công cụ tài chính < 24 tháng
+1,6% trường hợp thời hạn còn lại đến ngày đáo
+hạn của công cụ tài chính > 24 tháng
+
+Từ B- đến BB+_ | 8%
+
+Dưới mức B- 12%
+
+Không xếp hạng | 12%
+
+0,25% trường hợp thời hạn còn lại đến ngày
+đáo hạn của công cụ tài chính từ 6 tháng trở.
+xuống
+
+Nhóm 2 1% trường hợp 6 tháng < thời hạn còn lại đên
+ngày đáo hạn của công cụ tài chính < 24 tháng
+1,6% trường hợp thời hạn còn lại đến ngày đáo
+hạn của công cụ tài chính > 24 tháng
+
+Tù BB- đên BB+_| 8%
+
+Nhóm 3 ! Dưới mức BB- 12%
+
+Không xếp hạng | 12%
+
+SRW
+
+Trong đó:
+
+- Nhóm 1: Công cụ tài chính do chính phủ, chính quyền địa phương của các
+nước phát hành.
+
+- Nhóm 2:
+
++ Công cụ tài chính do các tổ chức tài chính quốc tế hoặc doanh nghiệp nhà
+nước phát hành;
+
++ Công cụ tài chính khác được ít nhất hai tổ chức xếp hạng tín nhiệm xếp
+hạng BBB- hoặc tương đương trở lên.
+
++ Công cụ tài chính khác được một tổ chức xếp hạng BBB- hoặc tương
+
+đương trở lên và không có tô chức xếp hạng nào khác xếp hạng thấp hơn mức
+BBBR-.
+
+- Nhóm 3: Công cụ tài chính còn lại.
+4. Vôn yêu câu cho rủi ro lãi suât chung ( Kƒntt ):
+
+-8) Vốn yêu cầu cho rủi ro lãi suất chung là tông các giá trị tuyệt đối của vốn
+yêu cầu cho rủi ro lãi suất chung tính riêng của từng loại đồng tiên.
+
+Š
+
+b) Vốn yêu cầu cho rủi ro lãi suất chung được xác định bằng phương pháp
+thang kỳ hạn theo công thức như sau:
+
+KftR = NWP + VD + HD
+
+Trong đó:
+
+- NWP: Vốn yêu cầu để bù đắp cho rủi ro do lệch trạng thái trên số kinh
+doanh;
+
+- VD (vertical disallowance): Vốn yêu cầu đề bù đắp cho rủi ro do khớp trạng
+thái trong cùng thang kỳ hạn;
+
+- HD (horizontal disallowance): Vốn yêu cầu để bù đắp cho rủi ro do khớp
+trạng thái trong cùng một (01) vùng hoặc giữa các vùng khác nhau.
+
+c) Vốn yêu cầu cho rủi ro lãi suất chung thực hiện theo các bước sau:
+
+() Bước 1: Xác định các Kỳ hạn theo thời hạn còn lại đến ngày đáo hạn
+hoặc thời hạn còn lại đến kỳ điều chỉnh lãi suất của từng trạng thái của công cụ
+tài chính.
+
+(1) Bước 2: Phân bổ các trạng thái công cụ tài chính theo 7hang kỳ hạn
+(Maturity) theo bảng dưới đây:
+
+Tang mi Trạng thái Trạng thái tương Trạng thái
+tương H"¿ không tương Tổng của trạng ứng điều chỉnh không tương Trạng thái tương
+Hệ số rủi Trạng thái điều điều mê ứng điều thái điều chỉnh theo hệ số rủi ro | ứng điều chỉnh ứng Hiểu chỉnh theo
+Thang kỳ hạn (Maturity) ro Trạng thái ròng chỉnh theo hệ số rủi theo hệ S chỉnh theo hệ theo hệ số rủi ro theo vùng theo hệ số rủi ro hệ số rủi ro giữa các
+(Weighti (Net position) ro (Weighted FMSUTĐ số rủi ro theo vùng theo vùng vùng (Matched
+ng) position) (Matched (Unmatched |  (Sums of weighted (Matched (Unmatched weighted position
+weighted positions by zone) |Weighted position weighted between zones)
+
+igh
+weighted puaitdoii) by zone) position by zone)
+
+1 - position)
+Vùn 8 Lãi suât Dươn Am Dươn Am Dươn Am
+Œone, | Lãisuất>3% <3% (Long) | (Shor) | (Long) | (ShorQ - (Long) | (ShorQ sử UẸ j5 | SG
+1 2 3 4 5 6 7 8
+dưới I tháng đưới I tháng 0.00
+trở xuống
+1- dưới 3 1- dưới 3 0.20
+tháng tháng
+3- dưới 6 3- dưới 6 0,40
+tháng tháng
+6- dưới 12 6- dưới 12 0,70 (b)
+tháng tháng
+
+Vùng I1
+
+1- đưới 2 năm I- dưới 1,9 1,25
+năm
+2- dưới 3 năm 1,9- dưới 2,8 1,75
+năm
+3- dưới 4 năm 2,8- dưới 3,6 2,25
+năm
+
+Vùng 2
+
+4- dưới 5 năm 3,6- dưới 4,3 2,75
+năm
+5- dưới 7 năm 4,3- dưới 5,7 325
+năm
+7- dưới 10 5,7- dưới 7,3 8S
+năm năm
+
+10- dưới 15 7„3-dưới 9.3 4,50
+năm năm
+15-đưới 20 9/3- dưới 525
+năm 10,6 năm -
+
+từ 20 năm trở 10,6- dưới 6,00
+lên 12 năm
+
+12- dưới 20 8,00
+năm -
+từ 20 năm 12,50 (d)
+trở lên
+
+Vùng 3
+
+Tông
+LŨ)
+NWP=|(L)-(S)I
+
+Tổng (S) Tổng (a) (e) (Ð (g)
+
+VD=
+10%*{(a)
+
+
+- Bước 3: Xác định Trạng thái ròng dương (Long position) của từng thang
+kỳ hạn là tông các trạng thái dương của cùng thang kỳ hạn đó và Trạng thái ròng
+âm (Short position) là tông các trạng thái âm của cùng thang kỳ hạn đó.
+
+- Bước 4: Xác định Trạng thái dương/âm điều chỉnh theo hệ số rủi ro
+(weighted long/short position) của từng thang kỳ hạn bằng cách nhân trạng Thái
+ròng dương/âm (Long/Short position) với hệ sô rủi ro lãi suất của thang kỳ hạn
+đó.
+
+- Bước 5: Tính NWP theo công thức:
+
+NWP = Giá trị tuyệt đối của (Tổng Trạng thái dương điều chỉnh theo hệ
+số rủi ro của các thang kỳ hạn (ký hiệu là L trong bảng trên) - Tổng Trạng thái
+âm điêu chỉnh theo hệ số rủi ro của các thang kỳ hạn (ký hiệu là S trong bảng
+trên)).
+
+- Bước 6: Tính VD:
+
+- Xác định các thang kỳ hạn có cả Trạng thái đương (Long position) và
+Trạng thái âm (Short position) để từ đó xác định Trạng thái tương ng điều chỉnh
+theo hệ số rủi ro (matched weighted position) của thang kỳ hạn đó là giá trị tuyệt
+đối nhỏ hơn giữa hai Trạng thái đương (Long position) và Trạng thái âm (Short
+position) của thang kỳ hạn đó;
+
+- Tính Tổng Trạng thái tương ứng điều chỉnh theo hệ số rủi ro (matched
+weighted postion) của các thang kỳ hạn (ký hiệu là (a) trong bảng trên);
+
+- Tính VD theo công thức sau: VD = 10% x (a).
+- Bước 7:
+
+- Xác định Trạng thái không tương ứng điều chỉnh theo hệ số rủi ro
+(unmatched weighted position) của từng thang kỳ hạn là hiệu số của giá trị tuyệt
+đối của Trạng thái dương điều chỉnh theo hệ số rủi ro (weighted long position)
+trừ đi giá trị tuyệt đối của Trạng thái âm điều chỉnh theo hệ số rủi ro (weighted
+short position) của từng thang kỳ hạn, có dấu dương (+)/ dâu âm (-);
+
+- Xác định Trạng thái tương ứng điều chỉnh theo hệ số rủi ro của từng vùng
+(matched weighted position by zone) là giá trị tuyệt đối nhỏ hơn của hai Trạng
+thái dương (Long postion) và Trạng thái âm (Short postion) của từng vùng (Zone)
+(ký hiệu Trạng thái tương ứng điều chỉnh theo hệ số rủi ro của vùng (Zone) 1, 2
+và 3 lần lượt là (b), (e) và (d) trong bảng trên).
+
+- Bước Šð:
+
+- Xác định Trạng thái không tương ứng điều chỉnh theo hệ số rủi ro của
+từng vùng (unmatched weighted position by zone) hiệu số của giá trị tuyệt đối
+của Trạng thái dương điều chỉnh theo hệ sô rủi ro của vùng đó (weighted long
+position by zone) trừ đi giá trị tuyệt đối của Trạng thái âm điều chỉnh theo hệ sô
+rủi ro của vùng đó (weighted short position by zone);
+
+§
+
+- Xác định Trạng thái tương ứng điêu chỉnh theo hệ số rủi ro giữa các vùng
+(matched weighted position between zones) theo từng cặp vùng như sau:
+
++ Trạng thải tương ứng điều chỉnh theo hệ số rủi ro giữa vùng Ï và vùng 2
+(matched weighted position between zone I and zone 2) là giá trị tuyệt đối nhỏ
+hơn giữa hai Trạng thái không tương ứng điều chỉnh theo hệ số rủi ro của vùng Ì
+(unmatched weighted positlon by zone 1) và Trạng thái không tương ứng điều
+chỉnh theo hệ số rủi ro của vùng 2 (uamatched weighted position by zone 2) nếu
+hai trạng thái này trái dấu (ký hiệu là (e) trong bảng trên);
+
++ Trạng thái tương ứng điễu chỉnh theo hệ số rủi ro giữa vùng 2 và vùng 3
+(matched weighted position between zone 2 and zone 3) là giá trị tuyệt đối nhỏ
+hơn giữa hai Trạng thái không tương ứng còn lại điều chỉnh theo hệ số rủi ro của
+vùng 2 (residual unamatched weighted position by zone 2) và Trạng thái không
+tương ứng điêu chỉnh theo hệ số rủi ro của vùng 3 (uamatched weighted position
+by zone 3) nếu hai trạng thái này trái dấu (ký hiệu là (f) trong bảng trên);
+
++ Trạng thái tương ứng điều chỉnh theo hệ số rủi ro giữa vùng 1 và vùng 3
+(matched weighted position between zone 1 and zone 3) là giá trị tuyệt đối nhỏ
+hơn giữa hai Trạng thái không tương ứng còn lại điều chỉnh theo hệ số rủi ro của
+vừng Ï (residual unmatched weiphted positlon by zone l) và Trạng thái không
+tương ứng còn lại điều chỉnh theo hệ sô rủi ro của vùng 3 (residual unmatched
+weighted position by zone 3) nếu hai trạng thái này trái dấu (ký hiệu là (ø) trong
+bảng trên).
+
+- Bước 9: Tính HD theo công thức sau:
+
+HD = (b) x 40% + (c) x 30% + (d) x 30% + (e) x 40% + (f) x 40% + (g)
+x 100%
+
+Ví dụ: Cách tính vốn yêu câu cho rủi ro lãi suất chung theo phương pháp
+thang kỳ hạn
+
+Giả sử ngán hàng đang năm giữ các tài sản tài chính sau đây:
+
+(a) Trái phiếu thuộc Nhóm 2, giá trị thị trường 13,33 tỷ đồng, thời hạn còn
+lại là 8 năm, lãi suất coupon là 8%;
+
+(b) Trái phiếu Chính phủ, giá trị thị trường 75 tỷ đông, thời hạn còn lại là
+2 tháng, lãi suất coupon là 7%;
+
+(c) Hợp đông hoán đổi lãi suất, giá trị thị trường của tài sản cơ sở danh
+nghĩa là 150 tỷ đông, theo đó, ngân hàng nhận lãi suát thả nồi và trả lãi suất cổ
+định, thời hạn điều chỉnh lãi suất tiếp theo là sau 9 tháng, thời hạn còn lại của
+hợp đông hoán đồi là 8 năm;
+
+(4) Trạng thái dương hợp đông tương lai lãi suất giá trị 50 tỷ đông, đến
+
+hạn trong vòng 6 tháng, thời hạn của tài sản cơ sở là trái phiếu Chính phủ là 3,5
+HăM.
+
+Phân bồ các trạng thái tài sản tài chính theo Thang kỳ hạn theo bảng dưới đây:
+
+Trạng thái Trạng thái Tổng của trạng | Trạng thái tương Trạng thái — |
+
+tương Ứng không tương | thái điều chỉnh | ứng điều chỉnh không tương Trạng thái tương
+
+Hệ số Trạng thái điều điều chỉnh ứng điều theo hệ số rủiro | theo hệ số rủi ro ứng diều chỉnh ứng điêu chỉnh theo
+
+Thang kỳ hạn (Maturity) rủi ro Trạng thái ròng (Net chỉnh theo hệ số rủi theo hệ số chỉnh theo hệ theo vùng theo vùng theo hệ số rủi ro hệ số rủi ro giữa các
+
+(Weig position) ro (Weighted BAHNEI số rủi ro (Sums of l theo vùng vùng (Matched
+
+hting) position) (Matched (Unmatched weighted (Matched (Unmatched weighted position
+weighted positions by weighted position weighted between zones)
+
+;eighted
+le posifion) zone) by zone) position by zone)
+
+position)
+
+Vùng : ° Lãi suất ề Dương Âm Dương Âm Dương| Âm
+gan) | L8 suất >3% <3% “ (Long) (Short) (Long) | (ShorÐ k° (Long) | (Short)
+
+| 2 3 4 5 6 7 §
+
++/- 1/2 2/3 1⁄3
+
+dưới I tháng dưới 1 tháng 0,00
+trở xuống
+1- dưới 3 tháng 1- dưới 3 020 | 75 tỷ đồng 0,15
+tháng trái phiếu
+Chính phủ
+Vùng I 3- dưới 6 tháng, 3- dưới 6 0,40 50 tỷ đồng 0,2
+tháng Hợp đồng
+tương lai
+6- dưới 12 6- dưới 12 0/70 | 150 tỷ đồng 1,05 (b)
+tháng tháng Hợp đồng
+hoán đổi
+
+1- dưới 2 năm 1- dưới 1,9 1/25
+năm
+2- dưới 3 năm 1,9- đưới 2,8 1/75
+Vùng 2 năm
+3-đưới4năm | 2,8- dưới 3,6 225 50 tỷ đồng 1,125 (c)
+năm Hợp đồng
+
+HN ,
+
+4- dưới 5 năm 3,6- dưới 4,3 2,75
+năm
+5- dưới 7 năm 4,3- dưới 5,7 3,25
+năm
+7- dưới 10 năm 5,7- dưới 7,3 3.75 13,33 tỷ 150 tỷ 0,5 5625
+năm đồng trái đồng Hợp
+phiếu đồng hoán
+nhóm 2 đỗi
+
+Vùng 3
+
+
+10
+
+- Tỉnh Vốn yêu câu đề bù đắp cho rủi ro do lệch trạng thái trên số kinh
+doanh (NHMP):
+
+NWP = | (75 x 0,2%) - (50x 0,4%) + (150x 0,7%) + (50 x 2,25%) - (150
+x 3,75%) + (13,33 x 3,75%|
+
+= |(0,15- 0,2 + 1,05+ 1,125~ 5,625 + 0,5) |
+= |£3) | = 3 đồng
+- Tỉnh Vốn yêu câu đề bù đắp cho rủi ro do khớp trạng thái trong cùng
+thang kỳ hạn (VD):
+Thang kỳ hạn 7 đến 10 năm có cả trạng thái đương và trạng thái âm do đó
+phải tính trạng thái tương ứng điễu chỉnh theo hệ số rủi ro (matched weiehted
+position) của thang kỳ hạn này là 0,5 (giá trị tuyệt đối nhỏ hơn giữa trạng thái
+
+đương điều chỉnh theo hệ số rủi ro (0,5) và trạng thái âm điều chỉnh theo hệ số
+rủi ro (-5,625).
+
+VD = 0,5 x 10% = 0,05 tỷ đồng.
+Bước 7:
+
+- Trạng thái không tương ứng điều chỉnh theo hệ số rủi ro (unmatched
+weighted position) của từng thang kỳ hạn:
+
++ Thang kỳ hạn từ 7 đến 10 năm: | 0,5| - | -5,625|' = -5,125
+
+- Trạng thái tương ứng điều chỉnh theo hệ số rủi ro của từng vùng (matched
+weighted position by z0He):
+
++ Do tại tùng 1 có nhiều hơn một trạng thái nên cân phải tính vốn yêu cẩu
+đề bù đắp cho rủi ro do khớp trạng thải trong cùng vùng Ì. Trạng thái tương ứng
+điều chỉnh theo hệ số rủi ro của vừng Ï là giá trị tuyệt đối nhỏ hơn của hai trạng
+thái dương và trạng thái âm của vùng 1 và bằng 0,2.
+
+Vốn yêu câu đề bù đắp cho rủi ro do khớp trạng thái trong cùng vùng 1
+bằng 0,2 x 40% = 0, 08 tỷ đông.
+
+Bước Š:
+
+- Trạng thái không tương ứng điều chỉnh theo hệ số rủi ro của vùng l
+(unmatched weighted position by zone 1) là hiệu số của giá trị tuyệt đối của trạng
+thái dương điều chỉnh theo hệ số rủi ro của vùng 1 (weighted long pOsition by
+zone ]) trừ đi giá trị tuyệt đối của trạng thái âm điêu chỉnh theo hệ số rủi ro của
+vùng I (weighted short position by zone 1) và bằng | 015+1, 05] - | -0, 2| =],
+
+Tương tự, trạng thái không tương ứng điêu chỉnh theo hệ số rủi ro của Vừng
+2 (unmatched weighted position by zone 2) bằng | 1125 | = T425;
+
+Trạng thái không tương ứng điều chỉnh theo hệ số rủi ro của vùng 3
+(unmatched weighted position by zone 3) bằng | 0| - | -5,125 |= =1, 122,
+
+- Xác định trạng thái tương ứng điều chỉnh theo hệ số rủi ro giữa các vùng
+(matched weighted position behween zones) theo từng cặp vùng:
+
+li
+
++ Trạng thái tương ứng điều chỉnh theo hệ số rủi ro giữa vùng 2 và vùng 3
+(matched weighted position beween zone 2 and zone 3) là l,125 ():
+
+Vốn yêu câu để bù đắp cho rủi ro do khớp trạng thái giữa vùng 2 và vùng
+3 là 1,125 x 40% = 0,45 tỷ đông;
+
++ Trạng thái tương ứng điều chỉnh theo hệ số rủi ro giữa vùng 1 và vùng 3
+(matched tới EitiCG position beveen zone 1 and zone 3) là ] (g),
+
+Vốn yêu câu để bù đắp cho rủi ro do khớp trạng thái giữa vùng 1 và vùng
+3 là 1x 100% = 1 tỷ đông.
+
+Tổng CÔng:
+
+- Vốn yêu câu đề bù đắp cho rủi ro do lệch trạng thái trên số kinh doanh
+(NMP): 3 tỷ đông;
+
+- Vốn yêu câu để bù đắp cho rủi ro do khớp trạng thái trong cùng thang kỳ
+hạn (VD): 0,05 tỷ đông:
+
+h Vốn yêu cầu để bù đắp cho rủi ro do khớp trạng thái trong cùng vùng Ï:
+0,08 tỷ đông;
+
+- Vốn yêu câu để bù đắp cho rủi ro do khớp trạng thái giữa vùng 2 và vùng
+3: 0,45 tỷ đông;
+
+: Vốn yêu câu để bù đắp cho rủi ro do khớp trạng thái giữa vùng ] và vùng
+3: 1 đồng;
+
+Tổng mức vốn yêu cầu: 4,58 tỷ đông.
+
+H. Vốn yêu cầu cho rủi ro giá cỗ phiếu
+
+l Vốn yêu cầu cho rủi ro giá cô phiếu được á áp dụng đối với trạng thái cô
+phiếu của số kinh doanh. Ngân hàng, chỉ nhánh ngân hàng nước ngoài phải tính
+vôn yêu cầu cho rủi ro giá cô phiếu cụ thể và rủi ro giá cô phiếu chung đối với:
+các cô phiếu, trái phiếu chuyên đôi và các chứng khoán phái sinh có tài sản cơ sở
+là cô phiếu (trừ hợp đồng quyên chọn) trên sô kinh doanh, trừ các cỗ phiếu, trái
+
+phiếu chuyên đôi đã được trừ khỏi vốn tự có của ngân hàng, chi nhánh ngân hàng
+nước ngoài khi tính Vốn tự có quy định tại Phụ lục 1 Thông tư này.
+
+2. Trạng thái cổ phiếu (trạng thái dương, trạng thái âm) được xác định cho
+các công cụ tài chính quy định tại điểm 1 Mục này theo các nguyên tắc sau:
+
+a) Trạng thái dương (âm) của một loại cô phiếu, công cụ tài chính có tính
+chất cổ phiếu do một tô chức phát hành được bù trừ;
+
+b) Đối với chứng khoán phái sinh cô phiếu, trạng thái cô phiếu được xác
+định theo trạng thái cô phiếu danh nghĩa như sau:
+
+() Hợp đồng tương lai, hợp đồng kỳ hạn có tài sản cơ sở là cổ phiếu phải
+được lấy theo giá trị thị trường;
+
+(i1) Hợp đồng kỳ hạn có yếu tố cơ sở là chỉ số chứng khoán phải xác định
+theo giá trị thị trường của danh mục chứng khoán trong chỉ số chứng khoán;
+
+12
+
+(1) Hợp, đồng hoán đổi tính theo hai trạng thái (trạng thái cô phiếu dương
+và trạng thái cô phiếu âm): Ngân hàng, chỉ nhánh ngân hàng nước ngoài đồng
+đồng thời phải ghi nhận hai trạng thái căn cứ theo nghĩa vụ cam kết trong hợp
+đồng. Ví dụ, trong hợp đồng hoán đổi, ngân hàng, chi nhánh ngân hàng nước
+ngoài ghi nhận trạng thái dương khi nhận được một khoản dựa trên thay đôi về
+giá trị của một cô phiếu hoặc một chỉ số chứng khoán và ghi nhận trạng thái â âm
+khi phải trả một chỉ số chứng khoán khác. Nếu một trong hai trạng thái mà gắn
+với việc nhận hoặc trả lãi suất cố định hoặc lãi suất thả nỗi thì ngân hàng, chi
+nhánh ngân hàng nước ngoài phải tính các trạng thái rủi ro lãi suất phát sinh theo
+quy định tại Mục I Phụ lục này.
+
+3. Vôn yêu câu cho rủi ro giá cô phiêu cụ thê (Kể#) được xác định theo
+công thức sau:
+
+Kỹt = (LP + SP)x 8%
+Trong đó:
+- LP: Trạng thái cô phiếu dương (long pOoSItion);
+- SP: Trạng thái cô phiếu âm (short poSition).
+
+4. Vốn yêu cầu cho rủi ro giá cô phiếu chung (KẾ) được xác định theo
+công thức sau:
+
+KỆR =l LP — SP | xERW
+Trong đó:
+- LP: Trạng thái cổ phiếu dương (long position);
+- SP: Trạng thái cổ phiếu âm (short poSition);
+- ERW: Hệ số rủi ro chung giá cỗ phiếu áp dụng như sau:
+
+a) Cổ phiếu, các công cụ tài chính có tính chất cổ phiếu (ví dụ trái phiếu
+chuyển đổi) và các chứng khoán phái sinh có tài sản cơ cở là cổ phiếu áp dụng hệ
+SÔ rủi ro 8%%;
+
+b) Hợp đồng phái sinh có tài sản cơ sở là chỉ số chứng khoán áp dụng hệ
+số rủi ro 10%.
+
+HI. Vốn yêu cầu cho rủi ro giá cả hàng hóa
+
+1. Vốn yêu cầu cho rủi ro giá cả hàng hóa được áp dụng đối với trạng thái
+hàng hóa của sô kinh doanh. Ngân hàng, chi nhánh ngân hàng nước ngoài phải
+
+tính vốn yêu cầu cho rủi ro giá hàng hóa cho trạng thái sản phâm phái sinh giá cả
+hàng hóa trên số kinh doanh.
+
+2. Trạng thái sản phâm phái sinh hàng hóa (trạng thái dương, trạng thái âm)
+được xác định cho các loại hàng hóa (trừ vàng tiêu chuẩn đã được tính rủi ro tỷ
+giá) theo các nguyên tắc sau:
+
+13
+
+a) Trạng thái sản phẩm phái sinh hàng hóa được xác định cho từng loại
+hàng hóa. Sản phâm phái sinh hàng hóa cùng loại được bù trừ khi xác định trạng
+thái;
+
+b) Trạng thái sản phẩm phái sinh hàng hóa được xác định theo giá trị đồng
+Việt Nam bằng cách chuyển đổi các đơn vị đo lường tiêu chuẩn theo giá giao
+ngay của hàng hóa đó tại thời điểm tính toán.
+
+3. Vốn yêu cầu cho rủi ro giá cả hàng hóa (KcwR) được xác định theo công
+thức sau:
+
+Kenc Kong" + KRMN
+
+Trong đó:
+
+- KếNR Vốn yêu cầu cho rủi ro giá cả hàng hóa trực tiếp phát sinh do
+thay đổi giá giao ngay của hàng hóa đó;
+
+"..# Vốn yêu cầu cho rủi ro giá cả hàng hóa khác phát sinh do thay
+
+đổi giá kỳ hạn vì chênh lệch kỳ hạn của hàng hóa đó hoặc do thay đôi của môi
+quan hệ giá giữa hai loại hàng hóa tương tự (nhưng không hoàn toàn giống nhau).
+
+£ _ À +. sự 32 .1A z H trực tiếp
+4. Vốn yêu cầu cho rủi ro giá cả hàng hóa trực tiêp (Kem _ ) được xác
+
+định theo công thức sau:
+Khen =NPx15%
+
+Trong đó: NP: Trạng thái ròng (net position) của loại sản phẩm phái sinh
+hàng hóa.
+
+5. Vốn yêu cầu cho rủi ro giá cả hàng hóa khác (K ) được xác định theo
+công thức sau:
+
+KEhft = (LP + SP)x 3%
+
+Trong đó:
+
+- LP: Trạng thái dương (long position) của loại sản phẩm phái sinh hàng
+hóa;
+
+- SP: Trạng thái âm (short position) của loại sản phâm phái sinh hàng hóa.
+
+6. Các trạng thái rủi ro lãi suất, rủi ro ngoại hồi phát sinh từ việc nắm giữ
+trạng thái hàng hóa phải tính tương ứng vào trạng thái rủi ro lãi suất, rủi ro ngoại
+hối theo quy định tại Mục I, Mục IV Phụ lục này.
+
+L$ L À 2. + .ẤÁ«
+IV. Vôn yêu câu cho rủi ro ngoại hồi
+
+1. Vốn yêu cầu cho rủi ro ngoại hối (KrxR) được xác định theo công thức
+sau:
+
+Krxn = (Max (}`SP, )`LP) + GoldP) x 8%
+Trong đó:
+
+14
+
+- ĐSP: Tổng các trạng thái âm của các ngoại tệ trong danh mục ngoại tệ;
+
+- ELP: Tổng trạng thái dương của các ngoại tệ trong danh mục ngoại tệ:
+
+- GoldP: Trạng thái vàng:;
+
+- (Max (SSP, »LP) + GoldP): Tông giá trị trạng thái ngoại hối ròng bao
+gôm cả vàng.
+
+2. Trạng thái ngoại tệ (trạng thái dương, trạng thái âm) được xác định cho
+từng loại ngoại tệ (bao gồm cả vàng tiêu chuẩn) theo các nguyên tắc sau:
+
+a) Trạng thái nguyên tệ bằng tông cộng:
+
+(¡) Trạng thái giao ngay là chênh lệch giữa tông Tài sản và tông Nợ phải trả
+(bao gồm cả lãi dự thu và chi phí trả lãi dự kiến) bằng một loại ngoại tệ:
+
+(ii) Trạng thái kỳ hạn ròng là chênh lệch giữa tông các khoản nhận được và
+tổng các khoản phải trả bằng một loại ngoại tệ trong các g1ao dịch ngoại tệ kỳ hạn,
+bao gồm cả các giao dịch ngoại tệ tương lai và các khoản vốn trong giao dịch hoán
+đôi mà không được tính vào trạng thái giao ngay;
+
+(iii) Các bảo lãnh (hoặc các nghĩa vụ tương tự) không thê hủy ngang và bên
+được bảo lãnh không có khả năng thực hiện nghĩa vụ theo cam kết;
+
+(iv) Các thu nhập/chi phí tương lai ròng chưa được dự thu nhưng đã được
+phòng ngừa rủi ro;
+
+(v) Các khoản lãi/lỗ bằng ngoại tệ từ hoạt động kinh doanh ở nước ngoài
+theo quy định hạch toán kế toán của nước sở tại.
+
+b) Trạng thái ngoại tệ là trạng thái nguyên tệ của ngoại tệ đó (xác định theo
+quy định của pháp luật vê trạng thái ngoại tỆ của các tổ chức tín dụng, chỉ nhánh
+ngân hàng nước ngoài) được quy đổi sang đồng Việt Nam theo tỷ giá quy đôi
+trạng thái.
+
+V. Vốn yêu cầu cho hợp đồng quyền chọn
+
+1. Ngân hàng, chỉ nhánh ngân hàng nước ngoài phải tính vốn yêu cầu cho
+hợp đồng quyên chọn mà tài sản cơ sở là công cụ tài chính có rủi ro lãi suất, rủi
+ro giá cô phiếu, rủi ro ngoại hồi và rủi ro giá hàng hóa.
+
+2. Vốn yêu cầu cho hợp đồng quyên chọn được xác định như sau:
+
+a) Trường hợp ngân hàng, chi nhánh ngân hàng nước ngoài mua quyền
+chọn (long option), vôn yêu câu cho hợp đồng quyền chọn được xác định như sau:
+
+(1) Trường hợp ngân hàng, chi nhánh ngân hàng nước ngoài có trạng thái
+tài sản cơ sở dương (Long cash) và mua quyền chọn bán (Long put) hoặc có trạng
+thái tài sản cơ sở âm (Short Cash) và mua quyền chọn mua (Long call), Vốn yêu
+câu cho hợp đồng quyền chọn tính theo công thức sau:
+
+Kopr = Max(0, {MVunaeiyng x (SRW + GRW) — Max(0,Vopr)})
+Trong đó:
+
+là
+
+- MVundenying: Giá trị thị trường của tài sản cơ sở của hợp đông quyên chọn;
+
+- SRW: Hệ số rủi ro quyền chọn cụ thê, GRW: Hệ SỐ rỦi rO quyền chọn
+chung được xác định như sau:
+
++ Đối với hợp đồng quyền chọn lãi SUẤT:
+
+" Hệ sỐ rủi ro quyền chọn cụ thê là Hệ số rủi ro lãi suất cụ thể quy định tại
+Mục I Phụ lục này;
+
+" Hệ SỐ rủiro quyền chọn chung là Hệ số rủi ro quy định tại Bảng tính theo
+Phương pháp kỳ hạn quy định tại Mục I Phụ lục này.
+
++ Đối với hợp đồng quyền chọn giá cô phiêu:
+
+“_ Hệ số rủi ro quyền chọn cụ thể là Hệ số rủi ro giá cổ phiếu cụ thể quy
+
+định tại Mục II Phụ lục này;
+
+“Hệ số rủi ro quyền chọn chung là 8%.
+
++ Đối với hợp đồng quyên chọn ngoại hối: Hệ số rủi ro quyền chọn chung
+là 8%.
+
++ Đối với hợp đồng quyền chọn giá hàng hóa: Tổng Hệ số rủi ro quyền
+chọn cụ thê và Hệ sô rủi ro quyên chọn chung là 15%.
+
+- Vop : Giá trị bằng tiền của quyền chọn (nếu có) hoặc bằng 0.
+
+Ví dụ 1: Ngân hàng A đang có trạng thái ngoại tệ dương 1 triệu đôla Mỹ
+với tỷ giá hiện tại là 22. 000VND/USD, nhằm phòng ngừa rủi ro "Ngắn hàng A
+mua một quyên chọn bán với giá chọn bán là 21.000VND/US). Vốn yêu câu cho
+rủi ro quyên chọn được xác định khi thực hiện quyên chọn như sau:
+
+- Giá trị bằng tiên của quyên chọn:
+Vopr = Max (0; (21.000-22.000) x 1 triệu (đôla Mỹ)) = 0
+- Vốn yêu câu cho rủi ro quyên chọn:
+Kopr = Max (0; 1 triệu (đôla Mỹ) x 22.000 x 8%-~ 0) = 1,76 (tỷ đồng)
+
+Ví dụ 2: Ngân hàng A đang có trạng thái ngoại tệ đương 1 triệu äôla Mỹ
+với fÿ giá hiện tại là 22.000VND/USD, nhằm phòng ngừa rủi ro Ngân hàng A
+mua một quyền chọn bán với giá chọn bán là 23.000VND/UBSD. Vốn yêu câu cho
+rủi ro quyên chọn được xác định khi thực hiện quyên chọn như sau:
+
+- Giá trị bằng tiền của quyên chọn:
+Ứopr= (23.000-22.000) x 1 triệu (đôla Mỹ) = 1 tỷ đông
+- Vốn yêu câu cho rủi ro quyên chọn:
+Kopr = Max(0; 1 triệu (đôla Mỹ) x 22.000 x 8% - Ì tỷ đồng) = 0,76 tỷ
+đông.
+(1i) Trường hợp ngân hàng, chi nhánh ngân hàng nước ngoài mua quyền
+
+chọn mua (Long call) hoặc mua quyền chọn bán (Long put), vốn yêu cầu cho hợp
+đồng quyền chọn tính theo công thức sau:
+
+l6
+
+Kopr = Min [(MVunaenying x (SRW + GRW)), MVopr ]
+
+Trong đó:
+
+- MVunaenying: Giá trị thị trường của tài sản cơ sở khi quyền chọn được thực
+hiện.
+
+- SRW: Hệ số rủi ro quyền chọn cụ thể, GRW: Hệ số rủi ro quyền chọn
+chung được xác định tại điểm 2a Mục này.
+
+- MVopr: Giá trị thị trường của giao dịch quyền chọn.
+
+Hệ số rủi ro quyền chọn cụ thê (SRW), Hệ số rủi ro quyên chọn chung
+(GRW) áp dụng cho từng giao dịch cơ sở như sau:
+
+Ví dụ: Ngân hàng A mua quyên chọn bán với mục đích kinh doanh với tài
+sản cơ sở là ] triệu đôla Mỹ, giá quyên chọn là 12. 000 đóla Mỹ. Vốn yêu câu cho
+rủi ro quyên chọn được xác định khi thực hiện quyên chọn như sau:
+
+ME maeryng X (SRW + GRW) = l triệu (đôla Mỹ) x §%=6.000 đôla Mỹ.
+
+Kopr = Min l(Mf t aieriung * (SRW + GRH)), Mfor j = Min (8.000;
+12.000)= §.000 (đôla Mỹ).
+
+b) Trường hợp ngân hàng, chỉ nhánh ngân hàng nước ngoài bán quyền chọn
+(short option), vôn yêu câu cho hợp đồng quyền chọn được xác định theo phương
+pháp Delta-plus. Vốn yêu cầu theo phương pháp Delta-plus là tổng của 3 cầu phần
+sau đây:
+
+1. Vốn yêu cầu cho yếu tố rủi ro Delta (Kpwp) được xác định theo công
+thức sau:
+
+Kpwp= MVunaenying X Dopr x (SRW + GRW)
+Trong đó:
+= MVunaenying: Giá trị thị trường của tài sản cơ sở khi quyền chọn được thực
+hiện;
+- Dopr : Giá trị Delta của giao dịch quyền chọn do ngân hàng, chi nhánh
+
+ngân hàng nước ngoài xác định theo hướng dẫn của Ủy ban Basel hoặc sử dụng
+các giá trị Dopr trên thị trường (nếu có);
+
+- SRW: Hệ số rủi ro quyền chọn cụ thể, GRW: Hệ số rủi ro quyền chọn
+chung được xác định tại điểm 2a Mục này:
+
+2. Yếu tô rủi ro Gamma (KGamma) được xác định theo công thức sau:
+
+Mỗi hợp đồng quyền chọn có tài sản cơ sở giống nhau sẽ có tác động
+gamma dương hoặc âm. Các tác động gamma riêng lẻ được cộng lại để tính tác
+động gamma ròng (giá trị dương hoặc âm) cho từng tài sản cơ sở. Vốn yêu cầu
+
+cho yếu tổ rủi ro gamma bằng tông các giá trị tuyệt đối của tác động gamma ròng
+âm.
+
+Tác động gamma (GI) được xác định theo công thức sau :
+
+TỰ
+
+GI = 0,5 x Gamma x (VU!
+Trong đó:
+- Gamma: Giá trị Gamma của giao dịch quyên chọn do ngân hàng, chi
+
+nhánh ngân hàng nước ngoài xác định theo hướng dẫn của Ủy ban Basel hoặc sử
+dụng các giá trị Gamma trên thị trường (nếu có);
+
+- VỤ: là mức biến động tài sản cơ sở của giao dịch quyền chọn được xác
+định như sau:
+
+() Đối với hợp đồng quyền chọn có tài sản cơ sở là các công cụ tài chính
+có rủi ro lãi suât:
+VU= M VVnaerying xRW
+Trong đó:
+- MVunaerying: Giá trị của tài sản cơ sở khi quyền chọn được thực hiện;
+- RW: là hệ số rủi ro chung quy định tại Bảng phân bồ các trạng thái công
+cụ tài chính theo Thang kỳ hạn, Mục I Phụ lục này.
+
+(ii) Đối với hợp đồng. quyền chọn có tài sản cơ sở là cô phiếu, các công cụ
+tài chính có tính chất cô phiếu và các chứng khoán phái sinh có tài sản cơ sở là cô
+phiếu, chỉ số chứng khoán, ngoại tệ (bao gôm cả vàng tiêu chuẩn):
+
+VỤ = M Vunaeriying x8§%
+Trong đó: MVunaerying: Giá trị của tài sản cơ sở khi quyền chọn được thực
+hiện.
+(iii) Đối với hợp đồng quyền chọn có tài sản cơ sở là hàng hóa :
+VU = M VVunaeriying x1Š5%
+Trong đó: MVunaerying: Giá trị của tài sản cơ sở khi quyền chọn được thực
+hiện.
+3. Yếu tố Vega (KvR) được tính bằng tông giá trị tuyệt đối Vốn yêu cầu cho
+
+tác động Vega của từng tài sản cơ sở. Vốn yêu cầu cho tác động Vega của từng
+tài sản cơ sở được xác định theo công thức sau:
+
+Kvn = 25% x tỷ lệ trong thay đôi giá trị của tài sản cơ sở x | tông giá
+trị Vega của các hợp đồng quyền chọn của cùng tài sản cơ sở | :
+
+Trong đó:
+
+- Tỷ lệ trong thay đổi giá trị của tài sản cơ sở do ngân hàng, chi nhánh ngân
+hàng nước ngoài xác định theo hướng dân của Ủy ban Basel hoặc sử dụng tỷ lệ
+trong thay đôi giá trị của tài sản cơ sở trên thị trường (nêu có);
+
+- Giá trị Vega của các hợp đồng quyền chọn của cùng tài sản cơ sở do ngân
+hàng, chi nhánh ngân hàng nước ngoài xác định theo hướng dẫn của Ủy ban Basel
+
+hoặc sử dụng giá trị Vega của các hợp đồng quyền chọn của từng tài sản cơ sở
+trên thị trường (nếu có).
+
+I8
+
+Ví dụ trường hợp ngắn hàng, chỉ nhánh ngân hàng nước ngoài bán quyên
+chọn (short option), vốn yêu câu cho giao dịch quyên chọn được xác định theo
+phương pháp Delta-plus như sau:
+
+Ngán hàng A thực hiện bản quyên chọn mua (short call option) một hàng
+hóa:
+- Giá thực hiện quyên chọn (exercise price): X= §490;
+
+- Giá thị trường của hàng hóa (underlying asset) có thời hạn còn lại đến
+ngày thực hiện 12 tháng: MỸ = $500;
+
+- Tỷ lệ lãi suất không có rủi ro (risk #ee): 8%/năm;
+- Mức biến động tài sản cơ sở của giao dịch quyên chọn: ô = 20%;
+- Giá trị hiện tại của hợp đông quyên chọn: So = §65,4ổ.
+
+Sử dụng Mô hình Black-Scholes Model Greeks, xác định được yếu tô delia,
+øamma như sau :
+
+Delia Dọpr = -0,721 (giá của hợp đồng quyên chọn sẽ thay đổi 0,721 nếu
+giá của tài sản cơ sở biên động l đơn V).
+
+Gamma = -0,0034 (yếu tố delta sẽ thay đổi 0.0034 đơn vị (từ -0,721 xuống
+-0,7244) nêu giá của tài sản cơ sở thay đôi Ì ẩơn vị).
+
+(¡) Vốn yêu câu cho yếu tô rủi ro Delta (Kpwp) được xác định như sau:
+
+Tổng hệ số rủi ro quyên chọn cụ thể và hệ số rủi ro quyên chọn chung đối
+với hợp đông quyên chọn giá hàng hóa: SRW + GRMW = 159%
+
+Kbpựp = ME. „arung x Doprx (SRW + GRW)
+= Š500 x (0,721) x 15%
+Ea $54,075
+(i) Vốn yêu cầu cho yếu tổ rủi ro Gamma (Kcamna) được xác định như sau:
+(ii) Vốn yêu câu cho yếu tô Vega (Kvg) được xác định như sau :
+
+_ Sử dụng mô hình Black-Scholes Model, tổng giá trị Vega của hợp đông bán
+quyên chọn là 166.
+
+Kỳ = 255% x tỷ lệ (rong thay đổi giá trị của tài sản cơ sở
+X | tổng giá trị “ của các hợp đông quyên chọn của
+cùng tài sản cơ sở
+
+= 25% x 20 x 16§
+= 84
+Như vậy, vốn yêu cầu cho yếu tô Vega bằng $8.4.
+
+Vốn yêu cầu cho rủi ro thị trường đối với giao dịch bán quyên chọn mua
+theo ví dụ nêu trên là :
+$54,075 + §9,5625 + $8,4 = §72,0375.
+
+(Ban hành D "vo iôn DẠY LL/ppiittirrf08 ngày 18:háng4Önăm 2023 của Thống đốc Ngân
+hàng tỨc Với và đôi, bó sung một sô điêu của Thông tư sô 41/2016/TT-NHNN)
+E_ : Tải sản
+|
+Ý Ỹ Ỳ
+Tiền mặt, vàng, các Các tài sản khác Tn đầu tự, = doanh . n
+khoản tương đương (RW = 100%) P TH nành FC tim oồ- Âu
+tiên mặt (RW = 0%) Khoản phải đòi bán nợ xấu (RW = 200%) HJĩýZ5SSBH ˆ a0) LAI NG
+Khoản Cho Thuế tải —*
+chínhRW = Max Mua lại khoản phải thu:
+
+(160%, RW quy định RW = RW của khách hàng
+Ỉ i bán khoản phải thu trong
+TH bán khoản phải thu có
+quyền truy đòi; RW = RW
+của khoản phải đòi
+
+oản phải
+đòi chính
+phủ
+
+hoản phải
+đòi định chế
+tài chính
+
+C Cho vay K
+kinh doanh
+ứng khoáp
+
+G
+Khoản cho vay
+kinh doanh
+chứng khoán
+(RW = 150%)
+
+Khoản phải đỏ
+đảm bảo bằng
+Bắt động sản
+
+C
+: Khoản phải đỗ
+Khoản phải thế chấp nhà ở
+K L®
+* Không có thông tin về
+LTV, DSC (RW =
+200%)
+Có thông tin LTY, DSC
+C (RW =20% - 100%)
+Khoản phải đòi thuộc
+Khoản phải đòi Khác danh mục cấp tín dụng
+(RW =100%) bán lẻ
+(ŒRW = 75%)
+

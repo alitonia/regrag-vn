@@ -1,0 +1,646 @@
+{
+  "parse_reports": [
+    {
+      "doc_id": "17/2024/TT-NHNN",
+      "report": {
+        "articles_found": 25,
+        "clauses_found": 79,
+        "preamble_captured": true,
+        "preamble_text": "SAOY\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 02/07/2024 15:34:39 +07:00\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: †F. /2024/TT-NHNN Hà Nội, ngày 2Ÿ tháng 6 năm 2024\nTHÔNG TƯ\nQuy định việc mở và sử dụng tài khoản thanh toán\ntại tổ chức cung ứng dịch vụ thanh toán\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tô chức tín dụng ngày 18 tháng 01 năm 2024;\nCăn cứ Luật Phòng, chống rửa tiên ngày 1Š tháng II năm 2022;\nCăn cứ Nghị định số 52/2024/NĐ- CP ngày 15 tháng 5 năm 2024 của Chính\nphủ về thanh toán không dùng tiên mặt;\nCăn cứ Nghị định số 19/2023NĐ- CP ngày 28 tháng 4 năm 2023 của Chính\nphủ quy định chỉ tiết một số điều của Luật phòng, chống rửa tiên;\nCăn cứ Nghị định số 102/2022/NĐ-CP ngày T2 tháng l2 năm 2022 của\nChính phủ q1 định chức năng, nhiệm vụ, quyên hạn và cơ câu tổ chức của Ngân\nhàng Nhà nước Việt Nam;\nTheo đê nghị của Vụ trưởng Vụ Thanh toán;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư q1 định\nviệc mở và sử dụng tài khoản thanh toán tại tổ chức cung ứng dịch vụ thanh toán.\nQUY ĐỊNH CHUNG",
+        "lines_dropped": 20,
+        "dropped_lines": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "3",
+          "9",
+          "10",
+          "12",
+          "13",
+          "14",
+          "15",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "2"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "32/2024/QH15",
+      "report": {
+        "articles_found": 132,
+        "clauses_found": 620,
+        "preamble_captured": true,
+        "preamble_text": "CÔNG BÁO/Số 369 + 370/Ngày 02-3-2024 3\nQUỐC HỘI CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nLuật số: 32/2024/QH15\nLUẬT\nCÁC TỔ CHỨC TÍN DỤNG\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nQuốc hội ban hành Luật Các tổ chức tín dụng.\nNHỮNG QUY ĐỊNH CHUNG",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "32/2024/QH15",
+      "report": {
+        "articles_found": 81,
+        "clauses_found": 331,
+        "preamble_captured": true,
+        "preamble_text": "2 CÔNG BÁO/Số 371 + 372/Ngày 02-3-2024\nVĂN BẢN QUY PHẠM PHÁP LUẬT\nCHỦ TỊCH NƯỚC - QUỐC HỘI\nLuật số 32/2024/QH15 ngày 18 tháng 01 năm 2024\nLuật Các tổ chức tín dụng\n(Tiếp theo Công báo số 369 + 370)\nVĂN PHÒNG ĐẠI DIỆN NƯỚC NGOÀI",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "06/2019/TT-NHNN",
+      "report": {
+        "articles_found": 15,
+        "clauses_found": 61,
+        "preamble_captured": true,
+        "preamble_text": "76 CÔNG BÁO/Số 611 + 612/Ngày 03-8-2019\nNGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: 06/2019/TT-NHNN Hà Nội, ngày 26 tháng 6 năm 2019\nTHÔNG TƯ\nHướng dẫn về quản lý ngoại hối đối với hoạt động\nđầu tư trực tiếp nước ngoài vào Việt Nam\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật các tổ chức tín dụng ngày 16 tháng 6 năm 2010 và Luật sửa đổi,\nbổ sung một số điều của Luật các tổ chức tín dụng ngày 20 tháng 11 năm 2017;\nCăn cứ Pháp lệnh Ngoại hối ngày 13 tháng 12 năm 2005 và Pháp lệnh sửa\nđổi, bổ sung một số điều của Pháp lệnh Ngoại hối ngày 18 tháng 3 năm 2013;\nCăn cứ Nghị định số 70/2014/NĐ-CP ngày 17 tháng 7 năm 2014 của Chính\nphủ quy định chi tiết thi hành một số điều của Pháp lệnh Ngoại hối và Pháp lệnh\nsửa đổi, bổ sung một số điều của Pháp lệnh Ngoại hối;\nCăn cứ Nghị định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính\nphủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng\nNhà nước Việt Nam;\nTheo đề nghị của Vụ trưởng Vụ Quản lý ngoại hối;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư hướng dẫn về\nquản lý ngoại hối đối với hoạt động đầu tư trực tiếp nước ngoài vào Việt Nam.\nQUY ĐỊNH CHUNG",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "06/2023/TT-NHNN",
+      "report": {
+        "articles_found": 11,
+        "clauses_found": 29,
+        "preamble_captured": true,
+        "preamble_text": "SAOY\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 28/06/2023 16:29:25 +07:00\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: Ø6/2023/TT-NHNN Hà Nội, ngày 2Ê tháng 6 năm 2023\nTHÔNG TƯ\nSửa đối, bố sung một số điều của Thông tư số 39/2016/TT-NHNN\nngày 30 tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà nước\nViệt Nam quy định về hoạt động cho vay của tô chức tín dụng,\nchỉ nhánh ngân hàng nước ngoài đối với khách hàng\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tổ chức tín dụng ngày ló tháng 6 năm 2010 và Luật sửa\nđổi, bồ sung một số điểu của Luật Các tổ chức tín dụng ngày 20 tháng 11 năm\n2017?\nCăn cứ Nghị định số 102/2022/NĐ-CP ngày l2 tháng 12 năm 2022 của\nChính phủ quy định chúc năng, nhiệm vụ, quyên hạn và cơ cấu tô chức của\nNgân hàng Nhà nước Việt Nam;\nTheo đê nghị của Vụ trưởng Vụ Chính sách tiền tệ;\n1 hỗng đốc ÄNgắn hàng Nhà nước Việt Nam ban hành Thông tư sửa đổi, bồ\nsung một số điểu của Thông tư số 39/2016/TT-NHNN ngày 30 tháng l2 năm\n2016 của Thông đốc Ngân hàng Nhà nước Việt Nam quy định vê hoạt động\ncho vay của tô chức tín dụng, chỉ nhánh ngân hàng nước ngoài đối với khách\nhàng (sau đây gọi là Thông tư số 39/2016/TT- -NVHNộN).",
+        "lines_dropped": 2,
+        "dropped_lines": [
+          "3",
+          "4"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "08/2023/TT-NHNN",
+      "report": {
+        "articles_found": 23,
+        "clauses_found": 63,
+        "preamble_captured": true,
+        "preamble_text": "SAOY\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 12/07/2023 14:22:04 +07:00\nNGÂN HÀNG NHÀ NƯỚC ˆ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: Ö§ /2023/TT-NHNN Hà Nội, ngày 20 tháng 6 năm 2023\nTHÔNG TƯ\nQuy định về điều kiện vay nước ngoài không được Chính phủ bảo lãnh\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010; Luật sửa\nđổi, bồ sung một số điều của Luật Các tô chức tín dụng ngày 20 tháng lÌ năm\n2017,\n__ Căn cứ Pháp lệnh Ngoại hối ngày 13 tháng 12 năm 2005; Pháp lệnh sửa\nđôi, bô sung một sô điêu của Pháp lệnh Ngoại hồi ngày I§ tháng 3 năm 2013;\nCăn cứ Nghị định số 219/2013/NĐ-CP ngày 25 tháng 12 năm 2013 của\nChính phủ vê quản lý vay, trả nợ nước ngoài của doanh nghiệp không được\nChính phủ bảo lãnh;\nCăn cứ Nghị định số 102/2022/NĐ-CP ngày 12 tháng l2 năm 2022 của\nChính phủ quy định chức năng, nhiệm vụ, quyên hạn và cơ cấu tổ chức của\nNgân hàng Nhà nước Việt Nam;\nTheo đề nghị của Vụ trưởng Vụ Quản lý ngoại hồi;\nThống đốc Ngán hàng Nhà nước Việt Nam ban hành Thông tư quy định\nvề điêu kiện vay nước ngoài không được Chính phủ bảo lãnh.\nQUY ĐỊNH CHUNG",
+        "lines_dropped": 5,
+        "dropped_lines": [
+          "10",
+          "12",
+          "13",
+          "14",
+          "2"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "48/2018/TT-NHNN",
+      "report": {
+        "articles_found": 23,
+        "clauses_found": 45,
+        "preamble_captured": true,
+        "preamble_text": "Ký bởi: Cổng Thông tin điện tử Chính phủ\nEmail: thongtinchinhphu@chinhphu.vn\nCơ quan: Văn phòng Chính phủ\n\\ĩ0wnnmnwanuarrrrranmmm Thời gian ký: 22.01.2019 16:33:01 +07:00\nNGÂN HÀNG NHÀ NƯỚC — CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTỆTNAM . —— Độc lập - Tự do - Hạnh phúc\nVĂN PHÒNG Stnf6nG018/TT-NHNN Hà Nội, ngày.Ý7 tháng 2 năm 2018\nCÔNG V ĂN ĐẾN | | ˆ ¡ CũNG THÔNG TIN BIÊN TỪ CHÍNH PHÙ\n_ GÔNG VĂN ĐẾN | _THÔNGTƯ_ —\n— 3. Ngày . “đ§ 4........ Quy định về tiên gửi tiết kiệm | DEN ¬\n: | Ngy:<1(0112018..\nKính Tuyền „ NữT.............. TT _\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày l6 tháng 6 năm 2010;\nCăn cứ Luật các Tô chức tín dụng ngày 16 tháng 6 năm 2010 và Luật\nsửa đối, bồ sung mội số điều của Luật các 1 chức tín đụng ngày 20 tháng l1\nnăm 2017,\nCăn cứ Pháp lệnh Ngoại hỗi ngày 13 tháng 12 năm 2005 và à Pháp lệnh\nsửa đổi, bổ sung một số điều của Pháp lệnh Ngoại hồi ngày 18 tháng 3 năm\n2013;\nCăn cứ Nghị định số 70/201 4NÐ- CP ngày 17 tháng 7 năm 201 4 quy\nđịnh chỉ tiết thi hành một số điều của Pháp lệnh Ngoại hỗi và Pháp lệnh s sửa\nđối, bồ sung một số điễu của Pháp lệnh Ngoại hồi;\n_ Căn cứ Nghị định số 16/201 7/NĐ-CP ngày J tháng 02 năm 2017 quy\nđịnh chức năng, nhiệm vụ, quyển hạn và cơ cấu tổ chức của Ngân hàng Nhà\nnước Việt Nam,\nTheo đề nghị của Vụ trưởng Vụ Chính sách tiền tệ và Vụ trưởng Vụ\nQuản lý ngoại hối;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Tiêng lư quy định\nvề /iễn gửi tiết kiệm.",
+        "lines_dropped": 6,
+        "dropped_lines": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "9"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "61/2025/TT-NHNN",
+      "report": {
+        "articles_found": 42,
+        "clauses_found": 187,
+        "preamble_captured": true,
+        "preamble_text": "SAO Y; Ngân hàng Nhà nước Việt Nam; Thời gian ký: 2025-12-31T19:44:29+07:00\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: /2025/TT-NHNN Hà Nội, ngày,⁄Z tháng 12 năm 2025\nTHÔNG TƯ\nQuy định về mạng lưới hoạt động của ngân hàng thương mại\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12;\nCăn cứ Luật Các tô chức tín dụng số › 32/2024/QH15 được sửa đổi, bổ Sung\nbởi Luật số 96/2025/QH15;\nCăn cứ Luật Doanh nghiệp số 59/2020/QH14 được sửa đổi, bồ sung bởi\nLuật số 03/2022/QH15 và Luật số 76/2025/QH15;\nCăn cứ Nghị định sô 26/2025/NĐ-CP của Chính phủ quy định chức năng,\nnhiệm vụ, quyên hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;\nTheo đê nghị của Cục trưởng Cục An toàn hệ thống các tổ chức tín dụng;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định\nvề mạng lưới hoạt động của ngân hàng thương mại.\nQUY ĐỊNH CHUNG",
+        "lines_dropped": 31,
+        "dropped_lines": [
+          "2",
+          "4",
+          "5",
+          "6",
+          "7",
+          "9",
+          "10",
+          "12",
+          "13",
+          "14",
+          "15",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "3",
+          "4",
+          "5",
+          "7",
+          "2",
+          "2"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "23/2015/NĐ-CP",
+      "report": {
+        "articles_found": 49,
+        "clauses_found": 140,
+        "preamble_captured": true,
+        "preamble_text": "Ký bởi: Cổng Thông tin điện tử Chính phủ\nEmail: t phu¿vn\nCơ quai\n[CONG THÔNG TTN ĐIỆN TỪ CHÍNH PHÚ Thời gian ký: 03.03.21 ;18:21 +07:00\nCHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n——— Độc lập - Tự do - Hạnh phúc\nSố: 23/2015/NĐ-CP Hà Nội, ngày l6 tháng 02 năm 2015\nỊ D \" R + D\nL_-(NG THỂNG TIM ĐIỆN TỪ CHÍNH PHÙ Ï\nke. cao\n“mm\nĐẾN vu 0A\nNGHỊ ĐỊNH\nvề cấp bản sao từ số gốc, chứng thực bản sao từ bản chính,\nchứng thực chữ ký và chứng thực hợp đồng, giao dịch\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nTheo đề nghị của Bộ trưởng Bộ Tư pháp,\nChính phủ ban hành Nghị định về cấp bản sao từ số gốc, chứng thực bản\nsao từ bản chính, chứng thực chữ ký và chứng thực hợp động, giao dịch.\n- Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+        "lines_dropped": 14,
+        "dropped_lines": [
+          "6",
+          "10",
+          "12",
+          "13",
+          "14",
+          "15",
+          "17",
+          "18",
+          "19",
+          "21",
+          "22",
+          "10",
+          "11",
+          "12"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "70/2014/NĐ-CP",
+      "report": {
+        "articles_found": 21,
+        "clauses_found": 35,
+        "preamble_captured": true,
+        "preamble_text": "Ký bởi: Cổng Thông tin điện tử Chính phủ\nEmail: thongtinchinhphu@chinhphu.vn\nCơ quan: Văn phòng Chính phủ\nThời gian ký: 21.07.2014 16:39:05 +07:00\n[CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ|\nCHÍNH PHỦ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n———— Độc lập - Tự do - Hạnh phúc\nSé: 70/2014/NĐ-CP Hà Nội, ngày 17 tháng 7 năm 2014\nGÓNG THÔNG TIN BIỆN TỪ CHÍNH PHỤ ;\n‡ Kinh ¬ S \"ca |\nĐẾN Ngây:.A4/2 ¬ |\nNGHỊ ĐỊNH\nQuy định chỉ tiết thi hành một số điền của Pháp lệnh Ngoại hối và\nPháp lệnh sữa đôi, bỗ sung một số điều của Pháp lệnh Ngoại hối\nCăn cứ Luật TÔ chức Chỉnh phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tô chức tín dụng ngày 16 tháng 6 năm 2010,\nCăn cứ Pháp lệnh Ngoại hối ngày 13 tháng 12 năm 2005 và Pháp lệnh\nsửa đổi, bố sung một số điều của Pháp lệnh Ngoại hồi ngày 18 tháng 3 năm 2013,\nTheo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam,\nChính phủ ban hành Nghị định quy định chỉ tiết thì hành một sô ' điều của\nPháp lệnh Ngoại hỗi và Pháp lệnh sửa đối, bồ sung một số điều của Pháp lệnh\nNgoại hồi.\n_ Chương Ï\nNHỮỪNG QUY ĐỊNH CHUNG",
+        "lines_dropped": 2,
+        "dropped_lines": [
+          "2",
+          "5"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "46/2024/QH15",
+      "report": {
+        "articles_found": 76,
+        "clauses_found": 287,
+        "preamble_captured": true,
+        "preamble_text": "28 CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\nQUỐC HỘI CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nLuật số: 46/2024/QH15\nLUẬT\nCÔNG CHỨNG\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nQuốc hội ban hành Luật Công chứng.\nNHỮNG QUY ĐỊNH CHUNG",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "32/2013/TT-NHNN",
+      "report": {
+        "articles_found": 7,
+        "clauses_found": 20,
+        "preamble_captured": true,
+        "preamble_text": "NGÂN HÀNG NHÀ NƯỚC. CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: .„2e3../2013/TT-NHNN Hà Nội, ngày 2€ tháng 4s2 năm 2013\nTHÔNG TƯ\nHướng dẫn thực hiện quy định hạn chế sử dụng ngoại hồi\ntrên lãnh thô Việt Nam\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số ð 46/201 0/QHI2 ngày l6\ntháng 6 năm 2010;\nCăn cứ Luật Các tổ chức tín dụng số 47/2010/QH12 ngày ló tháng 6 năm\n2010;\nCăn cứ Pháp lệnh Ngoại hối số 28/2005/PL- UBTYQH ngày 13 tháng 12\nnăm 2005 và Pháp lệnh số 06/2013/PLUBTVOHI3 ngày l8 tháng 3 năm 2013 sưa\nđổi, bố sung một số điều của Pháp lệnh Ngoại hồi; .\nCăn cứ Nghị định số 156/2013/NĐ-CP ngày lÏ tháng 11 năm 2013 của\nChính phú quy định chức năng, nhiệm vụ, quyên hạn và cơ cấu tổ chức của Ngân\nhàng Nhà nước Việt Nam,\nL\nTheo đề nghị của Vụ trưởng Vụ Quản lý ngoại hỗi,-\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư hướng dẫn\nthực hiện quy định hạn chế sử dụng ngoại hối trên lãnh thổ Việt Nam.",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "91/2015/QH13",
+      "report": {
+        "articles_found": 366,
+        "clauses_found": 752,
+        "preamble_captured": true,
+        "preamble_text": "42H lấn: kiãn gu” ø 22g Cóng buo\nh Ký bởi: Cổng Thông tin điện tử Chính phủ\nỲ Email: thongtinchinhphu@chinhphu.vn\nCơ quan: Văn phòng Chính phủ\nWũyadruawwaniwaj | hời gian ký: 19.01.2016 16:26:05 +07:00\nQUÓC HỘI CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n—_. —-Eftsố:91/2015/QH13\nVẤN PHÒNG CHINH PHÙ\nCÔNG VĂN ĐẾN BỘ LUẬT\nti%....C...e3 .⁄46/ Í\nKính chuyên:.. TM\" CA). DÁN SỰ\n_—————\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nQuốc hội ban hành Bộ luật dân sự.\nPHÀN THỨ NHÁT\nQUY ĐỊNH CHUNG\nNHỮNG QUY ĐỊNH CHUNG",
+        "lines_dropped": 87,
+        "dropped_lines": [
+          "10",
+          "4",
+          "12",
+          "13",
+          "14",
+          "15",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "2",
+          "23",
+          "24",
+          "26",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "4",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "1",
+          "56",
+          "37",
+          "58",
+          "6",
+          "59",
+          "60",
+          "61",
+          "255",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70",
+          "71",
+          "2",
+          "72",
+          "73",
+          "74",
+          "76",
+          "77",
+          "78",
+          "79",
+          "81",
+          "82",
+          "83",
+          "84",
+          "85",
+          "88",
+          "90",
+          "91",
+          "22",
+          "92",
+          "08",
+          "93",
+          "94"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "06/2013/UBTVQH13",
+      "report": {
+        "articles_found": 3,
+        "clauses_found": 60,
+        "preamble_captured": true,
+        "preamble_text": "\\ÄMj + \"\n¬-\n__ ỦY BẠN THƯỜNG VỤ QUỐC HỘI CỘNG HÒA XÃ HỌI CHỦ NGHĨA VIỆT NAM\n¬ Độc lập - Tự do - Hạnh phúc\n- Pháp lệnh số: -060013/0BTVOHIA\n* cG VAN Ê tà¿y cá |\n„ PHÁP LỆNH\nSUNG MỘT SỐ ĐIÊU CỦA PHÁP LỆNH NGOẠI HÓI\nCăn cứ Hiển „pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992\nđã được sửa đổi, bô sung một số điều theo Nghị quyết số 51/2001/QH10;\nCăn cứ Nghị quyết số 07/201 1QH13 của Quốc hội về Chương trình xây\ndựng luật, pháp lệnh năm 2012 và điểu chỉnh chương trình xây dựng luật, pháp\nlệnh năm 2011;\nỦy ban thường vụ Quốc hội ban hành Pháp lệnh sửa đối, bổ sung một số\nđiều của Pháp lệnh ngoại hỗi số 28/2005/PL- UBIYQHI 1,",
+        "lines_dropped": 8,
+        "dropped_lines": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "6",
+          "40"
+        ],
+        "articles_with_missing_title": [
+          "3"
+        ],
+        "missing_titles": [
+          "3"
+        ],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "22/2024/TT-NHNN",
+      "report": {
+        "articles_found": 6,
+        "clauses_found": 38,
+        "preamble_captured": true,
+        "preamble_text": "SAOY\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 02/07/2024 15:38:18 +07:00\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIKT NAM Độc lập - Tự do - Hạnh phúc\nSố: s22/ /2024/TT-NHNN Hà Nội, ngày #ố tháng 06năm 2024\nTHÔNG TƯ\nSửa đối, bỗ sung một số điều của Thông tư số 50/2018/TT-NHNN ngày\n31 tháng 12 năm 2018 của Thống đốc Ngân hàng Nhà nước Việt Nam quy\nđịnh về hồ sơ, trình tự, thủ tục chấp thuận một số nội dung thay đỗi của\nngần hàng thương mại, chỉ nhánh ngân hàng nước ngoài\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cử Luật Các tô chức tín dụng ngày 18 tháng 01 năm 2024;\nCăn cứ Nghị định số 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 của\nChính phủ quy định chức năng, nhiệm vụ, quyên hạn và cơ cấu tô chức của\nNgân hàng Nhà nước Việt Nam;\nTheo đề nghị của Chánh Thanh tra, giám sát ngân hàng;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư sửa đổi, bổ\nsung một số điều của Thông tư số 50/2018/TT-NHNN ngày 31 tháng l2 năm\n2018 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về h sơ, trình tự,\nthủ tục chấp thuận một số nội dung thay đổi của ngân hàng thương mại, chỉ\nnhánh ngân hàng nước ngoài.",
+        "lines_dropped": 5,
+        "dropped_lines": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "31/2024/TT-NHNN",
+      "report": {
+        "articles_found": 17,
+        "clauses_found": 70,
+        "preamble_captured": true,
+        "preamble_text": "SAOY\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 05/07/2024 15:10:41 +07:00\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: 2ƒ /2024/TT-NHNN Hà Nội, ngày 2O tháng 6 năm 2024\nTHÔNG TƯ\nQuy định về phân loại tài sản có trong hoạt động của\nngân hàng thương mại, tô chức tín dụng phi ngân hàng,\nchi nhánh ngân hàng nước ngoài\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tổ chức tín dụng ngày 18 tháng 01 năm 2024;\nCăn cứ Nghị định số 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 của\nChính phủ quy định chức năng, nhiệm vụ, quyên hạn và cơ cấu tổ chức của\nNgân hàng Nhà nước Việt Nam;\nTheo đê nghị của Chánh Thanh tra, giám sát ngân hàng,\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về\nphân loại tài sản có trong hoạt động của ngân hàng thương mại, tô chức tín\ndụng phi ngân hàng, chỉ nhánh ngân hàng nước ngoài.\nQUY ĐỊNH CHUNG",
+        "lines_dropped": 12,
+        "dropped_lines": [
+          "10",
+          "12",
+          "13",
+          "14",
+          "15",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "23",
+          "24"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "22/2018/TT-NHNN",
+      "report": {
+        "articles_found": 18,
+        "clauses_found": 45,
+        "preamble_captured": true,
+        "preamble_text": "Ký bởi: Cổng Thông tin điện tử Chính phú\nEmail: thongtinchinhphu@chinhphu.vn\nCơ quan: Văn phòng Chính phủ\nRtiairuaimrmwiwsniwm Ihời gian ký: 22.01.2019 16:32:53 +07:00\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc _\nSố: 22 /2018/TT-NHNN Hà Nội, ngày. thángAnăm 2018\nVĂN PHÒNG CHÍNH PHỦ\nCÔNG VĂN ĐEN THÔNG TƯ | CỔNG rổNG TNĐ‡ÊN TÌ ch mủ ]\nGờ....S.. Ngày .464........ Quy định về tiền gửi có kỳ hạn ĐẾN GÈ-.€............\nKính chuyên: T8... — Ngày:Z4JØ1 2014.\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật các tổ chức tín dụng ngày 16 tháng 6 năm 2010 và Luật sửa\nđổi, bổ sung một số điều của Luật các tổ chức tín dụng ngày 20 tháng lÌ năm\n2017,\nCăn cứ Pháp lệnh Ngoại hối ngày 13 tháng 12 năm 2005 và Pháp lệnh\nsửa đổi, bồ sung một số điều của Pháp lệnh Ngoại hối ngày 18 tháng 3 năm\n2013;\nCăn cứ Nghị định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của\nChính phủ quy định chức năng, nhiệm vụ, ; quyên hạn và cơ cấu tô chức của\nNgân hàng Nhà nước Việt Nam,\nTheo đề nghị của Vụ trưởng Vụ Quản ý ngoại hối và Vụ trưởng Vụ\nChính sách tiên tệ;\n___ Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định\nvề tiên gửi có kỳ hạn.",
+        "lines_dropped": 7,
+        "dropped_lines": [
+          "2",
+          "3",
+          "4",
+          "6",
+          "7",
+          "1",
+          "1"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "47/2014/QH13",
+      "report": {
+        "articles_found": 60,
+        "clauses_found": 190,
+        "preamble_captured": true,
+        "preamble_text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập —- Tự do —- Hạnh phúc\nLUẬT\nNHẬP CẢNH, XUẤT CẢNH, QUÁ CẢNH, CƯ TRÚ\nCỦA NGƯỜI NƯỚC NGOÀI TẠI VIỆT NAM\nLuật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt\nNam sô 47/2014/QH13 ngày 16 tháng 6 năm 2014 của Quôc hội, có hiệu lực kê\ntừ ngày 01 tháng 01 năm 2015, được sửa đôi, bô sung bởi:\n1. Luật sỐ 51/2019/QH14 ngày 25 tháng 1l năm 2019 của Quốc hội sửa đổi,\nbổ sung một số điều của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người\nnước ngoài tại Việt Nam, có hiệu lực kể từ ngày 01 tháng 7 năm 2020;\n2. Luật số 23/2023/QH15 ngày 24 tháng 6 năm 2023 của Quốc hội sửa đổi,\nbổ sung một số điều của Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và\nLuật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam,\ncó hiệu lực kê từ ngày 1Š tháng 8 năm 2023;\n—_3, Luật SỐ 118/2025/QH15 ngày 10 tháng 12 năm 2025 của Quốc hội sửa\nđôi, bô sung một sô điêu của 10 luật có liên quan đên an ninh, trật tự, có hiệu lực\nkê từ ngày 01 tháng 7 năm 2026;\n4. Luật Tương trợ tư pháp về hình sự số 103/2025/QH15 ngày 26 tháng 1]\nnăm 2025 của Quốc hội, có hiệu lực kê từ ngày 01 tháng 7 năm 2026.\nCăn cứ Hiên pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nQuốc hội ban hành Luật Nhập cảnh, xuát cảnh, quá cảnh, cư trú của người\nnước ngoài tại Việt NamÌ.\n! Luật số 51/2019/QH14 sửa đổi, bổ sung một số điều của Luật Nhập cảnh, xuất cảnh,\nquá cảnh, cư trú của người nước ngoài tại Việt Nam có căn cứ ban hành như sau:\n“Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nQuốc hội ban hành Luật sửa đổi, bồ sung một số điều của Luật Nhập cảnh, xuất cảnh,\nquá cảnh, cư trú của người nước ngoài tại Việt Nam số 47/2014/QH13.`.\nLuật số 23/2023/QH15 sửa đôi, bổ sung một số điều của Luật Xuất cảnh, nhập cảnh của\ncông dân Việt Nam và Luật Nhập cảnh, xuât cảnh, quá cảnh, cư trú của người nước ngoài tại\nViệt Nam có căn cứ ban hành như sau:\n“Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nQuốc hội ban hành Luật sửa đổi, bồ sung một số điều của Luật Xuất cảnh, nhập cảnh của\ncông dân Việt Nam số 40/201 9⁄QHI4 và Luật Nhập cảnh, xuất cảnh, quá cảnh, cự frú của\nngười nước ngoài tại Việt Nam số 47/2014/QH13 đã được sửa đổi, bồ sung một số điêu theo\nLuật số 351⁄2019/0HI4.`'.\nNHỮNG QUY ĐỊNH CHUNG",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "41/2016/TT-NHNN",
+      "report": {
+        "articles_found": 29,
+        "clauses_found": 173,
+        "preamble_captured": true,
+        "preamble_text": "CÔNG BÁO/Số 77 + 78/Ngày 22-01-2017 15\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: 41/2016/TT-NHNN Hà Nội, ngày 30 tháng 12 năm 2016\nTHÔNG TƯ\nQuy định tỷ lệ an toàn vốn đối với\nngân hàng, chi nhánh ngân hàng nước ngoài\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6\nnăm 2010;\nCăn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010;\nCăn cứ Nghị định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 của Chính\nphủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng\nNhà nước Việt Nam;\nTheo đề nghị của Chánh Thanh tra, giám sát ngân hàng;\nThống đốc Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà\nnước) ban hành Thông tư quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh\nngân hàng nước ngoài.\nQUY ĐỊNH CHUNG",
+        "lines_dropped": 77,
+        "dropped_lines": [
+          "15",
+          "15",
+          "3",
+          "64",
+          "64",
+          "1",
+          "6102",
+          "21",
+          "03",
+          "1",
+          "7",
+          "1",
+          "01",
+          "1",
+          "1",
+          "02",
+          "2",
+          "61",
+          "2",
+          "84",
+          "84",
+          "4",
+          "2",
+          "5",
+          "2",
+          "5",
+          "1",
+          "1",
+          "5",
+          "2",
+          "2",
+          "2",
+          "05",
+          "05",
+          "1",
+          "2",
+          "1",
+          "1",
+          "8",
+          "1",
+          "25",
+          "25",
+          "11",
+          "2",
+          "22",
+          "2",
+          "81",
+          "2",
+          "4",
+          "2",
+          "5",
+          "45",
+          "45",
+          "1",
+          "2",
+          "2",
+          "2",
+          "65",
+          "65",
+          "1",
+          "5",
+          "1",
+          "1",
+          "2",
+          "2",
+          "01",
+          "2",
+          "5",
+          "85",
+          "85",
+          "5",
+          "2",
+          "5",
+          "1",
+          "2",
+          "2",
+          "0"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "22/2023/TT-NHNN",
+      "report": {
+        "articles_found": 6,
+        "clauses_found": 67,
+        "preamble_captured": true,
+        "preamble_text": "SAOY\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 03/01/2024 13:59:57 +07:00\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: 22 /2023/TT-NHNN Hà Nội, ngày 2 tháng 4Ã năm 2023\nTHÔNG TƯ\nSửa đổi, bổ sung một số điều của Thông tư số 41/2016/TT-NHNN ngày 30\ntháng 12 năm 2016 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định\ntỷ lệ an toàn vốn đối với ngân hàng, chỉ nhánh ngân hàng nước ngoài\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\n__ Căn cứ Luật Các tồ chức tín dụng ngày ló tháng 6 năm 2010 và Luật sửa đổi,\nbồ sưng một số điều của Luật Các tô chức tín dụng ngày 20 tháng lÌ năm 2017;\nCăn cứ Nghị định số 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 của\nChính phủ quy định chức năng, nhiệm vụ, quyên hạn và cơ cấu tô chức của Ngân\nhàng Nhà nước Việt Nam;\nTheo đề nghị của Chánh Thanh tra, giám sát ngân hàng;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư sửa đổi, bô\nsung một số điêu của Thông tư số 41/2016/TT-NHNN ngày 30 tháng 12 năm 2016\ncủa Thống đốc Ngân hàng Nhà nước Việt Nam quy định tỷ lệ an toàn vốn đôi với\nngân hàng, chỉ nhánh ngân hàng nước ngoài.",
+        "lines_dropped": 16,
+        "dropped_lines": [
+          "2",
+          "6",
+          "7",
+          "10",
+          "10",
+          "12",
+          "13",
+          "0",
+          "5",
+          "2",
+          "3",
+          "4",
+          "10",
+          "12",
+          "13",
+          "14"
+        ],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "39/2016/TT-NHNN",
+      "report": {
+        "articles_found": 42,
+        "clauses_found": 105,
+        "preamble_captured": true,
+        "preamble_text": "CÔNG BÁO/Số 875 + 876/Ngày 29-7-2024 61\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nTHÔNG TƯ\nQuy định về hoạt động cho vay của tổ chức tín dụng,\nChi nhánh ngân hàng nước ngoài đối với khách hàng\nThông tư số 39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc\nNgân hàng Nhà nước Việt Nam quy định về hoạt động cho vay của tổ chức tín\ndụng, chi nhánh ngân hàng nước ngoài đối với khách hàng, có hiệu lực kể từ ngày\n15 tháng 3 năm 2017, được sửa đổi, bổ sung bởi:\n1. Thông tư số 06/2023/TT-NHNN ngày 28 tháng 6 năm 2023 của Thống đốc\nNgân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của Thông tư số\n39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà\nnước Việt Nam quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân\nhàng nước ngoài đối với khách hàng, có hiệu lực kể từ ngày 01 tháng 9 năm 2023.\n2. Thông tư số 10/2023/TT-NHNN ngày 23 tháng 8 năm 2023 của Thống đốc\nNgân hàng Nhà nước Việt Nam ngưng hiệu lực thi hành một số nội dung của\nThông tư số 39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân\nhàng Nhà nước Việt Nam quy định về hoạt động cho vay của tổ chức tín dụng, chi\nnhánh ngân hàng nước ngoài đối với khách hàng (đã được bổ sung tại Thông tư số\n06/2023/TT-NHNN ngày 28 tháng 6 năm 2023 của Thống đốc Ngân hàng Nhà\nnước Việt Nam), có hiệu lực kể từ ngày 01 tháng 9 năm 2023.\n3. Thông tư số 12/2024/TT-NHNN ngày 28 tháng 6 năm 2024 của Thống đốc\nNgân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của Thông tư số\n39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà\nnước Việt Nam quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân\nhàng nước ngoài đối với khách hàng, có hiệu lực kể từ ngày 01 tháng 7 năm 2024.\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010;\nCăn cứ Nghị định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 của Chính\nphủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng\nNhà nước Việt Nam;\n62 CÔNG BÁO/Số 875 + 876/Ngày 29-7-2024\nTheo đề nghị của Vụ trưởng Vụ Chính sách tiền tệ;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về\nhoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với\nkhách hàng.1,2,3\n1 Thông tư số 06/2023/TT-NHNN sửa đổi, bổ sung một số điều của Thông tư số\n39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà nước Việt Nam\nquy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với\nkhách hàng, có căn cứ ban hành như sau:\n“Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010 và Luật sửa đổi, bổ sung\nmột số điều của Luật Các tổ chức tín dụng ngày 20 tháng 11 năm 2017;\nCăn cứ Nghị định số 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 của Chính phủ quy\nđịnh chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;\nTheo đề nghị của Vụ trưởng Vụ Chính sách tiền tệ;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư sửa đổi, bổ sung một số điều\ncủa Thông tư số 39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà\nnước Việt Nam quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước\nngoài đối với khách hàng (sau đây gọi là Thông tư số 39/2016/TT-NHNN).”\n2 Thông tư số 10/2023/TT-NHNN ngưng hiệu lực thi hành một số nội dung của Thông tư số\n39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà nước Việt Nam\nquy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với\nkhách hàng (đã được bổ sung tại Thông tư số 06/2023/TT-NHNN ngày 28 tháng 6 năm 2023 của\nThống đốc Ngân hàng Nhà nước Việt Nam), có căn cứ ban hành như sau:\n“Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010; Luật sửa đổi, bổ sung một số\nđiều của Luật Các tổ chức tín dụng ngày 20 tháng 11 năm 2017;\nCăn cứ Nghị định số 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 của Chính phủ quy định\nchức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;\nTheo đề nghị của Vụ trưởng Vụ Chính sách tiền tệ;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư ngưng hiệu lực thi hành một\nsố nội dung của Thông tư số 39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc\nNgân hàng Nhà nước Việt Nam quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh\nngân hàng nước ngoài đối với khách hàng (đã được bổ sung tại Thông tư số 06/2023/TT-NHNN\nngày 28 tháng 6 năm 2023 của Thống đốc Ngân hàng Nhà nước Việt Nam).”\nCÔNG BÁO/Số 875 + 876/Ngày 29-7-2024 63\nQUY ĐỊNH CHUNG",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    },
+    {
+      "doc_id": "276/2017/NHNN-TTGSNH",
+      "report": {
+        "articles_found": 0,
+        "clauses_found": 0,
+        "preamble_captured": false,
+        "preamble_text": "",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": [
+          "No articles (Điều) found; emitting whole document as one chunk (whole_doc_when_articleless opt-in)"
+        ]
+      }
+    },
+    {
+      "doc_id": "21/2017/TT-NHNN",
+      "report": {
+        "articles_found": 10,
+        "clauses_found": 24,
+        "preamble_captured": true,
+        "preamble_text": "58 CÔNG BÁO/Số 385 + 386/Ngày 19-02-2018\nNGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nNGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nVIỆT NAM Độc lập - Tự do - Hạnh phúc\nSố: 21/2017/TT-NHNN Hà Nội, ngày 29 tháng 12 năm 2017\nTHÔNG TƯ\nQuy định về phương thức giải ngân vốn cho vay\ncủa tổ chức tín dụng, chi nhánh ngân hàng\nnước ngoài đối với khách hàng\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;\nCăn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010 và Luật sửa đổi,\nbổ sung một số Điều của Luật Các tổ chức tín dụng ngày 20 tháng 11 năm 2017;\nCăn cứ Nghị định số 101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 của Chính\nphủ về thanh toán không dùng tiền mặt và Nghị định số 80/2016/NĐ-CP ngày 01\ntháng 7 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số\n101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 của Chính phủ về thanh toán không\ndùng tiền mặt;\nCăn cứ Nghị định số 222/2013/NĐ-CP ngày 31 tháng 12 năm 2013 của Chính\nphủ về thanh toán bằng tiền mặt;\nCăn cứ Nghị định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính\nphủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng\nNhà nước Việt Nam;\nTheo đề nghị của Vụ trưởng Vụ Chính sách tiền tệ;\nThống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về\nphương thức giải ngân vốn cho vay của tổ chức tín dụng, chi nhánh ngân hàng\nnước ngoài đối với khách hàng.",
+        "lines_dropped": 0,
+        "dropped_lines": [],
+        "articles_with_missing_title": [],
+        "missing_titles": [],
+        "warnings": []
+      }
+    }
+  ],
+  "missing": [],
+  "suspect": [
+    {
+      "doc_id": "276/2017/NHNN-TTGSNH",
+      "file": "276_NHNN-TTGSNH.txt",
+      "chars": 3090
+    }
+  ]
+}

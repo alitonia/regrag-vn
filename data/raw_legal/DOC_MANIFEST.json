@@ -1,0 +1,93 @@
+{
+  "_README": "Human-verified URL -> canonical instrument id. canonical.py consults this BEFORE its slug regexes, and anything absent here that the regexes cannot resolve stays UNRESOLVED and is reported. Empty string = known URL, id not yet verified. Corroborated entries cite their evidence in _evidence; entries marked NEEDS_VERIFICATION must be confirmed against the downloaded file before the coverage gate is trusted.",
+  "urls": {
+    "https://congbao.chinhphu.vn/van-ban/thong-tu-so-06-2019-tt-nhnn-29358.htm": "06/2019/TT-NHNN",
+    "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112": "17/2024/TT-NHNN",
+    "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653": "39/2016/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf": "22/2023/TT-NHNN",
+    "https://luatvietnam.vn/tu-phap/luat-cong-chung-2024-so-46-2024-qh15-379073-d1.html": "46/2024/QH15",
+    "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-da": "21/2021/NĐ-CP",
+    "https://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-276-NHNN-TTGSNH-2017-chuy": "276/2017/NHNN-TTGSNH",
+    "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html": "32/2024/QH15",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2019/01/48-nhnn.pdf": "48/2018/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/7/08-nhnn.pdf": "08/2023/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/7/17-nhnn.pdf": "17/2024/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/61-nhnn.pdf": "61/2025/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/03/23-nd-.signed.pdf": "23/2015/NĐ-CP",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2014/07/nd-70.signed.pdf": "70/2014/NĐ-CP",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2014/01/tt-32.pdf": "32/2013/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf": "91/2015/QH13",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2013/08/6pl.pdf": "06/2013/UBTVQH13",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/62-vbhn-vpqh.pdf": "47/2014/QH13",
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=211190": "32/2024/QH15",
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=211190&classid=1&typegroupid=3": "32/2024/QH15",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/7/06-nhnn.pdf": "06/2023/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf": "46/2024/QH15",
+    "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2019/6/29358/27480-1-2019611-61206-2019-tt-nhnn.pdf": "06/2019/TT-NHNN",
+    "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2016/12/21991/16370-1-412016tt-nhnn16525pdf": "41/2016/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/01/22-nhnn.pdf": "22/2023/TT-NHNN",
+    "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2024/7/42346/51014-1-2024875-87621-vbhn-nhnn.pdf": "39/2016/TT-NHNN",
+    "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2017/12/25880/21382-1-2018385-38621-2017-tt-nhnn.pdf": "21/2017/TT-NHNN",
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2019/01/49-nhnn.pdf": "22/2018/TT-NHNN"
+  },
+  "_evidence": {
+    "32/2024/QH15": "VERIFIED 2026-09-11 from the delivered file 32-2024-qh15_1.pdf, which has a clean born-digital text layer (viet_ratio 0.297, 192 'Điều' occurrences). Its first page reads: 'CÔNG BÁO/Số 369 + 370/Ngày 02-3-2024 / QUỐC HỘI / Luật số: 32/2024/QH15 / LUẬT CÁC TỔ CHỨC TÍN DỤNG'. Both the bare docid=211190 URL and the &classid=1&typegroupid=3 variant point at this document. Supersedes the luatvietnam.vn slug, which was suspected of serving only page 1 of 209 articles; the delivered law is complete across two parts (94 + 59 pages).",
+    "48/2018/TT-NHNN": "Corroborated: the literal string '48/2018/TT-NHNN' occurs in 14 gold passages/answers; PROJECT_PLAN lists it as the savings-deposit circular. Filename number (48) is NOT the year - path year 2019/01 is the publication month.",
+    "08/2023/TT-NHNN": "Corroborated: '08/2023/TT-NHNN' occurs in 2 gold passages; PROJECT_PLAN lists it under foreign-exchange management.",
+    "17/2024/TT-NHNN": "Same instrument as the congbao slug entry (payment accounts + biometric authentication). Path 2024/7 matches the 2024-06-28 issue date.",
+    "61/2025/TT-NHNN": "Corroborated: '61/2025/TT-NHNN' occurs in 6 gold passages; PROJECT_PLAN lists it under branch operations.",
+    "23/2015/NĐ-CP": "Corroborated: '23/2015/NĐ-CP' occurs in 2 gold passages; PROJECT_PLAN lists it under collateral/notarization.",
+    "70/2014/NĐ-CP": "PROJECT_PLAN lists Nghị định 70/2014/NĐ-CP under foreign-exchange management; filename 'nd-70' in path 2014/07 is consistent.",
+    "NEEDS_VERIFICATION": "tt-32.pdf, 91.signed.pdf, 6pl.pdf, 62-vbhn-vpqh.pdf, vanban docid=211190 - no corroborating evidence available. Left empty on purpose so they surface as UNRESOLVED:manifest-pending rather than being guessed.",
+    "32/2013/TT-NHNN": "VERIFIED 2026-09-11 by re-OCR of the delivered tt-32.pdf (its embedded text layer is diacritic-stripped and unusable). tesseract 5.3.4 -l vie at 300dpi reads the header as: 'Số: 32/2013/TT-NHNN / Hà Nội, ngày 26 tháng 4 năm 2013 / THÔNG TƯ / Hướng dẫn thực hiện quy định hạn chế sử dụng ngoại hối trên lãnh thổ Việt Nam'. Corroborated independently by gold passage Q002, 'Điều 4. Các trường hợp được sử dụng ngoại hối trên lãnh thổ Việt Nam', which is this circular's subject matter. Path year 2014/01 is the publication month, not the instrument year.",
+    "06/2023/TT-NHNN": "VERIFIED 2026-09-11 by re-OCR of the delivered 06-2023-tt-nhnn.pdf (embedded text layer corrupt: viet_ratio 0.000, 0 'Điều' in 21,624 chars). tesseract reads: 'Số: 06/2023/TT-NHNN / Hà Nội, ngày 28 tháng 6 năm 2023 / THÔNG TƯ / Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN'. Corroborated by gold passage Q049, 'Điều 1: Sửa đổi bổ sung một số điều của TT 39/2016 về hoạt động cho vay của TCTD'. IMPORTANT: this settles the 39/2016 amendment trap for Q049-Q058 - the questions cite the AMENDING circular, so 06/2023 is the text to ingest, not the 2016 original and not a consolidated version.",
+    "46/2024/QH15": "VERIFIED 2026-09-11 from the delivered luat46.pdf, clean born-digital text layer (viet_ratio 0.288, 147 'Điều'). First page reads: 'CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024 / QUỐC HỘI / Luật số: 46/2024/QH15 / LUẬT CÔNG CHỨNG'. Same instrument as the existing luatvietnam.vn slug entry; this URL is the complete text.",
+    "06/2019/TT-NHNN": "VERIFIED 2026-09-11. The delivered file '2019_611 + 612_06-2019-TT-NHNN.pdf' is byte-identical (sha1) to '06-2019-tt-nhnn.pdf', whose text layer is clean (viet_ratio 0.301, 37 'Điều') and reads 'CÔNG BÁO/Số 611 + 612/Ngày 03-8-2019 ... Số: 06/2019/TT-NHNN / Hà Nội, ngày 26 tháng 6 năm 2019 / THÔNG TƯ / Hướng dẫn về quản lý ngoại hối đối với hoạt động đầu tư trực tiếp nước ngoài vào Việt Nam'. The URL path /2019/6/29358/ carries the same van-ban id 29358 as the existing congbao.chinhphu.vn slug for this circular, and 2019611-61206 encodes CÔNG BÁO 611+612. Three independent agreements.",
+    "91/2015/QH13": "VERIFIED 2026-09-11 by re-OCR of the delivered 91.signed.pdf (94 pages, no text layer). The OCR text contains the headings 'BỘ LUẬT' and 'LUẬT DÂN SỰ' and, at the line corresponding to article 138, reads verbatim: 'Điều 138. Đại diện theo ủy quyền / 1. Cá nhân, pháp nhân có thể uỷ quyền cho cá nhân, pháp nhân khác xác...', which is exactly gold passage Q065 ('Điều 138 - Luật dân sự: Đại diện theo ủy quyền 1. Cá nhân, pháp nhân c...'). Bộ luật Dân sự 2015 is Luật số 91/2015/QH13, matching the filename's 91 and the 2016/01 publication path. This corrects an earlier suspicion that Q065 cited the wrong instrument: the citation is right, the manifest simply lacked the Civil Code.",
+    "06/2013/UBTVQH13": "VERIFIED 2026-09-11 by re-OCR of the delivered 6pl.pdf. The header reads 'ỦY BAN THƯỜNG VỤ QUỐC HỘI ... Pháp lệnh số: 06/2013/UBTVQH13', i.e. the Pháp lệnh amending the Pháp lệnh Ngoại hối. Corroborated by the recitals of 32/2013/TT-NHNN, which cite 'Pháp lệnh số 06/2013/PL-UBTVQH13 ngày 18 tháng 3 năm 2013 sửa đổi, bổ sung một số điều của Pháp lệnh Ngoại hối'.",
+    "41/2016/TT-NHNN": "VERIFIED 2026-09-11 from data/raw_legal/41_2016_TT_NHNN.pdf (5,109,560 bytes, 74 pages, born-digital, viet_ratio 0.279). Header reads 'Số: 41/2016/TT-NHNN ... Hà Nội, ngày 30 tháng 12 năm 2016 ... Quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài'. Landing page congbao.chinhphu.vn id 21991 (NOT 14181). Full provision map in data/raw_legal/TT41_FINDINGS.md. The Q029-Q038 gold rows were re-pointed to this URL on 2026-09-11: their old link (2024/7/22-nhnn.pdf) is TT 22/2024/TT-NHNN, a licensing circular with no capital-adequacy content.",
+    "22/2023/TT-NHNN": "VERIFIED 2026-09-11: downloaded this exact URL (23,767,020 bytes, sha1 50e2ac7f...), 50-page scan whose corrupt text layer reads 'so: LZ /2023ITT-NHNN ... ngdy Z9 thdng,tZ ndm 2023 ... Sta d6i, b6 sung mQt s6 tli6u cia Th6ng tu s5 4U2016/TI-NHNN' = 'Số: 22/2023/TT-NHNN, ngày 29 tháng 12 năm 2023, Sửa đổi, bổ sung một số điều của Thông tư số 41/2016/TT-NHNN'; OCR at data/raw_legal/ocr/22_2023_TT_NHNN.ocr.txt. NOTE: the sibling URL 2023/12/thong-tu-22-2023-tt-nhnn.pdf is a dead mirror, and the delivered file named 22-2023-tt-nhnn.pdf is TT 22/2024 (amends TT 50/2018) - see TT41_FINDINGS.md. Amends khoản 10/điểm b khoản 11 Điều 9 of TT 41/2016, i.e. the risk-weight grids Q032/Q034/Q035 depend on; must be ingested together with 41/2016, never alone.",
+    "39/2016/TT-NHNN": "VERIFIED 2026-09-11 from data/raw_legal/21_VBHN_NHNN_2024_hop_nhat_TT39_2016.pdf (829,233 bytes, 36 pages, born-digital, viet_ratio 0.284, 123 'Điều'). Header: 'VBHN 21/VBHN-NHNN' consolidated text of TT 39/2016/TT-NHNN current through TT 12/2024 (Công báo 875+876, 29-7-2024). Article numbering is NOT renumbered vs the 2016 original, so gold article ids stay valid. This URL is the consolidated attachment (congbao id 42346). Ingest the VBHN as the single 39/2016 corpus document; do NOT also ingest the 2016 original untagged (near-duplicate contradictory chunks). Amendment chain per the VBHN preamble: QĐ 312/2017 (đính chính), TT 06/2023, TT 10/2023 (suspends Điều 8.8-10), TT 12/2024, TT 52/2025 (Điều 22.3, 35.2 only). See TT39_FINDINGS.md.",
+    "21/2017/TT-NHNN": "VERIFIED 2026-09-11 from data/raw_legal/21_2017_TT_NHNN_phuong_thuc_giai_ngan.pdf (306,437 bytes, 7 pages, born-digital, viet_ratio 0.258). Header: 'Số: 21/2017/TT-NHNN ... quy định về phương thức giải ngân vốn cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng'. Needed for Q056: the cash/cashless disbursement rule (Điều 4, 5, 6) is NOT in TT 39/2016 at all ('tiền mặt'/'chuyển khoản' occur 0 times in both 39/2016 texts). See TT39_FINDINGS.md §3.",
+    "22/2018/TT-NHNN": "VERIFIED 2026-09-11 by re-OCR of the delivered 49-nhnn.pdf (8 pages, no text layer). tesseract reads the header as 'NGÂN HÀNG NHÀ NƯỚC VIỆT NAM ... Số: 22/2018/TT-NHNN Hà Nội, ngày ... năm 2018' - the term-deposit circular ('tiền gửi có kỳ hạn'), NOT number 49/2018 and NOT 49/2019: Q065's answer cited both of those non-existent numbers and was corrected 2026-09-11 to 22/2018/TT-NHNN. Path 2019/01 is the publication month. Third distinct '22' circular in the delivery (22/2018, 22/2023, 22/2024); ingested as a retrieval distractor.",
+    "47/2014/QH13": "VERIFIED 2026-09-11 by re-OCR of the delivered 62-vbhn-vpqh.pdf (36 pages, no text layer, ocr_viet_ratio 0.297, 176 'Điều'). The OCR reads: 'LUẬT NHẬP CẢNH, XUẤT CẢNH, QUÁ CẢNH, CƯ TRÚ CỦA NGƯỜI NƯỚC NGOÀI TẠI VIỆT NAM ... Luật ... số 47/2014/QH13 ngày 16 tháng 6 năm 2014 ..., được sửa đổi, bổ sung bởi: 1. Luật số 51/2019/QH14' - i.e. the CONSOLIDATED text (văn bản hợp nhất) of the immigration law including the 51/2019/QH14 amendments; cite as consolidated. Resolves Q008, whose passage quotes Điều 3 khoản 11-13 definitions."
+  },
+  "unreachable_sources": {
+    "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf": {
+      "status": "HTTP 404 (verified 2026-09-09)",
+      "questions_at_risk": 10,
+      "working_replacement": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/01/22-nhnn.pdf",
+      "also_at": "https://chinhphu.vn/?pageid=27160&docid=209488&classid=1&typegroupid=6"
+    },
+    "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-da": {
+      "status": "HTTP 403 bot-wall (verified 2026-09-09)",
+      "questions_at_risk": 10,
+      "working_replacement": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477/35291.htm",
+      "also_at": "https://vanban.chinhphu.vn/?pageid=27160&docid=202835"
+    },
+    "https://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-276-NHNN-TTGSNH-2017-chuy": {
+      "status": "HTTP 403 bot-wall (verified 2026-09-09)",
+      "questions_at_risk": 1,
+      "working_replacement": null
+    },
+    "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html": {
+      "status": "HTTP 200 but likely PARTIAL - luatvietnam gates full law text and '-d1.html' is page 1 of a 209-article law",
+      "questions_at_risk": 10,
+      "working_replacement": "Prefer the full text from quochoi.vn or datafiles.chinhphu.vn (Luật số 32/2024/QH15)"
+    }
+  },
+  "amendments": {
+    "22/2023/TT-NHNN": {
+      "amended_by": "22/2025/TT-NHNN",
+      "evidence": "Found while locating the mirror for the 404 URL: vanban.chinhphu.vn/?pageid=27160&docid=215003 'Thông tư số 22/2025/TT-NHNN: Sửa đổi...'",
+      "action_required": "10 questions cite the 2023 text. Decide and record: ingest the 2023 original, or the consolidated (văn bản hợp nhất) version. Ingesting the original while gold answers quote amended wording produces FALSE hallucination labels.",
+      "questions_at_risk": 10
+    },
+    "39/2016/TT-NHNN": {
+      "amended_by": "NEEDS_CHECK",
+      "evidence": "PROJECT_PLAN flags that amending circulars must be reconciled with consolidated versions; TT 39/2016 has a long amendment history.",
+      "action_required": "Verify whether the gold answers for these 10 questions quote the 2016 original or a consolidated text.",
+      "questions_at_risk": 10
+    }
+  }
+}

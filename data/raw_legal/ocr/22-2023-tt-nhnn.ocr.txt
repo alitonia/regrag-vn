@@ -1,0 +1,495 @@
+<!-- provenance: ocr
+     source_file: 22-2023-tt-nhnn.pdf
+     extraction: ocr:tesseract-5.3.4-vie:300dpi
+     pages: 10
+     prior_text_layer: corrupt-text-layer
+     ocr_viet_ratio: 0.2937
+     ocr_dieu_hits: 57
+     NOTE: OCR output is not a born-digital text layer. Matches against it
+     must be classified 'ocr', never 'strict'. -->
+SAOY
+Ngân hàng Nhà nước Việt Nam
+Thời gian ký: 02/07/2024 15:38:18 +07:00
+
+NGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIKT NAM Độc lập - Tự do - Hạnh phúc
+
+Số: s22/ /2024/TT-NHNN Hà Nội, ngày #ố tháng 06năm 2024
+
+THÔNG TƯ
+
+Sửa đối, bỗ sung một số điều của Thông tư số 50/2018/TT-NHNN ngày
+31 tháng 12 năm 2018 của Thống đốc Ngân hàng Nhà nước Việt Nam quy
+định về hồ sơ, trình tự, thủ tục chấp thuận một số nội dung thay đỗi của
+ngần hàng thương mại, chỉ nhánh ngân hàng nước ngoài
+
+Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;
+Căn cử Luật Các tô chức tín dụng ngày 18 tháng 01 năm 2024;
+
+Căn cứ Nghị định số 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 của
+Chính phủ quy định chức năng, nhiệm vụ, quyên hạn và cơ cấu tô chức của
+Ngân hàng Nhà nước Việt Nam;
+
+Theo đề nghị của Chánh Thanh tra, giám sát ngân hàng;
+
+Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư sửa đổi, bổ
+sung một số điều của Thông tư số 50/2018/TT-NHNN ngày 31 tháng l2 năm
+2018 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về h sơ, trình tự,
+thủ tục chấp thuận một số nội dung thay đổi của ngân hàng thương mại, chỉ
+nhánh ngân hàng nước ngoài.
+
+Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số 50/2018/TT-
+NHNN ngày 31 tháng 12 năm 2018 của Thống đốc Ngân hàng Nhà nước
+Việt Nam quy định về hồ sơ, trình tự, thủ tục chấp thuận một số nội dung
+thay đôi của ngân hàng thương mại, chỉ nhánh ngân hàng nước ngoài
+
+1. Sửa đổi, bồ sung điểm b khoản 1 Điều 1 như sau:
+
+“b) Hồ sơ, thủ tục chấp thuận các nội dung thay đổi của ngân hàng thương
+mại, chỉ nhánh ngân hàng nước ngoài:
+
+() Mua bán, chuyển nhượng phần vốn góp của chủ sở hữu ngân hàng
+thương mại trách nhiệm hữu hạn một thành viên; mua, bán, chuyên nhượng
+phân vôn góp của thành viên góp vốn của ngân hàng thương mại trách nhiệm
+hữu hạn hai thành viên trở lên;
+
+(1i) Mua, nhận chuyển nhượng cổ phần dẫn đến trở thành cổ đông lớn của
+ngân hàng thương mại;
+
+2
+
+1) Tạm ngừng giao dịch từ 05 ngày làm việc trở lên, trừ trường hợp tạm
+ngừng giao dịch do sự kiện bất khả kháng.”
+
+2. Sửa đôi, bô sung khoản 3, 4 và bổ sung khoản 5, 6 vào Điều 3 như sau:
+
+“3. Văn bản đề nghị chấp thuận của ngân hàng thương mại, chỉ nhánh ngân
+hàng nước ngoài phải do người đại diện theo pháp luật hoặc người đại diện theo ủy -
+quyên (sau đây gọi là người đại diện hợp pháp) ký. Trường hợp ký theo ủy quyền, hồ
+sơ phải có văn bản ủy quyên được lập phù hợp với quy định của pháp luật.
+
+4. Hồ sơ của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài được
+gửi tới Ngân hàng Nhà nước, Ngân hàng Nhà nước chỉ nhánh tỉnh, thành phố
+bằng một trong các hình thức sau:
+
+a) Nộp trực tuyến qua Công dịch vụ công quốc gia hoặc trên Công dịch vụ
+công Ngân hàng Nhà nước (đối với ngân hàng thương mại nộp hồ sơ quy định
+tại Điều 5 và Điêu 8 Thông tư này);
+
+b) Nộp trực tiếp tại Bộ phận Một cửa của Ngân hàng Nhà nước, Ngân hàng
+Nhà nước chỉ nhánh tỉnh, thành phố;
+
+c) Gửi qua dịch vụ bưu chính.
+
+5. Trường hợp gửi hồ sơ trực tuyến qua Công dịch vụ công quốc gia hoặc
+trên Công dịch vụ công Ngân hàng Nhà nước, hỗ sơ điện tử được sử dụng chữ
+ký số theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi
+trường điện tử. Trường hợp hệ thống Công dịch vụ công quốc gia hoặc Cổng
+dịch vụ công Ngân hàng Nhà nước gặp Sự cố hoặc có lỗi không thê tiếp nhận,
+trao đôi thông tin điện tử, việc khai, gửi, tiếp nhận, trả kết quả, trao đôi, phản hồi
+thông tin được thực hiện qua dịch vụ bưu chính hoặc trực tiếp tại Bộ phận Một
+cửa của Ngân hàng Nhà nước.
+
+6. Các tài liệu trong hồ sơ điện tử là bản điện tử quét từ bản gốc, bản chính
+(tập tin định dạng PDF).”
+
+3. Sửa đôi, bô sung Điều 4 như sau:
+
+“Điều 4. Thắm quyền chấp thuận thay đổi
+
+LR Thống đốc Ngân hàng Nhà nước Việt Nam chấp thuận những nội dung
+thay đổi quy định tại khoản 1 Điều I1 Thông tư này của chi nhánh ngân hàng
+nước ngoài có quy mô lớn theo Quyết định của Thống đốc Ngân hàng Nhà
+nước, ngân hàng thương mại, trừ những nội dung quy định tại khoản 2 Điều này.
+
+2. Chánh Thanh tra, giám sát ngân hàng chấp thuận những nội dung thay
+đổi của chỉ nhánh ngân hàng nước ngoài có quy mô lớn theo Quyết định của
+Thống đốc Ngân hàng Nhà nước, ngân hàng thương mại sau đây:
+
+a) Địa điểm đặt trụ sở chính của ngân hàng thương mại, địa điểm đặt trụ sở
+của chi nhánh ngân hàng nước ngoài và sửa đôi, bổ sung Giấy phép đối với nội
+dung thay đổi địa điểm đặt trụ sở chính của ngân hàng thương mại, địa điểm đặt
+trụ sở của chi nhánh ngân hàng nước ngoài (trên cùng địa bàn tỉnh, thành phố
+
+3
+
+nơi ngân hàng thương mại đang đặt trụ sở chính, chi nhánh ngân hàng nước
+ngoài đang đặt trụ sở);
+
+b) Tăng mức vốn điều lệ và sửa đổi, bố sung Giấy phép đối với nội dung
+vốn điều lệ của ngân hàng thương mại trách nhiệm hữu hạn;
+
+c) Tăng mức vốn được cấp của chỉ nhánh ngân hàng nước ngoài và sửa đôi,
+
+bổ sung Giấy phép đối với nội dung vốn được câp của chi nhánh ngân hàng
+nước ngoài;
+
+d) Thay đôi tên và sửa đôi, bô sung Giấy phép đối với nội dung thay đổi tên
+của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài;
+
+đ) Sửa đôi, bố sung Giấy phép đối với nội dung thay đổi địa chỉ đặt trụ sở
+chính của ngân hàng thương mại, địa chỉ đặt trụ sở của chi nhánh ngân hàng nước
+ngoài trong trường hợp không phát sinh thay đôi địa điêm đặt trụ sở chính, trụ sở;
+
+e) Tạm ngừng giao dịch từ 05 ngày làm việc trở lên, trừ trường hợp tạm
+ngừng giao dịch do sự kiện bât khả kháng.
+
+3. Giám đốc Ngân hàng Nhà nước chỉ nhánh tỉnh, thành phố chấp thuận
+những nội dung thay đổi quy định tại khoản 1 Điều 1 Thông tư này đối với chỉ
+nhánh ngân hàng nước ngoài có trụ sở trên địa bàn trừ trường hợp quy định tại
+khoản 1, khoản 2 Điều này.”
+
+4. Sửa đôi, bô sung điểm c(iï) khoản 1 Điều 11 như sau:
+
+“(iii) Danh sách cô đông và tỷ lệ sở hữu cô phân c\ của cô đông có tỷ lệ sở
+hữu từ 5% trở lên so với vốn cô phần có quyên biểu quyết Và SO VỚI vốn điều lệ
+thời điểm hiện tại và dự kiến sau khi tăng vôn; Danh sách cô đông và người có
+liên quan của cô đông đó có tỷ lệ sở hữu cô phần từ 15% trở lên so với vốn điều
+lệ thời điểm hiện tại và dự kiến sau khi tăng vôn. Các danh sách này phải có
+thông tin định danh (đối với cá nhân: Họ và tên; số Chứng minh nhân dân hoặc
+số định danh cá nhân (đói với cá nhân có quốc tịch Việt Nam), số hộ chiếu hoặc
+giấy tờ có giá trị thay thể hộ chiều, ngày cấp, nơi cấp, quốc tịch/các quốc tịch (đói
+với cá nhân không có quốc tịch Việt Nam); đối với tô chức: tên tô chức, mã sô
+doanh nghiệp, địa chỉ trụ sở chính, người đại diện theo pháp luật của tổ chức (số
+Chứng minh nhân dân hoặc số định danh cá nhân (đối với cá nhân có quốc tịch
+Việt Nam), số hộ chiếu hoặc giây tờ có giá trị thay thế hộ chiếu, ngày cấp, nơi
+cấp, quốc tịch/các quốc tịch (đối với cá nhân không có quốc tịch Việt P HẦU của
+cô đông, người có liên quan của cô đông theo quy định của pháp luật;”
+
+5. Sửa đôi, bồ sung điểm a(iii) khoản 1 Điều 12 như sau:
+
+*(i) Trường hợp ngân hàng thương mại cô phần tăng vốn điều lệ dẫn đến
+việc hình thành cô đông lớn, văn bản đề nghị phải bao gôm các thông tin sau:
+tên cô đông, tỷ lệ cô phần sở hữu trước và dự kiến sau khi ngân hàng thương
+mại cô phần tăng vốn điều lệ;”
+
+6. Sửa đổi, bồ sung điểm d khoản 1 Điều 12 như sau:
+
+Khi
+
+Pí
+TH
+
+4
+
+“đ) Danh sách cô đông và tỷ lệ sở hữu cô phần của cô đông có tỷ lệ sở hữu
+từ 5% trở lên so với vôn cô phần có quyền biểu quyết Và SO VỚI vốn điều lệ thời
+điểm hiện tại và dự kiến sau khi tăng vôn; Danh sách cô đông và người có liên
+quan của cô đông đó có tỷ lệ sở hữu cổ phần từ 15% trở lên so với vốn điều lệ
+thời điểm hiện tại và dự kiến sau khi tăng vôn. Các danh sách này phải có thông
+tin định danh (đối với cá nhân: Họ và tên; số Chứng minh nhân dân hoặc sô định
+danh cá nhân (đối với cá nhân có quốc tịch Việt Nam), số hộ chiếu hoặc giấy tỜ
+có giá trị thay thế hộ chiếu, ngày câp, nơi cấp, quôc tịch/các quốc tịch (đối VỚI Cá
+nhân không có quốc tịch Việt Nam); đối với tô chức: tên tổ chức, mã sô doanh
+nghiệp, địa chỉ trụ sở chính, người đại diện theo pháp luật của tô chức (số Chứng
+minh nhân dân hoặc sỐ định danh cá nhân (đối với cá nhân có quốc tịch Việt
+Nam), số hộ chiếu hoặc giấy tờ có giá trị thay thế hộ chiều, ngày cấp, nơi cấp,
+quốc tịch/các quốc tịch (đối với cá nhân không có quốc tịch Việt Tư của cô
+đông, người có liên quan của cô đông theo quy định của pháp luật.”
+
+7. Bỗ sung điêm c(iiï) vào điểm c khoản 1 Điều 13 như sau:
+
+“(iii) Đối với thành viên mới của ngân hàng liên doanh là doanh nghiệp
+không phải ngân hàng, hồ sơ bao gồm:
+
+- Giấy phép thành lập hoặc chứng nhận đăng ký doanh nghiệp hoặc văn bản
+tương đương (trừ doanh nghiệp Việt Nam);
+
+- Văn bản ủy quyền người đại diện vốn góp tại ngân hàng theo quy định
+của pháp luật;
+
+- Bản sao hộ chiếu của người đại diện theo pháp luật và người đại diện vốn góp
+của doanh nghiệp tại ngân hàng (đối với người không có quôc tịch Việt Nam);
+
+- Văn bản của cấp có thâm quyền chấp thuận cho doanh nghiệp được tham
+gia góp vốn vào ngân hàng:
+
+- Báo cáo về việc đáp ứng các điều kiện đối với đối tác mới là doanh
+nghiệp không phải ngân hàng khi góp vốn theo quy định của Thống đốc Ngân
+hàng Nhà nước vê việc cập đôi Giây phép, cấp bỏ sung nội dung hoạt động vào
+Giấy phép và một số quy định về tô chức, hoạt động của ngân hàng thương mại,
+chỉ nhánh ngân hàng nước ngoài, văn phòng đại diện tại Việt Nam của tô chức
+tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng:
+
+- Báo cáo tài chính 03 năm liền kề trước năm nộp hồ sơ đề nghị chấp thuận
+tăng vốn đã được kiểm toán độc lập và không có ý kiến ngoại trừ của đơn vị
+kiểm toán;
+
+- Báo cáo khả năng tài chính tham gia gÓp vốn ngân hàng liên doanh của
+doanh nghiệp không phải ngân hàng theo mẫu quy định tại Phụ lục 01 ban hành
+kèm theo Thông tư này;
+
+- Bảng kê khai thông tin về lịch sử quan hệ tín dụng của doanh nghiệp theo
+mẫu quy định tại Phụ lục 02 ban hành kèm theo Thông tư này;
+
+5
+
+- Văn bản của cơ quan thuế, cơ quan bảo hiểm xã hội xác nhận về việc thực
+hiện đầy đủ các nghĩa vụ thuế, bảo hiểm xã hội của doanh nghiệp;
+
+- Văn bản cam kết không phải là cô đông sáng lập, chủ sở hữu, thành viên
+
+sáng lập, cô đông chiến lược của tổ chức tín dụng khác được thành lập và hoạt
+động tại Việt Nam.”
+
+§. Sửa đôi, bổ s sung khoản 2 Điều 13 như sau:
+
+“2. Thủ tục chấp thuận đối với trường hợp ngân hàng thương mại trách
+nhiệm hữu hạn tăng vôn điều lệ từ quỹ dự trữ bỗ sung vốn điều lệ, lợi nhuận lũy
+kế chưa phân phối và các quỹ khác theo quy định của pháp luật thực hiện theo
+quy định tại khoản 2 Điều 5 Thông tư này.”
+
+9. Sửa đôi, bô sung điểm b(ñii) khoản 2 Điều 16 như sau:
+
+“(ii) Đối với bên mua, nhận chuyên nhượng phân vốn góp của ngân hàng
+liên doanh là doanh nghiệp không phải ngân hàng, hồ sơ bao gồm các văn bản
+quy định tại điểm c(iii) khoản 1 Điều 13 Thông tư này.”
+
+10. Sửa đôi, bồ sung tên Điều 17 như sau:
+
+“Điều 17. Mua, nhận chuyển nhượng cô phần dẫn đến trở thành cô
+đông lớn”.
+
+11. Sửa đôi, bỗ sung khoản 3 Điều 17 như sau:
+
+“3. Việc mua cô phần của tô chức, cá nhân dẫn đến tô chức, cá nhân đó trở
+thành cỗ đông lớn trong trường hợp ngân hàng thương mại cổ phần tăng mức
+vốn điều lệ, hô sơ, thủ tục thực hiện theo quy định tại Điều 12 Thông tư này.
+
+Việc mua cô phần của tô chức, cá nhân dẫn đến tô chức, cá nhân đó trở
+thành cô đông lớn trong trường hợp ngân hàng thương mại cổ phần tăng mức
+vốn điều lệ mà tô chức, cá nhân đó không thuộc danh sách cô đông mua cô phần
+của ngân hàng thương mại cô phần tại điểm d khoản 1 Điều 12 Thông tư này đã
+được Ngân hàng Nhà nước chấp thuận thì thực hiện theo quy định tại khoản 1,
+khoản 2 Điều này và khoản 2 Điều J5 Thông tư này. Văn bản chấp thuận của
+Ngân hàng Nhà nước về việc mua cổ phân này là bộ phận không tách rời của
+văn bản chấp thuận tăng mức vốn điều lệ.”
+
+12. Bồ sung Điều 17a như sau:
+
+“Điều 17a. Thông báo cho cơ quan đăng ký kinh doanh về việc chấp
+thuận những thay đối của ngân hàng thương mại, chỉ nhánh ngân hàng
+nước ngoài
+
+Trong thời hạn 05 ngày làm việc kề từ ngày Ngân hàng Nhà nước có văn
+bản chấp thuận sửa đổi, bổ sung Giấy phép của ngân hàng thương mại, chỉ
+nhánh ngân hàng nước ngoài, Cơ quan Thanh tra, giám sát ngân hàng, Ngân
+hàng Nhà nước chi nhánh tỉnh, thành phố có trách nhiệm thông báo bằng văn
+bản cho cơ quan đăng ký kinh doanh để cập nhật vào hệ thông thông tin quốc
+gia về đăng ký doanh nghiệp kèm theo Quyết định sửa đồi, bổ sung Giấy phép.”
+
+^2 + 3g
+
+6
+
+13. Sửa đôi tiêu đề Chương III như sau:
+“Chương II. Tổ chức thực hiện”
+14. Sửa đổi, bỗ sung khoản 1 Điều 18 như sau:
+
+“1, Đầu mối tiếp nhận, thâm định, lấy ý kiến các đơn vị liên quan thuộc
+Ngân hàng Nhà nước (nếu cần thiết), tông hợp và trình Thông đôc Ngân hàng
+Nhà nước xem xét, chấp thuận đối với các nội dung thay đổi quy định tại khoản
+1 Điều 4 Thông tư này; trong thời hạn 05 ngày làm việc kế từ ngày Ngân hàng
+Nhà nước nhận được văn bản của ngân hàng thương mại, chi nhánh ngân hàng
+nước ngoài theo quy định tại khoản 4 Điều 7 Thông tư này, Cơ quan Thanh tra,
+giám sát ngân hàng đề nghị Ngân hàng Nhà nước chỉ nhánh tỉnh, thành phô nơi
+ngân hàng thương mại dự kiến đặt trụ sở chính, chỉ nhánh ngân hàng nước ngoài
+dự kiến đặt trụ sở kiểm tra việc đáp ứng đầy đủ điều kiện của trụ sở chính của
+ngân hàng thương mại, trụ sở của chi nhánh ngân hàng nước ngoài dự kiến đặt
+trên địa bàn.”
+
+15. Bố sung khoản 1a vào Điều 18 như sau:
+
+“la, Tiếp nhận, thẩm định hồ Sơ và Xem xét, chấp thuận đối với các nội
+dung thay đôi quy định tại khoản 2 Điều 4 Thông tư này.”
+
+16. Bổ sung Phụ lục 01, Phụ lục 02 ban hành kèm theo Thông tư này vào
+Thông tư 50/2018/TT-NHNN.
+
+Điều 2. Thay thế, bãi bỏ một số cụm từ, khoản của Thông tưsó
+50/2018/TT-NHNN
+
+1. Bỏ cụm từ “trình tự” tại khoản 1 Điều 1, khoản 3 Điều 2, khoản 2 Điều
+5, khoản 2 Điều 6, khoản 2 Điều 7, khoản 2 Điều 9, khoản 2 Điều 10, khoản 2
+Điều 11, khoản 2 Điều 12, khoản 3 Điều 13, khoản 2, 3 Điều 14, khoản 2 Điều
+15, khoản 3 Điều 16, khoản 4 Điều 17.
+
+2. Thay thế cụm từ “hoạt động kinh doanh” và cụm từ “hoạt động” tại Điều
+10 bằng cụm từ “giao dịch”.
+
+3. Thay thế cụm từ “khoản 6 Điều 103 Luật Các tổ chức tín dụng” bằng
+
+cụm từ “khoản 8 Điều 111 Luật Các tổ chức tín dụng” tại gạch đầu dòng thứ 4
+điểm c(ñ¡) khoản 1 Điều 13.
+
+4. Thay thế cụm từ “lợi nhuận đề lại” bằng cụm từ “lợi nhuận lũy kế chưa
+phân phối” tại tên Điều 11, điểm b, c(1¡) khoản l Điều 11, điểm a(111) khoản I
+Điều 13, điểm a(1ii) khoản 1, khoản 2 Điều 14.
+
+5. Bãi bỏ khoản 3 Điều 1, khoản 3 Điều 10, khoản 1 Điều 17.
+Điều 3. Trách nhiệm tổ chức thực hiện
+
+Chánh Văn phòng, Chánh Thanh tra, giám sát ngân hàng, Thủ trưởng các
+đơn vị thuộc Ngân hàng Nhà nước, ngân hàng thương mại, chi nhánh ngân hàng
+nước ngoài chịu trách nhiệm tổ chức thực hiện Thông tư này.
+
+Điều 4. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành từ ngày @Í_ tháng ỚŸ năm 2024, trừ
+quy định tại khoản 2 Điều này.
+
+2. Quy định về hồ sơ của ngân hàng thương mại bằng hình thức trực tuyến quy
+định tại Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 07 năm 2025.
+
+3. Bãi bỏ các khoản 1, 2, 5, 6, 7 Điều 1 Thông tư số 06/2022/TT-NHNN
+ngày 30 tháng 6 năm 2022 của Thống đốc Ngân hàng Nhà nước Việt Nam sửa
+đôi, bô sung một số điều của Thông tư số 50/2018/TT-NHNN ngày 31 tháng 12
+năm 2018 quy định về hồ sơ, trình tự, thủ tục chấp thuận một số nội dung thay
+đổi của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài.
+
+4. Bãi bỏ Điêu 2 Thông tư 13/2023/TT-NHNN ngày 31 tháng 10 năm 2023
+của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đôi, bỗ sung một số điều của
+các Thông tư quy định vê cấp Giấy phép, tổ chức, hoạt động và hồ sơ, trình tự,
+
+thủ tục chấp thuận một số thay đổi của ngân hàng thương mại, chi nhánh ngân
+hàng nước ngoài... -
+
+Nơi nhận: M. THÓNG ĐÓC
+
+- Như Điều 3; PHÓ THỐNG ĐỐC
+- Ban lãnh đạo NHNN: nà ao,
+
+- Văn phòng Chính phủ;
+- Bộ Tư pháp (đề kiểm tra);
+- Công báo;
+- Lưu:VP, PC, TTGSNH6 (03 bản).
+
+Đoàn Thái Sơn
+
+zÚC 01
+MẪU BÁO CÁO SNĂNG TÀI CHÍNH THAM GIA GÓP VỐN NGÂN
+HÀNG LIÊN DOANHVÙA DOANHNGHIỆP KHÔNG PHẢI NGÂN HÀNG
+
+(Ban hành kèm theo TÌ 5
+
+Thông độc N8ñf
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+àng Nhà s... Việt Nam)
+
+Kính gửi: Ngân hàng liên doanh................‹.--..‹‹ -‹ ‹‹ <5 555
+1. Thông tin về doanh nghiệp:
+- Tên doanh nghiệp (tên đầy đủ và chính thức, ghi bằng chữ in hoa):
+
+1. Giấy phép thành lập hoặc đăng ký doanh nghiệp hoặc văn bản tương
+đương, cơ quan câp, ngày câp:
+
+- Vốn điều lệ:
+
+- Địa chỉ trụ sở chính:
+
+- Số điện thoại: Số Fax:
+
+- Tên người đại diện theo pháp luật:
+
+- Ngày tháng năm sinh:
+
+- Số chứng minh nhân dân hoặc số định danh cá nhân; nơi ở hiện tại (trường hợp
+khác nơi đăng ký thường trú) (đối với người có quốc tịch Việt Nam):
+
+- Số hộ chiếu, ngày cấp, nơi cấp; quốc tịch (quốc tịch gốc, các quốc tịch hiện
+nay); nơi ở hiện tại (đôi với người không có quốc tịch Việt Nam):
+
+2. Khả năng về tài chính để tham gia góp vốn vào Ngân hàng liên doanh:
+
+- Vốn chủ sở hữu (A):
+
+- Tài sản dài hạn trừ đi Nợ dài hạn dùng để đầu tư tài sản dài hạn (B):
+
+- Khả năng về tài chính để tham gia góp vốn vào Ngân hàng liên doanh (C = A - :
+B): vi
+(Trường hợp doanh nghiệp hoạt động trong ngành nghề kinh doanh có yêu cầu
+vốn pháp định cân kê khai thêm các thông tin dưới đây)
+
+- Mức vốn pháp định theo yêu cầu của pháp luật hiện hành áp dụng đối với
+ngành nghề mà doanh nghiệp đang hoạt động (ường hợp doanh nghiệp hoạt
+động đa ngành thì kê khai mức vốn pháp định cao nhát) (D):
+
+- Vốn chủ sở hữu trừ mức vốn pháp định (E = A - D):
+
+Kết luận: Đủ khả năng tài chính tham gia góp vốn vào Ngân hàng liên doanh
+(chỉ kết luận này khi C và E tối thiểu bằng mức vốn cam kết góp của doanh
+nghiệp).
+
+3. Cam kết
+
+- Không sử dụng vốn huy động, vốn vay của các tổ chức, cá nhân khác đề góp
+vôn; Chịu trách nhiệm trước pháp luật về tính hợp pháp của nguồn vốn SÓP;
+
+- Tuân thủ các quy định tại Điều lệ tổ chức và hoạt động ngân hàng, các quy
+định nội bộ của ngân hàng và các quy định của pháp luật có liên quan;
+
+- Hoàn toàn chịu trách nhiệm về tính trung thực, chính xác của những hồ sơ gửi
+kèm (nêu có).
+
+.., NØày ... tháng ... năm...
+Người đại diện hợp pháp của doanh nghiệp
+(Ký, ghi rõ họ tên, chức vụ và đóng dâu)
+
+Ghi chú: Vốn chủ sở hữu, Tài sản đài hạn, Nợ dài hạn dùng để đầu tư tài sản dài hạn lây
+theo báo cáo tài chính năm liên kê năm nộp hồ sơ đề nghị châp thuận mua bán, chuyển
+nhượng phân vôn góp đã được kiểm toán độc lập và không có ý kiên ngoại trừ của đơn vị
+kiêm toán.
+
+TANG
+
+Ƒ= - PHÙ Tụ C02
+HẠI THÔNG TIN VỀ LỊCH SỬ QUAN HỆ TÍN DỤNG
+
+_ - 'CỦA ĐÓ/ NGHIỆP
+(Ban hành kèm theo Thông 2024/TT-NHNN ngày)Ÿ /(§/2024 của
+Thống “hàng Nhà nước Việt Nam)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+BẢNG KẾ KHAI THÔNG TIN VỀ LỊCH SỬ QUAN HỆ TÍN DỤNG CỦA
+DOANH NGHIỆP
+
+MẪU BẢNG KÊ
+
+1. Tên doanh nghiệp:
+
+2. Mã số thuế:
+
+3. Lĩnh vực kinh doanh:
+
+4. Thông tin về lịch sử quan hệ tín dụng:
+
+- Tên tô chức tín dụng, chỉ nhánh ngân hàng nước ngoài:
+- Địa chỉ:
+
+- Số Giấy phép thành lập hoặc số Giấy chứng nhận đăng ký doanh nghiệp hoặc
+văn bản tương đương, cơ quan câp, ngày câp:
+
+- Tiền gửi tại tổ chức tín dụng, chỉ nhánh ngân hàng nước ngoài tại thời điểm kê
+khai:
+
+- Dư nợ tín dụng tại tô chức tín dụng, chỉ nhánh ngân hàng nước ngoài tại thời
+điêm kê khai:
+
+- Dư nợ quá hạn tại thời điểm kê khai:
+
+- Nợ xấu tại tô chức tín dụng, chỉ nhánh ngân hàng nước ngoài:
+
++ Thời điểm (Ghi rõ tháng, năm):
+
++ Thực trạng xử lý nợ xấu (Ghi rõ đến thời điểm kê khai đã xử lý như thế nào):
+5. Cam kết hoàn toàn chịu trách nhiệm về tính trung thực, chính xác của bảng kê
+khai.
+
+., Hgày ... thẳng ... năm
+Người đại diện hợp pháp của doanh nghiệp
+(Ký, ghi rõ họ tên, chức vụ và đóng dấu)
+
+_ NĂM

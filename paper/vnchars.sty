@@ -1,0 +1,126 @@
+%% vnchars.sty -- Vietnamese precomposed characters as T1 composites.
+%%
+%% WHY THIS FILE EXISTS (read before deleting):
+%% This machine's TeX Live has NO Vietnamese support package: there is no
+%% vntex, no babel `vietnam' language definition, and latex-base's
+%% utf8enc.dfu contains no entry for the Vietnamese block U+1EA0-U+1EF5 nor
+%% for the horns U+01A0/01A1/01AF/01B0. Under \usepackage[utf8]{inputenc} +
+%% \usepackage[T1]{fontenc} (the encoding pair the IEEE-RIVF template and the
+%% project brief require) every character such as i-with-dot-below, o-horn or
+%% a-with-hook-above therefore raises "Unicode character ... not set up for
+%% use with LaTeX". lualatex/xelatex are not a fallback here: luaotfload is
+%% broken on this host ("module 'luaotfload-main' not found"), so pdflatex is
+%% the only working engine.
+%%
+%% This package supplies the missing characters as composites built from
+%% accents the T1/EC fonts DO provide, following the decomposition used by
+%% VnTeX (see hyperref's puvnenc.def, which documents exactly which accent
+%% stacks onto which base for every Vietnamese codepoint):
+%%   dot below    -> \d{...}        (latex kernel, renders correctly)
+%%   acute/grave/tilde/circumflex/breve -> \' \` \~ \^ \breve (kernel)
+%%   hook above   -> \h{...}        (defined here; VnTeX name)
+%%   horn         -> \ohorn/\uhorn  (defined here; VnTeX name)
+%%
+%% GUARD: if a genuine Vietnamese setup is loaded first (vntex or babel
+%% vietnam, which define \h, \ohorn, \uhorn), this package does nothing and
+%% the real glyphs are used. Authors compiling on a full TeX Live install
+%% (texlive-lang-other) therefore get perfect output from the same source;
+%% the composites below are only the fallback for minimal installs.
+%%
+%% VISUAL CHECK: re-inspected 2026-09-15 via A/B render (arm B adopted:
+%% rotated-questiondown hook, curly-quote horn; arm A's raised-'r' judged
+%% unacceptable at print size). Horn position fixed same day (v0.3): the
+%% tick is tucked INSIDE the base letter's advance width (kern back, \rlap,
+%% kern forward) instead of protruding past it -- a protruding zero-width
+%% \rlap tick collided with the following glyph (e.g. "tư)", "sửa", "bởi").
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{vnchars}[2026/09/15 v0.3 Vietnamese precomposed chars as T1 composites]
+\RequirePackage{graphicx}
+
+% --- hook above (dấu hỏi): a small raised hook centred over the base ------
+\@ifundefined{h}{%
+  \DeclareRobustCommand{\h}[1]{%
+    \ooalign{%
+      \hidewidth\raise.84ex\hbox{\fontsize{4.4}{4.4}\selectfont\rotatebox[origin=c]{180}{\textquestiondown}}\hidewidth
+      \crcr#1}}%
+}{}
+
+% --- horn (dấu móc): a small raised tick at the top right of o / u ---------
+% Net advance = the bare base letter: the tick is drawn .14em left of the
+% base's right edge (growing out of its shoulder) and the trailing kern
+% restores the pen, so the composite never touches the next glyph.
+\newcommand{\vn@horn@tick}{\fontsize{4.8}{4.8}\selectfont\textquoteright}
+\@ifundefined{ohorn}{%
+  \DeclareRobustCommand{\ohorn}{o\kern-.14em\rlap{\raise.70ex\hbox{\vn@horn@tick}}\kern.14em}%
+}{}
+\@ifundefined{uhorn}{%
+  \DeclareRobustCommand{\uhorn}{u\kern-.14em\rlap{\raise.70ex\hbox{\vn@horn@tick}}\kern.14em}%
+}{}
+\@ifundefined{OHORN}{%
+  \DeclareRobustCommand{\OHORN}{O\kern-.14em\rlap{\raise.82ex\hbox{\vn@horn@tick}}\kern.14em}%
+}{}
+\@ifundefined{UHORN}{%
+  \DeclareRobustCommand{\UHORN}{U\kern-.14em\rlap{\raise.82ex\hbox{\vn@horn@tick}}\kern.14em}%
+}{}
+
+% --- map the precomposed codepoints onto those composites ------------------
+% \DeclareUnicodeCharacter is provided by inputenc; skip silently if absent.
+\@ifundefined{DeclareUnicodeCharacter}{}{%
+  % a group
+  \DeclareUnicodeCharacter{1EA1}{\d{a}}%
+  \DeclareUnicodeCharacter{1EA3}{\h{a}}%
+  \DeclareUnicodeCharacter{1EA5}{\'{\^{a}}}%
+  \DeclareUnicodeCharacter{1EA7}{\`{\^{a}}}%
+  \DeclareUnicodeCharacter{1EA9}{\h{\^{a}}}%
+  \DeclareUnicodeCharacter{1EAB}{\~{\^{a}}}%
+  \DeclareUnicodeCharacter{1EAD}{\d{\^{a}}}%
+  \DeclareUnicodeCharacter{1EAF}{\'{\u{a}}}%
+  \DeclareUnicodeCharacter{1EB1}{\`{\u{a}}}%
+  \DeclareUnicodeCharacter{1EB3}{\h{\u{a}}}%
+  \DeclareUnicodeCharacter{1EB5}{\~{\u{a}}}%
+  \DeclareUnicodeCharacter{1EB7}{\d{\u{a}}}%
+  % e group
+  \DeclareUnicodeCharacter{1EB9}{\d{e}}%
+  \DeclareUnicodeCharacter{1EBB}{\h{e}}%
+  \DeclareUnicodeCharacter{1EBD}{\~{e}}%
+  \DeclareUnicodeCharacter{1EBF}{\'{\^{e}}}%
+  \DeclareUnicodeCharacter{1EC1}{\`{\^{e}}}%
+  \DeclareUnicodeCharacter{1EC3}{\h{\^{e}}}%
+  \DeclareUnicodeCharacter{1EC5}{\~{\^{e}}}%
+  \DeclareUnicodeCharacter{1EC7}{\d{\^{e}}}%
+  % i group
+  \DeclareUnicodeCharacter{1EC9}{\h{\i}}%
+  \DeclareUnicodeCharacter{1ECB}{\d{\i}}%
+  % o group
+  \DeclareUnicodeCharacter{1ECD}{\d{o}}%
+  \DeclareUnicodeCharacter{1ECF}{\h{o}}%
+  \DeclareUnicodeCharacter{1ED1}{\'{\^{o}}}%
+  \DeclareUnicodeCharacter{1ED3}{\`{\^{o}}}%
+  \DeclareUnicodeCharacter{1ED5}{\h{\^{o}}}%
+  \DeclareUnicodeCharacter{1ED7}{\~{\^{o}}}%
+  \DeclareUnicodeCharacter{1ED9}{\d{\^{o}}}%
+  \DeclareUnicodeCharacter{1EDB}{\'{\ohorn}}%
+  \DeclareUnicodeCharacter{1EDD}{\`{\ohorn}}%
+  \DeclareUnicodeCharacter{1EDF}{\h{\ohorn}}%
+  \DeclareUnicodeCharacter{1EE1}{\~{\ohorn}}%
+  \DeclareUnicodeCharacter{1EE3}{\d{\ohorn}}%
+  % u group
+  \DeclareUnicodeCharacter{1EE5}{\d{u}}%
+  \DeclareUnicodeCharacter{1EE7}{\h{u}}%
+  \DeclareUnicodeCharacter{1EE9}{\'{\uhorn}}%
+  \DeclareUnicodeCharacter{1EEB}{\`{\uhorn}}%
+  \DeclareUnicodeCharacter{1EED}{\h{\uhorn}}%
+  \DeclareUnicodeCharacter{1EEF}{\~{\uhorn}}%
+  \DeclareUnicodeCharacter{1EF1}{\d{\uhorn}}%
+  % y group
+  \DeclareUnicodeCharacter{1EF5}{\d{y}}%
+  \DeclareUnicodeCharacter{1EF7}{\h{y}}%
+  \DeclareUnicodeCharacter{1EF9}{\~{y}}%
+  % horns
+  \DeclareUnicodeCharacter{01A0}{\OHORN}%
+  \DeclareUnicodeCharacter{01A1}{\ohorn}%
+  \DeclareUnicodeCharacter{01AF}{\UHORN}%
+  \DeclareUnicodeCharacter{01B0}{\uhorn}%
+}
+\endinput

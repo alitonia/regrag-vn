@@ -1,0 +1,25 @@
+{
+  "title": "Citation-Level Unfaithfulness of Small Language Models on Vietnamese Banking Regulation: A Provenance-Guarded RAG Benchmark",
+  "upload_type": "dataset",
+  "description": "<p>RegRAG-VN: a QA-driven benchmark and provenance-guarded evaluation framework for Vietnamese banking and payment regulation, accompanying the IEEE-RIVF 2026 paper of the same title.</p><p>The benchmark holds 88 questions (64 answerable over State Bank of Vietnam circulars, decrees and laws, each with a verbatim gold passage and article-level <em>Điều</em> gold; 24 unanswerable probes whose gold label is an explicit abstention sentinel) and a two-tier corpus whose coverage invariant requires every retained question's gold passage to string-match an ingested instrument. The release contains the ingestion and evaluation code (including the provenance guard and the deterministic lexical scorer), the two-tier corpus, the raw ingested sources (redistributed as downloaded from official government sources; they remain under their original terms), the full 792-row generation-campaign log (3 models x 3 retrieval modes x 88 questions, single RTX 3090, 4-bit quantisation, greedy decoding), the retrieval-recall logs for both the sparse (BM25 + pyvi) and dense (BGE-M3) arms, the computed table inputs, and the paper PDF.</p><p>Every generation and evaluation record carries its corpus tier, retriever backend and quantisation tag; the aggregation guard refuses rows with unset or degraded provenance. The generation campaign ran on the Tier-1 development fixture and is disclosed as such in the paper; retrieval quality is measured on the full Tier-2 corpus.</p>",
+  "creators": [
+    {"name": "Dinh Thi Lan Huong", "affiliation": "Hanoi University of Science and Technology"},
+    {"name": "Nguyen Huy Hoang", "affiliation": "Hanoi University of Science and Technology"},
+    {"name": "Nguyen Thang Phuc", "affiliation": "Hanoi University of Science and Technology"},
+    {"name": "Vu Duc Thanh", "affiliation": "Hanoi University of Science and Technology"},
+    {"name": "Nguyen Khac Duy Ngoc", "affiliation": "Hanoi University of Science and Technology"},
+    {"name": "Thanh Phuong Nguyen", "affiliation": "University of L'Aquila"}
+  ],
+  "keywords": ["retrieval-augmented generation", "hallucination", "citation faithfulness", "abstention", "Vietnamese legal NLP", "benchmark"],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/alitonia/regrag-vn",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Legal texts under data/raw_legal/ and the ingested corpora are redistributed as downloaded from official Vietnamese government sources and remain under their original terms. The paper PDF is included; the authors retain copyright per the venue's terms.",
+  "journal_metadata": null
+}

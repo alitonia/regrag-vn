@@ -1,0 +1,333 @@
+{
+  "benchmark": "RegRAG-VN",
+  "subset_name": "kappa_cross_annotated_30",
+  "date": "2026-09-13",
+  "seed": 20260913,
+  "total_questions": 30,
+  "composition": {
+    "answerable": 24,
+    "probes": 6,
+    "total": 30
+  },
+  "authorship_split": {
+    "Hương": 15,
+    "Thành": 15
+  },
+  "authorship_composition": {
+    "Hương": {
+      "answerable": 12,
+      "probes": 3,
+      "total": 15
+    },
+    "Thành": {
+      "answerable": 12,
+      "probes": 3,
+      "total": 15
+    }
+  },
+  "probe_assignment_rule": "Probes have unassigned or collective authorship; 6 sampled probes are assigned round-robin (3 to Hương, 3 to Thành) for balanced cross-annotation bookkeeping.",
+  "question_ids": [
+    "Q001",
+    "Q002",
+    "Q003",
+    "Q004",
+    "Q006",
+    "Q007",
+    "Q008",
+    "Q012",
+    "Q017",
+    "Q018",
+    "Q019",
+    "Q034",
+    "Q041",
+    "Q044",
+    "Q051",
+    "Q052",
+    "Q054",
+    "Q056",
+    "Q058",
+    "Q059",
+    "Q060",
+    "Q061",
+    "Q062",
+    "Q063",
+    "Q067",
+    "Q068",
+    "Q073",
+    "Q074",
+    "Q076",
+    "Q078"
+  ],
+  "items": [
+    {
+      "question_id": "Q001",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "06/2019/TT-NHNN",
+      "gold_article_id": "8",
+      "gold_clause_id": "1",
+      "question": "Cách thức chuyển tiền từ nước ngoài vào Việt Nam để thanh toán các chi phí chuẩn bị đầu tư hợp pháp khi chưa được cấp Giấy chứng nhận đăng ký đầu tư hoặc Thông báo đáp ứng điều kiện góp vốn, mua cổ phần, mua lại phần vốn góp được quy định như thế nào?"
+    },
+    {
+      "question_id": "Q002",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "32/2013/TT-NHNN",
+      "gold_article_id": "4",
+      "gold_clause_id": "",
+      "question": "Doanh nghiệp có được mua ngoại tệ để hoàn trả cho chuyên gia nước ngoài trong trường hợp chuyên gia này đã ứng trước tiền chi tiêu bằng đồng Việt Nam cho chuyến công tác tại TP.HCM không"
+    },
+    {
+      "question_id": "Q003",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "06/2019/TT-NHNN",
+      "gold_article_id": "10",
+      "gold_clause_id": "2",
+      "question": "Việc thanh toán giá trị chuyển nhượng phần vốn góp giữa hai pháp nhân nước ngoài đối với dòng vốn tại một doanh nghiệp đầu tư trực tiếp nước ngoài tại Việt Nam có bắt buộc phải thực hiện qua tài khoản vốn đầu tư trực tiếp không?"
+    },
+    {
+      "question_id": "Q004",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "17/2024/TT-NHNN",
+      "gold_article_id": "11",
+      "gold_clause_id": "",
+      "question": "Con tôi 13t, chưa có cccd có thể độc lập mở tài khoản thanh toán không?"
+    },
+    {
+      "question_id": "Q006",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "46/2024/QH15",
+      "gold_article_id": "52",
+      "gold_clause_id": "4",
+      "question": "Sau khi ký và công chứng Hợp đồng thế chấp QSDĐ, Chi nhánh ngân hàng tôi phát hiện thông tin ngày cấp GCN trong hợp đồng không trùng với GCN gốc. Với sai sót này, Chi nhánh cần làm việc với Văn phòng công chứng theo hướng xử lý nào?"
+    },
+    {
+      "question_id": "Q007",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "23/2015/NĐ-CP",
+      "gold_article_id": "18",
+      "gold_clause_id": "",
+      "question": "Khách hàng đến ngân hàng VPbank tất toán sổ tiết kiệm đúng hạn nhưng ký không giống chữ ký mẫu đã đăng ký, do quên chữ ký cũ hoặc ký bị run tay vì sức khỏe. Trường hợp này ngân hàng cần xử lý như thế nào cho đúng quy định?"
+    },
+    {
+      "question_id": "Q008",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "47/2014/QH13",
+      "gold_article_id": "3",
+      "gold_clause_id": "1",
+      "question": "Theo quy định quản lý ngoại hối, có bắt buộc người nước ngoài phải sở hữu đồng thời cả thẻ tạm trú và giấy phép lao động thì mới được phép chuyển các khoản thu nhập hợp pháp tại Việt Nam ra nước ngoài hay không?"
+    },
+    {
+      "question_id": "Q012",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "32/2024/QH15",
+      "gold_article_id": "136",
+      "gold_clause_id": "1",
+      "question": "Giới hạn cấp tín dụng tối đa đối với một khách hàng tại NHTM là bao nhiêu % vốn tự có?"
+    },
+    {
+      "question_id": "Q017",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "32/2024/QH15",
+      "gold_article_id": "63",
+      "gold_clause_id": "2",
+      "question": "Cổ đông và người có liên quan sở hữu tối đa bao nhiêu % vốn điều lệ NHTMCP?"
+    },
+    {
+      "question_id": "Q018",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "32/2024/QH15",
+      "gold_article_id": "156",
+      "gold_clause_id": "1",
+      "question": "NHNN có thể áp dụng biện pháp can thiệp sớm khi nào?"
+    },
+    {
+      "question_id": "Q019",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "17/2024/TT-NHNN",
+      "gold_article_id": "3",
+      "gold_clause_id": "",
+      "question": "Theo TT 17/2024/TT-NHNN, tài khoản thanh toán là gì?"
+    },
+    {
+      "question_id": "Q034",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "41/2016/TT-NHNN",
+      "gold_article_id": "9",
+      "gold_clause_id": "5",
+      "question": "Hệ số rủi ro 100% áp dụng cho tài sản nào?"
+    },
+    {
+      "question_id": "Q041",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "06/2019/TT-NHNN",
+      "gold_article_id": "5",
+      "gold_clause_id": "2",
+      "question": "Doanh nghiệp FDI được mở bao nhiêu tài khoản vốn ĐTTT?"
+    },
+    {
+      "question_id": "Q044",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "06/2019/TT-NHNN",
+      "gold_article_id": "7",
+      "gold_clause_id": "",
+      "question": "Tài khoản vốn ĐTTT dùng cho giao dịch nào?"
+    },
+    {
+      "question_id": "Q051",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "39/2016/TT-NHNN",
+      "gold_article_id": "8",
+      "gold_clause_id": "3",
+      "question": "Những nhu cầu vốn nào TCTD không được cho vay?"
+    },
+    {
+      "question_id": "Q052",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "39/2016/TT-NHNN",
+      "gold_article_id": "13",
+      "gold_clause_id": "2",
+      "question": "Lãi suất cho vay bằng VND quy định thế nào?"
+    },
+    {
+      "question_id": "Q054",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "39/2016/TT-NHNN",
+      "gold_article_id": "24",
+      "gold_clause_id": "7",
+      "question": "TCTD có trách nhiệm gì trong kiểm soát mục đích sử dụng vốn vay?"
+    },
+    {
+      "question_id": "Q056",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "21/2017/TT-NHNN",
+      "gold_article_id": "4",
+      "gold_clause_id": "2",
+      "question": "TCTD giải ngân cho khách hàng vay bằng hình thức nào?"
+    },
+    {
+      "question_id": "Q058",
+      "author_of_record": "Thành",
+      "is_answerable": true,
+      "gold_doc_id": "39/2016/TT-NHNN",
+      "gold_article_id": "20",
+      "gold_clause_id": "4",
+      "question": "Khách hàng không trả nợ đúng hạn mà không được gia hạn, TCTD xử lý thế nào?"
+    },
+    {
+      "question_id": "Q059",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "32/2024/QH15",
+      "gold_article_id": "3",
+      "gold_clause_id": "9",
+      "question": "Đơn vị là một PGD của MBBank theo Giấy phép do Ngân hàng nhà nước cấp. Khách hàng hiện đang có dư nợ vay 800 triệu đồng tại Đơn vị. Hiện tại Khách hàng đang đề xuất cấp tín dụng bổ sung tại Đơn vị với số tiền là 1,8 tỷ đồng, các khoản vay này được bảo đảm bằng bất động sản. Theo quy định của pháp luật, Đơn vị hiểu là PGD không được cho vay đối với KH với giá trị khoản vay trên 02 tỷ đồng, Đơn vị muốn hỏi, giới hạn 02 tỷ đồng nêu trên được tính cho một khoản vay hay tổng giá trị tất cả các khoản vay của KH tại PGD? Trường hợp này Đơn vị có thể tiếp tục cấp tín dụng cho KH theo đề xuất không hay phải chuyển về CN?"
+    },
+    {
+      "question_id": "Q060",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "32/2024/QH15",
+      "gold_article_id": "3",
+      "gold_clause_id": "9",
+      "question": "Khoản vay của Khách hàng có giá trị trên 2 tỷ đồng ban đầu được cấp bởi PGD do được bảo đảm 100% bằng tiền gửi tiết kiệm, nay KH đổi chấp tài sản bảo đảm từ tiền gửi tiết kiệm thành bất động sản. Đơn vị muốn hỏi trường hợp này khoản vay có cần phải chuyển lên CN để quản lý không, Đơn vị có cần thực hiện bổ sung các thủ tục nào với KH để đảm bảo tuân thủ quy định của pháp luật về mạng lưới của ngân hàng thương mại không?"
+    },
+    {
+      "question_id": "Q061",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "61/2025/TT-NHNN",
+      "gold_article_id": "3",
+      "gold_clause_id": "9",
+      "question": "Để phối hợp chặt chẽ với các Đối tác (chủ đầu tư bất động sản, showroom ô tô, ...) trong hoạt động cho vay đối với KH mua sản phẩm của Đối tác, Đơn vị mong muốn ký hợp đồng thuê một diện tích mặt bằng nhỏ tại Đối tác, cán bộ của TPBank sẽ đến địa điểm này để tư vấn, giới thiệu sản phẩm cho vay của TPBank, thu thập, xử lý hồ sơ vay vốn cho Khách hàng. Đơn vị muốn hỏi, dự định triển khai như của Đơn vị nêu trên có vướng mắc gì về pháp lý hay không?"
+    },
+    {
+      "question_id": "Q062",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "06/2013/UBTVQH13",
+      "gold_article_id": "3",
+      "gold_clause_id": "",
+      "question": "Một KH là người nước ngoài cư trú tại Việt Nam muốn gửi tiền tiết kiệm bằng USD tại TCB. Đơn vị muốn hỏi, Đơn vị có thể nhận tiền gửi theo yêu cầu của KH được không? Trường hợp KH này không gửi được, KH có thể ủy quyền cho vợ KH là công dân Việt Nam gửi tiền không?"
+    },
+    {
+      "question_id": "Q063",
+      "author_of_record": "Hương",
+      "is_answerable": true,
+      "gold_doc_id": "48/2018/TT-NHNN",
+      "gold_article_id": "53",
+      "gold_clause_id": "2",
+      "question": "KH gửi tiền tiết kiệm tại Ngân hàng hiện tại bị hôn mê, không còn khả năng nhận thức và ký chứng từ. Vậy, cần những thủ tục, giấy tờ gì để gia đình Khách hàng rút tiền tiết kiệm phù hợp quy định pháp luật?"
+    },
+    {
+      "question_id": "Q067",
+      "author_of_record": "Thành",
+      "is_answerable": false,
+      "gold_doc_id": "",
+      "gold_article_id": "",
+      "gold_clause_id": "",
+      "question": "Đơn vị đang tiếp nhận đề nghị mở tài khoản từ trường mầm non, trường mẫu giáo, nhóm trẻ, lớp mẫu giáo độc lập. Vậy các loại hình này có được mở tài khoản thanh toán tổ chức hay không?"
+    },
+    {
+      "question_id": "Q068",
+      "author_of_record": "Thành",
+      "is_answerable": false,
+      "gold_doc_id": "",
+      "gold_article_id": "",
+      "gold_clause_id": "",
+      "question": "Đơn vị đang tiếp nhận đề nghị mở tài khoản thanh toán từ Ban quản trị nhà chung cư có nhiều chủ sở hữu và có từ 20 căn hộ trở lên để quản lý kinh phí hoạt động của Ban quản trị. Hỏi: - Ban quản trị nhà chung cư có nhiều chủ sở hữu và có từ 20 căn hộ trở lên có được mở tài khoản không? - Trường hợp mở tài khoản thanh toán tổ chức, căn cứ vào giấy tờ nào để xác định ai trong Ban quản trị chung cư là đại diện hợp pháp của chủ tài khoản hoạt động?"
+    },
+    {
+      "question_id": "Q073",
+      "author_of_record": "Hương",
+      "is_answerable": false,
+      "gold_doc_id": "",
+      "gold_article_id": "",
+      "gold_clause_id": "",
+      "question": "Hiệp hội A – Chi hội B có nhu cầu mở TKTT độc lập không phụ thuộc vào Hiệp hội A. Hỏi Đơn vị kinh doanh có thể mở được cho KH theo đề nghị trên hay không?"
+    },
+    {
+      "question_id": "Q074",
+      "author_of_record": "Hương",
+      "is_answerable": false,
+      "gold_doc_id": "",
+      "gold_article_id": "",
+      "gold_clause_id": "",
+      "question": "Đơn vị kinh doanh đang có trường hợp Khách hàng là Công ty TNHH A có thông tin của đại diện pháp luật trên Đăng ký kinh doanh là Căn cước số 022083xxxxxx. Hiện Người đại diện theo pháp luật của KH đang bị mất Thẻ căn cước, tuy nhiên KH có thể cung Hộ chiếu (còn hiệu lực) trong đó có dẫn chiếu đến số Căn cước khớp với số trên ĐKKD. Hỏi, trường hợp này có thể chấp nhận mở TKTT cho KH không?"
+    },
+    {
+      "question_id": "Q076",
+      "author_of_record": "Thành",
+      "is_answerable": false,
+      "gold_doc_id": "",
+      "gold_article_id": "",
+      "gold_clause_id": "",
+      "question": "Trong quá trình sử dụng tài khoản thanh toán, Khách hàng thay đổi mẫu dấu (chỉ thay đổi về bố cục, không thay đổi nội dung) thì có cần đăng ký với ngân hàng không?"
+    },
+    {
+      "question_id": "Q078",
+      "author_of_record": "Hương",
+      "is_answerable": false,
+      "gold_doc_id": "",
+      "gold_article_id": "",
+      "gold_clause_id": "",
+      "question": "Người đại diện theo pháp luật của Khách hàng doanh nghiệp bị tạm giam thì người đó có thể ký các chứng từ giao dịch tài khoản của doanh nghiệp không?"
+    }
+  ]
+}

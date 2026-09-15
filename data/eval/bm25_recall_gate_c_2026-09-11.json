@@ -1,0 +1,274 @@
+{
+  "timestamp_utc": "2026-09-10T20:54:05+00:00",
+  "gate": "C",
+  "metric": "bm25_recall",
+  "retriever_backend": "bm25-rank_bm25+pyvi",
+  "corpus_source": "tier2_full",
+  "corpus_path": "/mnt/data/seminar_2/data/processed_chunks/corpus_chunks.json",
+  "corpus_chunk_count": 3703,
+  "instrument_count": 22,
+  "gold_path": "/mnt/data/seminar_2/data/gold/questions_canonical.json",
+  "n_canonical_questions": 88,
+  "n_answerable_scored": 64,
+  "n_probes_excluded": 24,
+  "article_level": {
+    "n_scored": 63,
+    "excluded_ids": [
+      "Q036"
+    ]
+  },
+  "doc_level": {
+    "hits@1": 47,
+    "hits@3": 58,
+    "n": 64,
+    "recall@1": 0.734375,
+    "recall@3": 0.90625
+  },
+  "article_level_hits": {
+    "hits@1": 24,
+    "hits@3": 31,
+    "recall@1": 0.38095238095238093,
+    "recall@3": 0.49206349206349204
+  },
+  "doc_misses_at_k3": [
+    {
+      "question_id": "Q002",
+      "question": "Doanh nghiệp có được mua ngoại tệ để hoàn trả cho chuyên gia nước ngoài trong trường hợp chuyên gia này đã ứng trước tiền chi tiêu bằng đồng Việt Nam cho chuyến công tác tại TP.HCM không",
+      "gold_doc_ids": [
+        "32/2013/TT-NHNN"
+      ],
+      "gold_article_id": "4",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "70/2014/NĐ-CP",
+          "article_id": "7",
+          "doc_title": "Nghị định quy định chi tiết thi hành một số điều của Pháp lệnh Ngoại hối",
+          "article_title": "Chuyến tiền một chiều từ Việt Nam ra nước ngoài",
+          "score": 35.9828
+        },
+        {
+          "rank": 2,
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "7",
+          "doc_title": "Thông tư hướng dẫn về quản lý ngoại hối đối với hoạt động đầu tư trực tiếp nước ngoài vào Việt Nam",
+          "article_title": "Các giao dịch thu, chi trên tài khoản vốn đầu tư trực tiếp bằng",
+          "score": 31.3241
+        },
+        {
+          "rank": 3,
+          "doc_id": "47/2014/QH13",
+          "article_id": "39",
+          "doc_title": "Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (văn bản hợp nhất, gồm sửa đổi của Luật số 51/2019/QH14)",
+          "article_title": "Các trường hợp được xét cho thường trú",
+          "score": 29.873
+        }
+      ]
+    },
+    {
+      "question_id": "Q008",
+      "question": "Theo quy định quản lý ngoại hối, có bắt buộc người nước ngoài phải sở hữu đồng thời cả thẻ tạm trú và giấy phép lao động thì mới được phép chuyển các khoản thu nhập hợp pháp tại Việt Nam ra nước ngoài hay không?",
+      "gold_doc_ids": [
+        "47/2014/QH13"
+      ],
+      "gold_article_id": "3",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "70/2014/NĐ-CP",
+          "article_id": "9",
+          "doc_title": "Nghị định quy định chi tiết thi hành một số điều của Pháp lệnh Ngoại hối",
+          "article_title": "Chuyển thu nhập từ hoạt động đầu tư trực tiếp ra nước ngoài",
+          "score": 34.4422
+        },
+        {
+          "rank": 2,
+          "doc_id": "06/2013/UBTVQH13",
+          "article_id": "1",
+          "doc_title": "Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Ngoại hối",
+          "article_title": "Sửa đôi, bô sung một sô điêu của Pháp lệnh ngoại hôi:",
+          "score": 33.0208
+        },
+        {
+          "rank": 3,
+          "doc_id": "06/2013/UBTVQH13",
+          "article_id": "1",
+          "doc_title": "Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Ngoại hối",
+          "article_title": "Sửa đôi, bô sung một sô điêu của Pháp lệnh ngoại hôi:",
+          "score": 30.1432
+        }
+      ]
+    },
+    {
+      "question_id": "Q043",
+      "question": "Chuyển lợi nhuận ra nước ngoài quy định thế nào?",
+      "gold_doc_ids": [
+        "06/2019/TT-NHNN"
+      ],
+      "gold_article_id": "8",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "32/2024/QH15",
+          "article_id": "155",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 2 of 2)",
+          "article_title": "Chuyển lợi nhuận, chuyển tài sản ra nước ngoài",
+          "score": 22.9413
+        },
+        {
+          "rank": 2,
+          "doc_id": "32/2024/QH15",
+          "article_id": "155",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 2 of 2)",
+          "article_title": "Chuyển lợi nhuận, chuyển tài sản ra nước ngoài",
+          "score": 20.7806
+        },
+        {
+          "rank": 3,
+          "doc_id": "32/2024/QH15",
+          "article_id": "155",
+          "doc_title": "Luật Các tổ chức tín dụng 2024 (part 2 of 2)",
+          "article_title": "Chuyển lợi nhuận, chuyển tài sản ra nước ngoài",
+          "score": 19.8582
+        }
+      ]
+    },
+    {
+      "question_id": "Q044",
+      "question": "Tài khoản vốn ĐTTT dùng cho giao dịch nào?",
+      "gold_doc_ids": [
+        "06/2019/TT-NHNN"
+      ],
+      "gold_article_id": "7",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "21/2017/TT-NHNN",
+          "article_id": "4",
+          "doc_title": "Thông tư quy định về phương thức giải ngân vốn cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng",
+          "article_title": "Phương thức giải ngân vốn cho vay sử dụng dịch vụ thanh toán",
+          "score": 14.044
+        },
+        {
+          "rank": 2,
+          "doc_id": "21/2017/TT-NHNN",
+          "article_id": "6",
+          "doc_title": "Thông tư quy định về phương thức giải ngân vốn cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng",
+          "article_title": "Phương thức giải ngân vốn cho vay sử dụng dịch vụ thanh toán",
+          "score": 13.1809
+        },
+        {
+          "rank": 3,
+          "doc_id": "23/2015/NĐ-CP",
+          "article_id": "11",
+          "doc_title": "Nghị định về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký",
+          "article_title": "Tiếng nói và chữ viết dùng trong chứng thực hợp đồng, giao dịch",
+          "score": 11.5111
+        }
+      ]
+    },
+    {
+      "question_id": "Q054",
+      "question": "TCTD có trách nhiệm gì trong kiểm soát mục đích sử dụng vốn vay?",
+      "gold_doc_ids": [
+        "39/2016/TT-NHNN"
+      ],
+      "gold_article_id": "24",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "08/2023/TT-NHNN",
+          "article_id": "6",
+          "doc_title": "Thông tư quy định về điều kiện vay nước ngoài không được Chính phủ bảo lãnh",
+          "article_title": "Nguyên tắc sử dụng vôn vay nước ngoài",
+          "score": 18.8898
+        },
+        {
+          "rank": 2,
+          "doc_id": "08/2023/TT-NHNN",
+          "article_id": "19",
+          "doc_title": "Thông tư quy định về điều kiện vay nước ngoài không được Chính phủ bảo lãnh",
+          "article_title": "Trách nhiệm của bên đi vay",
+          "score": 17.3825
+        },
+        {
+          "rank": 3,
+          "doc_id": "08/2023/TT-NHNN",
+          "article_id": "19",
+          "doc_title": "Thông tư quy định về điều kiện vay nước ngoài không được Chính phủ bảo lãnh",
+          "article_title": "Trách nhiệm của bên đi vay",
+          "score": 16.9026
+        }
+      ]
+    },
+    {
+      "question_id": "Q061",
+      "question": "Để phối hợp chặt chẽ với các Đối tác (chủ đầu tư bất động sản, showroom ô tô, ...) trong hoạt động cho vay đối với KH mua sản phẩm của Đối tác, Đơn vị mong muốn ký hợp đồng thuê một diện tích mặt bằng nhỏ tại Đối tác, cán bộ của TPBank sẽ đến địa điểm này để tư vấn, giới thiệu sản phẩm cho vay của TPBank, thu thập, xử lý hồ sơ vay vốn cho Khách hàng. Đơn vị muốn hỏi, dự định triển khai như của Đơn vị nêu trên có vướng mắc gì về pháp lý hay không?",
+      "gold_doc_ids": [
+        "61/2025/TT-NHNN",
+        "276/2017/NHNN-TTGSNH"
+      ],
+      "gold_article_id": "3",
+      "retrieved_top3": [
+        {
+          "rank": 1,
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "32",
+          "doc_title": "Thông tư quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+          "article_title": "đ Thông tư này (nếu có); các công việc khác thuộc quy trình thẩm định,",
+          "score": 56.3918
+        },
+        {
+          "rank": 2,
+          "doc_id": "06/2023/TT-NHNN",
+          "article_id": "1",
+          "doc_title": "Thông tư sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+          "article_title": "Sửa đối, bố sung một số điều của Thông tư số 39/2016/TT-",
+          "score": 55.6005
+        },
+        {
+          "rank": 3,
+          "doc_id": "21/2017/TT-NHNN",
+          "article_id": "4",
+          "doc_title": "Thông tư quy định về phương thức giải ngân vốn cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng",
+          "article_title": "Phương thức giải ngân vốn cho vay sử dụng dịch vụ thanh toán",
+          "score": 53.8642
+        }
+      ]
+    }
+  ],
+  "article_miss_ids_at_k3": [
+    "Q002",
+    "Q006",
+    "Q007",
+    "Q008",
+    "Q009",
+    "Q011",
+    "Q014",
+    "Q021",
+    "Q023",
+    "Q025",
+    "Q026",
+    "Q027",
+    "Q028",
+    "Q030",
+    "Q038",
+    "Q039",
+    "Q042",
+    "Q043",
+    "Q044",
+    "Q045",
+    "Q047",
+    "Q048",
+    "Q050",
+    "Q053",
+    "Q054",
+    "Q056",
+    "Q057",
+    "Q061",
+    "Q062",
+    "Q063",
+    "Q064",
+    "Q065"
+  ]
+}

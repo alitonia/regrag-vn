@@ -1,0 +1,66 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# Local regeneration state (derived; CSV content hash for idempotent re-runs)
+data/gold/.regenerate_state.json
+
+# Large model weights / caches
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+.cache/
+huggingface/
+
+# Legal source PDFs/scans (90+ MB of public government documents): the tracked
+# record is DOC_MANIFEST.json / INGEST_PLAN.json with URL + sha1 + header
+# verification per instrument (handoff 2026-09-11 section 5.4). The small
+# 276/2017 .docx provenance source stays tracked.
+data/raw_legal/*.pdf
+data/raw_legal/*.doc
+
+# LaTeX build byproducts (main.pdf itself stays tracked as the submission artifact)
+paper/main.aux
+paper/main.bbl
+paper/main.blg
+paper/main.log
+paper/main.out

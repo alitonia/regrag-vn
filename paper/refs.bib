@@ -1,0 +1,234 @@
+% refs.bib -- RegRAG-VN (IEEE-RIVF 2026)
+%
+% CITATION INTEGRITY POLICY: no entry below was invented. Every entry was
+% checked against an authoritative registry and the returned title/authors
+% matched the entry; the registry identifier is recorded in a `% verified'
+% comment beside each entry so a reader can re-check it. (Until 2026-09-14
+% the identifier sat in the rendered `note' field; it was moved out of the
+% PDF to keep the references inside the 6-page limit.) Entries were checked
+% on 2026-09-11 (arXiv API or Crossref) and on 2026-09-14 (Crossref, or
+% arXiv IDs resolved through OpenAlex because the arXiv API was
+% rate-limiting this host).
+% Two candidate identifiers were rejected during the 2026-09-11 check
+% (arXiv:1801.03283 and arXiv:2004.10220 resolved to unrelated papers) and the
+% correct identifiers (arXiv:1801.01331, arXiv:2005.00661) are used instead.
+% Software packages (pyvi, rank_bm25) are cited as misc entries with their project
+% URL; they are not papers and carry no fabricated bibliographic metadata.
+
+@inproceedings{lewis2020rag,
+  author    = {Patrick Lewis and Ethan Perez and Aleksandra Piktus and Fabio Petroni and Vladimir Karpukhin and Naman Goyal and Heinrich K{\"u}ttler and Mike Lewis and {Wen-tau} Yih and Tim Rockt{\"a}schel and Sebastian Riedel and Douwe Kiela},
+  title     = {Retrieval-Augmented Generation for Knowledge-Intensive {NLP} Tasks},
+  booktitle = {Adv. Neural Inf. Process. Syst.},
+  year      = {2020},}
+% verified: arXiv:2005.11401 (2026-09-11)  [lewis2020rag]
+@inproceedings{karpukhin2020dpr,
+  author    = {Vladimir Karpukhin and Barlas O{\u{g}}uz and Sewon Min and Patrick Lewis and Ledell Wu and Sergey Edunov and Danqi Chen and {Wen-tau} Yih},
+  title     = {Dense Passage Retrieval for Open-Domain Question Answering},
+  booktitle = {Proc. EMNLP},
+  year      = {2020},}
+% verified: arXiv:2004.04906 (2026-09-11)  [karpukhin2020dpr]
+@article{robertson2009bm25,
+  author  = {Stephen Robertson and Hugo Zaragoza},
+  title   = {The Probabilistic Relevance Framework: {BM25} and Beyond},
+  journal = {Found. Trends Inf. Retr.},
+  volume  = {3},
+  number  = {4},
+  pages   = {333--389},
+  year    = {2009},}
+% verified: Crossref DOI 10.1561/1500000019 (2026-09-11)  [robertson2009bm25]
+@article{chen2024m3,
+  author  = {Jianlv Chen and Shitao Xiao and Peitian Zhang and Kun Luo and Defu Lian and Zheng Liu},
+  title   = {{M3-Embedding}: Multi-Linguality, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation},
+  journal = {arXiv preprint arXiv:2402.03216},
+  year    = {2024},}
+% verified: arXiv:2402.03216 (2026-09-11); the BGE-M3 model used in this work  [chen2024m3]
+@article{ji2023hallucination,
+  author  = {Ziwei Ji and Nayeon Lee and Rita Frieske and Tiezheng Yu and Dan Su and Yan Xu and Etsuko Ishii and Ye Jin Bang and Andrea Madotto and Pascale Fung},
+  title   = {Survey of Hallucination in Natural Language Generation},
+  journal = {ACM Comput. Surv.},
+  volume  = {55},
+  number  = {12},
+  year    = {2023},}
+% verified: arXiv:2202.03629 (2026-09-11)  [ji2023hallucination]
+@inproceedings{maynez2020faithfulness,
+  author    = {Joshua Maynez and Shashi Narayan and Bernd Bohnet and Ryan McDonald},
+  title     = {On Faithfulness and Factuality in Abstractive Summarization},
+  booktitle = {Proc. ACL},
+  year      = {2020},}
+% verified: arXiv:2005.00661 (2026-09-11)  [maynez2020faithfulness]
+@inproceedings{min2023factscore,
+  author    = {Sewon Min and Kalpesh Krishna and Xinxi Lyu and Mike Lewis and {Wen-tau} Yih and Pang Wei Koh and Mohit Iyyer and Luke Zettlemoyer and Hannaneh Hajishirzi},
+  title     = {{FActScore}: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation},
+  booktitle = {Proc. EMNLP},
+  year      = {2023},}
+% verified: arXiv:2305.14251 (2026-09-11)  [min2023factscore]
+@article{rashkin2023attribution,
+  author  = {Hannah Rashkin and Vitaly Nikolaev and Matthew Lamm and Lora Aroyo and Michael Collins and Dipanjan Das and Slav Petrov and Gaurav Singh Tomar and Iulia Turc and David Reitter},
+  title   = {Measuring Attribution in Natural Language Generation Models},
+  journal = {Computational Linguistics},
+  volume  = {49},
+  number  = {4},
+  year    = {2023},}
+% verified: arXiv:2112.12870 (2026-09-11)  [rashkin2023attribution]
+@article{bohnet2022attributed,
+  author    = {Bernd Bohnet and Jonathan Herzig and Pawan Sasanka Ammanabrolu and Lora Aroyo and Xuezhi Wang and Alex Beutel and Ed H. Chi and Yi-Ting Yeh and Slav Petrov and Hannah Rashkin},
+  title     = {Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models},
+  journal   = {arXiv preprint arXiv:2212.08037},
+  year      = {2022},}
+% verified: arXiv:2212.08037 (2026-09-11)  [bohnet2022attributed]
+% asai2024selfrag uncited in this revision (self-critique sentence dropped
+% for page budget 2026-09-15); renamed _DISABLED per policy.
+@inproceedings{asai2024selfrag_DISABLED,
+  author    = {Akari Asai and Zeqiu Wu and Yizhong Wang and Avirup Sil and Hannaneh Hajishirzi},
+  title     = {{Self-RAG}: Learning to Retrieve, Generate, and Critique through Self-Reflection},
+  booktitle = {Proc. ICLR},
+  year      = {2024},}
+% verified: arXiv:2310.11511 (2026-09-11)  [asai2024selfrag]
+@article{gao2024ragsurvey,
+  author  = {Yunfan Gao and Yun Xiong and Xinyu Gao and Kangxiang Jia and Jinliu Pan and Yuxi Bi and Yi Dai and Jiawei Sun and Haofen Wang},
+  title   = {Retrieval-Augmented Generation for Large Language Models: A Survey},
+  journal = {arXiv preprint arXiv:2312.10997},
+  year    = {2023},}
+% verified: arXiv:2312.10997 (2026-09-11)  [gao2024ragsurvey]
+@inproceedings{liu2024rgb,
+  author    = {Jiawei Liu and Qianyu Wang and Yixu Wang and Yan Teng and Xipeng Qiu and Jie Song and Ming Zhang and Yanghua Xiao},
+  title     = {Benchmarking Large Language Models in Retrieval-Augmented Generation},
+  booktitle = {Proc. AAAI},
+  year      = {2024},}
+% verified: arXiv:2309.01431 (2026-09-11)  [liu2024rgb]
+@inproceedings{es2024ragas,
+  author    = {Shahul Es and Jithin James and Luis Espinosa-Anke and Steven Schockaert},
+  title     = {{RAGAS}: Automated Evaluation of Retrieval Augmented Generation},
+  booktitle = {Proc. EACL},
+  year      = {2024},}
+% verified: arXiv:2309.15217 (2026-09-11)  [es2024ragas]
+@inproceedings{chalkidis2022lexglue,
+  author    = {Ilias Chalkidis and Manos Fergadiotis and Prodromos Malakasiotis and Nikolaos Aletras and Ion Androutsopoulos},
+  title     = {{LexGLUE}: A Benchmark Dataset for Legal Language Understanding in {E}nglish},
+  booktitle = {Proc. ACL},
+  year      = {2022},}
+% verified: arXiv:2110.00976 (2026-09-11)  [chalkidis2022lexglue]
+@inproceedings{vu2018vncorenlp,
+  author    = {Thanh Vu and Dat Quoc Nguyen and Dai Quoc Nguyen and Mark Dras and Mark Johnson},
+  title     = {{VnCoreNLP}: A {V}ietnamese Natural Language Processing Toolkit},
+  booktitle = {Proc. NAACL-HLT Demonstrations},
+  year      = {2018},}
+% verified: arXiv:1801.01331 (2026-09-11)  [vu2018vncorenlp]
+@inproceedings{qin2025mixgranularity,
+  author    = {Zijie Zhong and Hanwen Liu and Xiaoya Cui and Xiaofan Zhang and Zengchang Qin},
+  title     = {Mix-of-Granularity: Optimize the Chunking Granularity for Retrieval-Augmented Generation},
+  booktitle = {Proc. COLING},
+  year      = {2025},}
+% verified: arXiv:2406.00456 (2026-09-11); venue per project venue record  [qin2025mixgranularity]
+@article{liu2024lostmiddle,
+  author  = {Nelson F. Liu and Kevin Lin and John Hewitt and Ashwin Paranjape and Michele Bevilacqua and Fabio Petroni and Percy Liang},
+  title   = {Lost in the Middle: How Language Models Use Long Contexts},
+  journal = {Trans. Assoc. Comput. Linguist.},
+  volume  = {12},
+  year    = {2024},}
+% verified: arXiv:2307.03172 (2026-09-11)  [liu2024lostmiddle]
+@article{yang2024qwen25,
+  author  = {An Yang and Baosong Yang and Beichen Zhang and others},
+  title   = {{Qwen2.5} Technical Report},
+  journal = {arXiv preprint arXiv:2412.15115},
+  year    = {2024},}
+% verified: arXiv:2412.15115 (2026-09-11)  [yang2024qwen25]
+@article{cohen1960kappa,
+  author  = {Jacob Cohen},
+  title   = {A Coefficient of Agreement for Nominal Scales},
+  journal = {Educ. Psychol. Meas.},
+  volume  = {20},
+  number  = {1},
+  pages   = {37--46},
+  year    = {1960},}
+% verified: Crossref DOI 10.1177/001316446002000104 (2026-09-11)  [cohen1960kappa]
+@article{nguyen2025vlqa,
+  author  = {Tan-Minh Nguyen and Hoang-Trung Nguyen and T.-K. Dao and Xuan-Hieu Phan and Ha-Thanh Nguyen and Thi-Hai-Yen Vuong},
+  title   = {{VLQA}: The First Comprehensive, Large, and High-Quality {V}ietnamese Dataset for Legal Question Answering},
+  journal = {arXiv preprint arXiv:2507.19995},
+  year    = {2025},}
+% verified: arXiv:2507.19995 via OpenAlex (2026-09-14)  [nguyen2025vlqa]
+@article{dong2025vlegalbench,
+  author  = {Tien-Dong Nguyen and Minh-Anh Nguyen and Thanh-Dat Hoang and others},
+  title   = {{VLegal-Bench}: A Cognitively Grounded Benchmark for {V}ietnamese Legal Reasoning of Large Language Models},
+  journal = {arXiv preprint arXiv:2512.14554},
+  year    = {2025},}
+% verified: arXiv:2512.14554 via OpenAlex (2026-09-14)  [dong2025vlegalbench]
+@inproceedings{nguyen2026vilegallm,
+  author    = {Truong-Phuc Nguyen and Quy-Nhan Nguyen and Minh-Tien Nguyen},
+  title     = {{ViLegalLM}: Language Models for {V}ietnamese Legal Text},
+  booktitle = {Findings of ACL 2026},
+  pages     = {36136--36150},
+  year      = {2026},}
+% verified: Crossref DOI 10.18653/v1/2026.findings-acl.1801 (2026-09-14)  [nguyen2026vilegallm]
+@article{nguyen2024vnlegalir,
+  author  = {Nguyen Ba, Thiem and Doan The, Vinh and Pham Quang, Tung and Tran Van, Toan},
+  title   = {Vietnamese Legal Information Retrieval in Question-Answering System},
+  journal = {arXiv preprint arXiv:2409.13699},
+  year    = {2024},}
+% verified: arXiv:2409.13699 via OpenAlex (2026-09-14)  [nguyen2024vnlegalir]
+@article{magesh2025hallucinationfree,
+  author  = {Varun Magesh and Faiz Surani and Matthew Dahl and Mirac Suzgun and Christopher D. Manning and Daniel E. Ho},
+  title   = {Hallucination-Free? {A}ssessing the Reliability of Leading {AI} Legal Research Tools},
+  journal = {Journal of Empirical Legal Studies},
+  volume  = {22},
+  number  = {2},
+  pages   = {216--242},
+  year    = {2025},}
+% verified: Crossref DOI 10.1111/jels.12413 (2026-09-14)  [magesh2025hallucinationfree]
+@article{pipitone2024legalbenchrag,
+  author  = {Pipitone, N. and Houir Alami, Ghita},
+  title   = {{LegalBench-RAG}: A Benchmark for Retrieval-Augmented Generation in the Legal Domain},
+  journal = {arXiv preprint arXiv:2408.10343},
+  year    = {2024},}
+% verified: arXiv:2408.10343 via OpenAlex (2026-09-14)  [pipitone2024legalbenchrag]
+@article{butler2026legalragbench,
+  author  = {Abdur-Rahman Butler and Umar Butler},
+  title   = {Legal {RAG} Bench: An End-to-End Benchmark for Legal {RAG}},
+  journal = {arXiv preprint arXiv:2603.01710},
+  year    = {2026},}
+% verified: arXiv:2603.01710 via OpenAlex (2026-09-14)  [butler2026legalragbench]
+% thakur2021beir uncited in this revision (BEIR anchor dropped for page
+% budget 2026-09-14); renamed _DISABLED per policy 2026-09-15.
+@inproceedings{thakur2021beir_DISABLED,
+  author    = {Nandan Thakur and Nils Reimers and Andreas R{\"u}ckl{\'e} and Abhishek Srivastava and Iryna Gurevych},
+  title     = {{BEIR}: A Heterogenous Benchmark for Zero-Shot Evaluation of Information Retrieval Models},
+  booktitle = {Proceedings of the NeurIPS Datasets and Benchmarks Track},
+  year      = {2021},}
+% verified: arXiv:2104.08663 via OpenAlex (2026-09-14)  [thakur2021beir]
+% rajpurkar2018squad2 (SQuAD 2.0, ACL 2018, pp. 784-789; verified: arXiv:
+% 1806.03822 via OpenAlex 2026-09-14) dropped from this revision for page
+% budget; reinstate if space returns.
+@inproceedings{rajpurkar2018squad2_DISABLED,
+  author    = {Pranav Rajpurkar and Robin Jia and Percy Liang},
+  title     = {Know What You Don't Know: Unanswerable Questions for {SQuAD}},
+  booktitle = {Proceedings of ACL (Vol. 2: Short Papers)},
+  pages     = {784--789},
+  year      = {2018},}
+% verified: arXiv:1806.03822 via OpenAlex (2026-09-14)  [rajpurkar2018squad2]
+@misc{pyvi,
+  author = {Trung Tin Nguyen},
+  title  = {{PyVi}: {V}ietnamese Natural Language Processing Toolkit},
+  howpublished = {\url{https://github.com/trungtin/pyvi}},
+  note = {accessed 2026-09-11},
+}
+% note (moved out of rendered field 2026-09-14): software; word segmenter
+% used by the sparse backend
+@misc{rankbm25,
+  author = {Dorian Brown},
+  title  = {{rank\_bm25}: {BM25} algorithms in {P}ython},
+  howpublished = {\url{https://github.com/dorianbrown/rank_bm25}},
+  note = {accessed 2026-09-11},
+}
+% note (moved out of rendered field 2026-09-14): software; sparse scoring
+% implementation
+@misc{nguyen2023vistral,
+  author       = {Nguyen, Chien Van and Nguyen, Thuat and Nguyen, Quan and others},
+  title        = {{Vistral-7B-Chat}: Towards a State-of-the-Art Large Language Model for {V}ietnamese},
+  howpublished = {\url{https://huggingface.co/Viet-Mistral/Vistral-7B-Chat}},
+  year         = {2023},
+}
+% full author list (truncated above for space 2026-09-14): Nguyen, Chien Van;
+% Nguyen, Thuat; Nguyen, Quan; Nguyen, Huy; Plüster, Björn; Pham, Nam;
+% Nguyen, Huu; Schramowski, Patrick; Nguyen, Thien. Also a technical report
+% of Viet-Mistral (2023).

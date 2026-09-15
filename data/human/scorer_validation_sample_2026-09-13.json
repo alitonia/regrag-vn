@@ -1,0 +1,1108 @@
+{
+  "benchmark": "RegRAG-VN",
+  "subset_name": "scorer_validation_50",
+  "date": "2026-09-13",
+  "seed": 20260913,
+  "total_samples": 50,
+  "stratification_table": {
+    "by_model": {
+      "vistral-7b": 16,
+      "qwen-3b": 17,
+      "qwen-7b": 17
+    },
+    "by_mode": {
+      "rag_dense": 16,
+      "closed_book": 17,
+      "rag_bm25": 17
+    },
+    "by_category": {
+      "ans_hallucinated": 19,
+      "ans_clean": 13,
+      "false_abstention": 9,
+      "probe": 9
+    },
+    "by_grid_cell": {
+      "qwen-3b::closed_book": 6,
+      "qwen-3b::rag_bm25": 6,
+      "qwen-3b::rag_dense": 5,
+      "qwen-7b::closed_book": 6,
+      "qwen-7b::rag_bm25": 6,
+      "qwen-7b::rag_dense": 5,
+      "vistral-7b::closed_book": 5,
+      "vistral-7b::rag_bm25": 5,
+      "vistral-7b::rag_dense": 6
+    },
+    "auto_labels": {
+      "auto_correct_count": 3,
+      "auto_hallucinated_count": 27,
+      "auto_abstained_count": 10
+    }
+  },
+  "sampled_rows": [
+    {
+      "question_id": "Q002",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "WRONG_INSTRUMENT",
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "32/2013/TT-NHNN",
+          "article_id": "4",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q006",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "46/2024/QH15",
+          "article_id": "52",
+          "clause_id": "4",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q008",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "47/2014/QH13",
+          "article_id": "3",
+          "clause_id": "1",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q009",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "4",
+          "clause_id": "1",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q011",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NON_COVERING_PROVISION",
+        "UNSUPPORTED_BY_GOLD"
+      ],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "20",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q012",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "136",
+          "clause_id": "1",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q014",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "135",
+          "clause_id": "1",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q016",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 2.0,
+      "auto_correct": 1,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "63",
+          "clause_id": "2",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q017",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_dense",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "63",
+          "clause_id": "2",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q017",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "UNSUPPORTED_CLAIM",
+        "NUMERIC_THRESHOLD_MISMATCH",
+        "UNSUPPORTED_BY_GOLD"
+      ],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "63",
+          "clause_id": "2",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q018",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NON_COVERING_PROVISION",
+        "CONTRADICTS_CONTEXT"
+      ],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "156",
+          "clause_id": "1",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q019",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_bm25",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "3",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q020",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "WRONG_INSTRUMENT",
+        "NON_COVERING_PROVISION",
+        "NUMERIC_THRESHOLD_MISMATCH",
+        "UNSUPPORTED_BY_GOLD"
+      ],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "11",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q021",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "11",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q022",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "WRONG_INSTRUMENT",
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "12",
+          "clause_id": "2",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q025",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "14",
+          "clause_id": "1",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q026",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "13",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q027",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "15",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q027",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "WRONG_INSTRUMENT",
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "17/2024/TT-NHNN",
+          "article_id": "15",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q029",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "WRONG_INSTRUMENT",
+        "NON_COVERING_PROVISION",
+        "NUMERIC_THRESHOLD_MISMATCH",
+        "UNSUPPORTED_BY_GOLD"
+      ],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "41/2016/TT-NHNN",
+          "article_id": "6",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q030",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "WRONG_INSTRUMENT",
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "41/2016/TT-NHNN",
+          "article_id": "7",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q032",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "41/2016/TT-NHNN",
+          "article_id": "9",
+          "clause_id": "5",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q034",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "41/2016/TT-NHNN",
+          "article_id": "9",
+          "clause_id": "5",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q038",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "41/2016/TT-NHNN",
+          "article_id": "16",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q039",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "UNCITED_ASSERTION",
+        "UNSUPPORTED_BY_GOLD"
+      ],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "1",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q040",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 2.0,
+      "auto_correct": 1,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "5",
+          "clause_id": "2",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q041",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NUMERIC_THRESHOLD_MISMATCH",
+        "UNSUPPORTED_BY_GOLD"
+      ],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "5",
+          "clause_id": "2",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q041",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "5",
+          "clause_id": "2",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q044",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_bm25",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "7",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q045",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "closed_book",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "12",
+          "clause_id": "1",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q045",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "12",
+          "clause_id": "1",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q047",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "06/2019/TT-NHNN",
+          "article_id": "6",
+          "clause_id": "3",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q050",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "NON_COVERING_PROVISION",
+        "UNSUPPORTED_BY_GOLD"
+      ],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "7",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q052",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "WRONG_INSTRUMENT",
+        "NON_COVERING_PROVISION"
+      ],
+      "contexts_count": 2,
+      "gold_citations": [
+        {
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "13",
+          "clause_id": "2",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q053",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "7",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q054",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_hallucinated",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "UNSUPPORTED_CLAIM"
+      ],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "24",
+          "clause_id": "7",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q055",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "32a",
+          "clause_id": "11",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q058",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "20",
+          "clause_id": "4",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q058",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "39/2016/TT-NHNN",
+          "article_id": "20",
+          "clause_id": "4",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q059",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "closed_book",
+      "category": "ans_clean",
+      "is_answerable": true,
+      "correctness_score": 1.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 0,
+      "hallucination_types": [],
+      "contexts_count": 0,
+      "gold_citations": [
+        {
+          "doc_id": "32/2024/QH15",
+          "article_id": "3",
+          "clause_id": "9",
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q062",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "false_abstention",
+      "is_answerable": true,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 3,
+      "gold_citations": [
+        {
+          "doc_id": "06/2013/UBTVQH13",
+          "article_id": "3",
+          "clause_id": null,
+          "confidence": "passage-header"
+        }
+      ]
+    },
+    {
+      "question_id": "Q066",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "ANSWERED_UNANSWERABLE",
+        "SPURIOUS_CITATION"
+      ],
+      "contexts_count": 2,
+      "gold_citations": []
+    },
+    {
+      "question_id": "Q068",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "closed_book",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "ANSWERED_UNANSWERABLE",
+        "SPURIOUS_CITATION"
+      ],
+      "contexts_count": 0,
+      "gold_citations": []
+    },
+    {
+      "question_id": "Q071",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_bm25",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "ANSWERED_UNANSWERABLE"
+      ],
+      "contexts_count": 3,
+      "gold_citations": []
+    },
+    {
+      "question_id": "Q076",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "closed_book",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "ANSWERED_UNANSWERABLE",
+        "SPURIOUS_CITATION"
+      ],
+      "contexts_count": 0,
+      "gold_citations": []
+    },
+    {
+      "question_id": "Q077",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "closed_book",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "ANSWERED_UNANSWERABLE",
+        "SPURIOUS_CITATION"
+      ],
+      "contexts_count": 0,
+      "gold_citations": []
+    },
+    {
+      "question_id": "Q079",
+      "model_name": "vistral-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "ANSWERED_UNANSWERABLE",
+        "SPURIOUS_CITATION"
+      ],
+      "contexts_count": 2,
+      "gold_citations": []
+    },
+    {
+      "question_id": "Q080",
+      "model_name": "qwen-3b",
+      "retrieval_mode": "rag_dense",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "ANSWERED_UNANSWERABLE",
+        "SPURIOUS_CITATION"
+      ],
+      "contexts_count": 3,
+      "gold_citations": []
+    },
+    {
+      "question_id": "Q081",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_bm25",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 2.0,
+      "auto_correct": 1,
+      "auto_hallucinated": 0,
+      "auto_abstained": 1,
+      "hallucination_types": [],
+      "contexts_count": 2,
+      "gold_citations": []
+    },
+    {
+      "question_id": "Q084",
+      "model_name": "qwen-7b",
+      "retrieval_mode": "rag_dense",
+      "category": "probe",
+      "is_answerable": false,
+      "correctness_score": 0.0,
+      "auto_correct": 0,
+      "auto_hallucinated": 1,
+      "auto_abstained": 0,
+      "hallucination_types": [
+        "ANSWERED_UNANSWERABLE"
+      ],
+      "contexts_count": 2,
+      "gold_citations": []
+    }
+  ]
+}

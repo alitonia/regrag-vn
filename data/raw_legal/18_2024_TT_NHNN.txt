@@ -1,0 +1,43 @@
+THÔNG TƯ QUY ĐỊNH VỀ HOẠT ĐỘNG THẺ NGÂN HÀNG
+Số: 18/2024/TT-NHNN
+Hà Nội, ngày 28 tháng 6 năm 2024
+
+Chương I. NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+1. Thông tư này quy định về hoạt động thẻ ngân hàng bao gồm: phát hành, thanh toán, chuyển mạch tài chính, bù trừ điện tử và việc cung ứng dịch vụ thẻ ngân hàng.
+2. Việc phát hành thẻ cho khách hàng bằng phương tiện điện tử thực hiện theo quy định tại Thông tư này và các quy định pháp luật liên quan về giao dịch điện tử.
+
+Điều 2. Đối tượng áp dụng
+1. Tổ chức phát hành thẻ bao gồm: Ngân hàng thương mại, ngân hàng hợp tác xã, chi nhánh ngân hàng nước ngoài, công ty tài chính.
+2. Tổ chức thanh toán thẻ.
+3. Tổ chức chuyển mạch tài chính và bù trừ điện tử.
+4. Chủ thẻ và các tổ chức, cá nhân khác có liên quan đến hoạt động thẻ ngân hàng.
+
+Điều 3. Giải thích từ ngữ
+1. Thẻ ngân hàng là phương tiện thanh toán do tổ chức phát hành thẻ phát hành để thực hiện giao dịch thẻ theo các điều kiện đã thỏa thuận giữa các bên.
+2. Thẻ ghi nợ (debit card) là thẻ cho phép chủ thẻ thực hiện giao dịch thẻ trong phạm vi số tiền và hạn mức thấu chi (nếu có) trên tài khoản thanh toán của chủ thẻ mở tại tổ chức phát hành thẻ.
+3. Thẻ tín dụng (credit card) là thẻ cho phép chủ thẻ thực hiện giao dịch thẻ trong phạm vi hạn mức tín dụng đã được cấp theo thỏa thuận với tổ chức phát hành thẻ.
+4. Thẻ trả trước (prepaid card) là thẻ cho phép chủ thẻ thực hiện giao dịch thẻ trong phạm vi giá trị tiền được nạp vào thẻ tương ứng với số tiền đã trả trước cho tổ chức phát hành thẻ.
+
+Chương II. PHÁT HÀNH VÀ SỬ DỤNG THẺ
+
+Điều 9. Nguyên tắc phát hành và sử dụng thẻ
+1. Tổ chức phát hành thẻ phải ban hành quy định nội bộ về phát hành và sử dụng thẻ ngân hàng đảm bảo tuân thủ quy định pháp luật và an toàn hoạt động.
+2. Tổ chức phát hành thẻ phải thực hiện nhận biết khách hàng (KYC) trước khi giao kết hợp đồng phát hành và sử dụng thẻ.
+3. Việc phát hành thẻ bằng phương tiện điện tử phải tuân thủ các biện pháp xác thực sinh trắc học và an toàn bảo mật thông tin khách hàng.
+
+Điều 14. Hạn mức giao dịch thẻ
+1. Tổ chức phát hành thẻ thỏa thuận với chủ thẻ về hạn mức thanh toán, hạn mức chuyển khoản, hạn mức rút tiền mặt và các hạn mức khác trong sử dụng thẻ đối với một chủ thẻ phù hợp với quy định của pháp luật.
+2. Đối với hạn mức rút ngoại tệ tiền mặt tại nước ngoài: Một thẻ được rút số ngoại tệ tiền mặt tối đa tương đương 30 (ba mươi) triệu đồng Việt Nam trong một ngày.
+3. Đối với thẻ tín dụng: Tổng hạn mức rút tiền mặt tính theo BIN của thẻ tín dụng tối đa là 100 (một trăm) triệu đồng Việt Nam trong 01 tháng.
+4. Đối với thẻ trả trước vô danh: Số dư trên một thẻ trả trước vô danh tại mọi thời điểm không được vượt quá 05 (năm) triệu đồng Việt Nam.
+
+Điều 15. Phí dịch vụ thẻ
+1. Tổ chức phát hành thẻ phải công khai biểu phí dịch vụ thẻ, công khai phương pháp tính phí và thông báo rõ ràng cho khách hàng trước khi áp dụng biểu phí mới.
+2. Tổ chức phát hành thẻ không được thu thêm bất kỳ loại phí nào ngoài biểu phí đã công khai, thỏa thuận trong hợp đồng phát hành và sử dụng thẻ.
+
+Điều 23. Xử lý tra soát, khiếu nại trong sử dụng thẻ
+1. Tổ chức phát hành thẻ phải tiếp nhận yêu cầu tra soát, khiếu nại của chủ thẻ qua các kênh tiếp nhận 24/7 (tổng đài, điểm giao dịch, ứng dụng điện tử).
+2. Thời hạn xử lý đề nghị tra soát, khiếu nại tối đa không quá 45 ngày làm việc kể từ ngày tiếp nhận yêu cầu tra soát, khiếu nại lần đầu của chủ thẻ đối với thẻ có BIN do Ngân hàng Nhà nước cấp.
+3. Thời hạn xử lý đề nghị tra soát, khiếu nại tối đa không quá 60 ngày làm việc kể từ ngày tiếp nhận yêu cầu tra soát, khiếu nại đối với thẻ có BIN do tổ chức thẻ quốc tế cấp.

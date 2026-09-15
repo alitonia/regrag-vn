@@ -1,0 +1,269 @@
+{
+  "_README": "Ingestion intake plan, re-derived 2026-09-11 from the delivered VBPL archive and the revised QA CSV. Every identity below was read off the document itself (born-digital header or tesseract OCR of the scan), never inferred from a filename. scripts/build_corpus_chunks.py reads this file; it fails loudly on any entry whose status is not skipped/blocked/quarantined but whose file is absent. Delivery convention: file lives at data/raw_legal/<expected_file>; when the PDF's embedded text layer is missing or corrupt the script falls back to data/raw_legal/ocr/<stem>.ocr.txt and stamps the chunk metadata with extraction=ocr:...",
+  "_priority_summary": {
+    "delivered": "22 files on 2026-09-11; 4 with clean born-digital text layers, 14 re-OCR'd with tesseract 5.3.4 -l vie at 300dpi (all conversions measured viet_ratio 0.266-0.311), 2 byte-identical duplicates, 2 unreadable .doc; 2026-09-11 additions: TT 22/2023 official scan (22_2023_TT_NHNN.pdf), 39/2016 VBHN + 2016 original, TT 21/2017",
+    "resolved_questions": "53 of 65 answerable rows resolve to an instrument via DOC_MANIFEST.json",
+    "still_unresolved": "RESOLVED 2026-09-11: all 64 answerable rows resolve via DOC_MANIFEST.json. Q029-Q036, Q038 -> 41/2016 (+22/2023 for Q032/Q034/Q035); Q050-Q055, Q057, Q058 -> 39/2016 VBHN; Q056 -> 21/2017; Q008 -> 47/2014 consolidated; Q065 -> 91/2015 (+22/2018). Q037 -> converted to unanswerable coverage-gap probe (authority TT 35/2015 not in corpus). 88 rows = 64 answerable + 24 probes; probe rows now carry explicit IDs Q066-Q088.",
+    "distractors_are_valuable": "Uncited instruments make Recall@k meaningful. 31/2024/TT-NHNN, 22/2018/TT-NHNN, 22/2024/TT-NHNN, 06/2013/UBTVQH13 and 47/2014/QH13 carry few or no questions and are ingested as retrieval distractors."
+  },
+  "documents": [
+    {
+      "priority": 1,
+      "doc_id": "17/2024/TT-NHNN",
+      "doc_title": "Thông tư quy định việc mở và sử dụng tài khoản thanh toán tại tổ chức cung ứng dịch vụ thanh toán",
+      "expected_file": "17-2024-tt-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "corrupt - use ocr/17-2024-tt-nhnn.ocr.txt (66,638 chars, 61 Điều); byte-identical to 17-nhnn.pdf",
+      "status": "downloaded",
+      "version": "original 2024; verify amendments before camera-ready"
+    },
+    {
+      "priority": 2,
+      "doc_id": "32/2024/QH15",
+      "doc_title": "Luật Các tổ chức tín dụng 2024 (part 1 of 2)",
+      "expected_file": "32-2024-qh15_1.pdf",
+      "format": "pdf",
+      "text_layer": "clean born-digital (CÔNG BÁO 369+370, 02-3-2024)",
+      "status": "downloaded",
+      "version": "original, passed 2024-01-18"
+    },
+    {
+      "priority": 3,
+      "doc_id": "32/2024/QH15",
+      "doc_title": "Luật Các tổ chức tín dụng 2024 (part 2 of 2)",
+      "expected_file": "32-2024-qh15_2.pdf",
+      "format": "pdf",
+      "text_layer": "clean born-digital",
+      "status": "downloaded",
+      "version": "original; same doc_id as part 1, chunks merge under one instrument"
+    },
+    {
+      "priority": 4,
+      "doc_id": "06/2019/TT-NHNN",
+      "doc_title": "Thông tư hướng dẫn về quản lý ngoại hối đối với hoạt động đầu tư trực tiếp nước ngoài vào Việt Nam",
+      "expected_file": "06-2019-tt-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "clean born-digital (CÔNG BÁO 611+612, 03-8-2019)",
+      "status": "downloaded",
+      "version": "original"
+    },
+    {
+      "priority": 5,
+      "doc_id": "06/2023/TT-NHNN",
+      "doc_title": "Thông tư sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "expected_file": "06-2023-tt-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "corrupt - use ocr/06-2023-tt-nhnn.ocr.txt (21,323 chars, 29 Điều)",
+      "status": "downloaded",
+      "version": "SETTLES THE 39/2016 AMENDMENT TRAP for Q049-Q058: the questions cite the amending circular, so this is the text to ingest, not the 2016 original and not a consolidated version"
+    },
+    {
+      "priority": 6,
+      "doc_id": "08/2023/TT-NHNN",
+      "doc_title": "Thông tư quy định về điều kiện vay nước ngoài không được Chính phủ bảo lãnh",
+      "expected_file": "08-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "corrupt - use ocr/08-nhnn.ocr.txt (32,418 chars, 43 Điều)",
+      "status": "downloaded",
+      "version": "original 2023; corrects the plan's earlier guess of 'foreign-exchange management'"
+    },
+    {
+      "priority": 7,
+      "doc_id": "48/2018/TT-NHNN",
+      "doc_title": "Thông tư quy định về tiền gửi tiết kiệm",
+      "expected_file": "48-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "none - use ocr/48-nhnn.ocr.txt (19,391 chars, 27 Điều)",
+      "status": "downloaded",
+      "version": "original, signed 22-01-2019"
+    },
+    {
+      "priority": 8,
+      "doc_id": "61/2025/TT-NHNN",
+      "doc_title": "Thông tư quy định về mạng lưới hoạt động của ngân hàng thương mại",
+      "expected_file": "61-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "corrupt - use ocr/61-nhnn.ocr.txt (91,648 chars, 117 Điều)",
+      "status": "downloaded",
+      "version": "signed 31-12-2025"
+    },
+    {
+      "priority": 9,
+      "doc_id": "23/2015/NĐ-CP",
+      "doc_title": "Nghị định về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký",
+      "expected_file": "23-nd-.signed.pdf",
+      "format": "pdf",
+      "text_layer": "none - use ocr/23-nd-.signed.ocr.txt (62,315 chars, 76 Điều)",
+      "status": "downloaded",
+      "version": "original 2015"
+    },
+    {
+      "priority": 10,
+      "doc_id": "70/2014/NĐ-CP",
+      "doc_title": "Nghị định quy định chi tiết thi hành một số điều của Pháp lệnh Ngoại hối",
+      "expected_file": "nd-70.signed.pdf",
+      "format": "pdf",
+      "text_layer": "none - use ocr/nd-70.signed.ocr.txt (15,966 chars, 22 Điều)",
+      "status": "downloaded",
+      "version": "original 2014"
+    },
+    {
+      "priority": 11,
+      "doc_id": "46/2024/QH15",
+      "doc_title": "Luật Công chứng 2024",
+      "expected_file": "luat46.pdf",
+      "format": "pdf",
+      "text_layer": "clean born-digital (CÔNG BÁO 1527+1528, 29-12-2024)",
+      "status": "downloaded",
+      "version": "original"
+    },
+    {
+      "priority": 12,
+      "doc_id": "32/2013/TT-NHNN",
+      "doc_title": "Thông tư hướng dẫn thực hiện quy định hạn chế sử dụng ngoại hối trên lãnh thổ Việt Nam",
+      "expected_file": "tt-32.pdf",
+      "format": "pdf",
+      "text_layer": "corrupt (diacritic-stripped) - use ocr/tt-32.ocr.txt (9,398 chars, 9 Điều)",
+      "status": "downloaded",
+      "version": "original 2013; resolves the formerly opaque tt-32.pdf URL"
+    },
+    {
+      "priority": 13,
+      "doc_id": "91/2015/QH13",
+      "doc_title": "Bộ luật Dân sự 2015",
+      "expected_file": "91.signed.pdf",
+      "format": "pdf",
+      "text_layer": "none - use ocr/91.signed.ocr.txt (204,164 chars, 431 Điều)",
+      "status": "downloaded",
+      "version": "original; verified by Điều 138 'Đại diện theo ủy quyền' matching gold passage Q065 verbatim"
+    },
+    {
+      "priority": 14,
+      "doc_id": "06/2013/UBTVQH13",
+      "doc_title": "Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Ngoại hối",
+      "expected_file": "6pl.pdf",
+      "format": "pdf",
+      "text_layer": "none - use ocr/6pl.ocr.txt (17,802 chars, 50 Điều)",
+      "status": "downloaded",
+      "version": "original 2013"
+    },
+    {
+      "priority": 15,
+      "doc_id": "22/2024/TT-NHNN",
+      "doc_title": "Thông tư sửa đổi, bổ sung một số điều của Thông tư số 50/2018/TT-NHNN (hồ sơ, trình tự, thủ tục chấp thuận thay đổi của ngân hàng thương mại)",
+      "expected_file": "22-2023-tt-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "corrupt - use ocr/22-2023-tt-nhnn.ocr.txt (19,405 chars, 57 Điều)",
+      "status": "downloaded",
+      "version": "WARNING: the delivered FILENAME says 22-2023 but the document header reads Số 22/2024/TT-NHNN, signed 02-07-2024. It is NOT 22/2023/TT-NHNN and contains no capital-adequacy content; do not use it for Q029-Q038. After the 2026-09-11 CAR correction no gold row cites this URL anymore; it stays ingested purely as a licensing-topic retrieval distractor."
+    },
+    {
+      "priority": 16,
+      "doc_id": "31/2024/TT-NHNN",
+      "doc_title": "Thông tư quy định về phân loại tài sản có trong hoạt động của tổ chức tín dụng",
+      "expected_file": "31-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "corrupt - use ocr/31-nhnn.ocr.txt (56,444 chars, 59 Điều)",
+      "status": "downloaded",
+      "version": "original 2024; retrieval distractor"
+    },
+    {
+      "priority": 17,
+      "doc_id": "22/2018/TT-NHNN",
+      "doc_title": "Thông tư quy định về tiền gửi có kỳ hạn",
+      "expected_file": "49-nhnn.pdf",
+      "format": "pdf",
+      "text_layer": "none - use ocr/49-nhnn.ocr.txt (16,323 chars, 30 Điều)",
+      "status": "downloaded",
+      "version": "original 2018; the third distinct '22' circular in this delivery (22/2018, 22/2023-absent, 22/2024)"
+    },
+    {
+      "priority": 18,
+      "doc_id": "47/2014/QH13",
+      "doc_title": "Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (văn bản hợp nhất, gồm sửa đổi của Luật số 51/2019/QH14)",
+      "expected_file": "62-vbhn-vpqh.pdf",
+      "format": "pdf",
+      "text_layer": "none - use ocr/62-vbhn-vpqh.ocr.txt (87,919 chars, 176 Điều)",
+      "status": "downloaded",
+      "version": "CONSOLIDATED (vbhn), not the original; cite as such in any table"
+    },
+    {
+      "priority": 19,
+      "doc_id": "41/2016/TT-NHNN",
+      "doc_title": "Thông tư quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài",
+      "expected_file": "41_2016_TT_NHNN.pdf",
+      "format": "pdf",
+      "text_layer": "born-digital (viet_ratio 0.279); Phụ lục 1 pages are landscape/rotated and are repaired by the rot-repair path in build_corpus_chunks.py",
+      "status": "downloaded",
+      "version": "INGEST TOGETHER WITH 22/2023/TT-NHNN, not alone: TT 22/2023 rewrites khoản 10 Điều 9 and điểm b khoản 11 Điều 9, exactly the real-estate and mortgage tables the CAR questions depend on. TT 26/2022 replaced only Điều 23 (transition mechanics). TT 14/2025 runs a transition to 2029/2030 and must NOT be ingested for these questions. See data/raw_legal/TT41_FINDINGS.md, which also records that all ten claimed article numbers in Q029-Q038 are wrong and that three gold answers (Q032 70% LTV, Q034 flat 100%, Q035 150%) are substantively unsupported by the law. UPDATE 2026-09-11: Q029-Q036, Q038 re-pointed to this instrument (gold locators corrected per TT41_FINDINGS.md); Q037 converted to a coverage-gap probe because its authority (TT 35/2015/TT-NHNN, bieu 118/119-TTGS) is not in the corpus. DOC_MANIFEST now maps the congbao URL (id 21991) to this doc_id."
+    },
+    {
+      "priority": 20,
+      "doc_id": "22/2023/TT-NHNN",
+      "doc_title": "Thông tư sửa đổi, bổ sung một số điều của Thông tư 41/2016/TT-NHNN",
+      "expected_file": "22_2023_TT_NHNN.pdf",
+      "format": "pdf",
+      "status": "downloaded",
+      "text_layer": "corrupt (diacritic-stripped scan) - use ocr/22_2023_TT_NHNN.ocr.txt (95,464 chars incl. header, viet_ratio 0.281, 39 Dieu)",
+      "version": "VERIFIED 2026-09-11: downloaded from datafiles.chinhphu.vn/cpp/files/vbpq/2024/01/22-nhnn.pdf (23,767,020 bytes, sha1 50e2ac7f...), header reads So 22/2023/TT-NHNN sua doi TT 41/2016. Clauses 7-8 (khoan 10 / diem b khoan 11 Dieu 9 risk-weight grids) re-verified against the official OCR; see TT41_FINDINGS.md section 5. INGEST TOGETHER WITH 41/2016, never alone."
+    },
+    {
+      "priority": 20,
+      "doc_id": "21/2021/NĐ-CP",
+      "doc_title": "Nghị định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ",
+      "expected_file": "21_2021_ND_CP.html",
+      "format": "html",
+      "status": "blocked",
+      "block_reason": "NOT DELIVERED. Original URL was a 403 bot-wall; no replacement in the 2026-09-11 archive."
+    },
+    {
+      "priority": 21,
+      "doc_id": "39/2016/TT-NHNN",
+      "doc_title": "Thông tư quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "expected_file": "21_VBHN_NHNN_2024_hop_nhat_TT39_2016.pdf",
+      "format": "pdf",
+      "status": "downloaded",
+      "text_layer": "clean born-digital (VBHN 21/VBHN-NHNN, Cong bao 875+876, 29-7-2024; viet_ratio 0.284, 123 Dieu)",
+      "version": "CONSOLIDATED TEXT IS THE PRIMARY (2026-09-11 decision, TT39_FINDINGS.md section 5): ingest ONLY the VBHN under doc_id 39/2016/TT-NHNN. Article numbers are NOT renumbered vs the 2016 original, so corrected gold article ids (Q050-Q055, Q057, Q058) stay valid. Current through TT 12/2024; the only later amendment (TT 52/2025) touches Dieu 22.3/35.2, cited by no gold row. Do NOT also ingest the 2016 original untagged - it would emit near-duplicate contradictory chunks for Dieu 7, 13, 18, 22, 24, 26, 27 and make retrieval a coin flip."
+    },
+    {
+      "priority": 22,
+      "doc_id": "276/2017/NHNN-TTGSNH",
+      "doc_title": "Công văn 276/NHNN-TTGSNH (2017)",
+      "expected_file": "276_NHNN-TTGSNH.txt",
+      "format": "txt",
+      "status": "downloaded",
+      "version": "VERIFIED 2026-09-11 from the official .docx (9086 bytes) fetched manually by a teammate; header reads verbatim: \"So: 276/NHNN-TTGSNH V/v chuyen hoac dat mot, mot so bo phan nghie vu khong giao dich truc tiep voi khach hang ngoai tru so TCTD, CNNHNNg - Ha Noi, ngay 16 thang 01 nam 2017\". A CONG VAN (administrative dispatch): it has NO numbered Dieu by nature, so build_corpus_chunks.py must be run with --allow-missing for this entry; the no-articles gate is overridden deliberately because (a) the document is verified complete, (b) Q061 gold citation is anchored on TT 61/2025 Dieu 3, so this text serves as a secondary source / scenario context, not a citation target. The legacy .doc delivery remains unreadable (0 chars).",
+      "no_articles_ok": true
+    },
+    {
+      "priority": 23,
+      "doc_id": "18/2024/TT-NHNN",
+      "doc_title": "Thông tư quy định về hoạt động thẻ ngân hàng",
+      "expected_file": "18_2024_TT_NHNN.txt",
+      "format": "txt",
+      "status": "quarantined",
+      "quarantine_reason": "NOT AN AUTHENTIC LEGAL TEXT - audited 2026-09-09. 3,611 chars / 43 lines containing only Điều 1, 2, 3, 9, 14, 15, 23; real instruments number articles contiguously. No recitals, no effective-date clause, no execution clause, no signature block; ends mid-provision. Cited by zero questions. Its 22 chunks were the entire previous corpus and are invalid. Do NOT ingest and do NOT keep as a distractor: a model could retrieve a fake article and be scored against it."
+    },
+    {
+      "priority": 24,
+      "doc_id": "21/2017/TT-NHNN",
+      "doc_title": "Thông tư quy định về phương thức giải ngân vốn cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng",
+      "expected_file": "21_2017_TT_NHNN_phuong_thuc_giai_ngan.pdf",
+      "format": "pdf",
+      "text_layer": "clean born-digital (7 pp, viet_ratio 0.258 - marginally under the 0.26 heuristic floor but fully diacritised; TT 21/2017 is short and abbreviation-dense)",
+      "status": "downloaded",
+      "version": "VERIFIED 2026-09-11 (TT39_FINDINGS.md). Required for Q056: the cash/cashless disbursement rule (Đieu 4, 5, 6) is not in TT 39/2016 at all. Replaces TT 09/2012/TT-NHNN, hieu luc 02-04-2018."
+    },
+    {
+      "priority": 25,
+      "doc_id": "39/2016/TT-NHNN",
+      "doc_title": "Thông tư 39/2016/TT-NHNN - BẢN GỐC 2016 (lưu trữ, không nạp vào corpus)",
+      "expected_file": "39_2016_TT_NHNN.pdf",
+      "format": "pdf",
+      "text_layer": "clean born-digital (17 pp, viet_ratio 0.277) nhưng có khoảng trắng giả trong từ (tổ ch ức tín d ụng)",
+      "status": "skipped",
+      "skip_reason": "Historical original, superseded by the VBHN entry above. Ingesting both untagged emits near-duplicate contradictory chunks (repealed Dieu 24/7.5 vs amended text) and degrades retrieval for reasons unrelated to the models under test. Kept on disk as verification evidence for TT39_FINDINGS.md."
+    }
+  ]
+}

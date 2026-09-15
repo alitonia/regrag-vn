@@ -1,0 +1,2391 @@
+<!-- provenance: ocr
+     source_file: 61-nhnn.pdf
+     extraction: ocr:tesseract-5.3.4-vie:300dpi
+     pages: 48
+     prior_text_layer: corrupt-text-layer
+     ocr_viet_ratio: 0.2949
+     ocr_dieu_hits: 117
+     NOTE: OCR output is not a born-digital text layer. Matches against it
+     must be classified 'ocr', never 'strict'. -->
+SAO Y; Ngân hàng Nhà nước Việt Nam; Thời gian ký: 2025-12-31T19:44:29+07:00
+
+NGÂN HÀNG NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆT NAM Độc lập - Tự do - Hạnh phúc
+Số: /2025/TT-NHNN Hà Nội, ngày,⁄Z tháng 12 năm 2025
+THÔNG TƯ
+
+Quy định về mạng lưới hoạt động của ngân hàng thương mại
+
+Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12;
+Căn cứ Luật Các tô chức tín dụng số › 32/2024/QH15 được sửa đổi, bổ Sung
+bởi Luật số 96/2025/QH15;
+
+Căn cứ Luật Doanh nghiệp số 59/2020/QH14 được sửa đổi, bồ sung bởi
+Luật số 03/2022/QH15 và Luật số 76/2025/QH15;
+
+Căn cứ Nghị định sô 26/2025/NĐ-CP của Chính phủ quy định chức năng,
+nhiệm vụ, quyên hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;
+
+Theo đê nghị của Cục trưởng Cục An toàn hệ thống các tổ chức tín dụng;
+
+Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định
+về mạng lưới hoạt động của ngân hàng thương mại.
+
+Chương I
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+1; Thông tư này quy định về mạng lưới hoạt động của ngân hàng thương
+mại, bao gôm:
+
+a) Thành lập, khai trương hoạt động, thay đôi tên, thay đổi địa điểm, chấm
+dứt hoạt động, giải thể chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự
+nghiệp ở trong nước; chỉ nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài;
+
+b) Thay đôi chỉ nhánh quản lý phòng giao dịch;
+
+c) Chuyển đổi chỉ nhánh ở trong nước thành phòng giao dịch; chuyên đôi
+phòng giao dịch ở trong nước thành chỉ nhánh của ngân hàng thương mại thực
+hiện phương án cơ cấu lại đã được cấp có thẩm quyền phê duyệt;
+
+d) Chuyển đổi hình thức pháp lý ngân hàng con ở nước ngoài của ngân
+hàng thương mại.
+
+2. Thông tư này quy định việc thông báo thông tin về thành lập, thay đổi
+
+2
+
+địa điểm, giải thể, chấm dứt hoạt động chi nhánh, phòng giao dịch, văn phòng đại
+diện ở trong nước và các thông tin liên quan cho cơ quan đăng ký kinh doanh.
+
+3. Mạng lưới hoạt động của Ngân hàng Thương mại cô phần Lộc Phát Việt
+Nam thực hiện theo quy định tại Thông tư này và quy định của Ngân hàng Nhà
+nước Việt Nam về phòng giao dịch bưu điện trực thuộc Ngân hàng Thương mại
+cô phần Lộc Phát Việt Nam.
+
+Điều 2. Đối tượng áp dụng
+1. Ngân hàng thương mại.
+
+2. Tổ chức, cá nhân có liên quan đến mạng lưới hoạt động của ngân hàng
+thương mại.
+
+Điều 3. Giải thích từ ngữ
+Trong Thông tư này, những từ ngữ dưới đây được hiểu như sau:
+
+1. Mạng lưới hoạt động của ngân hàng thương mại bao gồm chỉ nhánh,
+phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi nhánh,
+văn phòng đại diện, ngân hàng con ở nước ngoài của ngân hàng thương mại theo
+quy định của pháp luật.
+
+2. Chi nhánh là đơn vị phụ thuộc ngân hàng thương mại, hạch toán phụ
+thuộc, có con dấu, có nhiệm vụ thực hiện một hoặc một sô chức năng của ngân
+hàng thương mại theo phân cấp của ngân hàng thương mại và phù hợp với quy
+định của pháp luật.
+
+K5 Phòng giao địch là loại hình chỉ nhánh, được quản. lý bởi một chỉ nhánh
+ở trong nước của ngân hàng thương mại, hạch toán báo số, có con dấu, có địa
+điểm đặt trụ sở trên địa bàn tỉnh, thành phố trực thuộc Trung ương nơi đặt trụ sở
+chi nhánh quản lý. Phòng giao dịch không được thực hiện:
+
+a) Phê duyệt, quyết định cấp tín dụng cho một khách hàng vượt quá hai
+(02) tỷ đồng Việt Nam (sau đây gọi tắt là đồng) hoặc ngoại tệ quy đôi tương
+đương, trừ trường hợp khoản cấp tín dụng được đảm bảo toàn bộ bằng tiền, thẻ
+tiết kiệm, giấy tờ có giá do chính ngân hàng thương mại phát hành, trái phiếu
+chính phủ, tín phiếu kho bạc nhà nước;
+
+b) Cung cấp dịch vụ thanh toán quốc tế, chuyển tiền quốc tế.
+
+A4. Chỉ nhánh quản lý phòng giao dịch là chỉ nhánh được giao thực hiện .
+một số nội dung quản lý đối với phòng giao dịch trên địa bàn cùng một tỉnh, thành
+phố theo quy định nội bộ của ngân hàng thương mại và phù hợp với quy định của
+Thông tư này.
+
+5. Văn phòng đại điện là đơn vị phụ thuộc ngân hàng thương mại, có con
+
+dấu, thực hiện chức năng đại diện theo ủy quyền của ngân hàng thương mại. Văn
+phòng đại diện không được thực hiện hoạt động kinh doanh.
+
+6. Đơn vị sự nghiệp là đơn vị phụ thuộc ngân hàng thương mại, có con dấu,
+thực hiện một hoặc một số hoạt động hỗ trợ hoạt động kinh doanh của ngân hàng
+
+thương mại, bao gồm:
+
+a) Nghiên cứu, ứng dụng công nghệ ngân hàng cho ngân hàng thương mại;
+
+b) Đào tạo và bồi dưỡng nghiệp vụ, kỹ thuật cho cán bộ, nhân viên của
+ngân hàng thương mại;
+
+c) Văn phòng liên lạc; nghiên cứu, tìm hiểu thị trường:
+
+d) Lưu trữ cơ sở dữ liệu, thu thập, xử lý thông tin phục vụ hoạt động kinh
+doanh của ngân hàng thương mại;
+
+đ) Các hoạt động khác hỗ trợ hoạt động kinh doanh của ngân hàng thương
+mại phù hợp với quy định của pháp luật.
+
+7. Ngân hàng con ở nước ngoài của ngân hàng thương mại (sau đây gọi là
+ngân hàng con ở nước ngoài) là ngân hàng, mà ngân hàng thương mại hoặc ngân
+hàng thương mại và người có liên quan của ngân hàng thương mại sở hữu trên
+50% vôn điêu lệ hoặc trên 50% vốn cổ phần có quyền biểu quyết, được thành lập
+tại nước ngoài theo quy định pháp luật nước ngoài.
+
+8. Thời điểm đề nghị là ngày, tháng, năm ghi trên văn bản đề nghị thành
+lập chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong
+nước; chi nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài của ngân hàng
+thương mại.
+
+9. Khu vực nội thành thành phố Hà Nội, Thành phó Hô Chí Minh bao gồm
+các phường của thành phó Hà Nội, Thành phố Hồ Chí Minh.
+
+10. Khu vực ngoại thành thành phố Hà Nội, Thành phố Hồ Chí Minh bao
+gồm các địa bàn còn lại của thành phô Hà Nội, Thành phô Hô Chí Minh không
+thuộc phạm vi quy định tại khoản 9 Điều này.
+
+11. Vùng nông thôn là địa giới đơn vị hành chính xã, đặc khu (không bao
+gồm đặc khu mà chính quyền địa phương ở đặc khu thực hiện nhiệm vụ, quyền
+hạn tương ứng của chính quyên địa phương ở phường).
+
+12. Người đứng đâu là Giám đốc chi nhánh, Giám đốc phòng giao dịch
+hoặc chức danh tương đương, người đứng đầu văn phòng đại diện.
+
+13. Thông tin về người đứng đâu bao gồm họ và tên, giới tính, ngày, tháng,
+năm sinh, dân tộc, quốc tịch, loại giấy tờ pháp lý của cá nhân, sô giây tờ pháp lý
+của cá nhân, ngày sp, nơi cấp, địa chỉ thường trú và địa chỉ liên lạc.
+
+14. Thông tin về tên bao gồm tên đầy đủ bằng tiếng Việt, tên viết bằng tiếng
+nước ngoài, tên viết tắt (nếu có).
+
+15. Thông tin về địa chỉ bao gồm địa chỉ, điện thoại, fax, email, website.
+
+Điều 4. Thẩm quyền chấp thuận về mạng lưới của ngân hàng thương
+mại
+
+1. Thống đốc Ngân hàng Nhà nước Việt Nam xem xét chấp thuận việc ngân
+hàng thương mại thành lập, chấm dứt hoạt động, giải thể (trừ trường hợp tự
+
+4
+
+nguyện chấm dứt hoạt động) chỉ nhánh ở trong nước; thành lập chi nhánh, văn
+phòng đại diện, ngân hàng con ở nước ngoài; chuyền đổi hình thức pháp lý ngân
+hàng con ở nước ngoài của ngân hàng thương mại.
+
+2. Cục trưởng Cục Quản lý, giám sát tổ chức tín dụng xem xét chấp thuận
+việc ngân hàng thương mại thành lập, chấm dứt hoạt động, giải thê (trừ trường
+hợp tự nguyện chấm dứt hoạt động) phòng giao dịch, văn phòng đại diện, đơn vị
+sự nghiệp ở trong nước.
+
+3. Giám đốc Ngân hàng Nhà nước chi nhánh Khu vực xem xét chấp thuận:
+a) Thay đổi địa điểm đặt trụ sở chỉ nhánh, phòng giao dịch;
+b) Tự nguyện chấm dứt hoạt động chi nhánh, phòng giao dịch.
+
+4. Trong một số trường hợp cụ thể, Thống đốc Ngân hàng Nhà nước Việt
+Nam xem xét quyết định chấp thuận:
+
+a) Thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp, phòng giao
+dịch ở trong nước; chi nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài
+của ngân hàng thương mại trên cơ sở hồ sơ, trình tự theo quy định tại Thông tư
+này và phù hợp với điều kiện thực tế nhằm:
+
+(1) Phục vụ cho mục tiêu phát triển kinh tế, xã hội, chính trị, an ninh, quốc
+phòng, ngoại giao và điều hành chính sách tiền tệ trong từng thời kỳ;
+
+(1) Hỗ trợ ngân hàng thương mại tham gia xử lý quỹ tín dụng nhân dân
+được kiểm soát đặc biệt;
+
+b) Chuyển đổi phòng giao dịch thành chỉ nhánh ở trong nước của ngân
+hàng thương mại trên cơ sở hô sơ, điều kiện, trình tự, thủ tục thành lập chi nhánh
+ở trong nước quy định tại Thông tư này, phù hợp với điều kiện thực tê nhằm thực
+hiện phương án cơ cấu lại tổ chức tín dụng đã được cấp có thầm quyền phê duyệt;
+
+c) Các nội dung về mạng lưới hoạt động của ngân hàng thương mại để thực
+hiện phương án cơ cấu lại ngân hàng thương mại được kiểm soát đặc biệt đã được
+phê duyệt trên cơ sở hồ sơ, trình tự quy định tại Thông tư này.
+
+Điều 5. Nguyên tắc lập, gửi và trả hồ sơ
+
+1. Ngân hàng thương mại lập 01 bộ hồ SƠ bằng tiếng Việt. Các tài liệu bằng
+tiếng Việt được nộp phải là bản sao được cấp từ sô gôc hoặc bản sao có chứng
+thực hoặc bản sao kèm xuất trình bản chính đê đối chiếu; trong trường hợp người
+nộp hồ sơ nộp bản sao kèm xuất trình bản chính để đối chiếu, người đối chiếu có
+trách nhiệm xác nhận tính chính xác của bản sao so với bản chính. Các bản dịch
+tài liệu từ tiếng nước ngoài sang tiếng Việt phải được công chứng hoặc chứng
+thực chữ ký của người dịch theo quy định của pháp luật.
+
+2. Các văn bản của ngân hàng thương mại gửi Ngân hàng Nhà nước Việt
+Nam (sau đây gọi tắt là Ngân hàng Nhà nước), Ngân hàng Nhà nước chỉ nhánh
+Khu vực theo quy định tại Thông tư này phải do người đại diện theo pháp luật
+hoặc người được người đại diện theo pháp luật của ngân hàng thương mại ủy
+
+5
+
+quyền ký. Người đại diện theo pháp luật ủy quyền cho người khác phải bằng văn
+bản ủy quyên được lập phù hợp với quy định của pháp luật.
+
+3. Hồ sơ của ngân hàng thương mại được gửi tới Ngân hàng Nhà nước,
+Ngân hàng Nhà nước chi nhánh Khu vực bằng một trong những hình thức sau:
+
+a) Nộp trực tuyến qua Công dịch vụ công quốc gia;
+
+b) Nộp trực tiếp tại Bộ phận Một cửa của Ngân hàng Nhà nước, Ngân hàng
+Nhà nước chi nhánh Khu vực;
+
+c) Gửi qua dịch vụ bưu chính.
+
+4. Khi gửi hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia, hồ sơ điện tử
+được sử dụng, chữ ký sô theo quy định của pháp luật vê thực hiện thủ tục hành
+chính trên môi trường điện tử. Trường hợp hệ thống Cổng dịch vụ công quốc gia
+gặp sự cố hoặc có lỗi không thể tiếp nhận, trao đổi thông tin điện tử, việc khai,
+gửi, tiếp nhận, trả kết quả, trao đổi, phản hồi thông tin được thực hiện qua dịch
+vụ bưu chính hoặc trực tiếp tại Bộ phận Một cửa của Ngân hàng Nhà nước, Ngân
+hàng Nhà nước chi nhánh Khu vực.
+
+5. Các tài liệu trong hồ sơ điện tử là bản điện tử quét từ bản gốc, bản chính
+(tập tin định dạng PDF).
+
+Chương II
+THÀNH LẬP ĐƠN VỊ THUỘC MẠNG LƯỚI CỦA
+NGÂN HÀNG THƯƠNG MẠI
+
+Điều 6. Điều kiện thành lập chi nhánh ở trong nước của ngân hàng
+thương mại
+
+Đề được thành lập chi nhánh ở trong nước, ngân hàng thương mại phải đáp
+ứng đầy đủ các điều kiện sau đây:
+
+1. Đối với ngân hàng thương mại có thời gian hoạt động từ 12 tháng trở lên
+tính từ ngày khai trương hoạt động đến thời điểm đề nghị:
+
+a) Hoạt động kinh doanh có lãi theo báo cáo tài chính hợp nhất và báo cáo
+tài chính riêng lẻ được kiểm toán của năm trước liền kề năm đề nghị;
+
+b) Tuân thủ các hạn chế để bảo đảm an toàn trong hoạt động của tô chức
+tín dụng quy định tại các Điều 134, 135, 136, 137; khoản 1 Điều 138 và Điều 142
+Luật Các tô chức tín dụng số 32/2024/QH15 được sửa đôi, bỗ sung bởi Luật số
+96/2025/QHI5 (sau đây gọi tắt là Luật Các tổ chức tín dụng) và các hướng dẫn
+của Ngân hàng Nhà nước đối với các quy định này trong các tháng trong thời gian
+12 tháng liền trước tháng đề nghị;
+
+c) Thực hiện đúng, đầy đủ các quy định về phân loại tài sản có, mức trích,
+phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro
+
+6
+
+trong hoạt động theo quy định của pháp luật trong thời gian 12 tháng liền trước
+tháng đề nghị;
+
+d) Có tỷ lệ nợ xấu theo quy định của Ngân hàng Nhà nước về việc phân
+loại tài sản có tại thời điểm 31 tháng 12 của năm liền trước năm đề nghị và tại
+ngày cuối cùng của tháng liền trước tháng đề nghị không vượt quá 3% hoặc một
+tỷ lệ khác theo quyết định của Thống đốc Ngân hàng Nhà nước trong từng thời
+kỳ;
+
+đ) Tại thời điểm đề nghị, ngân hàng thương mại có số lượng và cơ cấu Hội
+đồng quản trị, Hội đồng \ thành viên, Ban kiểm soát; có bộ phận kiểm toán nội bộ
+và hệ thống kiểm soát nội bộ phù hợp với quy định tại Luật Các tổ chức tín dụng
+và hướng dẫn của Ngân hàng Nhà nước, đông thời không bị khuyết Tổng Giám
+đốc;
+
+e) Không bị xử phạt vi phạm hành chính về tô chức, quản trị, điều hành
+(trừ vi phạm quy định về quy định nội bộ), cấp tín dụng trong thời gian 12 tháng
+liền trước tháng đề nghị;
+
+g) Không thuộc đối tượng phải thực hiện biện pháp không được mở rộng
+mạng lưới;
+
+h) Đáp ứng điều kiện về số lượng chi nhánh được phép thành lập theo quy
+định tại Điều 7 và Điều 8 Thông tư này;
+
+¡) Trường hợp đề nghị thành lập chỉ nhánh ở địa bàn không phải vùng nông
+thôn, ngân hàng thương mại phải được xếp hạng A, B theo kết quả xếp hạng được
+Ngân hàng Nhà nước thông báo gần nhất tại thời điểm đề nghị và tại thời điểm
+chấp thuận (trừ ngân hàng thương mại không thuộc đối ¡tượng xêp hạng theo quy
+định của Thống đốc Ngân hàng Nhà nước về xếp hạng tô chức tín dụng, chỉ nhánh
+ngân hàng nước ngoài).
+
+2. Đối với ngân hàng thương mại có thời gian hoạt động dưới 12 tháng tính
+từ ngày khai trương hoạt động đến thời điểm đề nghị:
+
+a) Hoạt động kinh doanh có lãi đến tháng liền kề trước thời điểm đề nghị;
+
+b) Tuân thủ các hạn chế để bảo đảm an toàn trong hoạt động của tô chức
+tín dụng quy định tại các Điều 134, 135, 136, 137; khoản 1 Điều 138 và Điều 142
+Luật Các tô chức tín dụng và hướng dẫn của Ngân hàng Nhà nước trong các tháng
+liền trước kề từ ngày bắt đầu khai trương hoạt động đên thời điểm đề nghị;
+
+c) Thực hiện đúng, đầy đủ các quy định về phân loại tài sản có, mức trích,
+phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý ì TỦI TO
+trong hoạt động, theo quy định của pháp luật tại quý trước liền kề thời điểm đề
+nghị; tỷ lệ nợ xấu theo quy định của Thống. đốc :. Ngân hàng Nhà nước về phân
+loại tài sản có tại ngày cuôi cùng của tháng. liền kề trước thời điểm đề nghị không
+vượt quá 3% hoặc một tỷ lệ khác theo quyết định của Thống đốc Ngân hàng Nhà
+nước trong từng thời kỳ;
+
+d) Không bị xử phạt vi phạm hành chính về tô chức, quản trị, điều hành
+
+7
+
+(trừ vi phạm quy định về quy định nội bộ), cấp tín dụng kê từ ngày bắt đầu khai
+trương hoạt động đến thời điểm đề nghị;
+
+đ) Các quy định tại các điểm đ, g và h khoản 1 Điều này.
+
+Điều 7. Công thức xác định tông số lượng chỉ nhánh, phòng giao dịch
+được thành lập
+
+1. Số lượng chi nhánh, phòng giao dịch của một ngân hàng thương mại
+được thành lập phải đảm bảo:
+
+300 tỷ đồng x NI + 100 tỷ đồng x M1 + 50 tỷ đồng x N2 + 20 tỷ đồng x
+M2<C
+
+Trong đó:
+
+- € là giá trị thực của vốn điều lệ của ngân hàng thương mại được xác định
+theo quy định tại khoản 3 Điều 28 Luật Các tổ chức tín dụng tại thời điểm 31
+tháng 12 của năm liền trước năm đề nghị đối với ngân hàng thương mại có thời
+gian hoạt động từ 12 tháng trở lên (tính từ ngày khai trương hoạt động đến thời
+điểm đề nghị) và tại tháng liền trước tháng đề nghị đối với ngân hàng thương mại
+có thời gian hoạt động dưới 12 tháng (tính từ ngày khai trương hoạt động đến thời
+điểm đề nghị).
+
+- NI là số lượng chi nhánh đã thành lập và đang đề nghị thành lập tại khu
+vực nội thành thành phố Hà Nội và khu vực nội thành thành phố Hồ Chí Minh.
+
+- N2 là số lượng chi nhánh đã thành lập và đang đề nghị thành lập tại khu
+vực ngoại thành thành phố Hà Nội, khu vực ngoại thành thành phố Hồ Chí Minh;
+và các tỉnh, thành phố khác trực thuộc Trung ương.
+
+- MI là số lượng phòng giao dịch đã thành lập và đang đề nghị thành lập
+tại khu vực nội thành thành phố Hà Nội và khu vực nội thành thành phó Hồ Chí
+Minh.
+
+- M2 là số lượng phòng giao dịch đã thành lập và đang đề nghị thành lập
+tại khu vực ngoại thành thành phố Hà Nội, khu vực ngoại thành thành phố Hô
+Chí Minh; và các tỉnh, thành phố khác trực thuộc Trung ương.
+
+2. Việc xác định địa điểm của chi nhánh, phòng giao dịch đã thành lập và
+đang đề nghị thành lập thuộc các khu vực quy định tại các điểm NI, N2, MI, M2
+nêu tại khoản 1 Điều này được căn cứ vào khu vực địa giới hành chính tại thời
+điểm đề nghị và tại thời điểm chấp thuận.
+
+Điều 8. Số lượng chỉ nhánh được thành lập
+
+Ngoài đáp ứng yêu cầu về tông số lượng chỉ nhánh quy định tại Điều 7
+Thông tư này, ngân hàng thương mại phải đáp ứng yêu cầu sau đây:
+
+1. Ngân hàng thương mại được thành lập tối đa 10 chi nhánh tại mỗi khu
+vực nội thành thành phố Hà Nội hoặc nội thành thành phố Hồ Chí Minh.
+
+2. Ngân hàng thương mại có thời gian hoạt động dưới 12 tháng (tính từ
+
+§
+
+ngày khai trương hoạt động đến thời điểm đề nghị) được thành lập không quá 03
+chi nhánh và các chi nhánh này không được thành lập trên cùng một địa bàn tỉnh,
+thành phố trực thuộc Trung ương trong một năm tài chính.
+
+3. Ngân hàng thương mại có thời gian hoạt động từ 12 tháng trở lên (tính
+từ ngày khai trương hoạt động đến thời điểm đề nghị) được thành lập không quá
+năm (05) chi nhánh và sô ch¡ nhánh tại vùng nông thôn chiếm ít nhất 50% tông
+số chỉ nhánh được thành lập trong một năm tài chính.
+
+4. Ngoài số lượng quy định tại khoản 3 Điều này, ngân hàng thương mại
+đã hoàn tắt thủ tục tự nguyện chấm dứt hoạt động chỉ nhánh tại khu vực nội thành
+thành phó Hà Nội, khu vực nội thành Thành phố Hồ Chí Minh thì được thành lập
+tại các địa bàn tỉnh, thành phố trực thuộc Trung ương khác số chỉ nhánh tương
+ứng với số chi nhánh đã châm dứt hoạt động.
+
+Điều 9. Điều kiện thành lập chỉ nhánh ở nước ngoài, ngân hàng con ở
+nước ngoài
+
+Đề được thành lập chi nhánh ở nước ngoài, ngân hàng con ở nước ngoài,
+ngân hàng thương mại phải đáp ứng đầy đủ các điều kiện sau đây:
+
+1. Các điều kiện quy định tại điểm b, c, d, đ, e và g khoản I Điều 6 Thông
+tư này.
+
+2. Được xếp hạng A, B theo kết quả xếp hạng do Ngân hàng Nhà nước
+thông báo gần nhất tại thời điểm đề nghị và tại thời điểm chấp thuận (trừ trường
+
+hợp không thuộc đối tượng xếp hạng theo quy định của Ngân hàng Nhà nước về
+xêp hạng tổ chức tín dụng, chi nhánh ngân hàng nước ngoài).
+
+3. Có thời gian hoạt động tối thiêu là 03 năm (tính từ ngày khai trương hoạt
+động đên thời điêm đê nghỊ).
+
+4. Có tổng tài sản Có đạt 100.000 tỷ Đồng Việt Nam trở lên theo báo cáo
+tài chính hợp nhất được kiêm toán của năm trước liền kề năm đề nghị.
+
+5. Hoạt động kinh doanh có lãi theo các báo cáo tài chính hợp nhất và báo
+cáo tài chính riêng lẻ được kiểm toán trong 03 năm trước liền kề năm đề nghị.
+
+Điều 10. Điều kiện thành lập văn phòng đại diện, đơn vị sự nghiệp ở
+trong nước và văn phòng đại diện ở nước ngoài
+
+Để được thành lập văn phòng đại diện, đơn vị sự nghiệp ở trong nước và
+văn phòng đại diện ở nước ngoài, ngân hàng thương mại phải đáp ứng đây đủ các
+điêu kiện sau đây:
+
+1. Có thời gian hoạt động tối thiểu là 12 tháng (tính từ ngày khai trương
+hoạt động đên thời điêm đê nghỊ).
+
+2. Trường hợp thành lập văn phòng đại diện, ngoài việc đáp ứng điều kiện
+
+quy định tại khoản Điều này, ngân hàng thương mại phải đáp ứng các điều kiện
+quy định tại điểm g khoản 1 Điều 6 Thông tư này.
+
+Điều 11. Điều kiện thành lập phòng giao dịch
+
+9
+
+____ Để được thành lập phòng giao dịch, ngân hàng thương mại phải đáp ứng
+đây đủ các điêu kiện sau đây:
+1. Các điều kiện theo quy định tại điểm a, b, c, d, đ, e và g khoản 1 Điều 6
+Thông tư này.
+
+2. Trường hợp đề nghị thành lập phòng giao dịch ở địa bàn không phải
+vùng nông thôn, ngân hàng thương mại phải được xêp hạng A, B theo kêt quả
+xêp hạng do Ngân hàng Nhà nước thông báo gần nhât tại thời điêm đê nghị và tại
+thời điểm chấp thuận (trừ trường hợp không thuộc đôi tượng xêp hạng theo quy
+định của Ngân hàng Nhà nước về xếp hạng tô chức tín dụng, chi nhánh ngân hàng
+nước ngoài).
+
+3. Chi nhánh dự kiến quản lý phòng giao dịch phải đáp ứng các điều kiện
+sau đây:
+
+a) Có thời gian hoạt động tối thiểu 12 tháng (tính từ ngày khai trương hoạt
+động đến thời điểm đề nghị);
+
+b) Có tỷ lệ nợ xấu theo quy định của Ngân hàng Nhà nước về việc phân
+loại tài sản có tại thời điêm 31 tháng 12 năm trước liên kê năm đê nghị và tại ngày
+cuôi cùng của tháng liên kề trước thời điêm đê nghị không vượt quá 3% hoặc một
+tỷ lệ khác theo quyết định của Thống đốc Ngân hàng Nhà nước trong từng thời
+kỳ;
+
+. _ ©) Không bịxử phạt vi phạm hành chính trong lĩnh vực tiền tệ và ngân hàng
+băng hình thức phạt tiên trong thời hạn 12 tháng liên trước tháng đề nghị;
+
+d) Có chênh lệch thu chỉ của năm trước liền kề năm đề nghị dương.
+
+4. Đáp ứng yêu cầu về số lượng phòng giao dịch được thành lập theo quy
+định tại Điều 7 và Điều 12 Thông tư này.
+Điều 12. Số lượng phòng giao dịch được thành lập
+
+Ngoài đáp ứng yêu cầu về tông số lượng phòng giao dịch quy định tại Điều
+7 Thông tư này, ngân hàng thương mại phải đáp ứng các yêu cầu sau đây:
+
+1. Số lượng phòng giao dịch của ngân hàng thương mại tại khu vực nội
+thành thành phô Hà Nội, khu vực nội thành Thành phố Hô Chí Minh không lớn
+hơn 02 lân sô lượng chí nhánh hiện có của ngân hàng thương mại tại mỗi khu vực
+này và không quá 20 phòng giao dịch.
+
+"- Số lượng phòng giao dịch của ngân hàng thương mại tại mỗi tỉnh, thành
+phô trực thuộc Trung ương không lớn hơn 03 lần số lượng chi nhánh hiện có của
+ngân hàng thương mại tại tỉnh, thành phố đó.
+
+3. Trường hợp có số lượng phòng giao dịch được thành lập trước ngày
+Thông tư này có hiệu lực thi hành vượt quá số lượng quy định tại khoản 1, 2 Điều
+này hoặc có số lượng phòng giao dịch tại thời điểm đề nghị bằng số lượng quy
+định tại khoản 1, 2 Điều này, ngân hàng thương mại được thành lập thêm không
+quá 02 phòng giao dịch tại vùng nông thôn trên mỗi địa bàn tỉnh, thành phố trực
+
+10
+
+thuộc Trung ương này trong mỗi năm tài chính. Tổng số lượng phòng giao dịch
+được thành lập thêm theo quy định tại khoản này không vượt quá sô lượng chi
+nhánh hiện có của ngân hàng thương mại trên mỗi địa bàn tỉnh, thành phố trực
+thuộc Trung ương tại thời điểm đề nghị thành lập.
+
+4. Ngân hàng thương mại có thời gian hoạt động từ 12 tháng trở lên tính từ
+ngày khai trương hoạt động đến thời điểm đề nghị được thành lập không quá 10
+phòng giao dịch và sô lượng phòng giao dịch tại vùng nông thôn chiếm ít nhất
+50% tổng số phòng giao dịch được thành lập trong một năm tài chính.
+
+5. Số lượng phòng giao dịch được quản lý bởi 01 chi nhánh do ngân hàng
+thương mại tự quyêt định phù hợp với năng lực quản lý của mỗi chi nhánh.
+
+Điều 13. Hồ sơ đề nghị chấp thuận thành lập chỉ nhánh, phòng giao
+dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chỉ nhánh, văn
+phòng đại diện, ngân hàng con ở nước ngoài
+
+1. Văn bản của ngân hàng thương mại đề nghị Ngân hàng Nhà nước chấp
+thuận thành lập chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp
+ở trong nước; chỉ nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài theo
+mẫu tại Phụ lục I ban hành kèm theo Thông tư này.
+
+2. Nghị quyết hoặc quyết định của Hội đồng quản trị hoặc Hội đồng thành
+viên về việc thành lập chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự
+nghiệp ở trong nước; chi nhánh, văn phòng đại diện ở nước ngoài.
+
+Đối với việc thành lập phòng giao dịch, Nghị quyết hoặc quyết định của
+Hội đồng quản trị hoặc Hội đông thành viên phải nêu rõ tên, địa điểm đặt trụ sở
+dự kiến (thông tin đến địa bàn cấp xã), chi nhánh dự kiến quản lý phòng giao
+dịch, các nghiệp vụ phòng giao dịch sẽ thực hiện, phạm vi hoạt động về mặt địa
+lý và đối tượng khách hàng chính.
+
+3. Nghị quyết hoặc quyết định của Đại hội đồng cỗ đông, (đối với ngân
+hàng thương mại cô phần); nghị quyết hoặc quyết định của Hội đồng thành viên
+(đối với ngân hàng thương mại trách nhiệm hữu hạn hai thành viên trở lên); ý
+
+kiến chấp thuận của chủ sở hữu (đối với ngân hàng thương mại trách nhiệm hữu
+hạn một thành viên) thông qua việc thành lập ngân hàng con ở nước ngoài.
+
+4. Đề án thành lập chỉ nhánh ở trong nước, trong đó phải có tối thiêu các
+nội dung sau:
+
+a) Tên đầy đủ bằng tiếng Việt, tên viết tắt bằng tiếng Việt; địa điểm đặt trụ
+
+sở dự kiến (thông tin đến địa bàn cấp xã); nội dung hoạt động; đối tượng khách
+hàng chính;
+
+b) Lý do thành lập và lý do lựa chọn địa bàn thành lập;
+c) Cơ cấu tô chức: sơ đồ tổ chức gồm các phòng, ban của chi nhánh;
+
+đ) Nghiên cứu khả thí: phân tích môi trường kinh doanh, thị trường mục
+tiêu, các cơ hội kinh doanh cần nắm bắt và kế hoạch chiếm lĩnh thị trường;
+
+I1
+
+đ) Phương án kinh doanh dự kiến trong 03 năm đầu, trong đó tối thiểu bao
+gồm: dự kiến bảng cân đối kế toán; báo cáo kết quả kinh doanh; căn cứ xây dựng
+phương án và thuyết minh khả năng thực hiện phương án trong từng năm.
+
+5. Đề án thành lập chi nhánh ở nước ngoài, ngân hàng con ở nước ngoài,
+trong đó phải có tôi thiêu các nội dung sau:
+a) Tên đầy đủ bằng tiếng Việt và bằng tiếng nước ngoài, tên viết tắt bằng
+
+tiếng Việt và bằng tiếng nước ngoài (nếu có), hình thức pháp lý (đối với ngân
+hàng con ở nước ngoài);
+
+b) Địa điểm (tên quốc gia và địa chỉ cụ thê (nếu có));
+
+c) Mức vốn cấp cho chỉ nhánh ở nước ngoài, ngân hàng con ở nước ngoài;
+d) Nội dung hoạt động; thời hạn hoạt động: đối tượng khách hàng chính;
+đ) Lý do thành lập và lý do lựa chọn nước sở tại;
+
+e) Cơ cầu tô chức và mạng lưới: sơ đồ tổ chức gồm trụ sở chính, các phòng
+ban tại trụ sở chính; mạng lưới hoạt động của ngân hàng con ở nước ngoài (nếu
+có);
+
+ø) Thông tin pháp lý có liên quan: liệt kê các quy định có liên quan của
+nước sở tại về việc cho phép tô chức tín dụng nước ngoài thành lập và hoạt động
+chi nhánh, ngân hàng con ở nước sở tại đó (tên, số hiệu, ngày tháng của văn bản);
+
+h) Nghiên cứu khả thi: phân tích môi trường kinh doanh, thị trường mục
+tiêu, các cơ hội kinh doanh cần năm bắt và kế hoạch chiếm lĩnh thị trường;
+
+¡) Phương thức kiểm soát của ngân hàng thương mại đối với chỉ nhánh ở
+nước ngoài, ngân hàng con ở nước ngoài, trong đó cần nêu được tối thiểu các nội
+dung sau: phương thức (thuê ngoài hay tự thực hiện) và lý do lựa chọn phương
+thức; tô chức thực hiện phương thức; chỉ phí ước tính thực hiện phương thức; khó
+khăn dự kiến và giải pháp;
+
+k) Phương án kinh doanh dự kiến trong 03 năm đầu, trong đó tối thiêu bao
+gồm: dự kiến bảng cân đối kế toán; báo cáo kết quả kinh doanh; báo cáo lưu
+chuyển tiền tệ (đối với ngân hàng con ở nước ngoài); căn cứ xây dựng phương án
+và thuyết minh khả năng thực hiện phương án trong từng năm;
+
+l) Tác động và hiệu quả dự kiến của việc thành lập chi nhánh ở nước ngoài,
+ngân hàng con ở nước ngoài, các vẫn đề (nêu có) về bảo đảm an toàn hoạt động
+đôi với ngân hàng thương mại và các giải pháp; tỷ lệ an toàn vốn tối thiêu và các
+giới hạn góp vôn, mua cô phần của ngân hàng thương mại sau khi thành lập ngân
+hàng con ở nước ngoài;
+
+m) Phương án và biện pháp xử lý của ngân hàng thương mại trong trường
+hợp chi nhánh ở nước ngoài, ngân hàng con ở nước ngoài có những ảnh hưởng
+nghiêm trọng đến ngân hàng thương mại;
+
+n) Thông tin về thành viên sáng lập, cô đông sáng lập (tên, địa chỉ); dự kiến
+số tiền góp vốn, tỷ lệ góp vốn, số cô phần, tỷ lệ sở hữu cô phần của các thành
+
+12
+
+viên sáng lập, cô đông sáng lập ngân hàng con ở nước ngoài.
+
+6. Trường hợp đề nghị thành lập chi nhánh, phòng giao dịch ở trong nước;
+chi nhánh, ngân hàng con ở nước ngoài, ngân hàng thương mại phải có báo cáo
+và cam kết không bị xử phạt vi phạm hành chính đôi với các hành vi vi phạm quy
+định về các hạn chế để đảm bảo an toàn trong hoạt động của tổ chức tín dụng và
+phân loại tài sản có, cam kết ngoại bảng, trích lập dự phòng và sử dụng dự phòng
+rủi ro để xử lý rủi ro theo quy định pháp luật trong thời hạn 12 tháng liền trước
+tháng đề nghị.
+
+7. Các văn bản khác chứng minh việc đáp ứng các điều kiện thành lập chỉ
+nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi
+nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài theo quy định tại Thông
+tư này.
+
+Điều 14. Trình tự chấp thuận thành lập chi nhánh, phòng giao dịch,
+văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chỉ nhánh, văn phòng
+đại diện, ngân hàng con ở nước ngoài
+
+1. Ngân hàng thương mại gửi hồ sơ cho Ngân hàng Nhà nước một lần trước
+ngày 30 tháng 9 hàng năm, trừ các trường hợp theo quy định tại khoản 4 Điều 4
+Thông tư này.
+
+2. Ngân hàng thương mại lập 01 bộ hồ sơ theo quy định tại Điều 13 Thông
+tư này gửi Ngân hàng Nhà nước. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong
+thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có
+văn bản yêu câu ngân hàng thương mại bổ sung, hoàn thiện hồ sơ.
+
+3. Trong thời hạn 05 ngày làm việc kế từ ngày nhận đầy đủ hồ sơ theo quy
+định tại Điều 13 Thông tư này, Cục Quản lý, giám sát tổ chức tín dụng có văn
+bản gửi lấy ý kiến các đơn vị sau:
+
+8) Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có ý kiến đánh
+giá về sự cần thiết có thêm chỉ nhánh trên địa bàn tỉnh, thành phó trực thuộc Trung
+ương (trong trường hợp đề nghị mở chỉ nhánh ở trong nước);
+
+b) Ngân hàng Nhà nước chi nhánh Khu vực nơi ngân hàng thương mại dự
+kiến thành lập chi nhánh, phòng giao dịch ở trong nước có ý kiến đánh giá về sự
+cần thiết có thêm chi nhánh, phòng giao dịch trên địa bàn cấp tỉnh nơi ngân hàng
+thương mại đề nghị thành lập chỉ nhánh, phòng giao dịch; có ý kiến về các địa
+bàn dự kiến mở chỉ nhánh, phòng giao dịch; việc đáp ứng các điều kiện theo quy
+định của Thông tư này đối với chỉ nhánh dự kiến quản lý phòng giao dịch trên địa
+bàn (trong trường hợp đề nghị thành lập phòng giao dịch).
+
+4. Trong thời hạn 07 ngày làm việc kê từ ngày nhận được văn bản của Cục
+Quản lý, giám sát tổ chức tín dụng, Ủy ban nhân dân tỉnh, thành phố trực thuộc
+Trung ương và Ngân hàng Nhà nước chi nhánh Khu vực quy định tại khoản 3
+Điều này có ý kiến tham gia bằng văn bản về các nội dung được đề nghị.
+
+5. Trong thời hạn 10 ngày kể từ ngày nhận được đầy đủ ý kiến tham gia
+
+13
+
+của các cơ quan, Ngân hàng Nhà nước có văn bản chấp thuận hoặc không chấp
+thuận việc ngân hàng thương mại đủ điều kiện thành lập chi nhánh, phòng giao
+dịch ở trong nước. Trường hợp chấp thuận, Ngân hàng Nhà nước có văn bản chấp
+thuận việc thành lập đối với từng chi nhánh, phòng giao dịch. Trường hợp không
+chấp thuận, Ngân hàng Nhà nước có văn bản gửi ngân hàng thương mại nêu rõ lý
+do.
+
+6. Trong thời hạn 30 ngày kế từ ngày nhận được đầy đủ hồ sơ theo quy
+định tại Điều 13 Thông tư này, Ngân hàng Nhà nước có văn bản chấp thuận hoặc
+không chấp thuận cho ngân hàng thương mại thành lập chi nhánh, văn phòng đại
+diện, ngân hàng con ở nước ngoài; văn phòng đại diện, đơn vị sự nghiệp ở trong
+nước. Trường hợp chấp thuận văn phòng đại diện ở trong nước, Ngân hàng Nhà
+nước có văn bản chấp thuận đối với từng văn phòng đại diện ở trong nước. Trường
+hợp không chấp thuận, Ngân hàng Nhà nước có văn bản gửi ngân hàng thương
+mại nêu rõ lý do.
+
+7. Trong thời hạn 12 tháng kê từ ngày Ngân hàng Nhà nước có văn bản
+chấp thuận nêu tại khoản 5, 6 Điều này, ngân hàng thương mại phải khai trương
+hoạt động chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở
+trong nước đã được chấp thuận thành lập. Quá thời hạn này mà ngân hàng thương
+mại không khai trương hoạt động, văn bản chấp thuận của Ngân hàng Nhà nước
+đương nhiên hết hiệu lực.
+
+§. Trong thời hạn 24 tháng kê từ ngày Ngân hàng Nhà nước có văn bản
+chấp thuận nêu tại khoản 6 Điều này, ngân hàng thương mại phải khai trương
+hoạt động chi nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài đã được
+chấp thuận thành lập. Quá thời hạn này mà ngân hàng thương mại không khai
+trương hoạt động, văn bản chấp thuận của Ngân hàng Nhà nước đương nhiên hết
+hiệu lực.
+
+Chương IHI
+
+KHAI TRƯƠNG HOẠT ĐỌNG, THAY ĐÔI TÊN, ĐỊA ĐIỂM CÁC ĐƠN
+VỊ THUỘC MẠNG LƯỚI CỦA NGÂN HÀNG THƯƠNG MẠI; THAY ĐÔI
+CHI NHÁNH QUẢN LÝ PHÒNG GIAO DỊCH, CHUYỂN ĐỎI CHI NHÁNH Ở
+TRONG NƯỚC THÀNH PHÒNG GIAO DỊCH
+
+Điều 15. Khai trương hoạt động chỉ nhánh ở trong nước, phòng giao
+dịch
+
+1. Yêu cầu khai trương hoạt động chi nhánh ở trong nước, phòng giao dịch:
+
+a) Có quyền sở hữu hoặc sử dụng hợp pháp trụ sở chi nhánh, phòng giao
+dịch; trụ sở phải đảm bảo lưu trữ chứng từ, thuận tiện và an toàn cho giao dịch,
+
+tài sản, có đây đủ hệ thống đảm bảo an ninh, bảo vệ, hệ thống cấp điện, liên lạc
+duy trì liên tục, đáp ứng yêu cầu phòng, chống cháy nô. Trụ sở phòng giao dịch
+
+14
+không phải đáp ứng yêu cầu về đảm bảo lưu trữ chứng từ;
+b) Trường hợp trụ sở chi nhánh có kho tiền thì kho tiền phải đảm bảo an
+toàn theo tiêu chuẩn theo quy định của Ngân hàng Nhà nước vê tiêu chuẩn kỹ
+
+thuật kho tiền và xe chở tiên của tổ chức tín dụng, chỉ nhánh ngân hàng nước
+ngoài;
+
+©) Trường hợp trụ sở chi nhánh không có kho tiền, chỉ nhánh phải chuyển
+tiền về chi nhánh có kho tiền sau khi kết thúc giờ giao dịch mỗi ngày làm việc
+nếu ngân hàng thương mại có chỉ nhánh có kho tiền hoặc có hợp đồng sử dụng
+dịch vụ ngân quỹ với một tổ chức cung ứng dịch vụ ngân quỹ theo quy định của
+Ngân hàng Nhà nước về dịch vụ ngân quỹ cho tổ chức tín dụng, chi nhánh ngân
+hàng nước ngoài;
+
+d) Chi nhánh, phòng giao dịch có hệ thống công nghệ thông tin kết nối trực
+tuyến với trụ sở chính và phòng giao dịch kết nối trực tuyến với chỉ nhánh quản
+lý; đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an
+toàn, bảo mật cho các hoạt động nghiệp vụ;
+
+đ) Chi nhánh, phòng giao dịch có đầy đủ nhân sự điều hành tối thiêu gồm
+Giám đốc chi nhánh, Giám đốc phòng giao dịch hoặc chức danh tương đương và
+đội ngũ nhân viên thực hiện nghiệp vụ tại phòng giao địch, chi nhánh, trong đó
+Giám đốc chi nhánh, Giám đốc phòng giao dịch này không được kiêm nhiệm
+Giám đốc chi nhánh, Giám đốc phòng giao dịch khác và Giám đốc chỉ nhánh
+không được kiêm nhiệm Giám đôc phòng giao dịch;
+
+e) Giám đốc chi nhánh hoặc các chức danh tương đương. (đối với trường
+hợp khai trương hoạt động chỉ nhánh) đáp ứng các tiêu chuẩn, điều kiện theo quy
+định tại khoản 5 Điều 41 Luật Các tô chức tín dụng.
+
+2. Ngân hàng thương mại có văn bản báo cáo Ngân hàng Nhà nước chi
+nhánh Khu vực nơi đặt trụ sở chi nhánh ở trong nước, phòng giao dịch chậm nhất
+20 ngày trước ngày dự kiến khai trương hoạt động chi nhánh ở trong nước, phòng
+giao dịch các nội dung sau đây:
+
+a) Ngày dự kiến khai trương hoạt động và việc đáp ứng yêu cầu khai trương
+hoạt động chỉ nhánh ở trong nước, phòng giao dịch;
+
+b) Thông tin về người đứng đầu, thông tin về tên, thông tin về địa chỉ của
+chi nhánh ở trong nước, phòng giao dịch.
+
+3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của ngân
+hàng thương mại quy định tại khoản 2 Điều này, Ngân hàng Nhà nước chi nhánh
+Khu vực kiêm tra việc đáp ứng các yêu cầu quy định tại khoản 1 Điều này và có
+văn bản xác nhận việc đáp ứng yêu câu hoặc không đáp ứng yêu cầu gửi ngân
+hàng thương mại.
+
+4. Ngân hàng. thương mại tiến hành khai trương hoạt động chi nhánh ở
+trong nước, phòng giao dịch sau khi nhận được văn bản xác nhận của Ngân hàng
+Nhà nước chi nhánh Khu vực về việc đáp ứng các yêu cầu quy định tại khoản I
+
+15
+
+Điều này, hoàn tắt thủ tục pháp lý hoạt động chỉ nhánh, phòng giao dịch theo quy
+định.
+
+Điều 16. Khai trương hoạt động văn phòng đại diện, đơn vị sự nghiệp
+ở trong nước; chi nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài
+
+1. Ngân hàng thương mại quyết định việc khai trương hoạt động văn phòng
+đại diện, đơn vị sự nghiệp ở trong nước và có văn bản báo cáo Ngân hàng Nhà
+nước chi nhánh Khu vực nơi đặt trụ sở văn phòng đại diện, đơn vị sự nghiệp ở
+trong nước chậm nhất 07 ngày làm việc trước ngày khai trương hoạt động. Văn
+bản báo cáo khai trương hoạt động của văn phòng đại diện bao gồm thông tin về
+ngày dự kiến khai trương hoạt động; thông tin về người đứng đầu, thông tin về
+tên, thông tin về địa chỉ của văn phòng đại diện.
+
+2. Ngân hàng thương mại tiến hành khai trương hoạt động chi nhánh, văn
+phòng đại diện, ngân hàng con ở nước ngoài theo quy định của pháp luật nước
+ngoài; có văn bản báo cáo Ngân hàng Nhà nước (qua Cục Quản lý, giám sát tổ
+chức tín dụng) chậm nhất 07 ngày làm việc trước ngày khai trương hoạt động.
+
+Điều 17. Thay đổi tên chỉ nhánh ở trong nước, phòng giao dịch
+
+1. Ngân hàng thương mại quyết định việc thay đổi tên chỉ nhánh ở trong
+nước, thay đôi tên phòng giao dịch.
+
+2. Trong thời hạn 05 ngày làm việc kê từ ngày chi nhánh ở trong nước,
+phòng giao dịch hoạt động theo tên mới, ngân hàng thương mại có văn bản báo
+cáo Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở chi nhánh ở trong
+nước, phòng giao dịch việc thay đôi thông tin về tên của chi nhánh ở trong nước,
+phòng giao dịch, trừ trường hợp quy định tại khoản 3 Điều này.
+
+3. Trường hợp thay đổi tên chi nhánh ở trong nước, thay đổi tên phòng giao
+dịch trước khi khai trương hoạt động, ngân hàng thương mại thực hiện theo quy
+định tại khoản 2 Điều 15 Thông tư này.
+
+Điều 18. Chuyền đổi chỉ nhánh ở trong nước thành phòng giao dịch
+
+1. Ngân hàng thương mại quyết định việc chuyên đổi chi nhánh ở trong
+nước thành phòng giao dịch; có các văn bản báo cáo Ngân hàng Nhà nước (qua
+Cục Quản lý, giám sát tổ chức tín dụng), Ngân hàng Nhà nước chi nhánh Khu
+vực nơi đặt trụ sở phòng giao dịch về việc chuyển đổi chi nhánh ở trong nước
+thành phòng giao dịch và chi nhánh quản lý phòng giao dịch trong thời hạn 05
+ngày làm việc kể từ ngày quyết định việc chuyên đổi và kê từ ngày hoàn tất các
+thủ tục đưa phòng giao dịch đi vào hoạt động.
+
+2. Việc chuyển đổi chi nhánh ở trong nước thành phòng giao dịch không
+phải đáp ứng quy định tại khoản 1, 2 Điều 12 Thông tư này.
+
+3. Ngân hàng thương mại chuyền đôi chỉ nhánh ở trong nước thành phòng
+giao dịch tại khu vực nội thành thành phố Hà Nội, khu vực nội thành Thành phô
+Hồ Chí Minh không được thành lập thêm chi nhánh tại các khu vực này trong
+thời hạn 03 năm kế từ năm thực hiện việc chuyên đổi.
+
+lồ
+
+Điều 19. Thay đổi địa điểm đặt trụ sở chỉ nhánh ở trong nước, phòng
+giao dịch
+
+1. Ngân hàng thương mại được thay đổi địa điểm đặt trụ sở chi nhánh,
+phòng giao dịch trong phạm vi địa bàn tỉnh, thành phố trực thuộc Trung ương và
+giữa các tỉnh, thành phố trực thuộc Trung ương, trừ các quy định sau:
+
+a) Ngân hàng thương mại không được thay đổi địa điểm đặt trụ sở chỉ
+nhánh, phòng giao dịch từ khu vực vùng nông thôn đến khu vực không phải vùng
+nông thôn. Việc xác định địa điểm của chi nhánh, phòng giao dịch thuộc vùng
+nông thôn căn cứ vào khu vực địa giới hành chính tại thời điểm đề nghị thay đôi
+địa điểm và tại thời điểm chấp thuận;
+
+b) Ngân hàng thương mại không được phép thay đôi địa điểm đặt trụ sở
+chi nhánh, phòng giao dịch từ khu vực ngoại thành thành phố Hà Nội hoặc khu
+vực ngoại thành Thành phố Hồ Chí Minh hoặc các tỉnh, thành phó trực thuộc
+Trung ương khác đến khu vực nội thành thành phố Hà Nội hoặc khu vực nội thành
+thành phố Hồ Chí Minh.
+
+2. Hồ sơ thay đổi địa điểm đặt trụ sở chi nhánh, phòng giao dịch:
+
+a) Văn bản của ngân hàng thương mại đề nghị chấp thuận thay đôi địa điểm
+đặt trụ sở chi nhánh, phòng giao dịch theo mâu tại Phụ lục II ban hành kèm theo
+Thông tư này;
+
+b) Phương á án giải quyết các tài sản, quyền, nghĩa vụ và các lợi ích liên
+quan (đối với trường hợp thay đôi địa điểm đặt trụ sở chi nhánh ở trong nước,
+phòng giao dịch giữa các tỉnh, thành phó trực thuộc Trung ương);
+
+c) Trường hợp thay đôi địa điểm đặt trụ sở phòng giao dịch giữa các tỉnh,
+thành phố trực thuộc Trung ương, ngoài hồ sơ quy định tại điểm a, b khoản này,
+ngân hàng thương mại gửi các văn bản báo cáo việc đáp ú ứng quy định tại khoản
+2 Điều 12 Thông tư này và việc thay đổi chi nhánh quản lý phòng giao dịch theo
+quy định tại Điều 22 Thông tư này.
+
+3. Trình tự chấp thuận đối với trường hợp thay đổi địa điểm đặt trụ sở chỉ
+nhánh, phòng giao dịch trong địa bàn tỉnh, thành phô trực thuộc Trung ương:
+
+a) Ngân hàng thương mại lập 01 bộ hồ sơ theo quy định tại khoản 2 Điều
+này gửi Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở chi nhánh, phòng
+giao dịch;
+
+b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ
+theo quy định tại Thông tư này, Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt
+trụ sở chi nhánh, phòng giao dịch có văn bản gửi ngân hàng thương mại chấp
+thuận hoặc không chấp thuận việc thay đổi địa điểm đặt trụ sở chỉ nhánh, phòng
+giao dịch; trường hợp không chấp thuận, văn bản gửi ngân hàng thương mại nêu
+rõ lý do.
+
+4. Trình tự chấp thuận đối với trường hợp thay đổi địa điểm đặt trụ sở chi
+nhánh, phòng giao dịch giữa các tỉnh, thành phô trực thuộc Trung ương:
+
+17
+
+a) Ngân hàng thương mại lập 01 bộ hồ sơ theo quy định tại khoản 2 Điều
+này gửi Ngân hàng Nhà nước chi nhánh Khu vực nơi dự kiên đặt trụ sở chi nhánh,
+phòng giao dịch;
+
+b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ
+theo quy định tại Thông tư này, Ngân hàng Nhà nước chi nhánh Khu vực nơi dự
+kiến đặt trụ sở chỉ nhánh, phòng giao dịch có văn bản gửi lấy ý kiến:
+
+(1) Ngân hàng Nhà nước chi nhánh Khu vực nơi chi nhánh, phòng giao dịch
+hiện đang đặt trụ sở về phương án giải quyết các tài sản, quyền, nghĩa vụ và các
+lợi ích liên quan và lý do thay đổi địa điểm. Trường hợp thay đôi địa điểm đặt trụ
+sở chi nhánh, phòng giao dịch giữa các tỉnh, thành phố trực thuộc Trung ương
+thuộc cùng địa bàn quản lý của Ngân hàng Nhà nước chi nhánh Khu vực thì không
+cần thực hiện nội dung này;
+
+(ii) Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương nơi dự kiến đặt
+trụ sở chi nhánh về sự cần thiết có thêm chi nhánh trên địa bàn trong trường hợp
+thay đổi địa điểm đặt trụ sở chi nhánh giữa các tỉnh, thành phố trực thuộc Trung
+ương;
+
+c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị
+của Ngân hàng Nhà nước chi nhánh Khu vực nơi dự kiến đặt trụ sở chỉ nhánh,
+phòng giao dịch, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương nơi dự
+kiến đặt trụ sở chi nhánh, phòng giao dịch, Ngân hàng Nhà nước chi nhánh Khu
+vực nơi chi nhánh, phòng giao dịch hiện đang đặt trụ sở có ý kiến bằng văn bản
+về các nội dung được đề nghị;
+
+đ) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đầy đủ ý kiến tham
+gia của các cơ quan, Ngân hàng Nhà nước chi nhánh Khu vực nơi ngân hàng
+thương mại dự kiến đặt trụ sở chỉ nhánh, phòng giao dịch có văn bản gửi ngân
+hàng thương mại chấp thuận hoặc không chấp thuận việc thay đôi địa điểm đặt
+trụ sở chi nhánh, phòng giao dịch; trường hợp không chấp thuận, văn bản gửi
+ngân hàng thương mại nêu rõ lý do.
+
+5. Văn bản chấp thuận của Ngân hàng Nhà nước chi nhánh Khu vực tại
+điểm b khoản 3 và điểm d khoản 4 Điều này có hiệu lực trong thời hạn 12 tháng
+
+kế từ ngày ký.
+
+6. Ngân hàng thương mại có văn bản báo cáo Ngân hàng Nhà nước chi
+nhánh Khu vực quy định tại điểm b khoản 3 hoặc điểm d khoản 4 Điều này về
+việc đáp ứng yêu câu quy định tại khoản I Điều 15 Thông tư này chậm nhất 20
+ngày trước ngày dự kiến hoạt động tại địa điểm được chấp thuận.
+
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của ngân
+hàng thương mại, Ngân hàng Nhà nước chi nhánh Khu vực kiểm tra việc đáp ứng
+các yêu câu này và có văn bản xác nhận việc đáp ứng điều kiện hoặc không đáp
+ứng điều kiện gửi ngân hàng thương mại, đồng thời gửi Ngân hàng Nhà nước chi
+nhánh Khu vực nơi chỉ nhánh, phòng giao dịch hiện đang đặt trụ sở trong trường
+hợp thay đổi địa điểm đặt trụ sở chỉ nhánh, phòng giao dịch giữa các tỉnh, thành
+
+18
+
+phó trực thuộc Trung ương khác địa bàn quản lý của Ngân hàng Nhà nước chỉ
+nhánh Khu vực nơi chi nhánh, phòng giao dịch hiện đang đặt trụ sở.
+
+Việc thực hiện thay đổi địa điểm đặt trụ sở chi nhánh, phòng giao dịch
+trước khi khai trương hoạt động được thực hiện theo quy định tại khoản 1, 2, 3
+Điều này và khoản 2, 3, 4 Điều 15 Thông tư này.
+
+7. Trường hợp thay đổi địa chỉ đặt trụ sở chỉ nhánh, phòng giao dịch nhưng
+không phát sinh thay đôi địa điểm, ngân hàng thương mại có văn bản thông báo
+Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở chi nhánh, phòng giao
+dịch về việc thay đồi thông tin về địa chỉ đặt trụ sở chỉ nhánh ở trong nước, phòng
+giao dịch trong thời hạn 07 làm việc ngày kể từ ngày thực hiện thay đổi.
+
+Điều 20. Thay đổi tên, địa điểm đặt trụ sở văn phòng đại diện, đơn vị
+sự nghiệp ở trong nước; chỉ nhánh, văn phòng đại diện, ngân hàng con ở
+nước ngoài
+
+1. Ngân hàng thương mại quyết định việc thay đổi tên, địa điểm đặt trụ sở
+văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi nhánh, văn phòng đại
+diện, ngân hàng con ở nước ngoài.
+
+2. Trong thời hạn 05 ngày làm việc kế từ ngày văn phòng đại diện, đơn vị
+sự nghiệp ở trong nước; chi nhánh, văn phòng, đại diện, ngân hàng con ở nước
+ngoài hoạt động theo tên, địa điểm đặt trụ sở mới hoặc thay đổi địa chỉ của trụ sở
+văn phòng đại diện ở trong nước mà không thay đôi địa điểm, ngân hàng thương
+mại có văn bản báo cáo Ngân hàng Nhà nước (Cục Quản lý, giám sát tổ chức tín
+dụng) và Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt văn phòng đại diện,
+đơn vị sự nghiệp ở trong nước về việc thay đôi này. Văn bản báo cáo về việc thay
+đôi tên, địa điểm của văn phòng đại diện ở trong nước bao gồm thông tin về tên,
+thông tin về địa chỉ của văn phòng đại diện.
+
+Trường hợp thay đổi địa điểm đặt trụ sở văn phòng đại diện, đơn vị sự
+nghiệp ở trong nước khác địa bàn tỉnh, thành phố trực thuộc Trung ương, ngân
+hàng thương mại có trách nhiệm báo cáo Ngân hàng Nhà nước chi nhánh Khu
+vực nơi đặt trụ sở văn phòng đại diện, đơn vị sự nghiệp trước đây và nơi đặt trụ
+sở văn phòng đại diện, đơn vị sự nghiệp mới.
+
+Điều 21. Thay đổi tên chỉ nhánh, phòng giao dịch, văn phòng đại diện,
+đơn vị sự nghiệp ở trong nước; chỉ nhánh, văn phòng đại diện, ngân hàng
+con ở nước ngoài trong trường hợp tô chức lại ngân hàng thương mại
+
+Việc thay đổi tên chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị
+sự nghiệp ở trong nước; chi nhánh, văn phòng đại diện, ngân hàng con ở nước
+ngoài trong trường hợp tổ chức lại ngân hàng thương mại thực hiện theo hướng
+dẫn của Ngân hàng Nhà nước về tô chức lại tổ chức tín dụng.
+
+Điều 22. Thay đổi chỉ nhánh quản lý phòng giao dịch
+
+1. Ngân hàng thương mại quyết định thay đổi chi nhánh quản lý phòng giao
+dịch khi đảm bảo các điều kiện quy định tại khoản 3 Điều 11 Thông tư này và có
+
+19
+
+văn bản báo cáo Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở chỉ nhánh
+trong thời hạn 05 ngày làm việc trước ngày ngân hàng thương mại thực hiện thay
+đổi chỉ nhánh quản lý phòng giao dịch. Văn bản báo cáo bao gồm tối thiểu các
+nội dung sau:
+
+a) Tên, địa điểm đặt trụ sở chi nhánh đang quản lý và chi nhánh sẽ tiếp
+nhận quản lý phòng giao dịch;
+
+b) Lý do thay đổi;
+
+c) Việc đáp ứng các điều kiện về chỉ nhánh quản lý phòng giao dịch quy
+định tại khoản 3 Điều 11 Thông tư này.
+
+2. Trong thời hạn 05 ngày làm việc kế từ ngày ngân hàng thương mại thực
+hiện thay đôi chi nhánh quản lý phòng giao dịch, ngân hàng thương mại có văn
+bản báo cáo Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở của chỉ nhánh
+quản lý phòng giao dịch về việc hoàn tất các thủ tục thay đổi chi nhánh quản lý
+phòng giao dịch, trong đó có các thông tin phải gửi sang cơ quan đăng ký kinh
+doanh.
+
+Điều 23. Công bố thông tin về các nội dung thay đôi
+
+1. Trong thời hạn 07 ngày làm việc trước ngày dự kiến khai trương hoạt
+động quy định tại Điều 15 Thông tư này hoặc trong thời hạn 07 ngày làm việc kể
+từ ngày được Ngân hàng Nhà nước chi nhánh Khu vực chấp thuận theo quy định
+tại các khoản 3, 4 Điều 19 Thông tư này, ngân hàng thương mại phải thực hiện
+công bố thông tin sau đây:
+
+a) Số, , ngày, nội dung chấp thuận tại văn bản chấp thuận của Ngân hàng
+Nhà nước về thành lập chi nhánh, phòng giao dịch, thay đổi địa điểm đặt trụ sở
+chi nhánh, phòng giao dịch;
+
+b) Tên, địa điểm, ngày dự kiến khai trương hoạt động hoặc tên, địa điểm
+cũ, địa điêm mới đặt trụ sở chỉ nhánh, phòng giao dịch và thông tin khác (nếu cần
+thiết).
+
+2. Trong thời hạn 07 ngày làm việc kể từ ngày thực hiện chuyên đổi phòng
+giao dịch thành chi nhánh ở trong nước, thực hiện thay đôi theo quy định tại Điều
+17, Điều 18, khoản 7 Điều 19, Điều 20, Điều 21 và Điều 22 Thông tư này, ngân
+hàng thương mại phải công bố quyết định của ngân hàng thương mại về các nội
+dung này.
+
+3. Ngân hàng thương mại phải công bố các thông tin quy định tại các khoản
+1 và khoản 2 Điêu này trên trang thông tin điện tử của ngân hàng thương mại, trụ
+sở chi nhánh ở trong nước, phòng giao dịch có liên quan của ngân hàng thương
+mại.
+
+4. Ngân hàng thương mại phải gửi văn bản đề nghị Ngân hàng Nhà nước
+(Văn phòng Ngân hàng Nhà nước) đăng tải trên Công thông tin điện tử của Ngân
+hàng Nhà nước, đăng tải trên 01 tờ báo in trong 03 số liên tiếp hoặc trên 01 báo
+điện tử của Việt Nam đối với các nội dung quy định tại khoản 1 Điều này. Trong
+
+20
+
+thời hạn 03 ngày làm việc kê từ ngày nhận được văn bản đề nghị của ngân hàng
+thương mại, Ngân hàng Nhà nước (Văn phòng Ngân hàng Nhà nước) thực hiện
+công bồ thông tin trên Công thông tin điện tử của Ngân hàng Nhà nước.
+
+Chương IV
+CHUYÊN ĐỎI HÌNH THỨC PHÁP LÝ NGÂN HÀNG CON Ở NƯỚC
+NGOÀI CỦA NGÂN HÀNG THƯƠNG MẠI
+
+Điều 24. Điều kiện chuyền đôi hình thức pháp lý ngân hàng con ở nước
+ngoài
+
+Ngân hàng thương mại được chuyển đổi hình thức pháp lý ngân hàng con
+ở nước ngoài từ công ty trách nhiệm hữu hạn thành công ty cô phần và ngược lại;
+
+công ty trách nhiệm hữu hạn một thành viên thành công ty trách nhiệm hữu hạn
+hai thành viên trở lên và ngược lại khi đáp ứng đầy đủ các điều kiện sau đây:
+
+1. Đảm bảo là ngân hàng con của ngân hàng thương mại theo quy định tại
+khoản 7 Điều 3 Thông tư này sau khi chuyên đổi hình thức pháp lý.
+
+2. Trường hợp ngân hàng thương mại táng vốn tại ngân hàng con khi ngân
+hàng con chuyên đổi hình thức pháp lý, ngoài các điều kiện quy định tại khoản 1
+Điều này phải đáp ứng các điều kiện sau:
+
+a) Các điều kiện quy định tại các điểm b, c, d khoản 1 Điều 6 Thông tư
+này;
+
+b) Các điều kiện quy định tại các khoản 4, 5 Điều 9 Thông tư này.
+
+Điều 25. Hồ sơ đề nghị chấp thuận chuyển đỗi hình thức pháp lý ngân
+hàng con ở nước ngoài
+
+1. Văn bản của ngân hàng thương mại đề nghị Ngân hàng Nhà nước chấp
+
+thuận chuyên đổi hình thức pháp lý ngân hàng con ở nước ngoài theo mẫu tại Phụ
+lục HI ban hành kèm theo Thông tư này.
+
+2. Nghị quyết của Đại hội đồng cỗ đông (đối với ngân hàng thương mại cỗ
+phần); nghị quyết của Hội đồng thành viên (đối với ngân hàng thương mại trách
+nhiệm hữu hạn hai thành viên trở lên); ý kiến chấp thuận của chủ sở hữu (đối với
+ngân hàng thương mại trách nhiệm hữu hạn một thành viên) thông qua việc
+chuyên đôi hình thức pháp lý ngân hàng con ở nước ngoài.
+
+3. Đề á án chuyển đổi hình thức pháp lý ngân hàng con ở nước ngoài, trong
+đó phải có tôi thiêu các nội dung sau:
+
+a) Tên đầy đủ bằng tiếng Việt và bằng tiếng nước ngoài, tên viết tắt bằng
+tiếng Việt và bằng tiếng nước ngoài (nếu có);
+
+b) Địa điểm (tên quốc gia và địa chỉ cụ thể);
+
+c) Mức vôn đã câp cho ngân hàng con ở nước ngoài;
+
+21
+
+d) Nội dung hoạt động; thời hạn hoạt động; đối tượng khách hàng chính;
+đ) Lý do chuyển đôi hình thức pháp lý;
+
+e) Mức vốn dự kiến cấp thêm hoặc mức vốn giảm tại ngân hàng con ở nước
+ngoài khi chuyển đổi hình thức pháp lý;
+
+ø) Cơ cấu tô chức và mạng lưới của ngân hàng con ở nước ngoài sau khi
+chuyên đổi hình thức pháp lý: Sơ đồ tô chức gồm trụ sở chính, các phòng ban tại
+trụ sở chính; mạng lưới hoạt động của ngân hàng con ở nước ngoài (nếu có);
+
+h) Thông tin pháp lý có liên quan: liệt kê các quy định có liên quan của
+nước sở tại về việc cho phép tô chức tín dụng, nước ngoài chuyên đổi hình thức
+pháp lý ngân hàng con ở nước sở tại đó (tên, số hiệu, ngày tháng của văn bản);
+
+1) Nghiên cứu khả thi: phân tích môi trường kinh doanh, thị trường mục
+tiêu, các cơ hội kinh doanh cần nắm bắt và kế hoạch chiếm lĩnh thị trường sau khi
+chuyền đôi hình thức pháp lý;
+
+k) Phương thức kiểm soát của ngân hàng thương mại đối với ngân hàng
+con ở nước ngoài, trong đó cần nêu được tối thiêu các nội dung sau: phương thức
+(thuê ngoài hay tự thực hiện) và lý do lựa chọn phương thức; tổ chức thực hiện
+phương thức; chỉ phí ước tính thực hiện phương thức; khó khăn dự kiến và giải
+pháp;
+
+Ù) Phương án kinh doanh dự kiến của ngân hàng con ở nước ngoài trong 03
+năm đầu sau khi chuyển đôi hình thức pháp lý, trong đó tối thiêu bao gôm: dự
+kiến bảng cân đối kế toán; báo cáo kết quả kinh doanh; báo cáo lưu chuyên tiền
+tệ; căn cứ xây dựng phương án và thuyết minh khả năng thực hiện phương án
+trong từng năm;
+
+m) Tác động và hiệu quả dự. kiến của viỆc chuyển đổi hình thức pháp lý
+ngân hàng con ở nước ngoài, các vấn đề (nếu có) về bảo đảm an toàn hoạt động
+đôi với ngân hàng thương mại và các giải pháp; tỷ lệ an toàn vốn tối thiểu và các
+giới hạn góp vốn mua, cỗ phần của ngân hàng thương mại sau khi chuyên đổi
+hình thức pháp lý ngân hàng con ở nước ngoài;
+
+n) Phương án và biện pháp xử lý của ngân hàng thương mại trong trường
+hợp ngân hàng con ở nước ngoài có những ảnh hưởng nghiêm trọng đến ngân
+hàng thương mại;
+
+o) Thông tin thay đổi về thành viên góp vốn, cỗ đông lớn; dự kiến số tiền
+góp vôn, tỷ lệ góp vôn, số cô phân, tỷ lệ sở hữu cỗ phần của các thành viên góp
+vốn, cô đông lớn của ngân hàng con ở nước ngoài khi chuyên đổi hình thức pháp
+lý.
+
+4. Các văn bản khác chứng minh việc đáp ứng các điều kiện chuyên đổi
+hình thức pháp lý ngân hàng con ở nước ngoài theo quy định tại Điêu 24 Thông
+tư này.
+
+Điều 26. Trình tự chấp thuận đủ điều kiện chuyền đổi hình thức pháp
+
+22
+
+lý ngân hàng con ở nước ngoài
+
+1. Ngân hàng thương mại lập hồ sơ theo quy định tại Điều 25 Thông tư này
+gửi Ngân hàng Nhà nước.
+
+2. Trong thời hạn 45 ngày kể từ ngày nhận được đầy đủ hồ sơ theo quy
+định tại Điều 25 Thông tư này, Ngân hàng Nhà nước có văn bản chấp thuận hoặc
+không chấp thuận cho ngân hàng thương mại chuyên đổi hình thức pháp lý ngân
+hàng con ở nước ngoài; trường hợp không chấp thuận, văn bản gửi ngân hàng
+thương mại nêu rõ lý do.
+
+Văn bản chấp thuận của Ngân hàng Nhà nước có hiệu lực trong thời hạn
+24 tháng kê từ ngày ký.
+
+Chương V
+
+CHÁM DỨT HOẠT ĐỌNG, GIẢI THẺ CÁC ĐƠN VỊ THUỘC MẠNG LƯỚI
+CỦA NGÂN HÀNG THƯƠNG MẠI
+
+Điều 27. Chấm dứt hoạt động, giải thể chỉ nhánh, phòng giao dịch, văn
+phòng đại diện, đơn vị sự nghiệp ở trong nước; chỉ nhánh, văn phòng đại
+điện, ngân hàng con ở nước ngoài của ngân hàng thương mại
+
+1. Chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở
+trong nước của ngân hàng thương mại chấm dứt hoạt động, giải thê trong các
+trường hợp sau đây:
+
+a) Đương nhiên chấm dứt hoạt động, giải thể;
+
+b) Tự nguyện chấm dứt hoạt động, giải thể;
+
+c) Bắt buộc chấm đứt hoạt động, giải thể.
+
+2. Chi nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài của ngân
+hàng thương mại châm dứt hoạt động, giải thê theo quy định pháp luật của nước
+sở tại nơi đặt trụ sở chi nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài.
+
+3. Ngân hàng thương mại chịu trách nhiệm:
+
+a) Giải quyết tài sản, quyền, nghĩa vụ và các lợi ích liên quan của chỉ nhánh,
+phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi nhánh,
+văn phòng đại diện, ngân hàng con ở nước ngoài chấm dứt hoạt động, giải thể;
+
+b) Lưu trữ chứng từ, tài liệu liên quan việc chấm dứt hoạt động, giải thể
+chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước;
+chi nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài;
+
+c) Thực hiện các thủ tục pháp lý chấm dứt hoạt động, giải thể chỉ nhánh,
+phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi nhánh,
+văn phòng đại diện, ngân hàng con ở nước ngoài theo quy định của pháp luật.
+
+23
+
+Điều 28. Đương nhiên chấm dứt hoạt động, giải thể chỉ nhánh, phòng
+giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chỉ nhánh, văn
+phòng đại diện ở nước ngoài
+
+1. Chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở
+trong nước; chi nhánh, văn phòng đại diện ở nước ngoài đương nhiên chấm dứt
+hoạt động, giải thể trong trường hợp ngân hàng thương mại chấm dứt hoạt động,
+giải thê.
+
+2. Thủ tục đương nhiên chấm dứt hoạt động, giải thể chi nhánh, phòng giao
+dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi nhánh, văn phòng
+đại diện ở nước ngoài thực hiện theo quy định của pháp luật về chấm dứt hoạt
+động, giải thể ngân hàng thương mại.
+
+Điều 29. Tự nguyện chấm dứt hoạt động chỉ nhánh, phòng giao dịch,
+văn phòng đại diện, đơn vị sự nghiệp ở trong nước
+
+1. Hồ sơ tự nguyện chấm dứt hoạt động chi nhánh, phòng giao dịch ở trong
+nước:
+
+a) Văn bản của ngân hàng thương mại đề nghị chấm dứt hoạt động chỉ
+nhánh, phòng giao dịch theo mâu tại Phụ lục IV ban hành kèm theo Thông tư này;
+
+b) Nghị quyết hoặc quyết định của Hội đồng quản trị hoặc Hội đồng thành
+viên của ngân hàng thương mại về việc chấm dứt hoạt động chỉ nhánh, phòng
+giao dịch;
+
+c) Phương án giải quyết các tài sản, quyền, nghĩa vụ và các lợi ích liên quan
+của chi nhánh, phòng giao dịch chấm dứt hoạt động.
+
+2. Trình tự tự nguyện chấm dứt hoạt động chi nhánh ở trong nước:
+
+a) Ngân hàng thương mại lập 01 bộ hồ sơ theo quy định tại khoản 1 Điều
+này gửi Ngân hàng nhà nước chi nhánh Khu vực nơi đặt trụ sở chi nhánh;
+
+b) Trong thời hạn 20 ngày kế từ ngày nhận đủ hồ sơ theo quy định tại
+Thông tư này, Ngân hàng Nhà nước chỉ nhánh Khu vực nơi đặt trụ sở chi nhánh
+có văn bản chấp thuận hoặc không chấp thuận đề nghị của ngân hàng thương mại;
+trường hợp không chấp thuận, văn bản gửi ngân hàng thương mại nêu rõ lý do.
+
+3. Trình tự tự nguyện chấm dứt hoạt động phòng giao dịch:
+
+a) Ngân hàng thương mại lập 01 bộ hồ sơ theo quy định tại khoản 1 Điều
+này gửi Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở phòng giao dịch;
+
+b) Trong thời hạn 7 ngày làm việc kế từ ngày nhận đủ hồ sơ theo quy định
+tại Thông tư này, Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở phòng
+giao dịch có văn bản chấp thuận hoặc không chấp thuận đề nghị của ngân hàng
+thương mại; trường hợp không chấp thuận, văn bản gửi ngân hàng thương mại
+nêu rõ lý do.
+
+4. Trong thời hạn 45 ngày kể từ ngày có văn bản chấp thuận của Ngân hàng
+Nhà nước chi nhánh Khu vực nơi đặt trụ sở chi nhánh, phòng giao dịch quy định
+
+24
+
+tại điểm b khoản 2 và điểm b khoản 3 Điều này, ngân hàng thương mại phải tiến
+hành các thủ tục pháp lý theo quy định của pháp luật để chấm dứt hoạt động của
+chi nhánh, phòng giao dịch; chậm nhất 07 ngày làm việc trước ngày dự kiến chấm
+dứt hoạt động có văn bản báo cáo Ngân hàng Nhà nước (Cục Quản lý, giám sát
+tổ chức tín dụng) và Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở chi
+nhánh, phòng giao dịch về ngày chấm dứt hoạt động.
+
+5. Đối với việc tự nguyện chấm dứt hoạt động văn phòng đại diện, đơn vị
+sự nghiệp, trong thời hạn 05 ngày làm việc kể từ ngày chấm dứt hoạt động văn
+phòng đại diện, đơn vị sự nghiệp, ngân hàng thương mại phải có văn bản báo cáo
+Ngân hàng Nhà nước (Cục Quản lý, giám sát tổ chức tín dụng), Ngân hàng Nhà
+nước chi nhánh Khu vực nơi đặt trụ sở văn phòng đại diện, đơn vị sự nghiệp,
+trong đó nêu rõ lý do, ngày chấm dứt hoạt động.
+
+Điều 30. Bắt buộc chấm dứt hoạt động, giải thể chỉ nhánh, phòng giao
+dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước
+
+1. Thống đốc Ngân hàng Nhà nước có thẩm quyền bắt buộc chấm dứt hoạt
+động chi nhánh ở trong nước của ngân hàng thương mại.
+
+2. Cục trưởng Cục Quản lý, giám sát tổ chức tín dụng có thẩm quyền bắt
+buộc châm dứt hoạt động phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp
+ở trong nước của ngân hàng thương mại.
+
+3. Chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở
+trong nước của ngân hàng thương mại bị xem xét chấm dứt hoạt động khi thuộc
+một trong các trường hợp sau:
+
+a) Có bằng chứng chứng minh hồ sơ đề nghị thành lập chi nhánh, phòng
+giao dịch, văn phòng đại diện, đơn vị sự nghiệp có thông tin sai sự thật dẫn đến
+việc đánh giá sai lệch việc đáp ứng điều kiện thành lập chi nhánh, phòng giao
+dịch, văn phòng đại diện, đơn vị sự nghiệp của ngân hàng thương mại;
+
+b) Hoạt động không đúng nội dung hoạt động được phép theo quy định của
+pháp luật.
+
+4. Chi nhánh ở trong nước của ngân hàng thương mại bị bắt buộc chấm dứt
+hoạt động trong trường hợp chi nhánh có chênh lệch thu chi trong 03 năm liên
+tiêp âm, trừ các trường hợp sau:
+
+a) Trụ sở chỉ nhánh ở trong nước của ngân hàng thương mại thành lập tại
+vùng nông thôn;
+
+b) Chi nhánh mới đi vào hoạt động trong 03 năm đầu.
+
+5. Chi nhánh ở trong nước, phòng giao dịch của ngân hàng thương mại bị
+bắt buộc chấm dứt hoạt động trong trường hợp thay đổi địa điểm đặt trụ sở chỉ
+
+nhánh ở trong nước, phòng giao dịch khi chưa được Ngân hàng Nhà nước chi
+nhánh Khu vực chấp thuận băng văn bản.
+
+6. Căn cứ các trường hợp quy định tại khoản 3, 4, Š Điều này, Ngân hàng
+
+25
+
+Nhà nước chi nhánh Khu vực nơi đặt trụ sở chi nhánh, phòng giao dịch, văn phòng
+đại diện, đơn vị sự nghiệp của ngân hàng thương mại có văn bản nêu rõ lý do gửi
+Ngân hàng Nhà nước (Cục Quản lý, giám sát tô chức tín dụng) đề nghị chấm dứt
+hoạt động chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp của
+ngân hàng thương mại.
+
+7. Trong thời hạn 14 ngày kê từ ngày nhận được văn bản của Ngân hàng
+Nhà nước chi nhánh Khu vực theo quy định tại khoản 6 Điều này hoặc trong quá
+trình thanh tra, giám sát phát hiện các trường hợp quy định tại khoản 3, 4, Š Điều
+này, Cục Quản lý, giám sát tô chức tín . dụng có văn bản hoặc trình “Thống đốc
+Ngân hàng Nhà nước có văn bản yêu cầu ngân hàng thương mại chấm dứt hoạt
+động chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp.
+
+§. Trong thời hạn 90 ngày kê từ ngày Ngân hàng Nhà nước có văn bản theo
+quy định tại khoản 7 Điều này, ngân hàng thương mại phải hoàn tất việc chấm
+dứt hoạt động chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp;
+có văn bản báo cáo Ngân hàng Nhà nước, Ngân hàng Nhà nước chi nhánh Khu
+vực nơi đặt trụ sở chi nhánh, phòng giao. dịch, văn phòng đại diện, đơn vị sự
+nghiệp của ngân hàng thương mại ngày chấm dứt hoạt động.
+
+Điều 31. Chấm dứt hoạt động, giải thể chỉ nhánh, văn phòng đại diện,
+ngân hàng con ở nước ngoài
+
+1. Ngân hàng thương mại thực hiện chấm dứt hoạt động, giải thể chi nhánh,
+văn phòng đại diện, ngân hàng con ở nước ngoài theo quy định của pháp luật
+nước sở tại và các quy định có liên quan của pháp luật Việt Nam.
+
+2. Tối thiểu 14 ngày trước ngày chấm dứt hoạt động, giải thể chi nhánh,
+văn phòng đại diện, ngân hàng con ở nước ngoài, ngân hàng thương mại phải có
+văn bản báo cáo Ngân hàng Nhà nước (Cục Quản lý, giám sát tô chức tín dụng),
+trong đó nêu rõ lý do và thời điểm chấm dứt hoạt động, giải thể.
+
+Điều 32. Công bố thông tin
+
+Trong thời hạn 07 ngày làm việc kê từ ngày chấm dứt hoạt động, giải thể
+chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước;
+chỉ nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài (trừ trường hợp đương
+nhiên chấm dứt hoạt động, giải thể theo Điều 28 Thông tư này) ngân hàng thương
+mại phải thực hiện công bô và niêm yết công khai việc chấm dứt hoạt động giải
+thể trên trang thông tin điện tử, tại trụ sở chính, trụ sở chi nhánh quản lý phòng
+giao dịch (đôi với việc chấm dứt phòng giao dịch) của ngân hàng thương mại,
+đăng báo Trung ương và địa phương tại tỉnh, thành phố trực thuộc Trung ương
+nơi chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp đặt trụ sở.
+Nội dung công bố, niêm yết công khai tối thiểu bao gồm:
+
+1. Tên, địa chỉ của chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị
+sự nghiệp ở trong nước; chi nhánh, văn phòng đại diện, ngân hàng con nước ngoài
+chấm dứt hoạt động, giải thể.
+
+26
+
+2. Thời điểm chấm dứt hoạt động, giải thể.
+
+3. Trách nhiệm của ngân hàng thương mại về tài sản, quyền, nghĩa vụ và
+các lợi ích liên quan của chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị
+sự nghiệp ở trong nước; chi nhánh, văn phòng đại diện, ngân hàng con nước ngoài
+chấm dứt hoạt động, giải thê.
+
+Chương VỊ
+THÔNG BÁO CHO CƠ QUAN ĐĂNG KÝ KINH DOANH
+
+Điều 33. Ngân hàng thương mại cung cấp thông tin cho Ngân hàng
+Nhà nước chỉ nhánh Khu vực để thông báo cho cơ quan đăng ký kinh doanh
+
+Trong thời hạn 05 ngày làm việc kê từ : ngày ngân hàng thương mại quyết
+định thay đôi người đứng đầu hoặc khi thay đổi thông tin của người đứng đầu của
+chi nhánh ở trong nước, phòng giao dịch, văn phòng đại diện, ngân hàng thương
+mại có trách nhiệm báo cáo bằng văn bản cho Ngân hàng Nhà nước chi nhánh
+Khu vực nơi đặt trụ sở chi nhánh ở trong nước, phòng giao dịch, văn phòng đại
+diện việc thay đổi thông tin về người đứng đầu.
+
+Điều 34. Thông báo thông tin cho cơ quan đăng ký kinh doanh cấp
+tỉnh để cập nhật vào hệ thống thông tin quốc gia về đăng ký doanh nghiệp
+
+1. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản của ngân
+hàng thương mại quy định tại khoản 2 Điều 15 và khoản 1 Điều l6 Thông tư này,
+Ngân hàng | Nhà nước chi nhánh Khu vực có trách nhiệm thông báo bằng văn bản
+thông tin về người đứng đầu, thông tin về tên, thông tin về địa chỉ của chi nhánh,
+phòng giao dịch, văn phòng đại diện kèm theo văn bản chấp thuận thành lập, thay
+đôi địa điểm đặt trụ sở của chi nhánh ở trong nước, phòng giao dịch, văn phòng
+đại diện (nếu có) cho cơ quan đăng ký kinh doanh cấp tỉnh.
+
+2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản của ngân
+hàng thương mại quy định tại các khoản 6, 7 Điều 19 và khoản 2 Điều 20 Thông
+tư này, Ngân hàng Nhà nước chi nhánh Khu vực có trách nhiệm thông báo bằng
+văn bản việc thay đổi thông tin về địa chỉ của chi nhánh, phòng giao dịch, văn
+phòng đại diện kèm theo văn bản chấp thuận thay đổi địa điểm đặt trụ sở chỉ
+nhánh, phòng giao dịch cho cơ quan đăng ký kinh doanh câp tỉnh.
+
+3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản của ngân
+hàng thương mại quy định tại khoản 2 Điều 17, khoản 2 Điều 20, Điều 33 Thông
+tư này, Ngân hàng Nhà nước chi nhánh Khu vực có trách nhiệm thông báo bằng
+văn bản việc thay đổi thông tin về người đứng đầu, thông tin về tên của chí nhánh,
+phòng giao dịch, văn phòng đại diện cho cơ quan đăng ký kinh doanh cấp tỉnh.
+
+4. Trong thời hạn 03 ngày làm việc kế từ ngày nhận được văn bản của ngân
+hàng thương mại quy định tại khoản 4, 5 Điều 29 và khoản 8 Điều 30 Thông tư
+này, Ngân hàng Nhà nước chi nhánh Khu vực có trách nhiệm thông báo bằng văn
+bản kèm theo báo cáo của ngân hàng thương mại cho cơ quan đăng ký kinh doanh
+
+27
+
+cấp tỉnh.
+
+5. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản của ngân
+hàng thương mại báo cáo việc hoàn tất các thủ tục đưa phòng giao dịch đi vào
+hoạt động quy định tại khoản 1 Điều 18 Thông tư này và kể từ ngày nhận được
+văn bản của Ngân hàng thương mại quy định tại khoản 2 Điều 22 Thông tư này,
+Ngân hàng Nhà nước chi nhánh Khu vực có trách nhiệm thông báo bằng văn bản
+thông tin nêu trên cho cơ quan đăng ký kinh doanh cấp tỉnh.
+
+6. Trường hợp ngân hàng thương mại có các thông tin thuộc những nội
+dung đăng ký kinh doanh chưa được cập nhật trên hệ thống thông tin quốc gia về
+đăng ký doanh nghiệp theo quy định pháp luật về đăng ký doanh nghiệp của đơn
+vị mạng lưới, ngân hàng thương mại báo cáo bằng văn bản các thông tin này cho
+Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở chỉ nhánh, phòng giao
+dịch, văn phòng đại diện.
+
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản của Ngân
+hàng thương mại, Ngân hàng Nhà nước chi nhánh Khu vực có trách nhiệm thông
+báo bằng văn bản thông tin nêu trên cho cơ quan đăng ký kinh doanh cấp tỉnh.
+
+Chương VII
+TỎ CHỨC THỰC HIỆN
+
+Điều 35. Trách nhiệm của ngân hàng thương mại
+
+1. Chịu trách nhiệm trước pháp luật về tính chính xác, đầy đủ và trung thực
+của thông tin cung cấp tại hồ sơ.
+
+2. Có kế hoạch phát triển chi nhánh, phòng giao dịch, văn phòng đại diện,
+đơn vị sự nghiệp ẻ ở trong nước; chi nhánh, văn phòng đại diện, ngân hàng con ở
+nước ngoài trình cấp có thâm quyền của ngân hàng thương mại thông qua hàng
+năm.
+
+3. Định kỳ 6 tháng, hằng năm lập báo cáo theo mẫu tại Phụ lục V ban hành
+kèm theo Thông tư này. Báo cáo được lập thành báo cáo điện tử gửi qua hệ thông
+báo cáo Ngân hàng Nhà nước.
+
+4. Thực hiện việc công bó thông tin theo quy định tại Thông tư này.
+
+5. Chịu trách nhiệm về tổ chức và hoạt động của chi nhánh, phòng giao
+dịch; báo cáo Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở ch¡ nhánh,
+phòng giao dịch việc xử lý các vấn đề phát sinh liên quan đến tô chức, hoạt động
+chi nhánh, phòng giao dịch trên địa bàn.
+
+6. Quản lý, giám sát thường xuyên hoạt động của chi nhánh, phòng giao
+dịch.
+
+7. Phải duy trì giá trị thực của vốn điều lệ tối thiểu bằng mức vốn pháp
+
+28
+định.
+8. Thực hiện các nội dung khác quy định tại Thông tư này.
+
+Điều 36. Trách nhiệm của Ngân hàng Nhà nước chỉ nhánh Khu vực
+nơi ngân hàng thương mại đặt trụ sở chỉ nhánh, phòng giao dịch, văn phòng
+đại diện, đơn vị sự nghiệp
+
+_1. Chịu trách nhiệm trước Thống đốc Ngân hàng Nhà nước khi thực hiện
+các vấn đề theo thầm quyền được quy định tại Thông tư này.
+
+FÀ Tiếp nhận hồ sơ, chấp thuận hoặc không chấp thuận đối với các trường
+hợp thuộc thâm quyền của Giám đốc Ngân hàng Nhà nước chi nhánh Khu vực
+quy định tại Điều 4 Thông tư này.
+
+3. Quản lý, thanh tra, kiểm tra, giám sát hoạt động của chi nhánh, phòng
+giao dịch, đơn vị sự nghiệp, văn phòng đại diện của ngân hàng thương mại trên
+địa bàn.
+
+4. Có văn bản báo cáo và đề xuất Thống đốc Ngân hàng Nhà nước chấm
+dứt hoạt động chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp
+của ngân hàng thương mại khi thuộc một trong các trường hợp theo quy định tại
+khoản 3, 4, 5 Điều 30 Thông tư này.
+
+5. Ngân hàng Nhà nước chỉ nhánh Khu vực nơi ngân hàng thương mại dự
+kiến đặt trụ sở chi nhánh, phòng giao dịch quy định tại khoản 5 Điều 19 Thông
+tư này thông báo bằng văn bản cho Ngân hàng Nhà nước chi nhánh Khu vực hiện
+đang đặt trụ sở chi nhánh, phòng giao dịch việc chấp thuận thay đổi địa điểm đặt
+trụ sở chi nhánh, phòng giao dịch giữa các địa bàn tỉnh, thành phố trực thuộc
+Trung ương (trong trường hợp trụ sở chi nhánh, phòng giao dịch thuộc địa bàn
+quản lý của Ngân hàng Nhà nước chi nhánh Khu vực khác).
+
+Điều 37. Trách nhiệm của Cục Quản lý, giám sát tô chức tín dụng
+
+_1. Chịu trách nhiệm trước Thống đốc Ngân hàng Nhà nước khi thực hiện
+các vân đê theo thâm quyên được quy định tại Thông tư này.
+
+2. Đầu mối tiếp nhận, xem xét và trình Thống đốc Ngân hàng Nhà nước
+chấp thuận hoặc không chấp thuận theo quy định tại Điều 14, Điều 26 và Điều 30
+Thông tư này đối với các trường hợp thuộc thầm quyền của Thống đốc Ngân hàng
+Nhà nước quy định tại Điều 4 Thông tư này.
+
+K5 Tiếp nhận hồ sơ, chấp thuận hoặc không chấp thuận theo quy định tại
+Điều 14, Điều 30 Thông tư này ‹ đối với các trường hợp thuộc thấm quyên của Cục
+trưởng Cục Quản lý, giám sát tổ chức tín dụng quy định tại Điều 4 Thông tư =.
+
+4. Đầu mối xem xét, trình Thống đốc Ngân hàng Nhà nước xử lý các vấn
+đề phát sinh liên quan đến việc thành lập, chấm dứt hoạt động, giải thể chỉ nhánh,
+phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi nhánh,
+văn phòng đại diện, ngân hàng con ở nước ngoài của ngân hàng thương mại.
+
+5. Cung cấp văn bản chấp thuận thành lập chi nhánh, phòng giao dịch, văn
+
+29
+
+phòng đại diện quy định tại Điều 14 Thông tư này cho Ngân hàng Nhà nước chi
+nhánh Khu vực nơi ngân hàng thương mại dự kiến đặt trụ sở chỉ nhánh, phòng
+giao dịch, văn phòng đại diện để thông báo cho cơ quan đăng ký kinh doanh.
+
+6. Tổng hợp báo cáo của các cơ quan, đơn vị theo quy định tại Thông tư
+này.
+
+7. Giám sát việc ngân hàng thương mại duy trì giá trị thực của vốn điều lệ
+tối thiểu bằng mức vốn pháp định.
+
+Điều 38. Trách nhiệm của Thanh tra là hàng Nhà nước
+
+1. Thanh tra Ngân hàng Nhà nước cung cấp thông tin về tình hình xử phạt
+vi phạm hành chính đối với các hành vi theo quy định tại điểm e khoản 1 Điêu 6
+Thông tư này gửi Cục Quản lý, giám sát tổ chức tín dụng để xem xét chấp thuận
+hoặc trình Thống đốc Ngân hàng Nhà nước có văn bản chấp thuận việc thành lập
+ch¡ nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp.
+
+2. Trong quá trình thanh tra phát hiện các trường hợp quy định khoản 3, 4,
+5 Điều 30 Thông tư này, Thanh tra Ngân hàng Nhà nước có trách nhiệm cung cấp
+ngay thông tin cho Cục Quản lý, giám sát tô chức tín dụng để Cục Quản lý, giám
+sát tô chức tín dụng có văn bản hoặc trình Thống đốc Ngân hàng Nhà nước có
+văn bản yêu cầu ngân hàng thương mại chấm dứt hoạt động chỉ nhánh, phòng
+giao dịch, văn phòng đại diện, đơn vị sự nghiệp.
+
+Điều 39. Trách nhiệm của các Vụ, Cục có liên quan trong Ngân hàng
+Nhà nước
+
+1. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị
+của Ngân hàng thương mại theo quy định tại khoản 4 Điều 23 Thông tư này, Văn
+phòng Ngân hàng Nhà nước có trách nhiệm đăng tải các thông tin trên công thông
+tin điện tử của Ngân hàng Nhà nước.
+
+2. Các Vụ, Cục khác trong, Ngân hàng Nhà nước có trách nhiệm tham gia
+ý kiến về vấn đề liên quan khi có chỉ đạo của Thống đốc Ngân hàng Nhà nước
+trên cơ sở đề xuất của Cục Quản lý, giám sát tô chức tín dụng.
+
+Điều 40. Trách nhiệm tô chức thực hiện
+
+Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, ngân hàng
+thương mại có trách nhiệm thi hành Thông tư này.
+
+Điều 41. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực kể từ ngày 42 tháng năm 2026.
+
+2. Kể từ ngày Thông tư này có hiệu lực thi hành, các văn bản, quy định sau
+đây hết hiệu lực thi hành:
+
+a) Thông tư số 32/2024/TT-NHNN của Thống đốc Ngân hàng Nhà nước
+Việt Nam quy định về mạng lưới hoạt động của ngân hàng thương mại;
+
+b) Điều 3 Thông tư số 08/2025/TT-NHNN của Thống đốc Ngân hàng Nhà
+
+30
+
+nước Việt Nam sửa đôi, bỗ sung một số điều của Thông tư số 43/2015/TT-NHNN
+ngày 31 tháng 12 năm 2015 của Thống đốc Ngân hàng Nhà nước Việt Nam quy
+định về tổ chức và hoạt động của phòng giao dịch bưu điện trực thuộc Ngân hàng
+thương mại cô phần Bưu điện Liên Việt, Thông tư số 29/2024/TT-NHNN ngày
+28 tháng 6 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định vê
+quỹ tín dụng nhân dân và Thông tư sô 32/2024/TT-NHNN ngày 30 tháng 6 năm
+2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về mạng lưới hoạt
+động của ngân hàng thương mại.
+
+Điều 42. Quy định chuyền tiếp
+
+1. Các ngân hàng thương mại không phải điều chỉnh số lượng chi nhánh,
+phòng giao dịch đã thành lập trước ngày Thông tư này có hiệu lực thi hành.
+Trường hợp thành lập mới đơn vị mạng lưới thì phải tuân thủ các quy định tại
+Thông tư này.
+
+2. Các ngân hàng thương mại đã có văn bản đề nghị chấp thuận đủ điều
+kiện thành lập chỉ nhánh, phòng giao dịch ở trong nước; chấp thuận thành lập văn
+phòng đại diện, đơn vị sự nghiệp ở trong nước, chi nhánh, văn phòng đại diện,
+ngân hàng con ở nước ngoài gửi Ngân hàng Nhà nước trước thời điểm Thông tư
+này có hiệu lực thì tiếp tục được xử lý theo quy định tại Thông tư số 32/2024/TT-
+NHNN của Thống đốc Ngân hàng Nhà nước quy định về mạng lưới hoạt động
+của ngân hàng thương mại (đã được sửa đôi, bô sung)./„MÍ.
+
+Nơi nhận:
+
+- Như Điều 40;
+
+- Ban Lãnh đạo NHNN;
+
+- Văn phòng Chính phủ;
+
+- Bộ Tư pháp (để Tơ tra);
+- Công báo;
+
+- Lưu: VP, ATHTI
+
+Đoàn Thái Sơn
+
+xế 4
+
+MẪU VĂN BẢN ĐÈ NGHỊ CHÁP THUẬN ĐỦ ĐIỀU KIỆN THÀNH LẬP CHI
+NHÁNH, PHÒNG GIAO DỊCH, VĂN PHÒNG ĐẠI DIỆN, ĐƠN VỊ SỰ.
+NGHIỆP Ở TRONG NƯỚC, CHI NHÁNH, VĂN PHÒNG ĐẠI DIỆN, NGÂN
+HÀNG CON Ở NƯỚC NGOÀI CỦA NGÂN HÀNG THƯƠNG MẠI
+
+(Ban hành kèm theo Thông tư số Ếí /2025/TT-NHNN ngày 2 /Ẳ tháng 12 năm 2025
+của Thông đốc Ngân hàng Nhà nước Việt Nam)
+
+TÊN NGÂN HÀNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THƯƠNG MẠI Độc lập - Tự do - Hạnh phúc
+àa..... TA cư nn tháng ...... năm ......
+
+VĂN BẢN ĐÈ NGHỊ CHÁP THUẬN ĐỦ ĐIÊU KIỆN THÀNH LẬP CHI
+NHÁNH, PHÒNG GIAO DỊCH, VĂN PHÒNG ĐẠI DIỆN, ĐƠN VỊ SỰ,
+NGHIỆP Ở TRONG NƯỚC, CHI NHÁNH, VĂN PHÒNG ĐẠI DIỆN, NGÂN
+HÀNG CON Ở NƯỚC NGOÀI CỦA NGÂN HÀNG THƯƠNG MẠI
+
+Kính gửi: Ngân hàng Nhà nước Việt Nam
+
+Mã số doanh nghiệp/số Quyết định thành lập:
+Số định danh của ngân hàng thương mại (nếu có):
+
+Cơ quan cấp: ` Ngày cấp:
+Tên ngân hàng thương mại:
+
+Tên giao dịch đối ngoại (nếu có):
+
+Trụ sở chính:
+
+Điện thoại: Fax:
+
+Đề nghị Ngân hàng Nhà nước chấp thuận đủ điều kiện thành lập chi nhánh, phòng
+giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi nhánh, văn phòng đại
+diện, ngân hàng con ở nước ngoài như sau:
+
+L. Danh sách đề nghị
+
+1. Mạng lưới hoạt động ở trong nước:
+
+1.1. Thành lập chi nhánh:
+
+1.1.1. Tên chi nhánh
+
+a) Tên đầy đủ bằng tiếng Việt
+
+b) Tên viết tắt bằng tiếng Việt (nếu có)
+
+c) Tên đầy đủ bằng nước ngoài (nếu có)
+
+d) Tên viết tắt bằng tiếng nước ngoài (nếu có)
+
+1.1.2. Địa điểm dự kiến đặt trụ sở chi nhánh (tên đơn vị hành chính cấp XÃ,
+Tỉnh/thành phố trực thuộc Trung ương)
+
+1.1.3. Chi nhánh thuộc/ không thuộc vùng nông thôn.
+
+1.2. Thành lập phòng giao dịch
+
+Tên phòng giao dịch đề | Địa điểm dự kiến (tên Tên, địa điểm đặt trụ sở
+nghị thành lập lđơn vị hành chính cấp xã| chi nhánh dự kiến quản lý
+Tỉnh/thành phố trực phòng giao dịch
+thuộc Trung ương)
+
+Địa điểm tại| Địa điểm
+vùng nông khác
+thôn
+
+a) Tên đầy đủ bằng tiếng Việt
+
+b) Tên viết tắt bằng tiếng
+Việt (nếu có)
+
+c) Tên đầy đủ bằng tiếng
+Inước ngoài (nếu có)
+d) Tên viết tắt bằng tiếng
+Inước ngoài (nếu có).
+
+1.3. Thành lập đơn vị sự nghiệp, văn phòng đại diện:
+
+1.3.1. Tên đơn vị sự nghiệp, văn phòng đại diện;
+
+1.3.2. Địa điểm đặt trụ sở đơn vị sự nghiệp, văn phòng đại diện.
+2. Mạng lưới hoạt động ở nước ngoài:
+
+2.1. Thành lập chỉ nhánh:
+
+2.1.1. Tên chỉ nhánh
+
+a) Tên đầy đủ bằng tiếng Việt
+
+b) Tên viết tắt bằng tiếng Việt (nếu có)
+
+3
+
+c) Tên đầy đủ bằng tiếng nước ngoài (nếu có)
+
+d) Tên viết tắt bằng tiếng nước ngoài (nếu có).
+
+2.1.2. Địa điểm đặt trụ sở chỉ nhánh.
+
+2.1.3. Vốn cấp cho chỉ nhánh (dự kiến).
+
+2.2. Thành lập ngân hàng con ở nước ngoài:
+
+2.2.1. Tên ngân hàng con
+
+a) Tên đầy đủ bằng tiếng Việt
+
+b) Tên viết tắt bằng tiếng Việt (nếu có)
+
+c) Tên đầy đủ bằng tiếng nước ngoài (nếu có)
+
+d) Tên viết tắt bằng tiếng nước ngoài (nếu có).
+
+2.2.2. Địa điểm đặt trụ sở ngân hàng con.
+
+2.2.3. Vốn thành lập ngân hàng con (dự kiến).
+
+2.2.4. Thành viên sáng lập, cỗ đông sáng lập ngân hàng con (tên, địa chỉ); dự kiến
+số tiền góp vốn, tỷ lệ góp vốn, số cổ phần, tỷ lệ sở hữu cỗ phần của các thành viên sáng
+lập, cỗ đông sáng lập ngân hàng con ở nước ngoài.
+
+2.3. Thành lập văn phòng đại diện:
+
+2.3.1. Tên văn phòng đại diện;
+
+2.3.2. Địa điểm đặt trụ sở văn phòng đại diện.
+
+II. Đánh giá việc ngân hàng thương mại đáp ứng từng điều kiện để được thành
+lập chỉ nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước
+và chỉ nhánh, văn phòng đại diện, ngân hàng con ở nước ngoài theo quy định
+
+1. Đối với ngân hàng thương mại có thời gian hoạt động dưới 12 tháng tính từ
+ngày khai trương hoạt động đến thời điểm đề nghị:
+
+1.1. Hoạt động kinh doanh có lãi đến tháng liền kề trước thời điểm đề nghị:
+
+...........
+
+1.2. Phân loại tài sản có, trích lập dự phòng rủi ro tại quý trước liền kề thời điểm
+đề nghị; tỷ lệ nợ xấu tại ngày cuối cùng của tháng liền kề trước thời điểm đề nghị:
+
+si ro nzưẽẽ#w (da c.....:4<.......s.............
+
+- Dự phòng chung thực trích: .................................... -- + «<< s se + sex +
+
+4
+
+- Dự phòng cụ thể phải trích: ...................................---- 2s s+esxexxexxee
+
+- Dự Hi œ Số te tÈt:............———...
+
+- Tỷ lệ nợ xấu (%):
+
+1.3. Tuân thủ các hạn chế để bảo đảm an toàn trong hoạt động của tổ chức tín dụng
+quy định tại Điều 134, 135, 136, 137; khoản 1 Điều 138 và Điều 142 Luật Các tổ chức
+tín dụng và các hướng dẫn của Ngân hàng Nhà nước đối với các quy định này liên tục
+từ ngày bắt đầu khai trương hoạt động đến thời điểm đề nghị.
+
+a. Đảm bảo n b. Không đảm bảo n
+
+1.4. Tại thời điểm đề nghị, ngân hàng thương mại có số lượng và cơ cấu Hội đồng
+quản trị, Hội đồng thành viên, Ban kiểm soát; có bộ phận kiểm toán nội bộ và hệ thống
+kiểm soát nội bộ phù hợp với quy định tại Luật Các tô chức tín dụng và hướng dẫn của
+Ngân hàng Nhà nước, đồng thời không bị khuyết Tổng Giám đốc.
+
+a. Đảm bảo n b. Không đảm bảo n
+
+Hội đồng quản trị, Hội đồng thành viên:
+
+Họvà| Đại diện vốn góp | Chức danh(Chủ| Thành viên là | Tên người có liên
+TTỊ tên | (tên tổ chức, tỷ lệ | tịch, thành viên, | người điều hành | quan tham gia Hội
+vốn góp/vốn điêu lệ)| thành viên độc | (có/không) | đồng quản trị của
+lập) TCTD
+
+- Ban kiểm soát
+
+TT Họ và tên Chức danh (Trưởng ban, thành viên, thành viên chuyên trách)
+
+- Họ và tên Tổng giám đốc:...
+
+1.5. Không bị xử phạt vi phạm hành chính về tô chức, quản trị, điều hành (trừ vi
+phạm quy định về quy định nội bộ); cấp tín dụng; theo quy định của pháp luật vê xử
+phạt vi phạm hành chính trong lĩnh vực tiền tệ và ngân hàng trong thời hạn 12 tháng liền
+trước tính từ thời điểm đề nghị;
+
+a. Đảm bảo n b. Không đảm bảo n
+
+5
+
+1.6. Không thuộc đối tượng phải thực hiện biện pháp không được mở rộng mạng
+lưới;
+
+a. Đảm bảo n b. Không đảm bảo
+
+1.7. Đáp ứng điều kiện về số lượng chỉ nhánh được phép thành lập theo quy định
+tại Thông tư:
+
+a. Đảm bảo n b. Không đảm bảo n
+
+2. Đối với ngân hàng thương mại có thời gian l hoạt động từ 12 tháng trở lên
+tính từ ngày khai trương hoạt động đến thời điểm đề nghị
+
+2.1. Lợi nhuận sau thuế năm 202....:
+Theo báo cáo tài chính hợp nhất có kiểm toán:.......... tỷ đồng
+Theo báo cáo tài chính riêng lẻ có kiểm toán:.......... tỷ đông
+
+2.2. Tuân thủ các hạn chế để bảo đảm an toàn trong hoạt động của tổ chức tín dụng
+quy định tại Điều 134, 135, 136, 137; khoản 1 Điều 138 và Điều 142 Luật Các tổ chức
+tín dụng và các hướng dẫn của Ngân hàng Nhà nước đối với các quy định này liên tục
+trong trong thời gian 12 tháng trước tháng đề nghị.
+
+a. Đảm bảo b. Không đảm bảo n
+
+2.3. Phân loại tài sản có, trích lập dự phòng rủi ro trong thời gian 12 tháng trước
+tháng đề nghị; tỷ lỆ nợ xấu tại thời điểm 31 tháng 12 năm trước liền kề năm đề nghị và
+tại ngày cuối cùng của tháng liền kề trước thời điểm đề nghị:
+
+- Dự 00044 xa tan.
+4m ha. sa .ằx  r eá.^...........................:
+- Dự phòng cụ thê phải trích: ............................. 2: ¿+2 z2 E£2£EEZ2E2ZZZ
+- Dự phòng cụ thê thực trích: ............................. ¿E2 z2 z££
+- Tỷ lệ nợ xấu (%):
+
+2.4. Tại thời điểm đề nghị, ngân hàng thương mại có số lượng và cơ cầu Hội đồng
+quản trị, Hội đồng thành viên, Ban kiểm soát; có bộ phận kiểm toán nội bộ và hệ 'thống
+kiểm soát nội bộ phù hợp với quy định tại Luật Các tổ chức tín dụng và hướng dẫn của
+Ngân hàng Nhà nước, đông thời không bị khuyết Tổng Giám đốc
+
+a. Đảm bảo b. Không đảm bảo r
+
+- Hội đồng quản trị, Hội đồng thành viên:
+
+Họ và | Đại diện vốn góp | Chức danh (Chủ| Thành viên là | Tên người có
+TTỊ tên (tên tổ chức, tỷ lệ | tịch, thành viên, | người điều hành | liên quan tham
+vốn góp/vốn điêu lệ)| thành viên độc (có/không) gia Hội đồng
+lập) quản trị của
+TCTD
+
+- Ban kiểm soát
+
+SIT Họ và tên | Chức danh (Trưởng ban, thành viên, thành viên chuyên trách)
+
+- Họ và tên Tổng giám đốc:...
+
+2.5. Không bị xử phạt vi phạm hành chính về tổ chức, quản trị, điều hành (trừ vi
+phạm quy định về quy định nội bộ); cấp tín dụng: trong thời hạn 12 tháng trở về trước
+tính từ thời điểm đề nghị;
+
+a. Đảm bảo ñ b. Không đảm bảo n
+
+2.8. Không thuộc đối tượng phải thực hiện biện pháp không được mở rộng mạng
+lưới;
+
+a. Đảm bảo n b. Không đảm bảo n
+
+2.6. Đáp ứng điều kiện về số lượng chi nhánh, phòng giao dịch được phép thành
+lập theo quy định tại Thông tư:
+
+a. Đảm bảo n b. Không đảm bảo n
+
+__2.7. Kết quả xếp hạng đã được Ngân hàng Nhà nước thông báo gần nhất tại thời
+điêm đê nghị: ...
+
+2.8. Điều kiện bổ sung đối với việc thành lập chi nhánh ở nước ngoài, ngân hàng
+con ở nước ngoài:
+
+1) Có thời gian hoạt động tối thiểu là ba (03) năm tính từ ngày khai trương hoạt
+động đên thời điêm đê nghị:
+
+a. Đảm bảo n b. Không đảm bảo n
+
+1) Có tổng tài sản Có đạt 100.000 tỷ Đồng Việt Nam trở lên theo báo cáo tài chính
+hợp nhất được kiểm toán của năm trước liền kề năm đề nghị.
+
+a. Đảm bảo n
+
+7
+
+b. Không đảm bảo n
+
+1i) Hoạt động kinh doanh có lãi theo các báo cáo tài chính hợp nhất và báo cáo
+tài chính riêng lẻ được kiêm toán trong 03 năm trước liên kê năm đê nghị:
+
+a. Đảm bảo n
+
+b. Không đảm bảo n
+
+3. Đối với trường hợp thành lập phòng giao dịch:
+
+STT
+
+Số lượng chỉ
+nhánh, phòng giao
+tịch hiện có tại địa
+bàn đề nghị thành
+
+giao
+
+dịch
+
+Thông tin liên quan đến chỉ nhánh dự kiến quản lý phòng
+
+Chi nhánh
+
+lập phòng = dịch
+
+Phòng
+giao dịch
+
+Tên và
+địa chỉ chi
+nhánh dự
+kiến quản
+lý phòng
+giao dịch
+
+Số lượng
+phòng
+giao dịch
+chi nhánh
+đang quản
+
+Thời gian
+hoạt động
+(tháng)
+
+Tỷ lệ nợ
+xấu tại
+thời điểm
+31 tháng
+12 năm
+trước liền
+ề năm đề
+nghị và tại
+ngày cuối
+cùng của
+tháng liền
+kề trước
+thời điểm
+đề nghị
+(%)
+
+Vi phạm
+hành
+chính
+
+trong lĩnh
+
+vực tiền tệ
+và ngân
+hàng bằng
+hình thức
+phạt tiền
+trong thời
+hạn 12
+tháng trở
+về trước
+tính từ
+thời điểm
+đề nghị
+(có/không)|
+
+Chênh
+lệch thu
+chi của
+
+Inăm trước
+
+liền kề
+năm đề
+
+a. Đảm bảo n
+
+b. Không đảm bảo n
+
+4. Người đại diện hợp pháp của ngân hàng thương mại cam kết: chịu trách
+nhiệm vê tính chính xác, trung thực của các thông tin cung câp tại văn bản này./.
+
+Đính kèm hô sơ
+(Ghi danh mục tài liệu đính kèm)
+
+NGƯỜI ĐẠI DIỆN HỢP PHÁP
+CỦA NGÂN HÀNG THƯƠNG MẠI
+(Ký tên và đóng dấu)
+
+".
+
+'.ÁÑjBÿÊ £Su) pậvspk®c2 2ï: "L2: gpy ai
+L1 |0: SẠ Le) l0¿+ 1/9lất ítzpn }>-Le') s0
+
+lờt - IiỂ gửi! SẼ b
+
+JlÍ.. 8u 6 nàn. + IAy RẺ se 5 T†riyl 3 lớn
+Tất “N: "ta»rr Z:1I T1 bê ¡"mi kế" #111 ,2 le
+ị
+
+¬— ——.
+CSi=es.
+|
+
+ẶP “THAY ĐÔI ĐỊA ĐIỂM ĐẶT TRỤ SỞ
+CHI NHÁNH Ở TRONG Nữ › PHÒNG GIAO DỊCH CỦA
+NGÂN HÀNG THƯƠNG MẠI
+
+(Ban hành kèm theo Thông tư số _©† /2025/TT-NHNN ngày ÄÍ tháng 12 năm 2025
+của Thông đốc Ngân hàng Nhà nước Việt Nam)
+
+TÊN NGÂN HÀNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THƯƠNG MẠI Độc lập - Tự do - Hạnh phúc
+"M-...-..  '. 1. , Hgày...... tháng...... năm ......
+
+VĂN BẢN ĐÈ NGHỊ CHÁP THUẬN THAY ĐÔI ĐỊA ĐIỂM ĐẶT TRỤ SỞ CHI
+NHÁNH Ở TRONG NƯỚC, PHÒNG GIAO DỊCH CỦA NGÂN HÀNG
+THƯƠNG MẠI
+
+Kính gửi: Ngân hàng Nhà nước Việt Nam
+Mã số doanh nghiệp/số Quyết định thành lập:
+Số định danh của ngân hàng thương mại (nếu có):
+Cơ quan cấp: Ngày cấp:
+Tên ngân hàng thương mại:
+Tên giao dịch đối ngoại (nếu có):
+Trụ sở chính:
+Điện thoại: Fax:
+Đề nghị Ngân hàng Nhà nước chấp thuận thay đổi địa điểm đặt trụ sở chỉ nhánh ở
+trong nước, phòng giao dịch như sau:
+
+1. Tên chi nhánh/phòng giao dịch
+
+2. Địa điểm hiện tại của chi nhánh/phòng giao dịch
+
+3. Địa điểm dự kiến chuyển đến
+
+4. Lý do thay đổi địa điểm
+
+5. Kế hoạch chuyền trụ sở để đảm bảo tính liên tục trong hoạt động đối với chỉ
+nhánh, phòng giao dịch đã đi vào hoạt động
+6. Cam kết đáp ứng các yêu cầu quy định tại khoản I Điều 15 Thông tư
+
+= /2025/TT-NHNN ngày .....12/2025 của Thống đốc Ngân hàng Nhà nước Việt Nam
+quy định về mạng lưới hoạt động của ngân hàng thương mại.
+
+2
+
+7. Người đại diện hợp pháp của ngân hàng thương mại cam kết: chịu trách
+nhiệm về tính chính xác, trung thực của các thông tin cung cấp tại văn bản này./.
+
+Đính kèm hồ sơ __ NGƯỜI ĐẠI DIỆN HỢP PHÁP
+(Ghi danh mục tài liệu đính kèm) CỦA NGÂN HÀNG THƯƠNG MẠI
+(Ký tên và đóng dâu)
+
+CHÁP THUẬN CHUYẺN ĐỎI
+CON Ở NƯỚC NGOÀI CỦA
+
+(Ban hành kèm theo Thông tư SỐ 2]2 /2023/TT-NHNN ngày | tháng 12 năm 2025
+của Thống đốc Ngân hàng Nhà nước Việt Nam)
+
+TÊN NGÂN HÀNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THƯƠNG MẠI Độc lập - Tự do - Hạnh phúc
+Số:...........
+
+VĂN. BẢN ĐÈ NGHỊ CHÁP THUẬN CHUYÊN ĐÓI HÌNH THỨC PHÁP LÝ
+NGÂN HÀNG CON Ở NƯỚC NGOÀI CỦA NGÂN HÀNG THƯƠNG MẠI
+
+Kính gửi: Ngân hàng Nhà nước Việt Nam
+Mã số doanh nghiệp/số Quyết định thành lập:
+Số định danh của ngân hàng thương mại (nễu có):
+Cơ quan cấp: Ngày cấp:
+Tên ngân hàng thương mại:
+Tên giao dịch đối ngoại (nếu có):
+Trụ sở chính:
+Điện thoại: Fax:
+
+Đề nghị Ngân hàng Nhà nước chấp thuận chuyển đổi hình thức pháp lý ngân hàng
+con ở nước ngoài như sau:
+
+1. Tên đầy đủ bằng tiếng Việt và bằng tiếng nước ngoài, tên viết tắt bằng tiếng
+Việt và bằng tiếng nước ngoài (nếu có) của ngân hàng con
+
+2. Địa điểm (tên quốc gia và địa chỉ cụ thể)
+3. Mức vốn đã cấp cho ngân hàng con ở nước ngoài
+
+4. Mức vốn dự kiến cấp thêm hoặc mức vốn giảm tại ngân hàng con ở nước ngoài
+khi chuyển đổi hình thức pháp lý (nếu có)
+
+5. Lý do chuyền đổi hình thức pháp lý
+
+2
+
+6. Người đại diện hợp pháp của ngân hàng thương mại cam kết: chịu trách
+nhiệm về tính chính xác, trung thực của các thông tin cung câp tại văn bản này ./.
+
+Đính kèm hô sơ __ NGƯỜI ĐẠI DIỆN HỢP PHÁP
+(Ghi danh mục tài liệu đính kèm) CỦA NGÂN HÀNG THƯƠNG MẠI
+
+(Ký tên và đóng dấu)
+
+MẪU VĂN BẢN ĐÈ NGHỊ CHẤP 1 H ƒ NGUYỆN CHÁM DỨT HOẠT
+ĐỘNG CHI NHÁNH, PHÒNG GIAO DIỂH, VĂN PHÒNG ĐẠI DIỆN, ĐƠN VỊ
+SỰ NGHIỆP Ở TRONG NƯỚC € ÙANGÂN HÀNG THƯƠNG MẠI
+
+A/ *”——
+
+(Ban hành kèm theo Thông tư số 'ŠÍ 203⁄rfNHNN ngày 2Í tháng 12 năm 2025 của
+Thống đốc Ngân hàng Nhà nước Việt Nam)
+
+TÊN NGÂN HÀNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THƯƠNG MẠI Độc lập - Tự do - Hạnh phúc
+x1"ă«œa.-ẽẻ “—“—“  “— “- ` 1a ngày ...... tháng...... năm ......
+VĂN BẢN ĐÈ NGHỊ CHÁP THUẬN TỰ NGUYÊN CHÁM DỨT HOẠT ĐỘNG
+
+CHI NHÁNH, PHÒNG GIAO DỊCH, VĂN PHONG ĐẠI DIỆN, ĐƠN VỊ SỰ
+NGHIỆP Ở TRONG NƯỚC CỦA NGÂN HÀNG THƯƠNG MẠI
+
+Kính gửi: Ngân hàng Nhà nước Việt Nam
+
+Mã số doanh nghiệp/số Quyết định thành lập:
+
+Số định danh của ngân hàng thương mại (nếu có):
+
+Cơ quan cấp: Ngày cấp:
+
+Tên ngân hàng thương mại:
+
+Tên giao dịch đối ngoại (nếu có):
+
+Trụ sở chính:
+
+Điện thoại: Fax:
+
+Đề nghị Ngân hàng Nhà nước chấp thuận tự nguyện chấm dứt hoạt động chỉ
+nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước như sau:
+
+1. Tên chi nhánh/phòng giao dịch/ văn phòng đại diện/đơn vị sự nghiệp ở trong
+nước đề nghị tự nguyện chấm dứt hoạt động
+
+2. Địa chỉ chí nhánh/phòng giao dịch/ văn phòng đại điện/đơn vị sự nghiệp ở trong
+nước đề nghị tự nguyện chấm dứt hoạt động
+
+3. Lý do chấm đứt hoạt động
+
+4. Người đại diện hợp pháp của ngân hàng thương mại cam kết: chịu trách
+nhiệm về tính chính xác, trung thực của các thông tin cung cắp tại văn bản này./.
+
+Đính kèm hồ sơ __ NGƯỜI ĐẠI DIỆN HỢP PHÁP
+(Ghi đanh mục tài liệu đính kèm) CỦA NGÂN HÀNG THƯƠNG MẠI
+(Ký tên và đóng dáu)
+
+TNhm ng “Ân / ?Z.'f.eXisei lí đ9ặn
+
+=u Kvự sĩ. Pro. Me ÝY Si JII FAN Hội LN Đã E: ¡ hồn B ^ thể" =“.:
+„}.vNi v.ữ t vuba „Su Tủ, @ # - :
+
+lu) 5: TlạU ýx SP 2P.) HxiEr.. ¿12 Nên: F-
+\ " F bÃ vi « TỶ Í Ã.l sa 5 lễ vẹn là ù
+
+"..... -
+
+"Tĩnh | 1V: SE TH. 1Ì (S/13/2172g2: HIỊ3/ nề:
+: \ SG ruít HP TH [ 7) N30 1x10 2355 :|09 sựsa
+tr. XI: h9 tpM 29v gi; va no w@rrt) Ó tPhu‡ẻ
+
+”„”.. Lai Ú' sâu 4z 8+ x
+=V.£xglá'° ¿ iÚ.
+*ử Mã
+Ea LJ = " bv "!I H im
+
+N1? 0 +ANS<-E1I ä Fanin6r ii
+
+"... sa
+
+S5.g
+TT : ah |
+Ự, : tử ” ' IS P, lỊ E, Ề
+thủ m5 (9.. AI NHEPT ve;) - ó, {
+in riHÍ=- eo. hằ x' — |
+|
+
+x N1 1:11 Tài Bê Và c, cá, + »a-(ÊÖg j/5eT
+
+Ũ LVJ4 : ¡53x .Í\ h li Tiệc
+Ï
+*k | h l
+B 1 |
+| * }
+|
+d4. - Ỉ ba _
+
+
+lây
+
+MẪU BÁO CÁO TÌNH HÌNH CHÍ NHÁNH, TH ỜNG GIAO DỊCH, VĂN PHÒNG ĐẠI
+DIỆN, ĐƠN VỊ SỰ NGHIỆP ở TRÔNG XU 'ỚC; CHI NHÁNH, VĂN PHÒNG ĐẠI
+DIỆN, NGÂN HÀNG CON Ở NƯỚC NGOÀI
+
+`. =
+
+(Ban hành kèm theo Thông tư số 'ðl⁄2025/TT-NHNN ngày È| tháng 12 năm 2025 quy
+định vê mạng lưới hoạt động của ngán hàng thương mại)
+
+TÊN NGÂN HÀNG
+
+THƯƠNG MẠI
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+BÁO CÁO TÌNH HÌNH CHI NHÁNH, PHÒNG GIAO DỊCH, VĂN PHÒNG ĐẠI DIỆN,
+ĐƠN VỊ SỰ NGHIỆP Ở TRONG NƯỚC; CHI NHÁNH, VĂN PHÒNG ĐẠI DIỆN,
+NGÂN HÀNG CON Ở NƯỚC NGOÀI
+
+Kính gửi: Ngân hàng Nhà nước Việt Nam (Cục Quản lý, giám sát tổ chức tín dụng)
+
+Bảng 1: Báo cáo tình hình chỉ nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự
+
+nghiệp ở trong nước
+Nội dung báo cáo| Tại thành phố Hà Nội | Tại thành phố Hồ Chí | Tại các tỉnh, | Tổng
+Minh thành phố trực | cộng
+thuộc Trung
+ương ngoài địa
+bàn thành phố
+Hà Nội và thành
+phố Hồ Chí
+Minh
+Khu | Khu vực ngoại | Khu | Khu vực ngoại | Vùng | Khu
+vực thành vực nội thành nông | vực
+nội thành thôn | khác
+1“. Nông | Khu
+thôn | vực
+khác
+1. Số lượng tính
+= 31/12, và
+30/6 hàng năm
+Chi nhánh
+JPhòng giao dịch
+IVăn phòng đại
+diện
+|Đơn vị sự nghiệp
+
+
+. Số phát sinh
+ng trong kỳ
+
+áo cáo (bao gồm
+c đơn vị đã
+
+ược chấp thuận
+
+hành lập nhưng
+
+hưa khai trương
+
+oạt động)
+
+hi nhánh được
+hấp thuận thành
+ập mới
+
+Chi nhánh được
+chuyên đổi từ
+
+hòng giao dịch
+—= giao dịch
+được chấp thuận
+|hhành lập mới
+
+hòng giao dịch
+ược chuyển đổi
+ừ chi nhánh
+
+ăn phòng đại
+diện
+
+vị sự nghiệp
+
+3. Số phát sinh
+iảm trong kỳ
+áo cáo (chấm
+ứt hoạt động,
+huyền đổi)
+
+Chi nhánh
+
+hòng giao dịch
+
+IVăn phòng đại
+diện
+
+lĐơn vị sự nghiệp
+
+4. Tình hình hoạt
+ộng các chỉ
+hánh
+
+ố chi nhánh có
+hênh lệch thu chi
+ương
+
+ố chỉ nhánh có
+hênh lệch thu chỉ
+
+ˆ
+
+ố chỉ nhánh có tỷ
+ệ nợ xâu vượt quá
+%
+
+
+ố chỉ nhánh có tỷ
+ệ nợ xâu không
+quá 3%
+
+So
+
+ố chi nhánh bị xửi
+hạt vi phạm hành
+hính
+
+S9. 0 |
+
+Bảng 2: Báo cáo về tình hình chỉ nhánh, văn phòng đại diện ở nước ngoài
+
+Loại hình Tên Địa chỉ Vốn cấp/vốn thànhlập [Tình hình hoạt
+động (Báo cáo
+tình hình tổ
+chức, hoạt
+động)
+BằngVND | Bằng tiền tệ
+nước sở tại
+1. Chi nhánh
+hiện diện
+ương mại ở
+ước ngoài trực
+thuộc chi
+2. Văn phòng
+đại diện
+
+Bảng 3: Báo cáo về tình hình ngân hàng con ở nước ngoài và việc chuyên đồi hình thức
+pháp lý ngân hàng con ở nước ngoài
+
+Loại hình
+
+Địa chỉ
+
+Vốn cắp/vốn thành lập/số cỗ phần
+
+Tình hình
+hoạt động
+(Báo cáo
+tình hình
+tô chức,
+hoạt động
+và chuyển
+đỗi hình
+thức pháp
+lý ngân
+|hàng con ở
+nước
+ngoài)
+
+Vốn góp/số cô phần
+
+Tỷ lệ vốn góp/tÿ lệ sở
+hữu cô phần
+
+Bằng VND|Bằng tiền tệ|
+
+nước sở tại
+
+gân hàng
+on ở nước
+Oài
+
+
+ạng lưới
+oạt động
+ủa ngân
+ø con ở
+ước ngoài
+
+1. Thời hạn gửi báo cáo:
+a) Báo cáo 6 tháng đầu năm: chậm nhất ngày 31 tháng 7 hằng năm.
+b) Báo cáo năm: chậm nhất ngày 31 tháng 01 năm liền kề sau năm báo cáo.
+
+2. Thời gian chốt số liệu báo cáo của từng kỳ báo cáo tương ứng với kỳ kế toán theo
+quy định tại Luật kế toán.
+
+NGƯỜI ĐẠI DIỆN HỢP PHÁP CỦA
+NGÂN HÀNG THƯƠNG MẠI
+(Ký tên và đóng dâu)

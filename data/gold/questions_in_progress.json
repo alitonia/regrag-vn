@@ -1,0 +1,1503 @@
+[
+  {
+    "id": "Q001",
+    "question": "Cách thức chuyển tiền từ nước ngoài vào Việt Nam để thanh toán các chi phí chuẩn bị đầu tư hợp pháp khi chưa được cấp Giấy chứng nhận đăng ký đầu tư hoặc Thông báo đáp ứng điều kiện góp vốn, mua cổ phần, mua lại phần vốn góp được quy định như thế nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-06-2019-tt-nhnn-29358.htm"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "06/2019/TT-NHNN",
+        "article_id": "8",
+        "clause_id": null
+      },
+      {
+        "doc_id": "06/2019/TT-NHNN",
+        "article_id": "8",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Nhà đầu tư có thể sử dụng các cách chuyển tiền như sau để thực hiện thanh toán: (i) chuyển tiền từ nước ngoài, hoặc (ii) chuyển tiền từ tài khoản thanh toán bằng ngoại tệ của nhà đầu tư nước ngoài đó mở tại ngân hàng được phép tại Việt Nam, hoặc (iii) chuyển tiền từ tài khoản thanh toán bằng đồng Việt Nam, của nhà đầu tư nước ngoài đó mở tại ngân hàng được phép tại Việt Nam (Điều 8.1 thông tư 06/2019/TT-NHNN)",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 8. Chuyển tiền thực hiện hoạt động chuẩn bị đầu tư\n1. Trước khi được cơ quan có thẩm quyền cấp Giấy chứng nhận đăng ký đầu tư, Thông báo về việc đáp ứng điều kiện góp vốn, mua cổ phần, mua lại phần vốn góp của nhà đầu tư nước ngoài, Giấy phép thành lập và hoạt động theo pháp luật chuyên ngành, ký kết hợp đồng PPP, nhà đầu tư nước ngoài được phép chuyển tiền từ nước ngoài hoặc từ tài khoản thanh toán bằng ngoại tệ, đồng Việt Nam của nhà đầu tư nước ngoài đó mở tại ngân hàng được phép tại Việt Nam để thanh toán các chi phí hợp pháp trong giai đoạn thực hiện hoạt động chuẩn bị đầu tư tại Việt Nam."
+  },
+  {
+    "id": "Q002",
+    "question": "Doanh nghiệp có được mua ngoại tệ để hoàn trả cho chuyên gia nước ngoài trong trường hợp chuyên gia này đã ứng trước tiền chi tiêu bằng đồng Việt Nam cho chuyến công tác tại TP.HCM không",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2014/01/tt-32.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "4",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Công ty không thể mua ngoại tệ để thanh toán cho việc hoàn trả tiền ứng trước tiền công tác phí của chuyên gia nước ngoài chi tiêu bằng VND tại TP.HCM",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 4. Các trường hợp được sử dụng ngoại hối trên lãnh thổ Việt Nam\n\nCơ quan hải quan, công an, bộ đội biên phòng và các cơ quan Nhà nước khác tại các cửa khẩu của Việt Nam và kho ngoại quan được niêm yết bằng ngoại tệ và thu bằng ngoại tệ chuyển khoản hoặc tiền mặt từ người không cư trú đối với các loại thuế, phí thị thực xuất nhập cảnh, phí cung ứng dịch vụ và các loại phí, lệ phí khác theo quy định của pháp luật.\nNgân hàng, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài được phép kinh doanh, cung ứng dịch vụ ngoại hối (sau đây gọi tắt là tổ chức tín dụng được phép) được giao dịch, thanh toán, niêm yết, quảng cáo, báo giá, định giá, ghi giá trong hợp đồng, thỏa thuận bằng ngoại hối trong phạm vi kinh doanh, cung ứng dịch vụ ngoại hối đã được Ngân hàng Nhà nước Việt Nam cho phép thực hiện theo quy định của pháp luật.\nTổ chức khác được phép cung ứng dịch vụ ngoại hối được giao dịch và niêm yết bằng ngoại tệ trong phạm vi cung ứng dịch vụ ngoại hối đã được Ngân hàng Nhà nước Việt Nam cho phép thực hiện theo quy định của pháp luật.\nNgười cư trú là tổ chức có tư cách pháp nhân được điều chuyển vốn nội bộ bằng ngoại tệ chuyển khoản giữa tài khoản của tổ chức đó với tài khoản của đơn vị phụ thuộc không có tư cách pháp nhân và ngược lại.\nNgười cư trú được góp vốn bằng ngoại tệ chuyển khoản để thực hiện dự án đầu tư nước ngoài tại Việt Nam.\nNgười cư trú thực hiện hợp đồng uỷ thác nhập khẩu, xuất khẩu theo quy định sau:\n\na) Người cư trú nhận uỷ thác nhập khẩu được ghi giá trong hợp đồng uỷ thác nhập khẩu bằng ngoại tệ và nhận thanh toán bằng ngoại tệ chuyển khoản đối với giá trị hợp đồng nhập khẩu từ bên uỷ thác nhập khẩu;\n\nb) Người cư trú nhận uỷ thác xuất khẩu được ghi giá trong hợp đồng uỷ thác xuất khẩu bằng ngoại tệ và thanh toán bằng ngoại tệ chuyển khoản đối với giá trị hợp đồng xuất khẩu cho bên uỷ thác xuất khẩu.\n\nNgười cư trú là nhà thầu trong nước, nhà thầu nước ngoài thực hiện theo quy định sau:\n\na) Đối với chi phí ngoài nước liên quan đến việc thực hiện gói thầu thông qua đấu thầu quốc tế theo quy định tại Luật Đấu thầu: nhà thầu được chào thầu bằng ngoại tệ và nhận thanh toán bằng ngoại tệ chuyển khoản từ chủ đầu tư, nhà thầu chính để thanh toán, chi trả và chuyển ra nước ngoài.\n\nb) Đối với việc thực hiện gói thầu theo quy định của pháp luật về dầu khí: nhà thầu được chào thầu bằng ngoại tệ và nhận thanh toán bằng ngoại tệ chuyển khoản từ chủ đầu tư, nhà thầu chính để thanh toán, chi trả và chuyển ra nước ngoài.\n\nNgười cư trú là doanh nghiệp bảo hiểm thực hiện theo quy định sau:\n\na) Được báo giá, định giá, ghi giá dịch vụ bảo hiểm trong hợp đồng bằng ngoại tệ và nhận thanh toán bằng ngoại tệ chuyển khoản từ bên mua bảo hiểm đối với hàng hoá, dịch vụ phải mua tái bảo hiểm ở nước ngoài;\n\nb) Trường hợp phát sinh tổn thất đối với phần tái bảo hiểm ra nước ngoài, người cư trú là tổ chức mua bảo hiểm được nhận số tiền bồi thường bằng ngoại tệ chuyển khoản từ công ty tái bảo hiểm nước ngoài thông qua doanh nghiệp bảo hiểm để thanh toán các chi phí khắc phục tổn thất ở nước ngoài.\n\nNgười cư trú là tổ chức kinh doanh hàng miễn thuế được niêm yết giá hàng hoá bằng ngoại tệ và nhận thanh toán bằng ngoại tệ chuyển khoản hoặc tiền mặt từ việc cung cấp hàng hoá. Ngoại tệ sử dụng trong giao dịch tại cửa hàng miễn thuế thực hiện theo quy định của pháp luật về kinh doanh bán hàng miễn thuế.\nNgười cư trú là tổ chức cung ứng dịch vụ ở khu cách ly tại các cửa khẩu quốc tế, tổ chức kinh doanh kho ngoại quan được niêm yết, báo giá, định giá, ghi giá trong hợp đồng bằng ngoại tệ và nhận thanh toán bằng ngoại tệ chuyển khoản hoặc tiền mặt từ việc cung cấp hàng hoá và dịch vụ.\nNgười cư trú là tổ chức làm đại lý cho hãng vận tải nước ngoài trên cơ sở hợp đồng đại lý ký kết giữa hai bên thực hiện theo quy định sau:\n\na) Được thay mặt cho hãng vận tải nước ngoài báo giá, định giá, ghi giá trong hợp đồng bằng ngoại tệ đối với cước phí vận tải hàng hoá quốc tế. Việc thanh toán phải thực hiện bằng đồng Việt Nam;\n\nb) Được chi hộ bằng ngoại tệ chuyển khoản để thanh toán tiền mua hàng hoá, dịch vụ tại cảng biển quốc tế, khu cách ly tại sân bay quốc tế;\n\nc) Được chi hộ bằng ngoại tệ tiền mặt để trả lương, thưởng, phụ cấp cho người không cư trú do hãng tàu biển nước ngoài uỷ quyền.\n\nNgười cư trú là doanh nghiệp chế xuất thực hiện theo quy định sau:\n\na) Được ghi giá trong hợp đồng bằng ngoại tệ và thanh toán bằng ngoại tệ chuyển khoản khi mua hàng hoá từ thị trường nội địa để sản xuất, gia công, tái chế, lắp ráp hàng xuất khẩu hoặc để xuất khẩu, trừ hàng hoá thuộc diện cấm xuất khẩu. Doanh nghiệp trong nước được báo giá, định giá bằng ngoại tệ và nhận thanh toán bằng ngoại tệ chuyển khoản khi bán hàng hoá cho doanh nghiệp chế xuất;\n\nb) Được báo giá, định giá, ghi giá trong hợp đồng bằng ngoại tệ và thanh toán, nhận thanh toán bằng ngoại tệ chuyển khoản với doanh nghiệp chế xuất khác.\n\nNgười cư trú là tổ chức kinh doanh trong lĩnh vực vận chuyển hàng không, khách sạn, du lịch được niêm yết, quảng cáo giá hàng hoá, dịch vụ bằng Đồng Việt Nam và ngoại tệ tương đương trên trang tin điện tử, ấn phẩm chuyên ngành (không bao gồm thực đơn và bảng giá dịch vụ) chỉ sử dụng tiếng nước ngoài.\nNgười cư trú, người không cư trú là tổ chức được thoả thuận và trả lương, thưởng, phụ cấp trong hợp đồng lao động bằng ngoại tệ chuyển khoản hoặc tiền mặt cho người không cư trú và người cư trú là người nước ngoài làm việc cho chính tổ chức đó.\nNgười không cư trú là cơ quan ngoại giao, cơ quan lãnh sự được niêm yết bằng ngoại tệ và thu phí thị thực xuất nhập cảnh, các loại phí, lệ phí khác bằng ngoại tệ chuyển khoản hoặc tiền mặt.\nNgười không cư trú thực hiện theo quy định sau:\n\na) Được chuyển khoản bằng ngoại tệ cho người không cư trú khác;\n\nb) Được ghi giá trong hợp đồng bằng ngoại tệ và thanh toán tiền xuất khẩu hàng hoá, dịch vụ bằng ngoại tệ chuyển khoản cho người cư trú. Người cư trú được báo giá, định giá bằng ngoại tệ và nhận thanh toán bằng ngoại tệ chuyển khoản khi cung cấp hàng hoá, dịch vụ cho người không cư trú.\n\nCác trường hợp khác được phép sử dụng ngoại hối trên lãnh thổ Việt Nam được Thống đốc Ngân hàng Nhà nước Việt Nam xem xét, chấp thuận căn cứ vào tình hình thực tế và tính chất cần thiết của từng trường hợp."
+  },
+  {
+    "id": "Q003",
+    "question": "Việc thanh toán giá trị chuyển nhượng phần vốn góp giữa hai pháp nhân nước ngoài đối với dòng vốn tại một doanh nghiệp đầu tư trực tiếp nước ngoài tại Việt Nam có bắt buộc phải thực hiện qua tài khoản vốn đầu tư trực tiếp không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-06-2019-tt-nhnn-29358.htm"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "06/2019/TT-NHNN",
+        "article_id": "10",
+        "clause_id": "2"
+      },
+      {
+        "doc_id": "06/2019/TT-NHNN",
+        "article_id": "10",
+        "clause_id": "2"
+      },
+      {
+        "doc_id": "06/2019/TT-NHNN",
+        "article_id": "3",
+        "clause_id": "2"
+      }
+    ],
+    "reference_answer": "Theo Điều 10.1.a Thông tư 06/2019/TT-NHNN, việc thanh toán giá trị chuyển nhượng phần vốn góp tại doanh nghiệp có vốn đầu tư trực tiếp nước ngoài giữa các nhà đầu tư là người không cư trú  không thực hiện thông qua tài khoản vốn đầu tư trực tiếp. Do đó, việc thanh toán giá trị chuyển nhượng phần vốn góp giữa Công ty B và Công ty C KHÔNG thực hiện thông qua tài khoản vốn đầu tư trực tiếp.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 10. Chuyển nhượng vốn đầu tư và dự án đầu tư\n1. Việc thanh toán giá trị chuyển nhượng cổ phần, phần vốn góp tại doanh nghiệp có vốn đầu tư trực tiếp nước ngoài quy định tại khoản 2 Điều 3 Thông tư này được thực hiện như sau: \na) Giữa các nhà đầu tư là người không cư trú hoặc giữa các nhà đầu tư là người cư trú không thực hiện thông qua tài khoản vốn đầu tư trực tiếp;\nb) Giữa nhà đầu tư là người không cư trú và nhà đầu tư là người cư trú phải thực hiện thông qua tài khoản vốn đầu tư trực tiếp.\n2. Việc thanh toán giá trị chuyển nhượng dự án đầu tư giữa các nhà đầu tư trong hợp đồng BCC, giữa các nhà đầu tư trực tiếp thực hiện dự án PPP được thực hiện như sau:\na) Giữa các nhà đầu tư là người không cư trú hoặc giữa nhà đầu tư là người không cư trú và nhà đầu tư là người cư trú trong hợp đồng BCC[HC5.1] phải thực hiện thông qua tài khoản vốn đầu tư trực tiếp;\nb) Giữa các nhà đầu tư là người không cư trú hoặc giữa nhà đầu tư là người không cư trú và nhà đầu tư là người cư trú trực tiếp thực hiện dự án PPP phải thực hiện thông qua tài khoản vốn đầu tư trực tiếp.\n3. Đồng tiền định giá, thanh toán giá trị chuyển nhượng vốn đầu tư, dự án đầu tư trong hoạt động đầu tư trực tiếp nước ngoài vào Việt Nam: \na) Việc định giá, thanh toán giá trị chuyển nhượng vốn đầu tư, dự án đầu tư giữa hai người không cư trú được phép thực hiện bằng ngoại tệ;\nb) Việc định giá, thanh toán giá trị chuyển nhượng vốn đầu tư, dự án đầu tư giữa người cư trú và người không cư trú, giữa người cư trú với nhau phải thực hiện bằng đồng Việt Nam."
+  },
+  {
+    "id": "Q004",
+    "question": "Con tôi 13t, chưa có cccd có thể độc lập mở tài khoản thanh toán không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/7/17-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "17/2024/TT-NHNN",
+        "article_id": "11",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Theo thông tư số 17/2024/TT-NHNN, người từ đủ 15 tuổi trở lên, không bị hạn chế hoặc mất năng lực hành vi dân sự mới được mở tài khoản thanh toán tại ngân hàng, chi nhánh ngân hàng nước ngoài. Do đó, con bạn chưa đủ tuổi mở tài khoản thanh toán.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 11. Đối tượng mở tài khoản thanh toán\n\nCá nhân mở tài khoản thanh toán tại ngân hàng, chi nhánh ngân hàng nước ngoài bao gồm:\n\na) Người từ đủ 15 tuổi trở lên không bị hạn chế hoặc mất năng lực hành vi dân sự theo quy định pháp luật Việt Nam;\n\nb) Người chưa đủ 15 tuổi, người bị hạn chế hoặc mất năng lực hành vi dân sự theo quy định của pháp luật Việt Nam mở tài khoản thanh toán thông qua người đại diện theo pháp luật;\n\nc) Người có khó khăn trong nhận thức, làm chủ hành vi theo quy định của pháp luật Việt Nam mở tài khoản thanh toán thông qua người giám hộ."
+  },
+  {
+    "id": "Q005",
+    "question": "Khoản vay nước ngoài ngắn hạn của doanh nghiệp nhằm mục đích triển khai dự án theo Giấy chứng nhận đăng ký đầu tư có bị tính vào tổng hạn mức, giới hạn vay nước ngoài của doanh nghiệp hay không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/7/08-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "08/2023/TT-NHNN",
+        "article_id": "18",
+        "clause_id": "1"
+      },
+      {
+        "doc_id": "08/2023/TT-NHNN",
+        "article_id": "18",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Theo quy định tại Điều 18.1 Thông tư 08/2023/TT-NHNN số dư nợ gốc của các khoản vay trung, dài hạn trong nước và nước ngoài của bên đi vay phục vụ dự án đầu tư tối đa không vượt quá giới hạn vay vốn của dự án đầu tư.\nDo đó, dư nợ vay ngắn hạn cho mục đích thực hiện dự án đầu tư theo Giấy chứng nhận đầu tư sẽ KHÔNG tính vào giới hạn vay nước ngoài.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 18. Giới hạn vay nước ngoài\n\nTrường hợp vay nước ngoài để thực hiện dự án đầu tư:\n\na) Số dư nợ gốc của các khoản vay trung, dài hạn trong nước và nước ngoài của bên đi vay (bao gồm cả các khoản vay ngắn hạn được gia hạn và ngắn hạn quá hạn thành trung, dài hạn) phục vụ cho dự án đầu tư tối đa không vượt quá giới hạn vay vốn của dự án đầu tư;\n\nb) Giới hạn vay vốn của dự án đầu tư quy định tại điểm a khoản 1 Điều này là phần chênh lệch giữa tổng vốn đầu tư của dự án đầu tư và vốn góp của nhà đầu tư ghi nhận tại Giấy chứng nhận đầu tư, Giấy chứng nhận đăng ký đầu tư, văn bản chấp thuận chủ trương đầu tư.\n\nẢnh chị gửi bị che mất phần giữa (khoảng trống trước số trang 11), nên đoạn này có thể còn nội dung nằm giữa dòng \"1. Trường hợp vay nước ngoài để thực hiện dự án đầu tư:\" và điểm a. Nếu có, chị chụp lại phần bị thiếu để tôi gõ nốt. Ngoài ra khoản 1 thường còn khoản 2 trở đi (vay nước ngoài không phải để thực hiện dự án đầu tư), chị gửi tiếp trang sau nếu cần đủ cả điều."
+  },
+  {
+    "id": "Q006",
+    "question": "Sau khi ký và công chứng Hợp đồng thế chấp QSDĐ, Chi nhánh ngân hàng tôi phát hiện thông tin ngày cấp GCN trong hợp đồng không trùng với GCN gốc. Với sai sót này, Chi nhánh cần làm việc với Văn phòng công chứng theo hướng xử lý nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tu-phap/luat-cong-chung-2024-so-46-2024-qh15-379073-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "52",
+        "clause_id": null
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "52",
+        "clause_id": null
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "52",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "1. Căn cứ: \n- Luật Công chứng 2024.\n2. Đánh giá về pháp lý: \n- Theo mô tả của Chi nhánh, QA hiểu rằng trường hợp này sai sót là lỗi kỹ thuật khi ghi nhận thông tin của GCN vào trong Hợp đồng thế chấp. \n- Điều 52 Luật Công chứng 2024 quy định:\n\"Điều 52. Sửa lỗi kỹ thuật trong văn bản công chứng\n1. Lỗi kỹ thuật là lỗi do sai sót trong khi ghi chép, đánh máy, in ấn văn bản công chứng mà việc sửa lỗi đó không làm ảnh hưởng đến quyền và nghĩa vụ của người tham gia giao dịch.\n2. Việc sửa lỗi kỹ thuật trong văn bản công chứng được thực hiện tại tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng đó; trường hợp tổ chức hành nghề công chứng đã thực hiện việc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện việc sửa lỗi kỹ thuật.\n3. Công chứng viên thực hiện việc sửa lỗi kỹ thuật có trách nhiệm đối chiếu từng lỗi cần sửa với các giấy tờ trong hồ sơ công chứng, gạch chân chỗ cần sửa, sau đó ghi chữ, dấu hoặc con số đã được sửa vào bên lề của trang được sửa lỗi kỹ thuật, ghi thời điểm sửa lỗi kỹ thuật kèm theo họ, tên, chữ ký của mình và đóng dấu của tổ chức hành nghề công chứng; trường hợp khoảng trống bên lề không đủ chỗ để ghi nội dung sửa lỗi kỹ thuật thì có thể ghi vào trang đính kèm có đủ các nội dung nêu trên.\nCông chứng viên có trách nhiệm sửa lỗi kỹ thuật đối với tất cả các bản gốc của văn bản công chứng, trừ trường hợp không thể thu hồi được tất cả các bản gốc. Việc sửa lỗi kỹ thuật phải được thông báo bằng văn bản cho những người tham gia giao dịch trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.\"\n3. Kết luận: \n- Đơn vị liên hệ với tổ chức công chứng nơi đã thực hiện công chứng Hợp đồng thế chấp để thực hiện thủ tục sửa lỗi kỹ thuật theo quy định.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 52. Sửa lỗi kỹ thuật trong văn bản công chứng\n1. Lỗi kỹ thuật là lỗi do sai sót trong khi ghi chép, đánh máy, in ấn văn bản công chứng mà việc sửa lỗi đó không làm ảnh hưởng đến quyền và nghĩa vụ của người tham gia giao dịch.\n2. Việc sửa lỗi kỹ thuật trong văn bản công chứng được thực hiện tại tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng đó; trường hợp tổ chức hành nghề công chứng đã thực hiện việc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện việc sửa lỗi kỹ thuật.\n3. Công chứng viên thực hiện việc sửa lỗi kỹ thuật có trách nhiệm đối chiếu từng lỗi cần sửa với các giấy tờ trong hồ sơ công chứng, gạch chân chỗ cần sửa, sau đó ghi chữ, dấu hoặc con số đã được sửa vào bên lề của trang được sửa lỗi kỹ thuật, ghi thời điểm sửa lỗi kỹ thuật kèm theo họ, tên, chữ ký của mình và đóng dấu của tổ chức hành nghề công chứng; trường hợp khoảng trống bên lề không đủ chỗ để ghi nội dung sửa lỗi kỹ thuật thì có thể ghi vào trang đính kèm có đủ các nội dung nêu trên.\nCông chứng viên có trách nhiệm sửa lỗi kỹ thuật đối với tất cả các bản gốc của văn bản công chứng, trừ trường hợp không thể thu hồi được tất cả các bản gốc. Việc sửa lỗi kỹ thuật phải được thông báo bằng văn bản cho những người tham gia giao dịch trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.\""
+  },
+  {
+    "id": "Q007",
+    "question": "Khách hàng đến ngân hàng VPbank tất toán sổ tiết kiệm đúng hạn nhưng ký không giống chữ ký mẫu đã đăng ký, do quên chữ ký cũ hoặc ký bị run tay vì sức khỏe. Trường hợp này ngân hàng cần xử lý như thế nào cho đúng quy định?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/03/23-nd-.signed.pdf\n\n\n\nhttps://datafiles.chinhphu.vn/cpp/files/vbpq/2019/01/48-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "23/2015/NĐ-CP",
+        "article_id": "18",
+        "clause_id": "1"
+      },
+      {
+        "doc_id": "23/2015/NĐ-CP",
+        "article_id": "18",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "1. Căn cứ: \n- Nghị định 23/2015/NĐ-CP về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch; \n- Thông tư 48/2018/TT-NHNN quy định về tiền gửi tiết kiệm. \n2. Đánh giá về pháp lý: \n- Điểm c Khoản 1 Điều 18 Thông tư 48/2018/TT-NHNN: Người rút tiền phải “Nộp giấy rút tiền gửi tiết kiệm có chữ ký đúng với chữ ký mẫu đã đăng ký tại tổ chức tín dụng. Đối với người gửi tiền là người không viết được, người không đọc được, người không nhìn được: người gửi tiền thực hiện theo hướng dẫn của tổ chức tín dụng”.\n3. Kết luận: \n- Như vậy, về nguyên tắc, chữ ký của Người rút tiền phải đúng với mẫu chữ ký đã đăng ký tại VPBank là một trong những điều kiện pháp lý bắt buộc để chủ sở hữu tiền gửi tiết kiệm rút tiền gửi tiết kiệm.\n- VPbank cần giải thích rõ để KH hiểu rằng việc KH phải ký đúng chữ ký mẫu đã đăng ký khi rút tiền là quy định bắt buộc của pháp luật và là để bảo đảm an toàn về tài sản cho chính Khách hàng, tránh các trường hợp rủi ro do gian lận, lừa đảo hoặc nhầm lẫn về chủ thể giao dịch tiền gửi tiết kiệm. \n- Theo đó, VPbank hướng dẫn KH thực hiện thêm các thủ tục để xác minh thông tin KH như sau:\na) Nếu KH không ký được chữ ký đã đăng ký do quên: Khách hàng cần cung cấp bổ sung cho VPBank các căn cứ khác để VPBank xác thực KH (Người đến đề nghị rút tiền) chính là Chủ sở hữu tiền gửi tiết kiệm tại VPBank. Cụ thể: Văn bản chứng thực chữ ký của Khách hàng được cấp bởi UBND cấp xã/phường hoặc Phòng Tư pháp theo quy định về chứng thực chữ ký tại Nghị định số 23/2015/NĐ-CP. Sau khi KH cung cấp được Văn bản chứng thực chữ ký nêu trên, VPbank cho KH đăng ký thay đổi chữ ký mẫu và thực hiện thủ tục thanh toán tiền gốc, lãi của tiền gửi tiết kiệm cho KH theo quy định hiện hành.\nb)Nếu KH không ký được giống chữ ký mẫu đã đăng ký do bệnh lý: VPbank hướng dẫn KH hai (02) phương án:\n (i) Cung cấp bổ sung Văn bản chứng thực chữ ký như nêu tại Điểm a ở trên; hoặc \n(ii) KH ủy quyền cho người khác thực hiện giao dịch tiền gửi tiết kiệm, văn bản ủy quyền phải được công chứng/chứng thực theo đúng quy định của pháp luật.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điểm c Khoản 1 Điều 18 Thông tư 48/2018/TT-NHNN: Người rút tiền phải “Nộp giấy rút tiền gửi tiết kiệm có chữ ký đúng với chữ ký mẫu đã đăng ký tại tổ chức tín dụng. Đối với người gửi tiền là người không viết được, người không đọc được, người không nhìn được: người gửi tiền thực hiện theo hướng dẫn của tổ chức tín dụng”."
+  },
+  {
+    "id": "Q008",
+    "question": "Theo quy định quản lý ngoại hối, có bắt buộc người nước ngoài phải sở hữu đồng thời cả thẻ tạm trú và giấy phép lao động thì mới được phép chuyển các khoản thu nhập hợp pháp tại Việt Nam ra nước ngoài hay không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/62-vbhn-vpqh.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "3",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "3",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "3",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "36",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "39",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "41",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "31",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "33",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "31",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "36",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "39",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "41",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "3",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "31",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "35",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "12",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "33",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "36",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "37",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "36",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "36",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "38",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "39",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "41",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "40",
+        "clause_id": "11"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "39",
+        "clause_id": "11"
+      }
+    ],
+    "reference_answer": "Đúng.\n(1) Khách hàng phải được phép cư trú tại Việt Nam. Thẻ tạm trú chỉ là một trong các hình thức xác nhận được phép cư trú tại Việt Nam của người nước ngoài.  Để chứng minh người nước ngoài được phép cư trú tại Việt Nam trong thời gian tạo ra thu nhập, khách hàng cần cung cấp được một trong các tài liệu sau (Luật Nhập cảnh, Xuất cảnh, Quá cảnh, Cư trú của người nước ngoài tại Việt Nam (“Luật NXCNN”), Điều 3.11, Điều 3.12. Điều 3.13, Điều 36, Điều 39, Điều 41):\n(i) Thị thực nhập cảnh, chứng nhận tạm trú và khai báo tạm trú (Luật NXCNN, Điều 31 và Điều 33).\nChứng nhận tạm trú do đơn vị kiểm soát xuất nhập cảnh cấp cho người nước ngoài nhập cảnh vào Việt Nam bằng hình thức đóng dấu vào hộ chiếu hoặc đống dấu vào thị thực rời (Luật NXCNN, Điều 31.1).\n(ii) Thẻ tạm trú (Luật NXCNN, Điều 36, 37 và 38);\n(iii) Thẻ thường trú (Luật NXCNN, Điều 39 và Điều 41);\n\n(2) Khách hàng phải có giấy phép lao động, giấy xác nhận không thuộc trường hợp phải xin cấp giấy phép lao động hoặc thông báo trước ít nhất ba ngày làm việc kể từ khi người lao động nước ngoài dự kiến bắt đầu làm việc tại Việt Nam. Các trường hợp cụ thể phải xin từng loại giấy tờ hay phải thực hiện nghĩa vụ thông báo có quy định riêng.\n\n(3) Khách hàng phải đồng thời được cư trú và được cấp giấy phép lao động (hoặc giấy tờ tương đương) trong thời gian tạo ra thu nhập để được phép chuyển ra nước ngoài.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 3. Giải thích từ ngữ (khoản 11, 12, 13)\nThị thực là loại giấy tờ do cơ quan có thẩm quyền của Việt Nam cấp, cho phép người nước ngoài nhập cảnh Việt Nam.\nChứng nhận tạm trú là việc cơ quan có thẩm quyền của Việt Nam xác định thời hạn người nước ngoài được phép tạm trú tại Việt Nam.\nThẻ tạm trú là loại giấy tờ do cơ quan quản lý xuất nhập cảnh hoặc cơ quan có thẩm quyền của Bộ Ngoại giao cấp cho người nước ngoài được phép cư trú có thời hạn tại Việt Nam và có giá trị thay thị thực.\nĐiều 31. Chứng nhận tạm trú\nNgười nước ngoài nhập cảnh không có thẻ thường trú, thẻ tạm trú còn giá trị sử dụng thì được cấp chứng nhận tạm trú tại cửa khẩu với thời hạn như sau:\n\na) Thời hạn tạm trú cấp bằng thời hạn thị thực; trường hợp thị thực có ký hiệu DL thời hạn trên 30 ngày thì cấp tạm trú 30 ngày và được xem xét gia hạn tạm trú theo quy định tại Điều 35 của Luật này;\n\nb) Đối với người được miễn thị thực theo điều ước quốc tế mà Việt Nam là thành viên thì thời hạn tạm trú cấp theo quy định của điều ước quốc tế, nếu điều ước quốc tế không quy định thời hạn tạm trú thì cấp tạm trú 30 ngày;\n\nc) Đối với công dân của nước được Việt Nam đơn phương miễn thị thực thì cấp tạm trú 45 ngày và được xem xét cấp thị thực, gia hạn tạm trú theo quy định của Luật này;\n\nd) Đối với người không thuộc trường hợp quy định tại các điểm a, b và c khoản này vào khu kinh tế cửa khẩu thì cấp tạm trú 15 ngày, vào đơn vị hành chính - kinh tế đặc biệt hoặc khu kinh tế ven biển quy định tại khoản 3a Điều 12 của Luật này thì cấp tạm trú 30 ngày.\n\nđ) Trường hợp điều ước quốc tế mà Việt Nam là thành viên có quy định khác thì thời hạn tạm trú được cấp theo điều ước quốc tế.\n\nNgười nước ngoài được tạm trú tại Việt Nam trong thời hạn chứng nhận tạm trú được cấp.\nThời hạn tạm trú có thể bị cơ quan quản lý xuất nhập cảnh hủy bỏ hoặc rút ngắn trong trường hợp người nước ngoài vi phạm pháp luật Việt Nam.\nĐiều 33. Khai báo tạm trú\nNgười nước ngoài tạm trú tại Việt Nam phải thông qua người trực tiếp quản lý, điều hành hoạt động của cơ sở lưu trú để khai báo tạm trú với Công an xã, phường, đặc khu hoặc đồn, trạm Công an nơi có cơ sở lưu trú. Cơ sở lưu trú có trách nhiệm yêu cầu người nước ngoài xuất trình hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế, giấy tờ liên quan đến cư trú tại Việt Nam để thực hiện khai báo tạm trú trước khi đồng ý cho người nước ngoài tạm trú. Trường hợp đồn, trạm Biên phòng tiếp nhận khai báo tạm trú của người nước ngoài theo quy định của điều ước quốc tế mà Việt Nam là thành viên thì đồn, trạm Biên phòng có trách nhiệm thông báo ngay cho Công an xã, phường, đặc khu hoặc đồn, trạm Công an nơi người nước ngoài tạm trú.\nViệc khai báo tạm trú cho người nước ngoài thực hiện qua môi trường điện tử hoặc phiếu khai báo tạm trú.\n\nTrường hợp khai báo qua phiếu khai báo tạm trú, người trực tiếp quản lý, điều hành hoạt động của cơ sở lưu trú có trách nhiệm ghi đầy đủ thông tin vào phiếu khai báo tạm trú và chuyển đến Công an xã, phường, đặc khu hoặc đồn, trạm Công an nơi có cơ sở lưu trú trong thời hạn 12 giờ, đối với địa bàn vùng sâu, vùng xa trong thời hạn 24 giờ kể từ khi người nước ngoài đến cơ sở lưu trú.\n\nNgười nước ngoài thay đổi nơi tạm trú hoặc tạm trú ngoài địa chỉ ghi trong thẻ thường trú hoặc khi có sự thay đổi thông tin trong hộ chiếu phải khai báo tạm trú theo quy định tại khoản 1 Điều này.\nĐiều 36. Các trường hợp được cấp thẻ tạm trú và ký hiệu thẻ tạm trú\nCác trường hợp được cấp thẻ tạm trú bao gồm:\n\na) Người nước ngoài là thành viên cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện tổ chức quốc tế thuộc Liên hợp quốc, tổ chức liên chính phủ tại Việt Nam và vợ, chồng, con dưới 18 tuổi, người giúp việc cùng đi theo nhiệm kỳ;\n\nb) Người nước ngoài đang tạm trú tại Việt Nam thuộc diện được cấp thị thực có ký hiệu LV1, LV2, LS, ĐT1, ĐT2, ĐT3, NN1, NN2, DH, PV1, LĐ1, LĐ2, TT, UĐ1, UĐ2.\n\nKý hiệu thẻ tạm trú được quy định như sau:\n\na) Thẻ tạm trú quy định tại điểm a khoản 1 Điều này ký hiệu NG3;\n\nb) Thẻ tạm trú quy định tại điểm b khoản 1 Điều này có ký hiệu tương tự ký hiệu thị thực.\n\nĐiều 37. Thủ tục cấp thẻ tạm trú\nHồ sơ đề nghị cấp thẻ tạm trú bao gồm:\n\na) Văn bản đề nghị của cơ quan, tổ chức, cá nhân làm thủ tục mời, bảo lãnh;\n\nb) Tờ khai đề nghị cấp thẻ tạm trú có dán ảnh;\n\nc) Hộ chiếu;\n\nd) Giấy tờ chứng minh thuộc trường hợp quy định tại khoản 1 Điều 36 của Luật này.\n\nGiải quyết cấp thẻ tạm trú như sau:\n\na) Cơ quan đại diện ngoại giao, cơ quan lãnh sự hoặc cơ quan khác được ủy quyền của nước ngoài tại Việt Nam gửi hồ sơ đề nghị cấp thẻ tạm trú ký hiệu NG3 tại cơ quan có thẩm quyền của Bộ Ngoại giao;\n\nb) Cơ quan, tổ chức, cá nhân mời, bảo lãnh trực tiếp nộp hồ sơ đề nghị cấp thẻ tạm trú cho người nước ngoài thuộc trường hợp quy định tại điểm b khoản 1 Điều 36 của Luật này tại cơ quan quản lý xuất nhập cảnh nơi cơ quan, tổ chức mời, bảo lãnh đặt trụ sở hoặc nơi cá nhân mời, bảo lãnh cư trú;\n\nc) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan quản lý xuất nhập cảnh hoặc cơ quan có thẩm quyền của Bộ Ngoại giao xem xét cấp thẻ tạm trú.\n\nĐiều 38. Thời hạn thẻ tạm trú\nThời hạn thẻ tạm trú được cấp ngắn hơn thời hạn còn lại của hộ chiếu ít nhất 30 ngày.\nThẻ tạm trú có ký hiệu ĐT1, UĐ1, UĐ2 có thời hạn không quá 10 năm.\nThẻ tạm trú có ký hiệu NG3, LV1, LV2, LS, ĐT2 và DH có thời hạn không quá 05 năm.\nThẻ tạm trú có ký hiệu NN1, NN2, ĐT3, TT có thời hạn không quá 03 năm.\nThẻ tạm trú có ký hiệu LĐ1, LĐ2 và PV1 có thời hạn không quá 02 năm.\nThẻ tạm trú hết hạn được xem xét cấp thẻ mới.\nĐiều 39. Các trường hợp được xét cho thường trú\nNgười nước ngoài có công lao, đóng góp cho sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam được nhà nước Việt Nam tặng huân chương hoặc danh hiệu vinh dự nhà nước.\nNgười nước ngoài là nhà khoa học, chuyên gia đang tạm trú tại Việt Nam.\nNgười nước ngoài được cha, mẹ, vợ, chồng, con là công dân Việt Nam đang thường trú tại Việt Nam bảo lãnh.\nNgười không quốc tịch đã tạm trú liên tục tại Việt Nam từ năm 2000 trở về trước.\nĐiều 41. Thủ tục giải quyết cho thường trú\nNgười nước ngoài đề nghị cho thường trú làm thủ tục tại cơ quan quản lý xuất nhập cảnh. Hồ sơ bao gồm:\n\na) Đơn xin thường trú;\n\nb) Lý lịch tư pháp do cơ quan có thẩm quyền của nước mà người đó là công dân cấp;\n\nc) Công hàm của cơ quan đại diện của nước mà người đó là công dân đề nghị Việt Nam giải quyết cho người đó thường trú;\n\nd) Bản sao hộ chiếu có chứng thực;\n\nđ) Giấy tờ chứng minh đủ điều kiện được xét cho thường trú quy định tại Điều 40 của Luật này;\n\ne) Giấy bảo lãnh đối với người nước ngoài quy định tại khoản 3 Điều 39 của Luật này.\n\nTrong thời hạn 04 tháng kể từ ngày nhận đủ hồ sơ, Bộ trưởng Bộ Công an xem xét, quyết định cho thường trú; trường hợp xét thấy cần phải thẩm tra bổ sung thì có thể kéo dài thêm nhưng không quá 02 tháng.\nCơ quan quản lý xuất nhập cảnh có trách nhiệm thông báo bằng văn bản kết quả giải quyết cho người xin thường trú và Công an tỉnh, thành phố trực thuộc trung ương nơi người nước ngoài xin thường trú.\nTrong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo của cơ quan quản lý xuất nhập cảnh, Công an tỉnh, thành phố trực thuộc trung ương nơi người nước ngoài xin thường trú thông báo người nước ngoài được giải quyết cho thường trú.\nTrong thời hạn 03 tháng kể từ khi nhận được thông báo giải quyết cho thường trú, người nước ngoài phải đến cơ quan quản lý xuất nhập cảnh Công an tỉnh, thành phố trực thuộc trung ương nơi xin thường trú để nhận thẻ thường trú."
+  },
+  {
+    "id": "Q009",
+    "question": "Luật Các tổ chức tín dụng 2024 quy định giới hạn cấp tín dụng tối đa đối với một khách hàng tại ngân hàng thương mại là bao nhiêu?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "136",
+        "clause_id": "1"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "136",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Theo Khoản 1 Điều 136 Luật Các tổ chức tín dụng 2024, tổng mức dư nợ cấp tín dụng đối với một khách hàng không được vượt quá 14% vốn tự có của ngân hàng thương mại.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 136 Khoản 1: Tổng mức dư nợ cấp tín dụng đối với một khách hàng không được vượt quá 14% vốn tự có của ngân hàng thương mại..."
+  },
+  {
+    "id": "Q010",
+    "question": "Giới hạn cấp tín dụng tối đa đối với một khách hàng và người có liên quan tại ngân hàng thương mại là bao nhiêu?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "136",
+        "clause_id": "1"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "136",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Theo Khoản 1 Điều 136 Luật Các tổ chức tín dụng 2024, tổng mức dư nợ cấp tín dụng đối với một khách hàng và người có liên quan không được vượt quá 23% vốn tự có của ngân hàng thương mại.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 136 Khoản 1: ...tổng mức dư nợ cấp tín dụng đối với một khách hàng và người có liên quan không được vượt quá 23% vốn tự có của ngân hàng thương mại."
+  },
+  {
+    "id": "Q011",
+    "question": "Tổ chức tín dụng có nghĩa vụ bảo mật thông tin tài khoản và tiền gửi của khách hàng như thế nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "12",
+        "clause_id": null
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "12",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Theo Điều 12 Luật Các tổ chức tín dụng 2024, nhân viên và TCTD không được tiết lộ thông tin tài khoản, tiền gửi, tài sản gửi của khách hàng, trừ trường hợp có yêu cầu của cơ quan nhà nước có thẩm quyền hoặc được khách hàng chấp thuận.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 12: 1. Người quản lý, nhân viên của TCTD không được tiết lộ thông tin bí mật... 2. TCTD phải bảo mật thông tin về tài khoản, tiền gửi, tài sản gửi của khách hàng..."
+  },
+  {
+    "id": "Q012",
+    "question": "Tổ chức tín dụng có được phép kinh doanh bất động sản không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "138",
+        "clause_id": null
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "138",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Theo Điều 138 Luật Các tổ chức tín dụng 2024, TCTD không được kinh doanh bất động sản, trừ trường hợp mua, sở hữu bất động sản để sử dụng làm trụ sở làm việc hoặc xử lý nợ thế chấp.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 138: Tổ chức tín dụng không được kinh doanh bất động sản, trừ các trường hợp: Mua, đầu tư bất động sản làm trụ sở hoặc xử lý nợ vay..."
+  },
+  {
+    "id": "Q013",
+    "question": "Thời hạn nắm giữ bất động sản do xử lý nợ vay của TCTD là bao lâu?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "138",
+        "clause_id": "2"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "138",
+        "clause_id": "2"
+      }
+    ],
+    "reference_answer": "Căn cứ Điều 138 Luật Các TCTD 2024, trong thời hạn 05 năm kể từ ngày quyết định xử lý tài sản bảo đảm là bất động sản, TCTD phải bán, chuyển nhượng hoặc mua lại bất động sản đó.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 138 Khoản 2: Trong thời hạn 05 năm kể từ ngày quyết định xử lý tài sản bảo đảm là bất động sản, tổ chức tín dụng phải bán, chuyển nhượng hoặc mua lại bất động sản này..."
+  },
+  {
+    "id": "Q014",
+    "question": "Ngân hàng thương mại có được cho vay để thanh toán tiền mua cổ phần của chính ngân hàng đó không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "134",
+        "clause_id": "1"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "134",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Theo Điều 134 Luật Các tổ chức tín dụng 2024, TCTD không được cấp tín dụng cho khách hàng để đầu tư, kinh doanh cổ phiếu của chính TCTD đó.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 134 Khoản 1: Tổ chức tín dụng không được cấp tín dụng đối với các trường hợp: cấp tín dụng để đầu tư, kinh doanh cổ phiếu của chính tổ chức tín dụng đó..."
+  },
+  {
+    "id": "Q015",
+    "question": "Các đối tượng nào thuộc diện không được TCTD cấp tín dụng không có bảo đảm (cho vay tín chấp)?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "135",
+        "clause_id": null
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "135",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Căn cứ Điều 135 Luật Các TCTD 2024, TCTD không được cấp tín dụng không có bảo đảm cho tổ chức kiểm toán, kiểm toán viên kiểm toán tại TCTD, thanh tra viên ngân hàng, người quản lý TCTD.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 135: Tổ chức tín dụng không được cấp tín dụng không có bảo đảm cho tổ chức kiểm toán, kiểm toán viên, người quản lý, điều hành TCTD..."
+  },
+  {
+    "id": "Q016",
+    "question": "Hoạt động nhận tiền gửi của cá nhân tại ngân hàng thương mại được thực hiện dưới các hình thức nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "107",
+        "clause_id": "1"
+      },
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "107",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Theo Điều 107 Luật Các TCTD 2024, ngân hàng thương mại được nhận tiền gửi của cá nhân dưới hình thức tiền gửi tiết kiệm, tiền gửi thanh toán và các hình thức tiền gửi khác.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 107 Khoản 1: Nhận tiền gửi của cá nhân dưới hình thức tiền gửi tiết kiệm, tiền gửi thanh toán và các hình thức tiền gửi khác theo quy định của Ngân hàng Nhà nước."
+  },
+  {
+    "id": "Q017",
+    "question": "Vốn tự có của ngân hàng thương mại bao gồm những thành phần cơ bản nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "137",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Vốn tự có bao gồm Vốn cấp 1 (Vốn điều lệ, quỹ dự trữ bổ sung vốn điều lệ, quỹ đầu tư phát triển, lợi nhuận giữ lại) và Vốn cấp 2 theo quy định của Ngân hàng Nhà nước.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 137: Tổ chức tín dụng phải duy trì các tỷ lệ an toàn tài chính, trong đó vốn tự có gồm Vốn cấp 1 và Vốn cấp 2 theo quy định của Thống đốc NHNN."
+  },
+  {
+    "id": "Q018",
+    "question": "Tổ chức tín dụng có quyền xử lý tài sản bảo đảm khi nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://luatvietnam.vn/tai-chinh/luat-cac-to-chuc-tin-dung-2024-273574-d1.html"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "139",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Khi khách hàng vay không thực hiện hoặc thực hiện không đúng nghĩa vụ trả nợ theo hợp đồng tín dụng đã giao kết.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 139: Tổ chức tín dụng có quyền xử lý tài sản bảo đảm theo thỏa thuận trong hợp đồng bảo đảm và quy định của pháp luật khi bên vay không thực hiện đúng nghĩa vụ trả nợ."
+  },
+  {
+    "id": "Q019",
+    "question": "Ngân hàng thương mại có được phép thu phí mở tài khoản thanh toán đối với khách hàng cá nhân không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "17/2024/TT-NHNN",
+        "article_id": "12",
+        "clause_id": null
+      },
+      {
+        "doc_id": "17/2024/TT-NHNN",
+        "article_id": "12",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Theo Điều 12 Thông tư 17/2024/TT-NHNN, ngân hàng được phép thỏa thuận mức phí mở và sử dụng tài khoản thanh toán với khách hàng nhưng phải niêm yết công khai biểu phí.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 12: Ngân hàng, chi nhánh ngân hàng nước ngoài quy định mức phí mở, đóng và sử dụng tài khoản thanh toán phù hợp với quy định pháp luật và niêm yết công khai."
+  },
+  {
+    "id": "Q020",
+    "question": "Đối tượng cá nhân nào được phép mở tài khoản thanh toán tại ngân hàng theo Thông tư 17/2024/TT-NHNN?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "11",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Cá nhân từ đủ 15 tuổi trở lên không bị mất hoặc hạn chế năng lực hành vi dân sự; người dưới 15 tuổi mở thông qua người đại diện theo pháp luật.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 11 Khoản 1: Người từ đủ 15 tuổi trở lên không bị mất hoặc hạn chế năng lực hành vi dân sự; người chưa đủ 15 tuổi mở thông qua người đại diện theo pháp luật."
+  },
+  {
+    "id": "Q021",
+    "question": "Việc mở tài khoản thanh toán bằng phương thức điện tử (eKYC) bị giới hạn hạn mức giao dịch là bao nhiêu?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "16",
+        "clause_id": "4"
+      }
+    ],
+    "reference_answer": "Hạn mức giao dịch qua tài khoản eKYC tối đa không quá 100 triệu đồng/tháng/khách hàng, trừ trường hợp xác thực sinh trắc học trực tiếp hoặc hạn mức riêng do NHNN quy định.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 16 Khoản 4: Hạn mức giao dịch qua tài khoản thanh toán mở bằng phương thức điện tử không vượt quá 100 triệu đồng/tháng/khách hàng."
+  },
+  {
+    "id": "Q022",
+    "question": "Ngân hàng thực hiện tạm khóa tài khoản thanh toán của khách hàng trong các trường hợp nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "19",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Tạm khóa theo thỏa thuận trước bằng văn bản giữa khách hàng và ngân hàng, hoặc khi có quyết định/yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 19 Khoản 1: Ngân hàng thực hiện tạm khóa tài khoản thanh toán một phần hoặc toàn bộ số tiền khi có thỏa thuận hoặc khi có yêu cầu bằng văn bản của cơ quan có thẩm quyền."
+  },
+  {
+    "id": "Q023",
+    "question": "Quy trình đóng tài khoản thanh toán được thực hiện như thế nào đối với số tiền còn dư trên tài khoản?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "20",
+        "clause_id": "3"
+      }
+    ],
+    "reference_answer": "Số tiền còn dư được chi trả theo yêu cầu của chủ tài khoản, người đại diện hợp pháp, hoặc chuyển sang tài khoản chi trả tạm giữ nếu không liên lạc được.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 20 Khoản 3: Số tiền còn lại trên tài khoản thanh toán khi đóng được xử lý theo chỉ thị của chủ tài khoản hoặc thanh toán cho người thừa kế hợp pháp."
+  },
+  {
+    "id": "Q024",
+    "question": "Quy định về thu thập và xác thực dữ liệu sinh trắc học đối với giao dịch chuyển tiền trực tuyến là gì?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "17/2024/TT-NHNN",
+        "article_id": "16",
+        "clause_id": "3"
+      }
+    ],
+    "reference_answer": "Theo quy định của NHNN áp dụng từ Thông tư 17/2024/TT-NHNN và Quyết định 2345/QĐ-NHNN, giao dịch chuyển tiền trên 10 triệu đồng/lần hoặc trên 20 triệu đồng/ngày bắt buộc phải xác thực sinh trắc học.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 16 Khoản 3: Ngân hàng phải ứng dụng công nghệ để thu thập, kiểm tra, đối chiếu thông tin sinh trắc học của chủ tài khoản khớp đúng với dữ liệu Căn cước công dân gắn chip."
+  },
+  {
+    "id": "Q025",
+    "question": "Tài khoản thanh toán bị phong tỏa toàn bộ trong những trường hợp cụ thể nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "20",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Khi có quyết định phong tỏa của cơ quan điều tra, Tòa án, Viện kiểm sát, cơ quan thi hành án hoặc cơ quan thuế theo quy định của pháp luật.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 20 Khoản 1: Tài khoản thanh toán bị phong tỏa khi có yêu cầu bằng văn bản của cơ quan có thẩm quyền theo quy định của pháp luật."
+  },
+  {
+    "id": "Q026",
+    "question": "Tổ chức mở tài khoản thanh toán tại ngân hàng cần phải cung cấp các giấy tờ pháp lý nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "12",
+        "clause_id": "2"
+      }
+    ],
+    "reference_answer": "Quyết định thành lập, Giấy chứng nhận đăng ký doanh nghiệp, giấy tờ xác minh nhân thân của người đại diện theo pháp luật và kế toán trưởng.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 12 Khoản 2: Hồ sơ mở tài khoản thanh toán của tổ chức gồm giấy tờ chứng minh tổ chức được thành lập hợp pháp và giấy tờ nhân thân của người đại diện hợp pháp."
+  },
+  {
+    "id": "Q027",
+    "question": "Chủ tài khoản thanh toán có các quyền cơ bản nào đối với số tiền trên tài khoản?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "7",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Quyền sử dụng số tiền trên tài khoản để thực hiện lệnh thanh toán, chuyển tiền, rút tiền mặt hợp pháp và hưởng lãi suất tiền gửi không kỳ hạn theo biểu phí của ngân hàng.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 7: Chủ tài khoản có quyền tự do sử dụng số tiền trên tài khoản thanh toán để thực hiện các giao dịch thanh toán hợp pháp và yêu cầu ngân hàng cung cấp thông tin tài khoản."
+  },
+  {
+    "id": "Q028",
+    "question": "Việc sử dụng tài khoản thanh toán để thực hiện các giao dịch rửa tiền, tài trợ khủng bố bị xử lý ra sao?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-17-2024-tt-nhnn-40112"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "5",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Bị nghiêm cấm tuyệt đối; ngân hàng có quyền đóng tài khoản, phong tỏa tài khoản và báo cáo Cục Phòng chống rửa tiền (NHNN) cùng cơ quan công an.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 5: Bị cấm thực hiện các hành vi gian lận, mạo danh, cho mượn tài khoản thanh toán để rửa tiền, tài trợ khủng bố hoặc vi phạm pháp luật."
+  },
+  {
+    "id": "Q029",
+    "question": "Tổ chức tín dụng có được cho vay bằng ngoại tệ đối với nhu cầu vốn thanh toán trong nước không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "39/2016/TT-NHNN",
+        "article_id": "3",
+        "clause_id": null
+      },
+      {
+        "doc_id": "39/2016/TT-NHNN",
+        "article_id": "3",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Theo Điều 3 Thông tư 39/2016/TT-NHNN, TCTD không được cho vay bằng ngoại tệ để thanh toán tiền hàng hóa dịch vụ trong nước, trừ trường hợp ngoại lệ quy định tại Thông tư của NHNN.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 3: Tổ chức tín dụng chỉ được cho vay bằng ngoại tệ đối với các nhu cầu vốn quy định tại Thông tư của NHNN quy định về cho vay bằng ngoại tệ."
+  },
+  {
+    "id": "Q030",
+    "question": "Mức lãi suất cho vay ngắn hạn tối đa bằng đồng Việt Nam được áp dụng cho các lĩnh vực ưu tiên nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "13",
+        "clause_id": "2"
+      }
+    ],
+    "reference_answer": "Áp dụng cho 5 lĩnh vực ưu tiên: Nông nghiệp nông thôn, xuất khẩu, doanh nghiệp nhỏ và vừa, công nghiệp hỗ trợ, doanh nghiệp ứng dụng công nghệ cao theo quyết định của Thống đốc NHNN.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 13 Khoản 2: Lãi suất cho vay ngắn hạn bằng đồng Việt Nam đối với các nhu cầu vốn phục vụ lĩnh vực ưu tiên không vượt quá mức lãi suất tối đa do Thống đốc NHNN quyết định."
+  },
+  {
+    "id": "Q031",
+    "question": "Mức phí phạt chậm trả lãi vay được thỏa thuận tối đa là bao nhiêu %/năm trên số tiền lãi chậm trả?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "39/2016/TT-NHNN",
+        "article_id": "13",
+        "clause_id": "4"
+      },
+      {
+        "doc_id": "39/2016/TT-NHNN",
+        "article_id": "13",
+        "clause_id": "4"
+      }
+    ],
+    "reference_answer": "Theo Khoản 4 Điều 13 Thông tư 39/2016/TT-NHNN, trường hợp khách hàng chậm trả tiền lãi thì phải trả lãi chậm trả theo mức thỏa thuận nhưng không vượt quá 10%/năm trên số tiền lãi chậm trả.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 13 Khoản 4: Trường hợp khách hàng không trả đúng hạn tiền lãi, khách hàng phải trả lãi chậm trả theo mức lãi suất thỏa thuận nhưng không vượt quá 10%/năm trên số tiền lãi chậm trả."
+  },
+  {
+    "id": "Q032",
+    "question": "Khi khoản nợ gốc bị quá hạn, mức lãi suất áp dụng đối với nợ gốc quá hạn tối đa là bao nhiêu %?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "13",
+        "clause_id": "4"
+      }
+    ],
+    "reference_answer": "Mức lãi suất áp dụng đối với nợ gốc quá hạn do các bên thỏa thuận nhưng không vượt quá 150% lãi suất cho vay trong hạn tại thời điểm chuyển quá hạn.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 13 Khoản 4 Điểm b: Lãi suất áp dụng đối với nợ gốc quá hạn do các bên thỏa thuận nhưng không vượt quá 150% lãi suất cho vay trong hạn tại thời điểm chuyển nợ quá hạn."
+  },
+  {
+    "id": "Q033",
+    "question": "Khách hàng vay vốn tại TCTD phải đáp ứng các điều kiện vay vốn cơ bản nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "7",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Khách hàng là cá nhân/pháp nhân có năng lực hành vi dân sự, có mục đích sử dụng vốn hợp pháp, và có phương án sử dụng vốn khả thi, có khả năng tài chính để trả nợ.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 7: Tổ chức tín dụng xem xét quyết định cho vay khi khách hàng có đủ điều kiện: 1. Có năng lực hành vi dân sự; 2. Nhu cầu vay vốn hợp pháp; 3. Có phương án sử dụng vốn khả thi..."
+  },
+  {
+    "id": "Q034",
+    "question": "TCTD không được cho vay đối với các nhu cầu vốn nào theo Thông tư 39/2016/TT-NHNN?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "8",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Không cho vay để thực hiện các hoạt động đầu tư cấm theo Luật Đầu tư, mua hàng hóa dịch vụ bị cấm, mua vàng miếng, thanh toán tiền đảo nợ trái quy định.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 8: Các nhu cầu vốn không được cho vay: 1. Để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm đầu tư kinh doanh; 2. Để thanh toán các chi phí mua hàng hóa cấm..."
+  },
+  {
+    "id": "Q035",
+    "question": "Hợp đồng cho vay giữa TCTD và khách hàng bắt buộc phải được lập thành hình thức nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "23",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Hợp đồng cho vay bắt buộc phải được lập thành văn bản phù hợp với quy định của pháp luật.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 23: Thỏa thuận cho vay phải được lập thành văn bản thỏa thuận cho vay giữa tổ chức tín dụng và khách hàng."
+  },
+  {
+    "id": "Q036",
+    "question": "TCTD có quyền kiểm tra, giám sát việc sử dụng vốn vay của khách hàng như thế nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "24",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "TCTD có quyền và nghĩa vụ kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng; khách hàng có nghĩa vụ phối hợp và cung cấp chứng từ chứng minh sử dụng vốn.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 24: Tổ chức tín dụng có quyền, nghĩa vụ kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng theo quy định."
+  },
+  {
+    "id": "Q037",
+    "question": "Khách hàng vay vốn có được quyền trả nợ trước hạn không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "14",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Có, khách hàng có quyền trả nợ trước hạn một phần hoặc toàn bộ khoản vay theo thỏa thuận trong hợp đồng cho vay và trả phí trả nợ trước hạn (nếu có).",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 14: Tổ chức tín dụng và khách hàng thỏa thuận về việc trả nợ trước hạn và phí trả nợ trước hạn theo quy định."
+  },
+  {
+    "id": "Q038",
+    "question": "TCTD xử lý như thế nào khi khách hàng không trả được nợ đúng hạn và không được gia hạn nợ?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://congbao.chinhphu.vn/van-ban/thong-tu-so-39-2016-tt-nhnn-24653"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "20",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "TCTD có quyền chuyển toàn bộ dư nợ gốc sang nợ quá hạn, áp dụng lãi suất quá hạn và thực hiện các biện pháp thu hồi nợ, xử lý tài sản bảo đảm.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 20: Trường hợp khách hàng không trả được nợ đúng hạn và không được gia hạn nợ, TCTD thực hiện chuyển nợ quá hạn và xử lý tài sản bảo đảm để thu hồi nợ."
+  },
+  {
+    "id": "Q039",
+    "question": "Tỷ lệ tối đa của nguồn vốn ngắn hạn được sử dụng để cho vay trung và dài hạn áp dụng từ 01/10/2023 là bao nhiêu %?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "22/2023/TT-NHNN",
+        "article_id": "16",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Theo Thông tư 22/2023/TT-NHNN, tỷ lệ tối đa nguồn vốn ngắn hạn được sử dụng để cho vay trung và dài hạn của ngân hàng thương mại là 30%.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 16: Tỷ lệ tối đa của nguồn vốn ngắn hạn được sử dụng để cho vay trung và dài hạn áp dụng từ ngày 01/10/2023 là 30%."
+  },
+  {
+    "id": "Q040",
+    "question": "Tỷ lệ an toàn vốn tối thiểu (CAR) mà ngân hàng thương mại bắt buộc phải duy trì theo quy định là bao nhiêu %?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "9",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Ngân hàng thương mại phải duy trì tỷ lệ an toàn vốn tối thiểu 8% tính giữa vốn tự có và tổng tài sản có rủi ro.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 9: Ngân hàng, chi nhánh ngân hàng nước ngoài phải duy trì tỷ lệ an toàn vốn tối thiểu 8% xác định trên cơ sở vốn tự có và tài sản có rủi ro."
+  },
+  {
+    "id": "Q041",
+    "question": "Tỷ lệ dư nợ cho vay so với tổng tiền gửi (LDR - Loan to Deposit Ratio) tối đa của ngân hàng thương mại là bao nhiêu?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "20",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Ngân hàng thương mại phải duy trì tỷ lệ dư nợ cho vay so với tổng tiền gửi tối đa là 85%.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 20: Ngân hàng thương mại, chi nhánh ngân hàng nước ngoài phải duy trì tỷ lệ dư nợ cho vay so với tổng tiền gửi tối đa là 85%."
+  },
+  {
+    "id": "Q042",
+    "question": "Tỷ lệ khả năng thanh khoản trong thời hạn 30 ngày của ngân hàng thương mại được quy định ra sao?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "15",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Ngân hàng phải nắm giữ tài sản có tính thanh khoản cao để đảm bảo tỷ lệ khả năng thanh khoản tối thiểu 50% đối với đồng Việt Nam.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 15: Tỷ lệ khả năng thanh khoản trong 30 ngày đối với đồng Việt Nam tối thiểu là 50%."
+  },
+  {
+    "id": "Q043",
+    "question": "Tổng số dư cấp tín dụng để đầu tư, kinh doanh cổ phiếu của ngân hàng thương mại tối đa là bao nhiêu % vốn điều lệ?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "18",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Không được vượt quá 5% vốn điều lệ, vốn được cấp của ngân hàng thương mại.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 18: Tổng số dư cấp tín dụng để đầu tư, kinh doanh cổ phiếu không được vượt quá 5% vốn điều lệ, vốn được cấp của ngân hàng thương mại."
+  },
+  {
+    "id": "Q044",
+    "question": "Trường hợp ngân hàng vi phạm các tỷ lệ an toàn tài chính thì Ngân hàng Nhà nước xử lý như thế nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "22",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "NHNN áp dụng các biện pháp can thiệp sớm, hạn chế tăng trưởng tín dụng, hạn chế chia cổ tức hoặc đưa vào kiểm soát đặc biệt.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 22: Khi ngân hàng không duy trì được các tỷ lệ an toàn, NHNN áp dụng biện pháp xử lý theo quy định về kiểm soát đặc biệt và can thiệp sớm."
+  },
+  {
+    "id": "Q045",
+    "question": "Hệ số rủi ro đối với khoản cho vay thế chấp nhà ở thương mại được phân loại theo tỷ lệ LTV (Loan-to-Value) như thế nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "11",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Hệ số rủi ro dao động từ 30% đến 100% tùy thuộc vào tỷ lệ bảo đảm LTV và tỷ lệ thu nhập trả nợ DTI của khách hàng vay.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 11: Tài sản có rủi ro đối với khoản cho vay thế chấp nhà ở được gán hệ số rủi ro từ 30% đến 100% dựa trên tỷ lệ LTV và DTI."
+  },
+  {
+    "id": "Q046",
+    "question": "Vốn cấp 1 của ngân hàng thương mại gồm những khoản mục tiền gửi/quỹ nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "8",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Vốn điều lệ, quỹ dự trữ bổ sung vốn điều lệ, quỹ đầu tư phát triển, lợi nhuận giữ lại chưa phân phối sau khi trừ đi các khoản đầu tư góp vốn.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 8 Khoản 1: Vốn cấp 1 bao gồm vốn điều lệ, quỹ dự trữ bổ sung vốn điều lệ, quỹ đầu tư phát triển và lợi nhuận sau thuế chưa phân phối."
+  },
+  {
+    "id": "Q047",
+    "question": "Nguồn vốn ngắn hạn dùng để tính tỷ lệ cho vay trung dài hạn gồm những nguồn nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "16",
+        "clause_id": "2"
+      }
+    ],
+    "reference_answer": "Tiền gửi không kỳ hạn, tiền gửi có kỳ hạn dưới 1 năm của cá nhân, tổ chức và các khoản vay TCTD khác dưới 12 tháng.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 16 Khoản 2: Nguồn vốn ngắn hạn bao gồm các khoản tiền gửi và tiền vay có thời hạn còn lại đến 01 năm."
+  },
+  {
+    "id": "Q048",
+    "question": "Giới hạn góp vốn, mua cổ phần của một ngân hàng thương mại vào một doanh nghiệp là bao nhiêu % vốn điều lệ doanh nghiệp đó?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/12/thong-tu-22-2023-tt-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "19",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Không được vượt quá 11% vốn điều lệ của doanh nghiệp nhận vốn góp.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 19: Mức góp vốn, mua cổ phần của một ngân hàng thương mại vào một doanh nghiệp không được vượt quá 11% vốn điều lệ của doanh nghiệp đó."
+  },
+  {
+    "id": "Q049",
+    "question": "Hiệu lực đối kháng với người thứ ba của thế chấp quyền sử dụng đất, tài sản gắn liền với đất phát sinh từ thời điểm nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "23",
+        "clause_id": "1"
+      }
+    ],
+    "reference_answer": "Phát sinh từ thời điểm đăng ký thế chấp tại cơ quan đăng ký đất đai (Văn phòng đăng ký đất đai).",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 23 Khoản 1: Biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất phát sinh hiệu lực đối kháng với người thứ ba từ thời điểm đăng ký tại cơ quan đăng ký đất đai."
+  },
+  {
+    "id": "Q050",
+    "question": "Thứ tự ưu tiên thanh toán giữa các bên cùng nhận thế chấp một tài sản tại ngân hàng được xác định ra sao?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "27",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Căn cứ theo thứ tự phát sinh hiệu lực đối kháng với người thứ ba (thời điểm đăng ký giao dịch bảo đảm).",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 27: Thứ tự ưu tiên thanh toán giữa các bên cùng nhận thế chấp được xác định theo thứ tự hiệu lực đối kháng với người thứ ba."
+  },
+  {
+    "id": "Q051",
+    "question": "Ngân hàng xử lý tài sản thế chấp theo các phương thức nào khi bên vay không trả được nợ?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "49",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Bán tài sản thế chấp (bán đấu giá hoặc bán thỏa thuận), ngân hàng nhận chính tài sản thế chấp để thay thế cho việc thực hiện nghĩa vụ, hoặc phương thức khác do các bên thỏa thuận.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 49: Phương thức xử lý tài sản thế chấp: 1. Bán tài sản thế chấp; 2. Bên nhận thế chấp nhận chính tài sản thế chấp để thay thế việc thực hiện nghĩa vụ; 3. Phương thức khác."
+  },
+  {
+    "id": "Q052",
+    "question": "Quyền thu hồi tài sản thế chấp của ngân hàng để xử lý nợ được quy định như thế nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "52",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Ngân hàng có quyền thu giữ tài sản thế chấp nếu trong hợp đồng thế chấp các bên có thỏa thuận về quyền thu giữ tài sản khi đến hạn xử lý.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 52: Bên nhận thế chấp có quyền thu giữ tài sản thế chấp để xử lý nếu trong hợp đồng thế chấp có thỏa thuận về việc bên nhận thế chấp được quyền thu giữ."
+  },
+  {
+    "id": "Q053",
+    "question": "Tài sản hình thành trong tương lai có được dùng làm tài sản thế chấp vay vốn ngân hàng không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "14",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Có, tài sản hình thành trong tương lai (như nhà ở hình thành trong tương lai, máy móc thiết bị đang mua sắm) hoàn toàn được dùng làm tài sản thế chấp.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 14: Tài sản dùng để bảo đảm thực hiện nghĩa vụ bao gồm tài sản hiện có hoặc tài sản hình thành trong tương lai."
+  },
+  {
+    "id": "Q054",
+    "question": "Việc thế chấp tài sản thuộc sở hữu chung của vợ chồng tại ngân hàng đòi hỏi điều kiện gì?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "15",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Phải có sự đồng ý bằng văn bản của cả vợ và chồng, trừ trường hợp có thỏa thuận tài sản riêng.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 15: Việc dùng tài sản chung của vợ chồng để thế chấp phải được sự đồng ý bằng văn bản của cả vợ và chồng."
+  },
+  {
+    "id": "Q055",
+    "question": "Khi xử lý tài sản thế chấp, số tiền thu được sau khi trừ chi phí xử lý được phân chia như thế nào?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "55",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Được ưu tiên thanh toán gốc và lãi khoản vay cho ngân hàng; số tiền còn thừa (nếu có) phải trả lại cho bên thế chấp.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 55: Số tiền thu được từ việc xử lý tài sản thế chấp sau khi thanh toán chi phí xử lý tài sản được dùng để thanh toán nghĩa vụ nợ cho bên nhận thế chấp; số tiền thừa được trả lại cho bên thế chấp."
+  },
+  {
+    "id": "Q056",
+    "question": "Tài sản thế chấp bị tổn thất, giảm sút giá trị thì ngân hàng có quyền yêu cầu gì?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "35",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Ngân hàng có quyền yêu cầu bên thế chấp bổ sung tài sản thế chấp khác hoặc giảm số tiền cho vay tương ứng.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 35: Trường hợp tài sản thế chấp bị giảm sút giá trị, bên nhận thế chấp có quyền yêu cầu bên thế chấp bổ sung tài sản bảo đảm hoặc thay thế tài sản bảo đảm khác."
+  },
+  {
+    "id": "Q057",
+    "question": "Hợp đồng thế chấp tài sản ngân hàng có bắt buộc phải công chứng, chứng thực không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "22",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Bắt buộc phải công chứng hoặc chứng thực đối với hợp đồng thế chấp quyền sử dụng đất, nhà ở; các tài sản khác thực hiện theo thỏa thuận hoặc quy định chuyên ngành.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 22: Hợp đồng thế chấp bất động sản, quyền sử dụng đất phải được công chứng, chứng thực theo quy định của Luật Đất đai, Luật Nhà ở."
+  },
+  {
+    "id": "Q058",
+    "question": "Trường hợp bên thế chấp đem tài sản đã thế chấp tại ngân hàng đi bán cho người khác mà không được ngân hàng đồng ý thì xử lý ra sao?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://thuvienphapluat.vn/van-ban/Giao-dich-bao-dam/Nghi-dinh-21-2021-ND-CP-thi-hanh-Bo-luat-Dan-su-ve-bao-dam-thuc-hien-nghia-vu-468798.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "UNKNOWN",
+        "article_id": "34",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "Giao dịch mua bán đó bị vô hiệu, trừ trường hợp tài sản thế chấp là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh.",
+    "category": "factual",
+    "author": "Thành",
+    "ground_truth_context": "Điều 34: Bên thế chấp không được bán tài sản thế chấp nếu không được bên nhận thế chấp đồng ý, trừ trường hợp tài sản thế chấp là hàng hóa luân chuyển."
+  },
+  {
+    "id": "Q059",
+    "question": "Đơn vị là một PGD của MBBank theo Giấy phép do Ngân hàng nhà nước cấp. Khách hàng hiện đang có dư nợ vay 800 triệu đồng tại Đơn vị. Hiện tại Khách hàng đang đề xuất cấp tín dụng bổ sung tại Đơn vị với số tiền là 1,8 tỷ đồng, các khoản vay này được bảo đảm bằng bất động sản. Theo quy định của pháp luật, Đơn vị hiểu là PGD không được cho vay đối với KH với giá trị khoản vay trên 02 tỷ đồng, Đơn vị muốn hỏi, giới hạn 02 tỷ đồng nêu trên được tính cho một khoản vay hay tổng giá trị tất cả các khoản vay của KH tại PGD? Trường hợp này Đơn vị có thể tiếp tục cấp tín dụng cho KH theo đề xuất không hay phải chuyển về CN?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://vanban.chinhphu.vn/?pageid=27160&docid=211190\n\nhttps://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/61-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "61/2025/TT-NHNN",
+        "article_id": "3",
+        "clause_id": "3"
+      },
+      {
+        "doc_id": "61/2025/TT-NHNN",
+        "article_id": "3",
+        "clause_id": "3"
+      }
+    ],
+    "reference_answer": "1. Căn cứ:\n- Luật các Tổ chức tín dụng 2024;\n- Thông tư 61/2025/TT-NHNN quy định về mạng lưới hoạt động của ngân hàng thương mại.\n2. Đánh giá về pháp lý:\n- Khoản 3 Điều 3 Thông tư 61/2025/TT-NHNN quy định: Phòng giao dịch là loại hình chi nhánh, được quản lý bởi một chi nhánh ở trong nước của ngân hàng thương mại, hạch toán báo số, có con dấu, có địa điểm đặt trụ sở trên địa bàn tỉnh, thành phố trực thuộc Trung ương nơi đặt trụ sở chi nhánh quản lý. Phòng giao dịch không được thực hiện:\n+ Phê duyệt, quyết định cấp tín dụng cho một khách hàng vượt quá hai (02) tỷ đồng Việt Nam hoặc ngoại tệ quy đổi tương đương, trừ trường hợp khoản cấp tín dụng được đảm bảo toàn bộ bằng tiền, thẻ tiết kiệm, giấy tờ có giá do chính ngân hàng thương mại phát hành, trái phiếu chính phủ, tín phiếu kho bạc nhà nước;\n+ Cung cấp dịch vụ thanh toán, chuyển tiền quốc tế.\nTheo quy định pháp luật nêu trên, giới hạn cấp tín dụng trên 02 tỷ đồng đối với PGD sẽ được loại trừ trong trường hợp khoản cấp tín dụng được đảm bảo toàn bộ bằng tiền, thẻ tiết kiệm, giấy tờ có giá do chính VPBank phát hành, trái phiếu chính phủ, tín phiếu kho bạc nhà nước.\n-Theo QnA hiểu giới hạn về việc PGD không được quyết định cấp tín dụng vượt quá 02 tỷ đồng cho một KH được xác định dựa trên tổng giá trị cấp tín dụng của tất cả các khoản tín dụng cấp cho KH.\n- Như vậy, trường hợp Khách hàng của Đơn vị, nếu cộng tổng giá trị hai khoản cấp tín dụng thì sẽ vượt quá mức 02 tỷ đồng. Theo đó, Đơn vị sẽ không đủ điều kiện để cấp tiếp khoản tín dụng thứ hai cho KH.\n3. Kết luận: \n- Trong trường hợp KH của Đơn vị có các khoản cấp tín dụng đã được cấp và các khoản tín dụng dự kiến được cấp là vượt quá 2 tỷ đồng thì:\n+ Hợp đồng cho vay cần được chuyển lên CN ký và đóng dấu;\n+ Các văn bản còn lại được ký tại PGD.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 3:\nPhòng giao dịch là loại hình chi nhánh, được quản lý bởi một chi nhánh ở trong nước của ngân hàng thương mại, hạch toán báo sổ, có con dấu, có địa điểm đặt trụ sở trên địa bàn tỉnh, thành phố trực thuộc Trung ương nơi đặt trụ sở chi nhánh quản lý. Phòng giao dịch không được thực hiện:\n\na) Phê duyệt, quyết định cấp tín dụng cho một khách hàng vượt quá hai (02) tỷ đồng Việt Nam (sau đây gọi tắt là đồng) hoặc ngoại tệ quy đổi tương đương, trừ trường hợp khoản cấp tín dụng được đảm bảo toàn bộ bằng tiền, thẻ tiết kiệm, giấy tờ có giá do chính ngân hàng thương mại phát hành, trái phiếu chính phủ, tín phiếu kho bạc nhà nước;\n\nb) Cung cấp dịch vụ thanh toán quốc tế."
+  },
+  {
+    "id": "Q060",
+    "question": "Khoản vay của Khách hàng có giá trị trên 2 tỷ đồng ban đầu được cấp bởi PGD do được bảo đảm 100% bằng tiền gửi tiết kiệm, nay KH đổi chấp tài sản bảo đảm từ tiền gửi tiết kiệm thành bất động sản. Đơn vị muốn hỏi trường hợp này khoản vay có cần phải chuyển lên CN để quản lý không, Đơn vị có cần thực hiện bổ sung các thủ tục nào với KH để đảm bảo tuân thủ quy định của pháp luật về mạng lưới của ngân hàng thương mại không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://vanban.chinhphu.vn/?pageid=27160&docid=211190\n\nhttps://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/61-nhnn.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "61/2025/TT-NHNN",
+        "article_id": "3",
+        "clause_id": "3"
+      },
+      {
+        "doc_id": "61/2025/TT-NHNN",
+        "article_id": "3",
+        "clause_id": "3"
+      }
+    ],
+    "reference_answer": "1. Căn cứ:\n- Luật các Tổ chức tín dụng 2024;\n- Thông tư 61/2025/TT-NHNN quy định về mạng lưới hoạt động của ngân hàng thương mại.\n2. Đánh giá về pháp lý:\n- Khoản 3, Điều 3, Thông tư 61/2025/TT-NHNN, Phòng giao dịch là loại hình chi nhánh, được quản lý bởi một chi nhánh ở trong nước của ngân hàng thương mại, hạch toán báo số, có con dấu, có địa điểm đặt trụ sở trên địa bàn tỉnh, thành phố trực thuộc Trung ương nơi đặt trụ sở chi nhánh quản lý. Phòng giao dịch không được thực hiện:\n+ Phê duyệt, quyết định cấp tín dụng cho một khách hàng vượt quá hai (02) tỷ đồng Việt Nam hoặc ngoại tệ quy đổi tương đương, trừ trường hợp khoản cấp tín dụng được đảm bảo toàn bộ bằng tiền, thẻ tiết kiệm, giấy tờ có giá do chính ngân hàng thương mại phát hành, trái phiếu chính phủ, tín phiếu kho bạc nhà nước;\n+ Cung cấp dịch vụ thanh toán, chuyển tiền quốc tế.\n- Trường hợp này, tại thời điểm quyết định cấp tín dụng, việc PGD cấp khoản vay trên 2 tỷ đồng cho KH là phù hợp với quy định của pháp luật do khoản vay được bảo đảm 100% bằng tiền gửi tiết kiệm.\n- Khi khoản vay có sự thay đổi về TSBĐ từ tiền gửi thành bất động sản, tính chất an toàn của khoản vay đã thay đổi. Theo đó QA hiểu rằng PGD sẽ không được phê duyệt việc đổi chấp tài sản này.\n3. Kết luận: \n- Với các trường hợp nêu trên QA kiến nghị:\n+ Trường hợp Ngân hàng có quy định nội bộ hướng dẫn xử lý hoặc cấp phê duyệt có phê duyệt xử lý vấn đề trên, Đơn vị thực hiện theo đúng quy định nội bộ/phê duyệt của cấp có thẩm quyền; hoặc\n+ Trường hợp không có hướng dẫn nội bộ/phê duyệt của cấp có thẩm quyền, theo QA, Đơn vị cần xem xét xử lý dưới hai góc độ sau:\n(i) Về nội bộ: Yêu cầu đổi chấp tài sản của Khách hàng cần được chuyển về Chi nhánh hoặc cấp phê duyệt cao hơn (tùy thẩm quyền phê duyệt trong từng thời kỳ) để thực hiện việc phê duyệt đổi chấp tài sản bảo đảm; \n(ii) Với Khách hàng: PGD tiếp tục quản lý khoản vay KH.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 3:\nPhòng giao dịch là loại hình chi nhánh, được quản lý bởi một chi nhánh ở trong nước của ngân hàng thương mại, hạch toán báo sổ, có con dấu, có địa điểm đặt trụ sở trên địa bàn tỉnh, thành phố trực thuộc Trung ương nơi đặt trụ sở chi nhánh quản lý. Phòng giao dịch không được thực hiện:\n\na) Phê duyệt, quyết định cấp tín dụng cho một khách hàng vượt quá hai (02) tỷ đồng Việt Nam (sau đây gọi tắt là đồng) hoặc ngoại tệ quy đổi tương đương, trừ trường hợp khoản cấp tín dụng được đảm bảo toàn bộ bằng tiền, thẻ tiết kiệm, giấy tờ có giá do chính ngân hàng thương mại phát hành, trái phiếu chính phủ, tín phiếu kho bạc nhà nước;\n\nb) Cung cấp dịch vụ thanh toán quốc tế."
+  },
+  {
+    "id": "Q061",
+    "question": "Để phối hợp chặt chẽ với các Đối tác (chủ đầu tư bất động sản, showroom ô tô, ...) trong hoạt động cho vay đối với KH mua sản phẩm của Đối tác, Đơn vị mong muốn ký hợp đồng thuê một diện tích mặt bằng nhỏ tại Đối tác, cán bộ của TPBank sẽ đến địa điểm này để tư vấn, giới thiệu sản phẩm cho vay của TPBank, thu thập, xử lý hồ sơ vay vốn cho Khách hàng. Đơn vị muốn hỏi, dự định triển khai như của Đơn vị nêu trên có vướng mắc gì về pháp lý hay không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/61-nhnn.pdf\n\n\n\nhttps://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-276-NHNN-TTGSNH-2017-chuyen-dat-bo-phan-nghiep-vu-khong-giao-dich-truc-tiep-357634.aspx"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "61/2025/TT-NHNN",
+        "article_id": "3",
+        "clause_id": null
+      },
+      {
+        "doc_id": "61/2025/TT-NHNN",
+        "article_id": "3",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "1. Căn cứ:\n- Thông tư 61/2025/TT-NHNN quy định về mạng lưới hoạt động của ngân hàng thương mại;\n- Công văn số 276/NHNN- TGSNH về việc chuyển hoặc đặt một hoặc một số bộ phận nghiệp vụ không giao dịch trực tiếp với khách hàng ra ngoài trụ sở TCTD, CNNHNNg.\n2. Đánh giá về pháp lý:\n- Điều 3 Thông tư 61/2025/TT-NHNN quy định về mạng lưới hoạt động của Ngân hàng thương mại chỉ bao gồm chi nhánh, phòng giao dịch, văn phòng đại diện, đơn vị sự nghiệp ở trong nước; chi nhánh, văn phòng đại diện, ngân hàng 100% vốn ở nước ngoài theo quy định của pháp luật. Theo đó, việc TPBank thuê văn phòng/địa điểm từ Đối tác để đặt làm văn phòng – nơi làm việc của các cán bộ bán hàng ngoài địa điểm các Chi nhánh/Phòng Giao dịch theo PC là không bảo đảm tuân thủ hoàn toàn quy định của pháp luật.\n- Theo Công văn số 276/NHNN-TTGSNH của NHNN, TCTD có thể đặt một, một số bộ phận nghiệp vụ không giao dịch trực tiếp với Khách hàng ngoài địa điểm trụ sở của TCTD nhưng phải bảo đảm một số điều kiện về vị trí, an ninh, hệ thống thông tin. Theo đó, TCTD phải thông báo cho NHNN về địa điểm này, đồng thời không được giao dịch hoặc thực hiện bất kỳ hoạt động kinh doanh nào ở đây. QA thấy loại hình địa điểm của bộ phận nghiệp vụ này không đáp ứng được yêu cầu của Đơn vị.\n3. Kết luận:  \n- Việc TPBank ký kết Hợp đồng thuê địa điểm tại các Đối tác để phục vụ cho các mục đích như Đơn vị đề xuất là không phù hợp và có rủi ro, rủi ro này bao gồm: (i) Rủi ro vi phạm quy định của pháp luật về mạng lưới hoạt động của TPBank; (ii) Rủi ro khoản tiền thuê địa điểm không được hạch toán vào chi phí hợp lý của TPBank.\nVới các vấn đề pháp lý nêu trên, QA đề nghị Đơn vị trao đổi với Đối tác để thực hiện hợp tác theo hướng Cán bộ nhân viên của Đơn vị sẽ đến trực tiếp tại Đối tác để chào bán, tư vấn sản phẩm tín dụng của TPBank cho KH, với các KH có nhu cầu sử dụng sản phẩm, hồ sơ KH sẽ được chuyển về CN, PGD gần nhất để xử lý.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "TT61 - Điều 3:\nPhòng giao dịch là loại hình chi nhánh, được quản lý bởi một chi nhánh ở trong nước của ngân hàng thương mại, hạch toán báo sổ, có con dấu, có địa điểm đặt trụ sở trên địa bàn tỉnh, thành phố trực thuộc Trung ương nơi đặt trụ sở chi nhánh quản lý. Phòng giao dịch không được thực hiện:\n\na) Phê duyệt, quyết định cấp tín dụng cho một khách hàng vượt quá hai (02) tỷ đồng Việt Nam (sau đây gọi tắt là đồng) hoặc ngoại tệ quy đổi tương đương, trừ trường hợp khoản cấp tín dụng được đảm bảo toàn bộ bằng tiền, thẻ tiết kiệm, giấy tờ có giá do chính ngân hàng thương mại phát hành, trái phiếu chính phủ, tín phiếu kho bạc nhà nước;\n\nb) Cung cấp dịch vụ thanh toán quốc tế.\n\nTại CV276: \n1. Địa điểm của các bộ phận nghiệp vụ của các TCTD, CNNHNNg có đề nghị chuyển hoặc đặt một, một số bộ phận nghiệp vụ không giao dịch trực tiếp với khách hàng ngoài địa điểm trụ sở phải đảm bảo các điều kiện sau:\n\na) Phải ở trên lãnh thổ Việt Nam, tại một địa chỉ xác định có số phòng (nếu có), số tầng, tên tòa nhà (đối với các tòa nhà văn phòng cho thuê), số nhà, tên phố (ngõ phố) hoặc tên xã, phường, thị trấn, huyện, quận, thị xã, thành phố trực thuộc tỉnh, tỉnh, thành phố trực thuộc trung ương; số điện thoại, số fax;\n\nb) Đáp ứng các điều kiện về an ninh; điều kiện, tiêu chuẩn về lưu trữ chứng từ, phòng chống cháy nổ và các quy định khác có liên quan theo quy định của pháp luật đối với các bộ phận nghiệp vụ cụ thể được chuyển ra ngoài trụ sở chính;\n\nc) Có hệ thống thông tin quản lý kết nối trực tuyến với trụ sở chính."
+  },
+  {
+    "id": "Q062",
+    "question": "Một KH là người nước ngoài cư trú tại Việt Nam muốn gửi tiền tiết kiệm bằng USD tại TCB. Đơn vị muốn hỏi, Đơn vị có thể nhận tiền gửi theo yêu cầu của KH được không? Trường hợp KH này không gửi được, KH có thể ủy quyền cho vợ KH là công dân Việt Nam gửi tiền không?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2013/08/6pl.pdf\n\n\nhttps://datafiles.chinhphu.vn/cpp/files/vbpq/2019/01/48-nhnn.pdf\n\nhttps://datafiles.chinhphu.vn/cpp/files/vbpq/2014/07/nd-70.signed.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "3",
+        "clause_id": null
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "3",
+        "clause_id": null
+      }
+    ],
+    "reference_answer": "1. Căn cứ:\n- Pháp lệnh sửa đổi Pháp lệnh ngoại hối năm 2013;\n- Thông tư 48/2018/TT-NHNN quy định về tiền gửi tiết kiệm;\n- Nghị định 70/2014/NĐ-CP quy định chi tiết thi hành một số điều của Pháp lệnh ngoại hối và Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh ngoại hối.\n2. Đánh giá về pháp lý:\n- Về việc Đơn vị có thể nhận tiền gửi tiết kiệm ngoại tệ theo yêu cầu của Khách hàng: \n+ Điều 3 Thông tư 48/2018/TT-NHNN thì đối tượng được gửi tiền tiết kiệm là Công dân Việt Nam. Do vậy, trong trường hợp nêu trên, KH là người nước ngoài đang cư trú tại Việt Nam nhưng lại không phải là công dân Việt Nam nên KH không thuộc đối tượng được gửi tiết kiệm tại TCB.\n- Về việc Khách hàng ủy quyền cho vợ của Khách hàng là công dân Việt Nam gửi tiền tiết kiệm: \n+ Do Khách hàng không thuộc đối tượng được gửi tiền tiết kiệm ngoại tệ tại Việt Nam hay nói cách khác, về pháp lý KH không có quyền gửi tiết kiệm tại Việt Nam nên KH không thể ủy quyền thực hiện việc này cho người khác. \n3. Kết luận: \n- Trường hợp này, TCB không thể đồng ý nhận tiền gửi tiết kiệm từ Khách hàng theo cơ chế ủy quyền mà KH đề xuất. Theo đó, Đơn vị trao đổi lại với KH về các vướng mắc pháp lý nêu trên để KH tìm kiếm giải pháp khác phù hợp (Ví dụ: KH tặng cho vợ để người vợ đứng tên gửi tiết kiệm số tiền này) hoặc chuyển sang hình thức tiền gửi có kỳ hạn.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 3 TT 48:  Người gửi tiền\n\nCông dân Việt Nam từ đủ 18 tuổi trở lên có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật.\nCông dân Việt Nam từ đủ 15 tuổi đến chưa đủ 18 tuổi không bị hạn chế năng lực hành vi dân sự hoặc không mất năng lực hành vi dân sự theo quy định của pháp luật.\nCông dân Việt Nam bị hạn chế năng lực hành vi dân sự hoặc mất năng lực hành vi dân sự theo quy định của pháp luật hoặc chưa đủ 15 tuổi thực hiện giao dịch tiền gửi tiết kiệm thông qua người đại diện theo pháp luật; Công dân Việt Nam có khó khăn trong nhận thức, làm chủ hành vi theo quy định của pháp luật thực hiện giao dịch tiền gửi tiết kiệm thông qua người giám hộ."
+  },
+  {
+    "id": "Q063",
+    "question": "KH gửi tiền tiết kiệm tại Ngân hàng hiện tại bị hôn mê, không còn khả năng nhận thức và ký chứng từ. Vậy, cần những thủ tục, giấy tờ gì để gia đình Khách hàng rút tiền tiết kiệm phù hợp quy định pháp luật?",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2019/01/48-nhnn.pdf\n\n\n\nhttps://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "35",
+        "clause_id": "2"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "53",
+        "clause_id": "2"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "53",
+        "clause_id": "2"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "48",
+        "clause_id": "2"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "53",
+        "clause_id": "2"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "48",
+        "clause_id": "2"
+      }
+    ],
+    "reference_answer": "1. Căn cứ: \n- Bộ Luật dân sự 2015; \n- Thông tư 48/2018/TT-NHNN quy định về tiền gửi tiết kiệm. \n2. Đánh giá về pháp lý: \n- Do KH bị hôn mê sâu, không còn khả năng nhận thức cũng như ký chứng từ, tình trạng này Khách hàng có thể được xác định là đã mất năng lực nhận thức cũng như mất khả năng làm chủ bản thân trong các giao dịch dân sự nói chung và trong các giao dịch với ngân hàng nói riêng. Về pháp lý, đối với những trường hợp như vậy, có thể áp dụng chế định Giám hộ theo quy định của Bộ luật Dân sự để tạo điều kiện cho người nhà KH rút sổ tiết kiệm, vì theo quy định của pháp luật thì người giám hộ có quyền đại diện cho người được giám hộ trong việc xác lập, thực hiện các giao dịch dân sự nhằm bảo vệ quyền, lợi ích hợp pháp của người được giám hộ.\n- Khoản 2 điều 35 Bộ Luật Tố tụng Dân sự năm 2015 quy định: Một người không thể đương nhiên bị coi là mất năng lực hành vi dân sự nếu không có quyết định của Tòa án, vì vậy, Đơn vị kinh doanh hướng dẫn cho người nhà Khách hàng thực hiện các thủ tục yêu cầu Tòa án nhân dân có thẩm quyền yêu cầu tuyên bố Khách hàng mất năng lực hành vi dân sự. \n- Sau khi người nhà Khách hàng đã có quyết định của Tòa án tuyên bố Khách hàng bị mất năng lực hành vi dân sự, Đơn vị kinh doanh hướng dẫn Khách hàng xác định người giám hộ đương nhiên của Khách hàng theo quy định tại Điều 53 Bộ Luật dân sự 2015, cụ thể:\n\"Điều 53. Người giám hộ đương nhiên của người mất năng lực hành vi dân sự\nTrường hợp không có người giám hộ theo quy định tại khoản 2 Điều 48 của Bộ luật này thì người giám hộ đương nhiên của người mất năng lực hành vi dân sự được xác định như sau:\n1. Trường hợp vợ là người mất năng lực hành vi dân sự thì chồng là người giám hộ; nếu chồng là người mất năng lực hành vi dân sự thì vợ là người giám hộ.\n2. Trường hợp cha và mẹ đều mất năng lực hành vi dân sự hoặc một người mất năng lực hành vi dân sự, còn người kia không có đủ điều kiện làm người giám hộ thì người con cả là người giám hộ; nếu người con cả không có đủ điều kiện làm người giám hộ thì người con tiếp theo có đủ điều kiện làm người giám hộ là người giám hộ.\n3. Trường hợp người thành niên mất năng lực hành vi dân sự chưa có vợ, chồng, con hoặc có mà vợ, chồng, con đều không có đủ điều kiện làm người giám hộ thì cha, mẹ là người giám hộ.\"\n3. Kết luận:\n- Sau khi người nhà Khách hàng đã hoàn tất thủ tục xác định người giám hộ theo quy định nêu trên, Đơn vị kinh doanh hướng dẫn người nhà Khách hàng cung cấp các hồ sơ, tài liệu sau đây để Đơn vị kinh doanh thực hiện chi trả tiền gửi tiết kiệm của Khách hàng cho người giám hộ:\n+ Bản sao có chứng thực Quyết định của Tòa án tuyên bố Khách hàng mất năng lực hành vi dân sự; yêu cầu xuất trình bản gốc để đối chiếu.\n+ Bản sao có chứng thực Văn bản chứng minh tư cách người giám hộ đương nhiên của khách hàng (ví dụ như Giấy chứng nhận đăng ký kết hôn hoặc Sổ hộ khẩu; Giấy khai sinh..), yêu cầu xuất trình bản gốc để đối chiếu.\n+ Bản gốc Sổ tiết kiệm của Khách hàng.\n+ Giấy CMND hoặc Hộ chiếu hoặc Thẻ Căn cước công dân còn hiệu lực của người giám hộ đương nhiên.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "Điều 53. Người giám hộ đương nhiên của người mất năng lực hành vi dân sự\nTrường hợp không có người giám hộ theo quy định tại khoản 2 Điều 48 của Bộ luật này thì người giám hộ đương nhiên của người mất năng lực hành vi dân sự được xác định như sau:\n1. Trường hợp vợ là người mất năng lực hành vi dân sự thì chồng là người giám hộ; nếu chồng là người mất năng lực hành vi dân sự thì vợ là người giám hộ.\n2. Trường hợp cha và mẹ đều mất năng lực hành vi dân sự hoặc một người mất năng lực hành vi dân sự, còn người kia không có đủ điều kiện làm người giám hộ thì người con cả là người giám hộ; nếu người con cả không có đủ điều kiện làm người giám hộ thì người con tiếp theo có đủ điều kiện làm người giám hộ là người giám hộ.\n\n3. Trường hợp người thành niên mất năng lực hành vi dân sự chưa có vợ, chồng, con hoặc có mà vợ, chồng, con đều không có đủ điều kiện làm người giám hộ thì cha, mẹ là người giám hộ.\""
+  },
+  {
+    "id": "Q064",
+    "question": "KH mong muốn gửi tiền tiết kiệm cho cháu nội 10 tuổi. KH có trao đổi về việc cha cháu đã mất và muốn gửi một khoản tiền tiết kiệm cho cháu nhưng không muốn mẹ cháu được tham gia quản lý số tiền này. Đơn vị đề nghị QA tư vấn giải pháp phù hợp để có thể đáp ứng nhu cầu của KH.",
+    "is_answerable": true,
+    "gold_doc_ids": [
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2019/01/48-nhnn.pdf\n\n\n\nhttps://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+    ],
+    "gold_citations": [
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "3",
+        "clause_id": "3"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "136",
+        "clause_id": "3"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "3",
+        "clause_id": "3"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "3",
+        "clause_id": "3"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "136",
+        "clause_id": "3"
+      },
+      {
+        "doc_id": "48/2018/TT-NHNN",
+        "article_id": "136",
+        "clause_id": "3"
+      }
+    ],
+    "reference_answer": "1. Căn cứ: \n- Bộ luật Dân sự 2015; \n- Thông tư 48/2018/TT-NHNN quy định về tiền gửi tiết kiệm.\n2. Đánh giá về pháp lý: \n- Khoản 3 Điều 3 Thông tư 48/2018/TT-NHNN quy định: “Công dân Việt Nam chưa đủ 15 tuổi thực hiện giao dịch tiền gửi tiết kiệm thông qua người đại diện theo pháp luật”.\n- Khoản 1 Điều 136 của Bộ Luật dân sự 2015 quy định trường hợp này người mẹ được xác định là người đại diện theo pháp luật của người con 10 tuổi.\n- Theo đó, QA cho rằng khó có phương án nào đáp ứng được toàn bộ yêu cầu, mục đích của KH vì nếu Sổ tiết kiệm đứng tên người con thì việc thực hiện các giao dịch gửi, rút… tiền tiết kiệm vẫn do người mẹ thực hiện, ngân hàng không có cơ sở pháp lý để hạn chế việc này.\n3. Kết luận: \n- Mặc dù khó đáp ứng được trọn vẹn yêu cầu của KH, tuy nhiên, Đơn vị có thể xem giải pháp sau đây: KH (hoặc một người thân tín nào đó do KH chỉ định) đứng tên đồng sở hữu Sổ tiết kiệm với người cháu 10 tuổi. KH/người do KH chỉ định sẽ cùng với mẹ cháu bé ký một Văn bản thỏa thuận về đồng chủ sở hữu thẻ tiết kiệm. Trong đó ghi nhận rõ trước khi cháu bé 18 tuổi mọi giao dịch liên quan tới sổ tiết kiệm này sẽ phải do cả 2 người thực hiện (KH/người do KH chỉ định và mẹ cháu bé). Khi cháu bé đủ 18 tuổi mọi giao dịch có thể do một mình cháu bé thực hiện.\nĐơn vị lưu ý, trên đây là giải pháp về pháp lý, để có thể triển khai thành công giải pháp này, Đơn vị cần kiểm tra lại các vấn đề liên quan như hệ thống theo dõi, hạch toán, kế toán …. xem có thể hỗ trợ cho giải pháp nêu trên được không.",
+    "category": "factual",
+    "author": "Hương",
+    "ground_truth_context": "**1. Khoản 3 Điều 3 Thông tư 48/2018/TT-NHNN — Điều 3. Người gửi tiền**\n\n“3. Công dân Việt Nam bị hạn chế năng lực hành vi dân sự hoặc mất năng lực hành vi dân sự theo quy định của pháp luật hoặc chưa đủ 15 tuổi thực hiện giao dịch tiền gửi tiết kiệm thông qua người đại diện theo pháp luật; Công dân Việt Nam có khó khăn trong nhận thức, làm chủ hành vi theo quy định của pháp luật thực hiện giao dịch tiền gửi tiết kiệm thông qua người giám hộ.”\n\n**2. Khoản 1 Điều 136 Bộ luật Dân sự 2015 — Điều 136. Đại diện theo pháp luật của cá nhân**\n\n“1. Cha, mẹ đối với con chưa thành niên.”"
+  }
+]

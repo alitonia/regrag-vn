@@ -1,0 +1,40 @@
+# RegRAG-VN dependencies.
+#
+# Environment audit 2026-09-09: on the dev machine only torch (2.13.0+cu130),
+# pandas, numpy and requests are installed. Every retrieval dependency below was
+# MISSING, which is why the silent fallbacks in indexing/ were dangerous: with no
+# sentence-transformers, DenseIndex.search() returned corpus-order chunks with
+# fabricated scores; with no rank-bm25/pyvi, "BM25" was whitespace-split term
+# overlap. Retrieval must not be run here until these are installed, and every
+# result row must carry a non-DEGRADED retriever_backend tag (see provenance.py).
+
+# --- core ---
+pydantic>=2.0
+scikit-learn>=1.3.0
+
+# --- retrieval (needed to exercise BM25 / dense on the Tier 1 corpus) ---
+rank-bm25>=0.2.2
+pyvi>=0.1.1                 # Vietnamese compound-word segmentation; RQ3 depends on it
+sentence-transformers>=2.2.0
+
+# --- generation (Colab / RunPod only; do NOT install for local compute) ---
+torch>=2.0.0
+transformers>=4.38.0
+accelerate>=0.27.0
+bitsandbytes>=0.42.0
+
+# --- corpus ingestion (added 2026-09-09; BLOCKS tomorrow's 12-instrument ingest) ---
+# The benchmark's 12 instruments arrive as ~7 PDFs (datafiles.chinhphu.vn) and
+# ~8 HTML pages (congbao/vanban.chinhphu.vn, luatvietnam.vn, thuvienphapluat.vn).
+# No PDF or HTML extraction library was present at all.
+pypdf>=4.0                  # born-digital legal PDFs; pure python, light
+pdfplumber>=0.11.0          # fallback when pypdf mangles layout/diacritics
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# --- tests ---
+# The suite is stdlib unittest; pytest is NOT installed. Run with:
+#   python3 -m unittest tests.test_storage tests.test_components tests.test_coverage \
+#                       tests.test_parser_passages tests.test_provenance
+# `python3 -m unittest discover` fails because tests/ has no __init__.py.
+pytest>=7.0.0
